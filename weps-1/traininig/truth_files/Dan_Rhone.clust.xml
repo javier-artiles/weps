@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name="Dan Rhone">
+	<entity id="0">
+		<doc rank="0" />
+	</entity>
+	<entity id="1">
+		<doc rank="2" />
+	</entity>
+	<discarded>
+		<doc rank="1" />
+		<doc rank="3" />
+	</discarded>
+</clustering>

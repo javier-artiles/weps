@@ -1,0 +1,361 @@
+<clustering>
+	<!-- Robert Moore XML file  NO EXISTEN rank 069, 077 -->
+	
+	
+	<!-- Dr. Robert Moore is an internationally recognized Jungian psychoanalyst | Interviews
+		Douglas Gillette-->
+	<entity id="1">
+		<doc rank="0" />
+		<doc rank="7" />
+		<doc rank="15" />
+		<doc rank="19" />
+		<doc rank="25" />
+		<doc rank="30" />
+		<doc rank="32" />
+		<doc rank="59" />
+		<doc rank="65" />
+		<doc rank="83" />
+		<doc rank="90" /> <!-- The psychologist Robert Moore believes that ... -->
+		<doc rank="92" />
+	</entity>
+	
+	
+	<!-- Researcher in the Natural Language Processing Group of Microsoft Research -->
+	<entity id="2">
+		<doc rank="1" />
+		<doc rank="85" />
+	</entity>
+	
+	
+	<!--  Director, Actor | 1927 - 10 May 1984, New York City, New York, USA -->
+	<entity id="3">
+		<doc rank="2" />
+		<doc rank="8" />
+		<doc rank="16" />
+		<doc rank="19" />
+		<doc rank="50" />
+		<doc rank="52" />
+		<doc rank="78" />
+		<doc rank="98" />
+		<doc rank="34" />
+	</entity>
+	
+	
+	<!-- Australian Artist | artist and bass player | Robert A. Moore III | Robert Moore Basses | bajos y guitarras -->
+	<entity id="4">
+		<doc rank="6" />
+		<doc rank="5" />
+		<doc rank="8" />
+		<doc rank="73" />
+	</entity>
+	
+	
+	<!-- politician (1886-1960), Northern Ireland theologian and politician  -->
+	<entity id="5">
+		<doc rank="8" />
+	</entity>
+	
+	
+	<!-- Congressman (Pennsylvania) (1778-1831), United States Congressman from Pennsylvania -->
+	<entity id="6">
+		<doc rank="8" />
+	</entity>
+	
+	
+	<!-- science fiction writer  | (Ralph) Robert Moore Williams (1907-1977) -->
+	<entity id="7">
+		<doc rank="8" />
+		<doc rank="19" />
+		<doc rank="29" />
+		<doc rank="37" />
+		<doc rank="46" />
+	</entity>
+	
+	
+	<!-- journalist | second president of Transradio Press -->
+	<entity id="8">
+		<doc rank="8" />
+	</entity>
+	
+	
+	<!-- Oregon pioneer | founder of Linn City, Oregon -->
+	<entity id="9">
+		<doc rank="8" />
+	</entity>
+	
+	
+	<!-- Famous Fisherman | philosopher, North Carolina -->
+	<entity id="10">
+		<doc rank="8" />
+		<doc rank="40" />
+	</entity>
+	
+	
+	<!-- Music Director, Assistant Program Director Host of Sonic Spectrum | Los Angeles native | moorerb@umkc.edu -->
+	<entity id="11">
+		<doc rank="23" />
+	</entity>
+	
+	
+	<!-- REALTOR/Broker ABR/GRI | corredor/fincas | www.RobertMooreRealty.com | CENTURY 21 The Realty Group | H. color -->
+	<entity id="12">
+		<doc rank="10" />
+	</entity>
+	
+	
+	<!-- Sales Representative | Representante de Ventas | Liberty Mutual -->
+	<entity id="13">
+		<doc rank="12" />
+	</entity>
+	
+	
+	<!-- AMERICAN IMPRESSIONIST Artist (1957) -->
+	<entity id="14">
+		<doc rank="13" />
+		<doc rank="42" />
+		<doc rank="48" />
+	</entity>
+	
+	
+	<!-- Marriage Celebrant | Gold Coast, Australia | MA, Dip Ed, LTCL, BA, Hon TCL, MAFCC -->
+	<entity id="15">
+		<doc rank="17" />
+	</entity>
+	
+	
+	<!-- matem�ico (14 Nov 1882 - 4 Oct 1974) | Robert (Lee) Moore -->
+	<entity id="16">
+		<doc rank="18" />
+	</entity>
+	
+	
+	<!-- delincuente | spam | Robert Moore Letters | EnenKio | QUATLOOS -->
+	<entity id="17">
+		<doc rank="21" />
+		<doc rank="22" />
+	</entity>
+	
+	
+	<!-- professor emeritus of music at the University of Oregon in Eugene | jrmoore@uoregon.edu -->
+	<entity id="18">
+		<doc rank="26" />
+	</entity>
+	
+	
+	<!-- Founder of Rolfe Pentecostal Holiness Church, Rolfe, WV, in McDowell County | Robert (Pat) Edward Moore -->
+	<entity id="19">
+		<doc rank="33" />
+	</entity>
+	
+	
+	<!-- jazz (and Blues) musician and songwriter who was active in Birmingham from the mid 1980s to 2005 |
+		studied trumpet at the Colorado State University School of Music
+		Discography
+		Robert Moore (1995) "Wildcat." 
+		Robert Moore (1998) Wildcat You, Ma'am. Orchard 
+		Robert Moore (2000) Cool Blue. Orchard
+		llamado tambi� como BOB MOORE
+		-->
+	<entity id="20">
+		<doc rank="9" />
+		<doc rank="27" />
+		<doc rank="35" />
+		<doc rank="38" />
+		<doc rank="47" />
+		<doc rank="56" />
+		<doc rank="57" />
+		<doc rank="60" />
+		<doc rank="70" />
+		<doc rank="93" />
+		<doc rank="94" />
+	</entity>
+	
+	
+	<!-- Robert Moore Flowers -->
+	<entity id="21">
+		<doc rank="39" />
+	</entity>
+	
+	
+	<!-- Senior Economist and Policy Advisor | Federal Reserve Bank of Dallas | Robert R. Moore -->
+	<entity id="22">
+		<doc rank="44" />
+	</entity>
+	
+	
+	<!-- James Robert MOORE hijo de Robert James MOORE and Catherine AVERY -->
+	<entity id="23">
+		<doc rank="49" />
+	</entity>
+	
+	
+	<!-- escalador | Robert "Rock" Moore - One of Utah's Climbing Elite -->
+	<entity id="24">
+		<doc rank="51" />
+	</entity>
+	
+	
+	<!-- SINGER/SONGWRITER | DELOY ROBERT MOORE -->
+	<entity id="25">
+		<doc rank="53" />
+	</entity>
+	
+	
+	<!-- Moore Spine Center |
+		Offering four different treatment areas, a state-of-the-art physical therapy and spine stabilization area, computerized intermittent and static traction, and hydrotherapy, Dr. Robert Moore is proud to welcome you to  at the Moore Spine Center-->
+	<entity id="26">
+		<doc rank="54" />
+	</entity>
+	
+	
+	<!-- Executive Director Environmental Advocates | Robert J. Moore | rmoore@eany.org -->
+	<entity id="27">
+		<doc rank="66" />
+	</entity>
+	
+	
+	<!-- geologist | professor of geology at the University of Wisconsin at Madison |
+		JAMES ROBERT MOORE was born on May 18, 1925 - March 25, 1995 |
+		PhD from the University of Wales in 1964 -->
+	<entity id="28">
+		<doc rank="75" />
+	</entity>
+	
+	
+	<!-- 1843 - 1882, Ireland | Carpenter, grocer -->
+	<entity id="29">
+		<doc rank="80" />
+	</entity>
+	
+	
+	<!-- (1887 - 1957) hijo de Thomas William Moore (1866-1922) y Catherine "Carrie" or "Kate" Trautwein (1869-1937) -->
+	<entity id="30">
+		<doc rank="82" />
+	</entity>
+	
+	
+	<!-- Associate Professor, Department of Teaching and Learning University of Miami |
+		focuses on teaching children with learning and behavioral problems -->
+	<entity id="31">
+		<doc rank="84" />
+	</entity>
+	
+	
+	<!-- writer on religious subjects | Robert A. Moore -->
+	<entity id="32">
+		<doc rank="86" />
+	</entity>
+	
+	
+	<!-- MILLER & CHEVALIER | Washinnton Lawyers | University of Virginia School of Law | 655 Fifteenth Street, N.W. |
+		Washington, DC 20005-5701 -->
+	<entity id="33">
+		<doc rank="88" />
+	</entity>
+	
+	
+	<!-- Dr. Moore is Chair of the Department of Humanities and Languages,
+		and Advisor for the Majors option in English (Drama) |
+		niversity of New Brunswick - CANADA -->
+	<entity id="34">
+		<doc rank="89" />
+	</entity>
+	
+	
+	<!-- Moore Auto Detailing: Automotive Detailing Specialists | info@mooredetailing.com -->
+	<entity id="35">
+		<doc rank="95" />
+	</entity>
+	
+	
+	<!-- Physical Therapist | Physical Therapy University of Southern California | was born in Chicago Illinois -->
+	<entity id="36">
+		<doc rank="97" />
+	</entity>
+	
+	
+	<!-- Sales and Marketing | Canada -->
+	<entity id="37">
+		<doc rank="63" />
+	</entity>
+	
+	
+	<!-- fotografo W. Robert Moore -->
+	<entity id="38">
+		<doc rank="72" />
+	</entity>
+	
+		
+	<discarded>
+		<!-- the name does not appear visible or the page | matem�ico | Robert Lee Moore (1882 - 1974)
+		corresponde al rank="18" -->
+		<doc rank="3" />
+	
+		<!-- error en la p�ina (Flash) -->
+		<doc rank="4" />
+	
+		<!-- not refering to any entity under that name | Robert S. Moore, Jr.  -->
+		<doc rank="11" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="24" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="28" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="31" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="36" />
+	
+		<!-- not refering to any entity under that name | Robert C. Moore -->
+		<doc rank="41" />
+	
+		<!-- not refering to any entity under that name | ROBERT E. MOORE. ARCHITECT -->
+		<doc rank="43" />
+	
+		<!-- not refering to any entity under that name | ROBERT B. MOORE | Professor of Polymer Science -->
+		<doc rank="45" />
+	
+		<!-- not refering to any entity under that name | Robert E. Moore  | Lawyer in Dublin, Ohio -->
+		<doc rank="55" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="61" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="68" />
+	
+		<!-- problemas con la p�ina CONTENT="no-cache" -->
+		<doc rank="71" />
+	
+		<!-- not refering to any entity under that name  | Robert H. Moore -->
+		<doc rank="76" />
+	
+		<!-- tnot refering to any entity under that name  | Robert Haines Moore -->
+		<doc rank="81" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="87" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="91" />
+	
+		<!-- not refering to any entity under that name  | Robert E. Moore -->
+		<doc rank="96" />
+	
+		<!-- the name does not appear visible or the page  -->
+		<doc rank="99" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="14" />
+		<doc rank="20" />
+		<doc rank="58" />
+		<doc rank="64" />
+		<doc rank="67" />
+		<doc rank="74" />
+		<doc rank="79" />
+		<doc rank="62" />
+	</discarded>
+</clustering>

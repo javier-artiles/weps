@@ -1,0 +1,193 @@
+<clustering>
+	<!-- Neil Clark XML file NO EXISTE ranks 39 -->
+	
+	<!-- Dr. Neil Clark Warren | clinical psychologist | marriages | eHarmony -->
+	<entity id="1">
+		<doc rank="0" /> <!-- foto -->
+		<doc rank="1" />
+		<doc rank="4" />
+		<doc rank="8" />
+		<doc rank="15" />
+		<doc rank="16" />
+		<doc rank="17" />
+		<doc rank="20" />
+		<doc rank="27" /> <!-- all books -->
+		<doc rank="29" />
+		<doc rank="34" /> <!-- all books -->
+		<doc rank="35" />
+		<doc rank="40" />
+		<doc rank="41" /> <!-- all books -->
+		<doc rank="42" />
+		<doc rank="43" />
+		<doc rank="51" />
+		<doc rank="52" />
+		<doc rank="54" />
+		<doc rank="57" />
+		<doc rank="58" />
+		<doc rank="59" />
+		<doc rank="63" />
+		<doc rank="66" />
+		<doc rank="70" /> <!-- foto -->
+		<doc rank="71" />
+		<doc rank="79" />
+		<doc rank="85" />
+		<doc rank="86" />
+		<doc rank="87" />
+		<doc rank="88" />
+		<doc rank="90" />
+		<doc rank="93" />
+		<doc rank="94" />
+		<doc rank="95" />
+		<doc rank="96" />
+		<doc rank="99" />
+	</entity>
+	
+	
+	<!-- journalist and blogger from the UK (1966) | specialising in Middle Eastern and Balkan affairs	 | Politics, economics and culture | writes a monthly column for the Communist Morning Star and contributes periodically to other publications -->
+	<entity id="2">
+		<doc rank="2" /> <!-- Stephen Pollard -->
+		<doc rank="3" />
+		<doc rank="8" />
+		<doc rank="11" /> <!-- Stephen Pollard -->
+		<doc rank="12" />
+		<doc rank="13" />
+		<doc rank="14" />
+		<doc rank="19" />
+		<doc rank="28" /> <!-- foto | The Guardian | The Spectator -->
+		<doc rank="30" />
+		<doc rank="31" />
+		<doc rank="36" />
+		<doc rank="44" />
+		<doc rank="48" /> <!-- Stephen Pollard -->
+		<doc rank="50" />
+		<doc rank="53" />
+		<doc rank="55" />
+		<doc rank="56" />
+		<doc rank="60" />
+		<doc rank="61" />
+		<doc rank="62" />
+		<doc rank="67" /> <!-- Stephen Pollard -->
+		<doc rank="76" />
+		<doc rank="78" />
+		<doc rank="80" />
+		<doc rank="81" />
+		<doc rank="82" />
+		<doc rank="83" />
+		<doc rank="91" />
+		<doc rank="97" />
+	</entity>
+	
+	
+	<!-- guitarist, composer and occasional visual artist | is a Glasgow raised |
+		Anti Depressant (2006)
+	-->
+	<entity id="3">
+		<doc rank="7" />
+		<doc rank="8" />
+		<doc rank="45" /> <!-- Discography | Albums -->
+		<doc rank="89" /> <!-- music -->
+	</entity>
+	
+	
+	<!-- geologo | Dinosaurs | The Elgin Marvel | University of Glasgow -->
+	<entity id="4">
+		<doc rank="9" />
+		<doc rank="10" /> <!-- foto y detalles -->
+		<doc rank="23" />
+		<doc rank="25" /> <!-- paleontologist and painter -->
+		<doc rank="64" />
+		<doc rank="73" />
+		<doc rank="92" />
+	</entity>
+	
+	
+	<!-- young riders | National Walking Horse Association (NWHA) -->
+	<entity id="5">
+		<doc rank="21" />
+		<doc rank="84" />
+	</entity>
+	
+	
+	<!-- director/actor | Filmography |
+		The Phantom of the Opera - ( Plasterer / 2004 / Released / Warner Home Video ) 
+		Corky Romano - ( Video / 2001 / Released / Touchstone Pictures Home Video ) 
+		Heater - ( Music / 2000 / Released / ) 
+		Quills - ( Other / 2000 / Released / Fox Searchlight Pictures ) 
+		Notting Hill - ( supervising Other / 1999 / Released / Universal Pictures ) 
+	-->
+	<entity id="6">
+		<doc rank="6" /> <!-- TV | movies -->
+		<doc rank="26" />
+	</entity>
+	
+	
+	<!-- Vehicle Import Consulting -->
+	<entity id="7">
+		<doc rank="24" />
+		<doc rank="37" />
+	</entity>
+	
+	
+	<!-- Ing. forestal | Virginia Polytechnic Institute and State University | Department of Forestry -->
+	<entity id="8">
+		<doc rank="38" /> <!-- Publications -->
+	</entity>
+	
+	
+	<!-- Biology | Pensacola Junior College, Pensacola, Florida | Department of Biological Sciences -->
+	<entity id="9">
+		<doc rank="47" />
+	</entity>
+	
+	
+	<!-- Hockey player | Iona College  Hockey | MEET THE GAELS -->
+	<entity id="10">
+		<doc rank="22" />
+		<doc rank="68" /> <!-- photo -->
+	</entity>
+	
+	
+	<!-- Neil Clark and Paul Tipps, recognized as powerhouses on both sides of the political aisle | expert of the Ohio Senate -->
+	<entity id="11">
+		<doc rank="72" />
+	</entity>
+	
+	
+	<!-- Customer | has recently joined the Aviagen European Customer Focus Team as a Technical Services Manage -->
+	<entity id="12">
+		<doc rank="75" />
+	</entity>
+	
+	
+	<!-- RED-M APPOINTS NEW CHIEF FINANCIAL OFFICER -->
+	<entity id="13">
+		<doc rank="77" />
+	</entity>
+	
+	
+	<discarded>
+		<!-- name does not appear visible or the page | related id="4" -->
+		<doc rank="32" />
+	
+		<!-- name does not appear visible or the page | related id="1" -->
+		<doc rank="33" />
+		
+		<!-- CLARK, NEIL | related id="3" -->
+		<doc rank="46" />
+		
+		<!-- not refering to any entity under that name | Neil Robertson-Ravo -->
+		<doc rank="65" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="69" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="18" />
+		<doc rank="49" />
+		<doc rank="74" />
+		<doc rank="98" />
+	
+		<!-- error page -->
+		<doc rank="5" />
+	</discarded>
+</clustering>

@@ -1,0 +1,264 @@
+<clustering annotator="1">
+   <entity id="0">
+       <doc rank="0"/>
+       <doc rank="5"/>
+       <doc rank="11"/>
+       <doc rank="16"/>
+       <doc rank="19"/>
+       <doc rank="25"/>
+   </entity>
+   <entity id="1">
+       <doc rank="0"/>
+   </entity>
+   <entity id="2">
+       <doc rank="0"/>
+       <doc rank="2"/>
+       <doc rank="13"/>
+       <doc rank="28"/>
+   </entity>
+   <entity id="3">
+       <doc rank="0"/>
+   </entity>
+   <entity id="4">
+       <doc rank="0"/>
+   </entity>
+   <entity id="5">
+       <doc rank="0"/>
+       <doc rank="9"/>
+   </entity>
+   <entity id="6">
+       <doc rank="3"/>
+   </entity>
+   <entity id="7">
+       <doc rank="4"/>
+       <doc rank="54"/>
+   </entity> 
+   <entity id="8">
+       <doc rank="6"/>
+   </entity>
+   <entity id="9">
+       <doc rank="7"/>
+   </entity>
+   <entity id="10">
+       <doc rank="8"/>
+   </entity>
+   <entity id="11">
+       <doc rank="9"/>
+   </entity>
+   <entity id="12">
+       <doc rank="9"/>
+   </entity>
+   <entity id="13">
+       <doc rank="9"/>
+   </entity>
+   <entity id="14">
+       <doc rank="10"/>
+   </entity>
+   <entity id="15">
+       <doc rank="11"/>
+       <doc rank="17"/>
+       <doc rank="45"/>
+       <doc rank="86"/>
+       <doc rank="88"/>
+   </entity>
+   <entity id="16">
+       <doc rank="12"/>
+   </entity>
+   <entity id="17">
+       <doc rank="14"/>
+   </entity>
+   <entity id="18">
+       <doc rank="15"/>
+   </entity>
+   <entity id="19">
+       <doc rank="18"/>
+       <doc rank="38"/>
+   </entity> 
+   <entity id="20">
+       <doc rank="20"/>
+       <doc rank="97"/>
+   </entity>
+   <entity id="21">
+       <doc rank="21"/>
+   </entity>
+   <entity id="22">
+       <doc rank="22"/>
+   </entity>
+   <entity id="23">
+       <doc rank="23"/>
+   </entity>
+   <entity id="24">
+       <doc rank="24"/>
+       <doc rank="48"/>
+   </entity>
+   <entity id="25">
+       <doc rank="26"/>
+   </entity>
+   <entity id="26">
+       <doc rank="27"/>
+   </entity>
+   <entity id="27">
+       <doc rank="29"/>
+   </entity>
+   <entity id="28">
+       <doc rank="36"/>
+       <doc rank="47"/>
+       <doc rank="87"/>
+       <doc rank="95"/>
+   </entity>
+   <entity id="29">
+       <doc rank="31"/>
+   </entity>
+   <entity id="30">
+       <doc rank="32"/>
+   </entity>
+   <entity id="31">
+       <doc rank="35"/>
+   </entity>
+   <entity id="32">
+       <doc rank="35"/>
+   </entity>
+   <entity id="33">
+       <doc rank="37"/>
+   </entity>
+   <entity id="34">
+       <doc rank="39"/>
+   </entity>
+   <entity id="35">
+       <doc rank="40"/>
+       <doc rank="58"/>
+   </entity>
+   <entity id="36">
+       <doc rank="41"/>
+   </entity>
+   <entity id="37">
+       <doc rank="42"/>
+   </entity>
+   <entity id="38">
+       <doc rank="44"/>
+   </entity>
+   <entity id="39">
+       <doc rank="52"/>
+       <doc rank="63"/>
+   </entity>
+   <entity id="40">
+       <doc rank="53"/>
+   </entity>
+   <entity id="41">
+       <doc rank="55"/>
+   </entity>
+   <entity id="42">
+       <doc rank="55"/>
+   </entity>
+   <entity id="43">
+       <doc rank="55"/>
+   </entity>
+   <entity id="44">
+       <doc rank="56"/>
+   </entity>
+   <entity id="45">
+       <doc rank="59"/>
+   </entity>
+   <entity id="46">
+       <doc rank="60"/>
+   </entity>
+   <entity id="47">
+       <doc rank="62"/>
+   </entity>
+   <entity id="48">
+       <doc rank="64"/>
+   </entity>
+   <entity id="49">
+       <doc rank="65"/>
+       <doc rank="90"/>
+   </entity>
+   <entity id="50">
+       <doc rank="66"/>
+   </entity>
+   <entity id="51">
+       <doc rank="67"/>
+   </entity>
+   <entity id="52">
+       <doc rank="68"/>
+   </entity>
+   <entity id="53">
+       <doc rank="69"/>
+   </entity>
+   <entity id="54">
+       <doc rank="70"/>
+   </entity>
+   <entity id="55">
+       <doc rank="71"/>
+   </entity>
+   <entity id="56">
+       <doc rank="72"/>
+   </entity>
+   <entity id="57">
+       <doc rank="73"/>
+   </entity>
+   <entity id="58">
+       <doc rank="75"/>
+   </entity>
+   <entity id="59">
+       <doc rank="76"/>
+   </entity>
+   <entity id="60">
+       <doc rank="76"/>
+   </entity>
+   <entity id="61">
+       <doc rank="81"/>
+   </entity>
+   <entity id="62">
+       <doc rank="81"/>
+   </entity>
+   <entity id="63">
+       <doc rank="81"/>
+   </entity>
+   <entity id="64">
+       <doc rank="84"/>
+   </entity>
+   <entity id="65">
+       <doc rank="89"/>
+   </entity>
+   <entity id="66">
+       <doc rank="90"/>
+   </entity>
+   <entity id="67">
+       <doc rank="91"/>
+       <doc rank="99"/>
+   </entity>
+   <entity id="68">
+       <doc rank="93"/>
+   </entity>
+   <entity id="69">
+       <doc rank="94"/>
+   </entity>
+   <entity id="70">
+       <doc rank="98"/>
+   </entity>
+   <entity id="71">
+       <doc rank="79"/>
+   </entity>
+   <discarded>
+       <doc rank="1"/>
+       <doc rank="30"/>
+       <doc rank="33"/>
+       <doc rank="34"/>
+       <doc rank="43"/>
+       <doc rank="46"/>
+       <doc rank="49"/>
+       <doc rank="50"/>
+       <doc rank="51"/>
+       <doc rank="57"/>
+       <doc rank="61"/>
+       <doc rank="74"/>
+       <doc rank="77"/>
+       <doc rank="78"/>
+       <doc rank="80"/>
+       <doc rank="82"/>
+       <doc rank="83"/>
+       <doc rank="85"/>
+       <doc rank="92"/>
+       <doc rank="96"/>
+   </discarded>
+</clustering>

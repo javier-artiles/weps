@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name="Miranda Bollinger">
+	<entity id="0">
+		<doc rank="1" />
+	</entity>
+	<entity id="1">
+		<doc rank="0" />
+	</entity>
+</clustering>

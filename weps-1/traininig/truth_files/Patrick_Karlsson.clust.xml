@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name="Patrick Karlsson">
+	<entity id="10">
+		<doc rank="16" />
+		<doc rank="15" />
+		<doc rank="0" />
+		<doc rank="21" />
+		<doc rank="22" />
+		<doc rank="5" />
+	</entity>
+	<entity id="3">
+		<doc rank="9" />
+	</entity>
+	<entity id="5">
+		<doc rank="7" />
+	</entity>
+	<entity id="7">
+		<doc rank="17" />
+	</entity>
+	<entity id="2">
+		<doc rank="11" />
+	</entity>
+	<entity id="0">
+		<doc rank="18" />
+	</entity>
+	<entity id="9">
+		<doc rank="19" />
+		<doc rank="23" />
+	</entity>
+	<entity id="4">
+		<doc rank="2" />
+	</entity>
+	<entity id="8">
+		<doc rank="10" />
+	</entity>
+	<entity id="6">
+		<doc rank="20" />
+	</entity>
+	<discarded>
+		<doc rank="14" />
+		<doc rank="6" />
+		<doc rank="13" />
+		<doc rank="3" />
+		<doc rank="12" />
+		<doc rank="8" />
+		<doc rank="1" />
+		<doc rank="4" />
+	</discarded>
+</clustering>

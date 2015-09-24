@@ -1,0 +1,311 @@
+<clustering>
+	<!-- Jude Brown XML file -->
+	
+	<!-- Actriz | Actress, Mod Fuck Explosion (1994)) | Hollywood -->
+	<entity id="0">
+		<doc rank="2" />
+		<doc rank="8" />
+		<doc rank="13" />
+		<doc rank="73" />
+	</entity>
+	
+	
+	<!-- Escapulario St. Jude Brown -->
+	<entity id="1">
+		<doc rank="3" />
+		<doc rank="10" />
+		<doc rank="14" />
+		<doc rank="23" />
+		<doc rank="38" />
+		<doc rank="46" />
+		<doc rank="53" />
+	</entity>
+	
+	
+	<!-- Jude Brown-Bellamy | Information Technology and Services | Washington D.C. Metro Area -->
+	<entity id="2">
+		<doc rank="7" />
+		<doc rank="28" />
+	</entity>
+	
+	
+	<!-- Zapato para mujer -->
+	<entity id="3">
+		<doc rank="5" />
+	</entity>
+	
+	
+	<!-- Ingeniero | Virginia Class Propulsor Development Program | Association of Scientists and Engineers (ASE) -->
+	<entity id="4">
+		<doc rank="6" />
+		<doc rank="24" />
+	</entity>
+	
+	
+	<!--  Entrenador de los Memphis en la NBA | Hubert (Hubie) Jude Brown | Coach | (1933 in Hazleton, Pennsylvania) -->
+	<entity id="5">
+		<doc rank="9" />
+		<doc rank="11" />
+		<doc rank="13" />
+		<doc rank="25" />
+		<doc rank="30" />
+		<doc rank="39" />
+		<doc rank="43" />
+		<doc rank="52" />
+		<doc rank="61" />
+		<doc rank="77" />
+		<doc rank="86" />
+		<doc rank="92" />
+	</entity>
+	
+	
+	<!-- Fot�rafo e inform�ico | Matthew Jude Brown | February 7, 1973 in Hampstead, London in England -->
+	<entity id="6">
+		<doc rank="15" />
+		<doc rank="69" />
+		<doc rank="70" />
+	</entity>
+	
+	
+	<!-- Soci�oga | Research Fellow, School of Social Science -->
+	<entity id="7">
+		<doc rank="17" />
+	</entity>
+	
+	
+	<!-- artesana | The Village Craftsmen | 170 Howard Street  | Ocracoke Island, NC | info@villagecraftsmen.com -->
+	<entity id="8">
+		<doc rank="22" />
+	</entity>
+	
+	
+	<!-- nadadora | Madeleine Jude Brown | 1987-2006 -->
+	<entity id="9">
+		<doc rank="26" />
+		<doc rank="65" />
+	</entity>
+	
+	
+	<!-- consultor | finance sector | graduate of Simon Fraser University -->
+	<entity id="10">
+		<doc rank="31" />
+	</entity>
+	
+	
+	<!-- beb�| photo gallery | was born June 20, 2006 at 12:24PM | (Steven J. Brown) -->
+	<entity id="11">
+		<doc rank="37" />
+	</entity>
+	
+	
+	<!-- oficial/militar | 65 a�s | Reginald Jude Brown | Obituaries | U.S. Military Academy at West Point -->
+	<entity id="12">
+		<doc rank="41" />
+		<doc rank="55" />
+		<doc rank="79" />
+		<doc rank="95" />
+	</entity>
+	
+	
+	<!-- Investigadora | PhD in Social and Political Sciences | Centre for Business Research | U. Cambridge -->
+	<entity id="13">
+		<doc rank="45" />
+	</entity>
+	
+	
+	<!-- caballo | Champion UK Sprinter -->
+	<entity id="14">
+		<doc rank="48" />
+		<doc rank="74" />
+	</entity>
+	
+	
+	<!-- bailarina | Bakewell's Appalachian Dancers -->
+	<entity id="15">
+		<doc rank="56" />
+	</entity>
+	
+	
+	<!-- propietario restaurante: A Taste of Martinborough | New Zealand -->
+	<entity id="16">
+		<doc rank="60" />
+	</entity>
+	
+	
+	<!-- jersey | JUDE BROWN JERSEY | DRESS~8~UK 12 -->
+	<entity id="17">
+		<doc rank="67" />
+	</entity>
+	
+	
+	<!-- Director of Merchandising, Williams-Sonoma eCommerce -->
+	<entity id="18">
+		<doc rank="75" />
+	</entity>
+	
+	
+	<!-- audio assignment | Janna Jude Brown -->
+	<entity id="19">
+		<doc rank="78" />
+	</entity>
+	
+	
+	<!-- tripulante yate | 42nd ANNUAL VIRGINIA GOVERNOR'S CUP | Fishing Bay Yacht Club -->
+	<entity id="20">
+		<doc rank="80" />
+		<doc rank="89" />
+		<doc rank="99" />
+	</entity>
+	
+	
+	<!-- Assistant Secretary of the Army | Reginald Jude Brown -->
+	<entity id="21">
+		<doc rank="83" />
+		<doc rank="91" />
+	</entity>
+	
+	
+	<!-- Skatepark | Beighton Villages Development Trust is in the early stages of developing local informal sports -->
+	<entity id="22">
+		<doc rank="88" />
+		<doc rank="94" />
+	</entity>
+	
+	
+	<!-- miembro (madre) equipo familiar de Rugby | Rugby World Cup | Georgia -->
+	<entity id="23">
+		<doc rank="98" />
+	</entity>
+	
+	
+	<discarded>
+		<!-- St. Jude Children's Research Hospital | ...the concert to St. Jude. Brown... | (Chris Brown)  -->
+		<doc rank="0" />
+	
+		<!-- "Jude Womens Dark Brown(TME14302) is currently out of stock" -->
+		<doc rank="1" />
+	
+		<!-- Search for people you know | District Sales Manager | (example: Jude Brown ) -->
+		<doc rank="4" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="12" />
+	
+		<!-- Brown, Reginald Jude -->
+		<doc rank="16" />
+	
+		<!-- not refering to any entity under that name -->
+		<doc rank="18" />
+	
+		<!-- not refering to any entity under that name -->
+		<doc rank="19" />
+	
+		<!-- "We all just follow Jude," Brown said. -->
+		<doc rank="20" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="21" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="27" />
+	
+		<!-- Jude - Brown, X Large | 25.99 | product was added to our catalog  -->
+		<doc rank="29" />
+		<doc rank="33" />
+	
+		<!--  en el men: Gallery > Members Albums > jude > Brown paper packages -->
+		<doc rank="32" />
+	
+		<!-- Jude's brown hair was now white -->
+		<doc rank="34" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="35" />
+	
+		<!-- problemas con la p�ina | the name does not appear visible or the page -->
+		<doc rank="36" />
+	
+		<!-- Jude & Brown Bag -->
+		<doc rank="40" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="42" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="44" />
+	
+		<!-- Jude  Brown Bunny | Overall Top Artists -->
+		<doc rank="47" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="49" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="50" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="51" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="54" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="57" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="58" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="59" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="62" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="63" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="64" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="66" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="68" />
+	
+		<!--redirect1-->
+		<doc rank="71" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="72" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="76" />
+	
+		<!--redirect1-->
+		<doc rank="81" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="82" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="84" />
+	
+		<!-- no tiene referente real (Mr. Nicholas Jude Brown) -->
+		<doc rank="85" />
+	
+		<!-- Steele, Jane; Cummins, Jude; Brown, Helen; Malik, Farooq OPM -->
+		<doc rank="87" />
+		<doc rank="97" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="90" />
+	
+		<!-- no tiene referente real (Mr. Nicholas Jude Brown) -->
+		<doc rank="93" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="96" />
+	
+	</discarded>
+</clustering>

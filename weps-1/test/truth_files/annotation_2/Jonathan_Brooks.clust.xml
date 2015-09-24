@@ -1,0 +1,399 @@
+<clustering>
+<!-- Jonathan Brooks XML file  ALERTA: no existen rank 42, 47, 66 -->
+	<!-- to play soccer at Houghton College (Ottawa, Canada) | son of Judy Brooks -->
+	<entity id="1">
+		<doc rank="0" />
+	</entity>
+	
+	
+	<!-- Jonathan Brooks House Woodwrights | muebles de madera -->
+	<entity id="2">
+		<doc rank="1" />
+		<doc rank="12" />
+	</entity>
+	
+	
+	<!-- Directorate for Agriculture, Food and Fisheries, OECD (Organisation fr wirtschaftliche Zusammenarbeit und Entwicklung ) -->
+	<entity id="3">
+		<doc rank="2" />
+	</entity>
+	
+	
+	<!-- jugador futball americano Lobos New Mexico | University of New Mexico Athletics Football | Sophomore |
+		Jonathan Daniel Brooks | Born Nov. 22, 1985 | son of Jeff and Julie Brooks -->
+	<entity id="4">
+		<doc rank="3" />
+		<doc rank="10" />
+		<doc rank="11" />
+		<doc rank="18" />
+		<doc rank="23" />
+		<doc rank="39" />
+	</entity>
+	
+	
+	<!-- Industry: Semiconductors | United Kingdom |
+		director of Frontier Silicon Holdings Limited, a company which supplies semiconductor technology -->
+	<entity id="5">
+		<doc rank="4" />
+		<doc rank="14" />
+		<doc rank="88" />
+	</entity>
+	
+	
+	<!-- Biology | Western Connecticut State | Certification in Secondary Education -->
+	<entity id="6">
+		<doc rank="5" />
+	</entity>
+	
+	
+	<!-- escritor: "Laid to Rest in California" | Author:  Patricia Brooks ... -->
+	<entity id="7">
+		<doc rank="7" />
+		<doc rank="15" />
+		<doc rank="24" />
+		<doc rank="80" />
+		<doc rank="87" />
+	</entity>
+	
+	
+	<!-- Health and Physical Education | jbrooks@ucvts.tec.nj.us | Union County Vocational_Technical School | Staff -->
+	<entity id="8">
+		<doc rank="19" />
+		<doc rank="29" />
+	</entity>
+	
+	
+	<!-- Jonathan Brooks Photography  | has a degree from the University of Miami in advertising,
+		a fine arts co-major in photography | JonathanBMiami@aol.com -->
+	<entity id="9">
+		<doc rank="20" />
+		<doc rank="25" />
+		<doc rank="41" />
+		<doc rank="52" />
+		<doc rank="93" />
+	</entity>
+	
+	
+	<!-- personaje TV Show Series "The Paper Chase" (1983) | actor: Jonathan Segal -->
+	<entity id="10">
+		<doc rank="16" />
+		<doc rank="26" />
+		<doc rank="36" />
+		<doc rank="55" />
+		<doc rank="61" />
+	</entity>
+	
+	
+	<!-- profesor depto. musica Anderson University -->
+	<entity id="11">
+		<doc rank="27" />
+	</entity>
+	
+	
+	<!-- Praize members | jjbrooks@praize.com -->
+	<entity id="12">
+		<doc rank="33" />
+	</entity>
+	
+	
+	<!-- bebo (Web) | Jonathan Brooks <twelvethirtyfour56> | Friends (photos) | http://twelvethirtyfour56.bebo.com -->
+	<entity id="13">
+		<doc rank="34" />
+	</entity>
+	
+	
+	<!-- Person Sheet | (1743 - 1782) | Wallingford, Connecticut | BRISTOL GENEALOGY
+		Father Thomas Brooks / Mother Desire Bristol -->
+	<entity id="14">
+		<doc rank="37" />
+		<doc rank="96" />
+	</entity>
+	
+	
+	<!-- escritor2 | Gridiron Stories (Juvenile) / Juvenile Series and Sequels | Mid-Continent Public Library -->
+	<entity id="15">
+		<doc rank="38" />
+	</entity>
+	
+	
+	<!-- instructor | Over The Edge Educational Expeditions, Inc | SCUBA -->
+	<entity id="16">
+		<doc rank="43" />
+		<doc rank="97" /> <!-- corrección por email -->
+	</entity>
+	
+	
+	<!-- productor / Producer Researcher/AP | HBL Media, Guerrilla Productions ... -->
+	<entity id="17">
+		<doc rank="44" />
+	</entity>
+	
+	
+	<!-- Person Sheet | Father DAVID BROOKS / Mother ANN CLARK -->
+	<entity id="18">
+		<doc rank="46" />
+	</entity>
+	
+	
+	<!-- fotogtafo2 | SWPP and BPPA Member /FSWPP | in West Midlands Englannd -->
+	<entity id="19">
+		<doc rank="48" />
+	</entity>
+	
+	
+	<!-- Jonathan Brooks Platt, Columbia University | Historicism | philosophical |
+		paper for anniversary of Aleksandr Pushkin -->
+	<entity id="20">
+		<doc rank="53" />
+		<doc rank="73" />
+		<doc rank="95" /> <!-- pdf CV -->
+	</entity>
+	
+	
+	<!-- Jonathan S. Brooks | abogado | Florida -->
+	<entity id="21">
+		<doc rank="8" />
+	</entity>
+	
+	
+	<!-- estudiante high school | 17 a�s (hombre de color) | Sports: Football, track | 2002 | posiblemente de California -->
+	<entity id="22">
+		<doc rank="54" />
+	</entity>
+	
+	
+	<!-- b. November 27, 1762 | padres Jonathan and Margaret Peggy Brooks | Clark County KyGenWeb -->
+	<entity id="23">
+		<doc rank="28" />
+		<doc rank="56" />
+	</entity>
+	
+	
+	<!-- Sgt. Jonathan Brooks | personaje historia de Irak "Bad jump and injuries cant keep this Red Devil down"-->
+	<entity id="24">
+		<doc rank="57" />
+	</entity>
+	
+	
+	<!-- Partner / abogado | expertise lies in contentious and non-contentious construction and engineering law |
+		TeSCA | Society of Construction Law -->
+	<entity id="25">
+		<doc rank="58" />
+	</entity>
+	
+	
+	<!-- Re: [SLE] SuSE update: RPM has invalid signature | Date: 02/20/05 | http://lists.suse.com | 
+		FAQs: suse-linux-e-faq@suse.com -->
+	<entity id="26">
+		<doc rank="59" />
+		<doc rank="84" />
+	</entity>
+	
+	
+	<!-- aficionado / coleccionista Pok�on | "Blastoise Kid" Deck |  1995-2007 Wizards of the Coast, Inc -->
+	<entity id="27">
+		<doc rank="60" />
+	</entity>
+	
+	
+	<!-- moderador / ponente | United Nations Development Programme | DAY 1 - Monday 25th  October -->
+	<entity id="28">
+		<doc rank="63" />
+	</entity>
+	
+	
+	<!-- Flora London Marathon 2006 | 23rd Apr 2006 -->
+	<entity id="29">
+		<doc rank="64" />
+	</entity>
+	
+	
+	<!-- 16 Jul 1737 - 17 Mar 1795. He married Ruth FOX on 18 Feb 1762, Massachusetts |
+		All Relatvies of Jonathan Webber -->
+	<entity id="30">
+		<doc rank="67" />
+	</entity>
+	
+	
+	<!-- estudiante Franklin County High School | Born July 15, 1987...full name is Jonathan Rashaool Brooks | 
+		Sports: Basketball, Defensive Back -->
+	<entity id="31">
+		<doc rank="69" />
+	</entity>
+	
+	
+	<!-- investigador | School of Engineering and Mathematics (ECU) - David (Dave) Jonathan Brooks
+		Campus: Joondalup / Room Number: 5.214 -->
+	<entity id="32">
+		<doc rank="70" />
+	</entity>
+	
+	
+	<!-- clinica / m�ico | JONATHAN BROOKS FRCS FRCOG - Obstetrician and Gynaecological Surgeon | The London Clinic -->
+	<entity id="33">
+		<doc rank="71" />
+		<doc rank="90" />
+	</entity>
+	
+	
+	<!-- Home of the Brooks Dowsett family (baptised on Septm 1811 ) | BrooksDowsett lineage | son of Elizth Dowsett -->
+	<entity id="34">
+		<doc rank="72" />
+	</entity>
+	
+	
+	<!-- Partner 2 / abogado | Jonathan  Brooks, Partner | Corporate Department in the London office
+		studied law at Bristol University | Jonathan.Brooks@mms.co.uk | Maclay Murray & Spens LLP (MMS)-->
+	<entity id="35">
+		<doc rank="74" />
+	</entity>
+	
+	
+	<!-- presidente Brooks Design-Build Corporation | Professional Builder's Council | construcci� -->
+	<entity id="36">
+		<doc rank="76" />
+	</entity>
+	
+	
+	<!-- William E. Brooks (February 13, 1813) | son of Jonathan brooks -->
+	<entity id="37">
+		<doc rank="79" />
+	</entity>
+	
+	
+	<!-- b. 31 Aug 1881 - 1904 | hijo de Nancy Catherine Roberts & Moses Brooks -->
+	<entity id="38">
+		<doc rank="81" />
+	</entity>
+	
+	
+	<!-- 1730 in Westminster | married to Eunice DARBY(DERBY) | Parents: William Sr. BROOKS and Mary BURT -->
+	<entity id="39">
+		<doc rank="82" />
+	</entity>
+	
+	
+	<!-- 25 June 1759 - 22 July 1759 (ERROR EN FECHAS) | son of Simon Brooks and Rachel Drury -->
+	<entity id="40">
+		<doc rank="83" />
+	</entity>
+	
+	
+	<!-- players registered at the start of the 10 and under tournament | jonathan brooks feraligatr/baby support -->
+	<entity id="41">
+		<doc rank="85" />
+	</entity>
+	
+	
+	<!-- Police reports | 19 a�s | By Times staff report St. Petersburg Times, published February 20, 2002 -->
+	<entity id="42">
+		<doc rank="86" />
+	</entity>
+	
+	
+	<!-- Music Supervisors in UK - England/Wales | BA (Hons) Music, MA in Film and Television Composition |
+		studied in Cambridge and London -->
+	<entity id="43">
+		<doc rank="89" />
+		<doc rank="91" />
+	</entity>
+	
+	
+	<!-- personaje / actor: Robin Hood e i pirati (1960) | Mario Scaccia -->
+	<entity id="44">
+		<doc rank="92" />
+	</entity>
+	
+	
+	<!-- Hardware analysis | United Kingdom | Junior Member -->
+	<entity id="45">
+		<doc rank="94" />
+	</entity>
+	
+	
+	<!-- Chiropractor -->
+	<entity id="46">
+		<doc rank="98" />
+	</entity>
+	
+	
+	<!-- Jonathan E. Brooks | Computations with Lattices Polyhedra | mathematics -->
+	<entity id="47">
+		<doc rank="99" />
+	</entity>
+	
+	
+	<!-- New England Historic Genealogical Society | Jonathan Brooks and Rebecca -->
+	<entity id="48">
+		<doc rank="31" />
+	</entity>
+	
+	
+	<!-- Saturday July 14 | Great Lakes Institute for Marine Research (GLIMR) | Sligo  -->
+	<entity id="49">
+		<doc rank="40" />
+	</entity>
+	
+	
+	<!-- Market Watch | Bowlin Travel Ctrs IncBWTL | FactSet Research Systems Inc. -->
+	<entity id="50">
+		<doc rank="49" />
+		<doc rank="50" />
+	</entity>
+	
+	
+	<!-- Father: John Brooks -->
+	<entity id="51">
+		<doc rank="51" />
+		<doc rank="62" />
+	</entity>
+	
+	
+	<discarded>
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="6" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="9" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster
+			jonathan brooks :: Blog | February 01, 2006 | reading collage | eLGG.NET -->
+		<doc rank="13" />
+		<doc rank="17" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster
+			j.o.brooks@worldnet.att.net | Terre Haute, Indiana USA -->
+		<doc rank="21" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster 
+			Yahoo Sign In -->
+		<doc rank="22" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster
+			Contact Form for Rev. Jonathan Brooks -->
+		<doc rank="30" />
+	
+		<!-- error en la p�ina -->
+		<doc rank="32" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="35" />
+	
+		<!-- can't connect objectively the page to any previous or new entity cluster -->
+		<doc rank="45" />
+	
+		<!-- the name does not appear visible or the page 
+			FOTOGRAF�S -->
+		<doc rank="65" />
+		<doc rank="75" />
+	
+		<!-- by Jonathan C Brooks -->
+		<doc rank="68" />
+	
+		<!-- Jonathan (Jon) Brooks (Ph.D.) | Department of Human Anatomy & Genetics -->
+		<doc rank="77" />
+	
+		<!-- the name does not appear visible or the page -->
+		<doc rank="78" />
+	</discarded>
+</clustering>

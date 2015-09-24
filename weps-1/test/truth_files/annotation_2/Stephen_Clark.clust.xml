@@ -1,0 +1,337 @@
+<clustering>
+<!-- Stephen Clark XML file
+NO EXISTEN 83 y 88
+    
+Please, read this before you start the annotation:
+    
+- Various referents in the same page:
+  If a document contains various referents designed by the ambiguous name
+  we include as many copies  of the doc element as necessary in the corresponding entity clusters
+
+- Non person entity:
+  If a cluster refers to an entity different than a person (for instance "Airport John Kennedy")
+  write a comment noting this before the corresponding "entity" element.
+
+- For every discarded element we should make at least two distinctions: pages discarded because the
+  name does not appear visible or the page is clearly not refering to any entity under that name,
+  and cases where the annotator can't connect objectively the page to any previous or new entity cluster.
+  Add a comment before each discarded page noting at least one of the situations.
+
+- Remember that in order to cluster two documents refering the same entity there must be at least one
+  objective data that connects both occurences of the entity (for instance, date of birth, coauthors, works, etc.)
+-->
+
+<!-- -->
+<entity id="1">
+	<doc rank="1" /> <!-- foto -->
+</entity>
+
+
+<!-- -->
+<entity id="2">
+	<doc rank="2" />
+</entity>
+
+
+<!-- -->
+<entity id="3">
+	<doc rank="3" />
+	<doc rank="14" />
+	<doc rank="23" />
+</entity>
+
+
+<!-- -->
+<entity id="4">
+	<doc rank="5" />
+	<doc rank="56" />
+	<doc rank="90" />
+</entity>
+
+
+<!-- -->
+<entity id="5">
+	<doc rank="6" />
+	<doc rank="19" />
+</entity>
+
+
+<!-- -->
+<entity id="6">
+	<doc rank="8" />
+	<doc rank="16" />
+	<doc rank="32" />
+	<doc rank="60" />
+	<doc rank="73" />
+	<doc rank="78" />
+</entity>
+
+
+<!-- -->
+<entity id="7">
+	<doc rank="9" />
+</entity>
+
+
+<!-- -->
+<entity id="8">
+	<doc rank="10" />
+</entity>
+
+
+<!-- -->
+<entity id="9">
+	<doc rank="12" />
+	<doc rank="80" />
+</entity>
+
+
+<!-- -->
+<entity id="10">
+	<doc rank="13" />
+</entity>
+
+
+<!-- -->
+<entity id="11">
+	<doc rank="20" />
+	<doc rank="68" />
+</entity>
+
+
+<!-- lecturer in Computer Science at the Oxford University  | Natural Language Processing-->
+<entity id="12">
+	<doc rank="21" /> <!-- foto -->
+	<doc rank="53" />
+</entity>
+
+
+<!-- -->
+<entity id="13">
+	<doc rank="22" />
+	<doc rank="61" />
+	<doc rank="62" />
+	<doc rank="65" />
+</entity>
+
+
+<!-- -->
+<entity id="14">
+	<doc rank="24" />
+</entity>
+
+
+<!-- -->
+<entity id="15">
+	<doc rank="27" />
+</entity>
+
+
+<!-- autor, premios "Making Waves" -->
+<entity id="16">
+	<doc rank="37" />
+</entity>
+
+
+<!-- -->
+<entity id="17">
+	<doc rank="38" />
+</entity>
+
+
+<!-- -->
+<entity id="18">
+	<doc rank="45" />
+</entity>
+
+
+<!-- -->
+<entity id="19">
+	<doc rank="46" />
+</entity>
+
+
+<!-- -->
+<entity id="20">
+	<doc rank="47" />
+</entity>
+
+
+<!-- Stephen Clark Balderson -->
+<entity id="21">
+	<doc rank="49" />
+</entity>
+
+
+<!-- -->
+<entity id="22">
+	<doc rank="54" />
+</entity>
+
+
+<!-- -->
+<entity id="23">
+	<doc rank="5" />
+	<doc rank="8" />
+	<doc rank="59" />
+</entity>
+
+
+<!-- -->
+<entity id="24">
+	<doc rank="63" />
+</entity>
+
+
+<!-- Elmer Stephen Clark 1891 - 1954   -->
+<entity id="25">
+	<doc rank="64" />
+</entity>
+
+
+<!-- Foster, Stephen Clark: Republican Land Policy: Homes for the Million  -->
+<entity id="26">
+	<doc rank="66" />
+</entity>
+
+
+<!-- -->
+<entity id="27">
+	<doc rank="69" />
+</entity>
+
+
+<!-- -->
+<entity id="28">
+	<doc rank="70" />
+	<doc rank="89" />
+</entity>
+
+
+<!-- autor A Travel Guide and History of the 1775 Secret Expedition to Capthre Quebec -->
+<entity id="29">
+	<doc rank="74" />
+</entity>
+
+
+<!-- -->
+<entity id="30">
+	<doc rank="86" />
+</entity>
+
+
+<!-- -->
+<entity id="31">
+	<doc rank="91" />
+</entity>
+
+
+<!-- -->
+<entity id="32">
+	<doc rank="95" />
+</entity>
+
+
+<!-- -->
+<entity id="33">
+	<doc rank="99" />
+</entity>
+
+
+<!-- SOFTWARE PUBLISHER PROFILE | Alt-Tab Thingy 3.3 -->
+<entity id="34">
+	<doc rank="29" />
+</entity>
+
+
+<!-- Owner Financial Services | Asheville, North Carolina Area -->
+<entity id="35">
+	<doc rank="30" />
+</entity>
+
+
+<!-- autor Stephen B. Clark  "Catholics and the Eucharist: A Scriptural Introduction  more books like this" -->
+<entity id="36">
+	<doc rank="42" />
+</entity>
+
+
+<!-- Born in 1959 in St Albans, England. Moved to Normandy in 1985, living in Neuch�el, Switzerland since 1998 -->
+<entity id="37">
+	<doc rank="82" />
+</entity>
+
+
+<!--  Stephen Clark Hope hijo de Stephen Kent Hope y Claire Martha Bailey  -->
+<entity id="38">
+	<doc rank="84" />
+</entity>
+
+
+<!--  autor Stephen R.L. Clark 
+	 Biology and Christian Ethics
+	 The Migration Atlas: Movements of the Birds of Britain and Ireland
+	 G.K. Chesterton: Thinking Backward, Looking Forward -->
+<entity id="39">
+	<doc rank="93" />
+</entity>
+
+
+<!-- Stephen Clark | Male | Performer, Director | "The Blue Ghost" -->
+<entity id="40">
+	<doc rank="96" />
+</entity>
+
+<!-- Plan for Stephen Clark | game soft. -->
+<entity id="41">
+	<doc rank="97" />
+</entity>
+
+<discarded>
+	<!-- the page is clearly not refering to any entity under that name | stephen clarke -->
+	<doc rank="0" />
+
+	<!-- the name does not appear visible  -->
+	<doc rank="11" />
+	<doc rank="15" />
+	<doc rank="4" /> <!-- Stephen R. Clark -->
+	<doc rank="7" /> <!-- Stephen R. Clark -->
+	<doc rank="17" /> <!-- Stephen L. Clark -->
+	<doc rank="18" />
+	<doc rank="25" />
+	<doc rank="26" />
+	<doc rank="28" />
+	<doc rank="31" />
+	<doc rank="35" />
+	<doc rank="34" />
+	<doc rank="36" />
+	<doc rank="39" />
+	<doc rank="40" />
+	<doc rank="41" />
+	<doc rank="44" />
+	<doc rank="51" />
+	<doc rank="55" />
+	<doc rank="67" />
+	<doc rank="71" />
+	<doc rank="72" />
+	<doc rank="75" />
+	<doc rank="76" />
+	<doc rank="77" />
+	<doc rank="79" />
+	<doc rank="85" />
+	<doc rank="87" />
+	<doc rank="92" />
+	<doc rank="98" />
+
+	<!-- error en la p�ina-->
+	<doc rank="33" />
+	<doc rank="50" />
+	<doc rank="52" />
+	<doc rank="57" />
+
+	<!-- the annotator can't connect objectively the page to any previous or new entity cluster -->
+	<doc rank="43" />
+	<doc rank="81" />
+	<doc rank="94" />
+</discarded>
+</clustering>

@@ -1,0 +1,318 @@
+<clustering>
+<!-- Leon Barrett XML file
+NO EXISTEN rank 49, 97
+    
+Please, read this before you start the annotation:
+    
+- Various referents in the same page:
+  If a document contains various referents designed by the ambiguous name
+  we include as many copies  of the doc element as necessary in the corresponding entity clusters
+
+- Non person entity:
+  If a cluster refers to an entity different than a person (for instance "Airport John Kennedy")
+  write a comment noting this before the corresponding "entity" element.
+
+- For every discarded element we should make at least two distinctions: pages discarded because the
+  name does not appear visible or the page is clearly not refering to any entity under that name,
+  and cases where the annotator can't connect objectively the page to any previous or new entity cluster.
+  Add a comment before each discarded page noting at least one of the situations.
+
+- Remember that in order to cluster two documents refering the same entity there must be at least one
+  objective data that connects both occurences of the entity (for instance, date of birth, coauthors, works, etc.)
+-->
+
+
+<!-- Computer Science graduate student at UC Berkeley | Artificial Intelligence
+	 coautores: Slav Petrov, Dan Klein, Romain Thibaux -->
+<entity id="1">
+	<doc rank="0" /> <!-- biblio -->
+	<doc rank="1" /> <!-- articulos -->
+	<doc rank="3" />
+	<doc rank="7" />
+	<doc rank="8" />
+	<doc rank="9" />
+	<doc rank="12" />
+	<doc rank="13" />
+	<doc rank="15" />
+	<doc rank="20" />
+	<doc rank="24" />
+	<doc rank="31" />
+	<doc rank="34" />
+	<doc rank="37" />
+	<doc rank="38" />
+	<doc rank="40" />
+	<doc rank="43" />
+	<doc rank="45" />
+	<doc rank="65" />
+	<doc rank="67" />
+	<doc rank="74" />
+	<doc rank="75" />
+	<doc rank="82" />
+</entity>
+
+
+<!-- guitarrista -->
+<entity id="2">
+	<doc rank="4" />
+	<doc rank="5" />
+	<doc rank="54" />
+</entity>
+
+
+<!-- EBAY | Leon Barrett Co Centrifugal Dryer Ad 1946 Worcester MA -->
+<entity id="3">
+	<doc rank="11" />
+</entity>
+
+
+<!-- Johnnie Leon Barrett b. 1903 MS - d. 1943 AR. He married Nettie Breazeale -->
+<entity id="4">
+	<doc rank="6" />
+	<doc rank="14" />
+</entity>
+
+
+<!-- Red Lake Net News | Michael Barrett | mbarrett@rlnn.com -->
+<entity id="5">
+	<doc rank="17" />
+</entity>
+
+
+<!-- Leon Barrett was born in Neshoba Co, MS ABT 1903. Leon died ABT 1943 in Arkansas. Died in a job-related accident. He married Maudie -->
+<entity id="6">
+	<doc rank="18" />
+</entity>
+
+
+<!-- Seton Hall men's basketball -->
+<entity id="7">
+	<doc rank="19" />
+</entity>
+
+
+<!-- Clyde Leon Barrett was born in Dot, Wa 24 Nov 1906 - died 2 Apr 1965 in Yakima -->
+<entity id="8">
+	<doc rank="21" />
+	<doc rank="27" />
+	<doc rank="86" />
+</entity>
+
+
+<!-- tennis | Racquet Club of Irvine -->
+<entity id="9">
+	<doc rank="22" />
+	<doc rank="25" />
+</entity>
+
+
+<!-- TribuneCourier.com | Young farmers recognized for class attendance -->
+<entity id="10">
+	<doc rank="23" />
+</entity>
+
+
+<!-- Clarke Family Genealogy | descendants of James Clarke, b. 1845 | Leon Barrett CLARKE. b. October 6, 1884, Waunakee -->
+<entity id="11">
+	<doc rank="26" />
+</entity>
+
+
+<!-- Football: West Ham sign Quashie |
+	 And Mowbray is also keen to bring the Luton pair of striker Rowan Vine and defender Leon Barrett to The Hawthorns | Irvine said -->
+<entity id="12">
+	<doc rank="29" />
+	<doc rank="30" />
+	<doc rank="41" />
+	<doc rank="46" />
+	<doc rank="48" />
+	<doc rank="52" />
+	<doc rank="56" />
+	<doc rank="71" />
+	<doc rank="73" />
+	<doc rank="76" />
+	<doc rank="80" />
+	<doc rank="83" />
+	<doc rank="89" />
+	<doc rank="96" />
+</entity>
+
+
+<!-- LEWISTOWN HIGH CLASS OF 1906 -->
+<entity id="13">
+	<doc rank="33" />
+</entity>
+
+
+<!-- University of Connecticut Foundation -->
+<entity id="14">
+	<doc rank="36" />
+</entity>
+
+
+<!-- Amanda Louise Walters and James Leon Barrett Jr. were married Feb. 26, 2005, at Trinity Lutheran Church of Valparaiso -->
+<entity id="15">
+	<doc rank="39" />
+</entity>
+
+
+<!-- Leon Barrett in Arctic Warfare Camo -->
+<entity id="16">
+	<doc rank="42" />
+</entity>
+
+
+<!-- sportman  London Nigerian RFC -->
+<entity id="17">
+	<doc rank="44" />
+</entity>
+
+
+<!-- Leon is a Secretary in the Corporate group |
+	 Olswang : Lawyers to Technology, Media, Telecommunications and Property Sectors -->
+<entity id="18">
+	<doc rank="47" /> <!-- h. color -->
+</entity>
+
+
+<!-- Leon N Barrett | Assistant Instructor of Clinical Campus Binghamton |
+	 Upstate Faculty Finder::SUNY Upstate Medical University -->
+<entity id="19">
+	<doc rank="50" />
+</entity>
+
+
+<!-- brother-in-law OF Benjamin Richard Van Dyke Jr (born on Nov 3 1917 | served in the military between 1941 and 1945) -->
+<entity id="20">
+	<doc rank="51" />
+</entity>
+
+
+<!-- secretary Alliance of Jamaican Alumni Associations Toronto -->
+<entity id="21">
+	<doc rank="53" />
+</entity>
+
+
+<!-- CHRISTOPHER LEON BARRETT | R-K-Campf Transport | Ohio -->
+<entity id="22">
+	<doc rank="55" />
+</entity>
+
+
+<!-- The Oasis Sunday School class is a warm, friendly class who enjoys studying God's word together |
+	 Gainesville First Baptist Church in Gainesville, Georgia -->
+<entity id="23">
+	<doc rank="57" />
+</entity>
+
+
+<!-- JOHNJAYW vs Brooklyn College | Official Basketball Box Score -->
+<entity id="24">
+	<doc rank="58" />
+	<doc rank="62" />
+	<doc rank="72" />
+	<doc rank="77" />
+	<doc rank="81" />
+	<doc rank="84" />
+	<doc rank="87" />
+	<doc rank="88" />
+	<doc rank="90" />
+	<doc rank="92" />
+	<doc rank="93" />
+	<doc rank="94" />
+	<doc rank="95" />
+	<doc rank="99" />
+</entity>
+
+
+<!-- NATIONAL INSULATOR ASSOCIATION | November 1968 | Old Bottle Magazine |
+	 Leon Barrett of Binghamton, NY reports a CD 110.5 National corkscrew -->
+<entity id="25">
+	<doc rank="59" />
+</entity>
+
+
+<!-- Atoka High School Seniors 1973 | 2002 by Ruth Atteberry Adams | USGen.NET -->
+<entity id="26">
+	<doc rank="60" />
+</entity>
+
+
+<!-- Sigma Chi Fraternity
+Epsilon Psi Chapter
+Sam Houston State University
+Fall 1972 
+Sam Houston State University -->
+<entity id="27">
+	<doc rank="61" />
+</entity>
+
+
+<!-- Joel leon Barrett 54 | 1964/1968 Kanto Mura Chofu # 1 -->
+<entity id="28">
+	<doc rank="63" />
+</entity>
+
+
+<!-- Steven Leon Barrett hijo de Vira Estelle Allen, 88, died April 20, 2002, at Baptist Hospital |
+	 Death Notices April 23, 2002 -->
+<entity id="29">
+	<doc rank="69" />
+</entity>
+
+
+<!-- Barrett Family Genealogy Forum |
+	 married to a lady by the name Jenny, and had son Norman and a daughter Reba (1921) -->
+<entity id="30">
+	<doc rank="70" />
+</entity>
+
+
+<!-- Covansys Corporation (formerly Complete Business Solutions Inc.) -->
+<entity id="31">
+	<doc rank="79" />
+	<doc rank="91" />
+</entity>
+
+
+<!-- knife attack -->
+<entity id="32">
+	<doc rank="10" />
+	<doc rank="16" />
+</entity>
+
+
+<!-- Crown Jewels of the Wire -->
+<entity id="33">
+	<doc rank="98" />
+</entity>
+
+<discarded>
+	<!-- the name does not appear visible | leonbarrett.homelinux.net -->
+	<doc rank="2" />
+	
+	<!-- the name does not appear visible -->
+	<doc rank="28" />
+	
+	<!-- the name does not appear visible -->
+	<doc rank="32" />
+
+	<!-- can't connect objectively the page to any previous or new entity cluster -->
+	<doc rank="64" />
+
+	<!-- can't connect objectively the page to any previous or new entity cluster -->
+	<doc rank="78" />
+
+	<!-- file not found -->
+	<doc rank="85" />
+
+	<!-- can't connect objectively the page to any previous or new entity cluster -->
+	<doc rank="35" />
+
+	<!-- can't connect objectively the page to any previous or new entity cluster -->
+	<doc rank="66" />
+
+	<!-- can't connect objectively the page to any previous or new entity cluster -->
+	<doc rank="68" />
+</discarded>
+</clustering>

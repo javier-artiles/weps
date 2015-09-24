@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name="Hannah Bassham">
+	<entity id="0">
+		<doc rank="0" />
+	</entity>
+	<entity id="1">
+		<doc rank="2" />
+		<doc rank="1" />
+	</entity>
+</clustering>

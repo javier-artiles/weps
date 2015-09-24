@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name="Roy Tamashiro">
+	<entity id="3">
+		<doc rank="6" />
+	</entity>
+	<entity id="2">
+		<doc rank="12" />
+	</entity>
+	<entity id="0">
+		<doc rank="9" />
+	</entity>
+	<entity id="4">
+		<doc rank="18" />
+		<doc rank="22" />
+		<doc rank="14" />
+		<doc rank="7" />
+		<doc rank="10" />
+		<doc rank="4" />
+		<doc rank="17" />
+		<doc rank="5" />
+		<doc rank="11" />
+		<doc rank="0" />
+		<doc rank="16" />
+		<doc rank="2" />
+		<doc rank="3" />
+	</entity>
+	<entity id="1">
+		<doc rank="8" />
+	</entity>
+	<discarded>
+		<doc rank="13" />
+		<doc rank="19" />
+		<doc rank="21" />
+		<doc rank="15" />
+		<doc rank="1" />
+		<doc rank="20" />
+	</discarded>
+</clustering>

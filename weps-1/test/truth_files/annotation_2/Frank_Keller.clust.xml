@@ -1,0 +1,292 @@
+<clustering>
+	
+	<!-- linguista computacional | 2 Buccleuch Place, Edinburgh EH8 9LW, UK -->
+	<entity id="1">
+		<doc rank="0" />
+		<doc rank="2" /> <!-- Publications  -->
+		<doc rank="7" />
+		<doc rank="20" /> <!-- Publications  -->
+		<doc rank="21" />
+		<doc rank="37" />
+		<doc rank="40" />
+		<doc rank="59" />
+		<doc rank="70" />
+		<doc rank="71" />
+		<doc rank="91" />
+	</entity>
+	
+	
+	<!-- design and illustration | Ritzenhoff Frank Keller (1976) | Darling Cup '06 | Waldshut, Germany -->
+	<entity id="2">
+		<doc rank="1" />
+		<doc rank="5" />
+		<doc rank="11" />
+		<doc rank="16" />
+		<doc rank="19" />
+		<doc rank="36" />
+		<doc rank="39" />
+		<doc rank="83" />
+		<doc rank="89" />
+		<doc rank="99" />
+	</entity>
+	
+	
+	<!-- escritor  -->
+	<entity id="3">
+		<doc rank="4" /> <!-- Publications  -->
+	</entity>
+	
+	
+	<!-- escritor 2 | Frank Keller Walter -->
+	<entity id="4">
+		<doc rank="5" />
+		<doc rank="10" /> <!-- Abbreviations and technical -->
+		<doc rank="47" /> <!-- henry bartlett -->
+		<doc rank="68" />
+	</entity>
+	
+	
+	<!-- personaje/actor | Frank P. Keller |
+		The Bonnie Parker Story (1958) (as Frank Keller)
+		Rolling Thunder (1977)
+		Editor, "The Avengers" (1961)
+	-->
+	<entity id="5">
+		<doc rank="8" /> <!-- filmograf� -->
+		<doc rank="22" />
+		<doc rank="24" />
+		<doc rank="30" />
+		<doc rank="33" />
+		<doc rank="38" />
+		<doc rank="41" />
+		<doc rank="49" />
+		<doc rank="51" />
+		<doc rank="61" />
+		<doc rank="93" />
+		<doc rank="98" /> <!-- series TV "The Frame" -->
+	</entity>
+	
+	
+	<!-- Mr. Keller is the local agent of the Teutonia Fire Insurance Company, of Dayton, Ohio | Germany (Baden) -->
+	<entity id="6">
+		<doc rank="9" />
+	</entity>
+	
+	
+	<!-- Clarence Frank KELLER (26 Jul 1908 - 13 Mar 1966) hijo de Albert Carl KELLER Jr. (II) (1887-1972)
+		y Mary Ann BARREY (1888-1960) -->
+	<entity id="7">
+		<doc rank="26" />
+	</entity>
+	
+	
+	<!-- J. Frank Keller | Berry Petroleum Company
+		Berry Petroleum Company (NYSE:BRY) announced that J. Frank Keller has been elected to the Board of Directors, effective February 2, 2006.-->
+	<entity id="8">
+		<doc rank="29" />
+		<doc rank="32" />
+		<doc rank="46" /> <!-- NYSE | Former Executive Vice President and Chief Operating Officer -->
+		<doc rank="67" />
+	</entity>
+	
+	
+	<!-- empresa KELLERS`S FARMSTAND | family originated in Bavaria, Germany | Frank Jr. was born in 1911 -->
+	<entity id="9">
+		<doc rank="35" />
+	</entity>
+	
+	
+	<!-- Frank Keller Photography | trenes -->
+	<entity id="10">
+		<doc rank="3" />
+		<doc rank="12" />
+		<doc rank="44" />
+		<doc rank="77" />
+		<doc rank="84" />
+		<doc rank="97" />
+	</entity>
+	
+	
+	<!-- The Helen Keller Family Collections (1838-1980 ) -->
+	<entity id="11">
+		<doc rank="52" />
+		<doc rank="69" />
+	</entity>
+	
+	
+	<!-- Key Account Manager | Join Frank Keller's network -->
+	<entity id="12">
+		<doc rank="15" />
+		<doc rank="57" />
+		<doc rank="58" />
+	</entity>
+	
+	
+	<!-- vailarin | Alemania -->
+	<entity id="13">
+		<doc rank="60" />
+	</entity>
+	
+	
+	<!-- patriotic citizen | born in Tama county, Iowa, on October 3, 1866 | son of Joseph and Sarah (Mericle) Keller -->
+	<entity id="14">
+		<doc rank="63" />
+	</entity>
+	
+	
+	<!-- Herbert Frank Keller | casado con Teresa Hans-Virgina Daly | hijo de Frank Martin Keller y Helena Conrad Keller -->
+	<entity id="15">
+		<doc rank="65" />
+	</entity>
+	
+	
+	<!-- personaje pelicula "Sea of Love" |
+		Suspense/Mystery. Frank Keller (Pacino) is an NYPD homicide detective investigating a string of killings
+		[see entity 18] -->
+	<entity id="16">
+		<doc rank="42" />
+		<doc rank="62" />
+		<doc rank="74" />
+		<doc rank="75" />
+		<doc rank="80" />
+		<doc rank="87" />
+		<doc rank="90" />
+		<doc rank="96" />
+	</entity>
+	
+	
+	<!-- Personal Chefs -->
+	<entity id="">
+		<doc rank="72" />
+		<doc rank="86" /> <!-- photo -->
+	</entity>
+	
+	
+	<!-- hijo de George and Barbara (Dorsch) Keller | hermano de Joseph and Jacob Keller, Sr. (1831) -->
+	<entity id="17">
+		<doc rank="88" />
+	</entity>
+	
+	
+	<!-- personaje (2) pelicula "Sea of Love" | William Hickey representa a Frank Keller Sr.
+		[see entity 16] -->
+	<entity id="18">
+		<doc rank="42" />
+		<doc rank="90" />
+	</entity>
+	
+	
+	<!-- is Treasurer of the Rio Grande Modeling & Historical Society -->
+	<entity id="19">
+		<doc rank="94" />
+	</entity>
+	
+	
+	<!-- KELLER USA INC. Air Filtration Systems Solutions | Founded in 1903 in Stuttgart -->
+	<entity id="20">
+		<doc rank="31" />
+	</entity>
+	
+	
+	<!-- Company: The Art of Tarot | profiles.HumanHand.com | Calgary, Alberta, Canada -->
+	<entity id="21">
+		<doc rank="34" />
+		<doc rank="45" />
+	</entity>
+	
+	
+	<!-- Mrs. Frank Keller died Saturday evening after a short illness -->
+	<entity id="22">
+		<doc rank="73" />
+	</entity>
+	
+	
+	<!-- interprete | Frank Keller Jr | Title: Heroin (2004) -->
+	<entity id="23">
+		<doc rank="76" />
+	</entity>
+	
+	
+	<!-- escritor (3) | "Kirche Und Katholiken in Der Bundesrepublik : Daten U. Analysen" -->
+	<entity id="24">
+		<doc rank="27" />
+	</entity>
+	
+	
+	<!-- dispos. moviles | Frank Keller, Mobilfunk Und Mehr (Germany) -->
+	<entity id="25">
+		<doc rank="53" />
+		<doc rank="54" />
+	</entity>
+	
+	
+	<!-- Institute | research -->
+	<entity id="26">
+		<doc rank="79" />
+	</entity>
+	
+	
+	<!-- father-in-law | June 14, 1934 | Chemical Engineering -->
+	<entity id="27">
+		<doc rank="85" />
+	</entity>
+	
+	
+	<discarded>
+		<!-- name does not appear visible or the page | Invalid Account -->
+		<doc rank="6" />
+		<doc rank="13" />
+		<doc rank="95" />
+	
+		<!-- error en la p�ina -->
+		<doc rank="14" />
+	
+		<!-- Frank P. Keller (entity id=5) -->
+		<doc rank="17" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="18" />
+	
+		<!-- Franklin C. "Frank" KELLER | Person Sheet -->
+		<doc rank="23" />
+	
+		<!-- error en la p�ina -->
+		<doc rank="25" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="28" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="43" />
+	
+		<!-- the page is clearly not refering to any entity under that name -->
+		<doc rank="48" />
+	
+		<!-- by Mann, Frank & Keller, Charles -->
+		<doc rank="50" />
+	
+		<!-- Frank - Keller Williams Realty -->
+		<doc rank="55" />
+		<doc rank="82" />
+	
+		<!-- error en la p�ina (frames) -->
+		<doc rank="56" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="64" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="66" />
+	
+		<!-- name does not appear visible or the page -->
+		<doc rank="78" />
+	
+		<!-- Keller Williams -->
+		<doc rank="81" />
+	
+		<!-- Frank - Keller Williams -->
+		<doc rank="92" />
+	
+	</discarded>
+	
+</clustering>

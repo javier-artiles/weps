@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name="Tim Whisler">
+	<entity id="10">
+		<doc rank="15" />
+		<doc rank="23" />
+		<doc rank="6" />
+		<doc rank="31" />
+		<doc rank="11" />
+		<doc rank="27" />
+		<doc rank="18" />
+		<doc rank="13" />
+		<doc rank="22" />
+		<doc rank="12" />
+		<doc rank="2" />
+		<doc rank="1" />
+	</entity>
+	<entity id="3">
+		<doc rank="9" />
+	</entity>
+	<entity id="5">
+		<doc rank="4" />
+	</entity>
+	<entity id="7">
+		<doc rank="0" />
+	</entity>
+	<entity id="2">
+		<doc rank="16" />
+	</entity>
+	<entity id="0">
+		<doc rank="28" />
+	</entity>
+	<entity id="9">
+		<doc rank="10" />
+		<doc rank="25" />
+	</entity>
+	<entity id="8">
+		<doc rank="30" />
+		<doc rank="5" />
+		<doc rank="7" />
+		<doc rank="19" />
+	</entity>
+	<entity id="6">
+		<doc rank="8" />
+	</entity>
+	<entity id="1">
+		<doc rank="32" />
+	</entity>
+	<discarded>
+		<doc rank="14" />
+		<doc rank="3" />
+		<doc rank="29" />
+		<doc rank="20" />
+		<doc rank="26" />
+		<doc rank="21" />
+		<doc rank="24" />
+		<doc rank="17" />
+	</discarded>
+</clustering>
