@@ -1,4 +1,4 @@
-# Web People Search Task - 2007]
+# Web People Search Task - 2007
 
 ## Introduction.
 
