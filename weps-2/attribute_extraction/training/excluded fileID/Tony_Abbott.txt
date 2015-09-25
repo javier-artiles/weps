@@ -1,0 +1,41 @@
+4	No Value
+9	No Value
+14	No Value
+15	Search Results	amazon.ca	
+16	Search Results	del.icio.us 	
+20	Search Results	alibris	
+25	no value
+27	search result
+32	no string
+33	no name
+34	search result
+38	no longer available
+40	no value
+44	name of things
+45	search result
+46	no value
+50 	no value
+51	real life drama
+52	search result
+55	search result
+56	no value
+57	no value
+58	error page
+59	search result
+60	no value
+61	search result
+71	search result
+74	no name
+77	no name
+78	no value
+81	search result
+82	search result
+84	no string
+85	no string
+87	no value
+89	search result
+90	search result
+91	search result
+94	search result
+95	search result
+97	search result

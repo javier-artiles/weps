@@ -1,0 +1,284 @@
+0	Date of birth	January 28, 1935
+0	Birthplace	London, England
+0	Occupation	author	full-time writer	Honorary Professor	Fellow
+0	Affiliation	University of Birmingham	Royal Society of Literature
+0	Work	How Far Can You Go?	Souls and Bodies	Paradise News	Changing Places	Small World	Nice Work	The Picturegoers	Ginger You're Barmy	The British Museum Is Falling Down	Out of the Shelter	Small World: An Academic Romance	Therapy	The Man Who Wouldn't Get Up: And Other Stories	Home Truths: A Novella	Thinks ...	Author, Author	Language of Fiction	The Novelist at the Crossroads	The Modes of Modern Writing	Write On	The Art of Fiction	Modern Criticism and Theory: A Reader 	The Practice of Writing	Consciousness and the Novel	The Year of Henry James: The Story of a Novel	The Writing Game	Home Truths	Martin Chuzzlewit
+0	Award	CBE	Hawthornden Prize	Yorkshire Post Fiction Prize	Whitbread Book of the Year	Sunday Express Book of the Year Award	Royal Television Society's Award for best Drama serial in the year 1989	Silver Nymph at the International Television Festival
+0	School	University College London	University of Birmingham
+0	Degree	BA	MA	PhD
+0	Location	Birmingham
+0	Nationality	British
+1	Date of birth	28 January 1935
+1	Birthplace	South London
+1	Occupation	Professor	Honorary Fellow	Emeritus Professor	Fellow	Visiting Professor	Chairman	playwright	screenwriter	comic novelist	literary critics	novelist
+1	Affiliation	University College London	University of Birmingham	University of California, Berkeley	University of East Anglia	Royal Society of Literature	Judges for the Booker Prize for Fiction
+1	Work	The Art of Fiction	The Picturegoers	Ginger, You're Barmy	The British Museum is Falling Down	Out of the Shelter	Changing Places	Small World	Nice Work	How Far Can You Go?	Paradise News	Therapy	Thinks Åc	Big Words - Small Worlds	The Writing Game	Home Truths	Consciousness and the Novel 	Graham Greene	Language of Fiction: Essays in Criticism and Verbal Analysis of the English Novel 	Evelyn Waugh	The Novelist at the Crossroads and Other Essays on Fiction and Criticism	20th-Century Literary Criticism: A Reader	The Modes of Modern Writing: Metaphor, Metonymy and the Typology of Modern Literature	Working with Structuralism: Essays and Reviews in 19th and 20th Century Literature 	Write On: Occasional Essays	Modern Criticism and Theory: A Reader 	After Bakhtin: Essays on Fiction and Criticism	The Practice of Writing	Home Truths: A Novella	Martin Chuzzlewit
+1	Award	Royal Television Society Award (Best Drama Serial)	Silver Nymph	Hawthornden Prize	Yorkshire Post Book Award (Finest Fiction)	Whitbread Book of the Year	Royal Television Society Award  (Best Drama Serial)	Sunday Express Book of the Year	Silver Nymph  (International Television Festival (Monte Carlo))	Writers' Guild Award (Best Adapted Screenplay)	Commonwealth Writers Prize (Eurasia Region, Best Book)	Chevalier de l'Ordre des Arts et des Lettres	CBE
+1	School	University College London
+1	Location	Curtis Brown Group Ltd Haymarket House 28-29 Haymarket London SW1Y 4SP England
+1	Phone	+44 (0)20 7393 4400
+1	Fax	+44 (0)20 7393 4401
+1	Email	info@curtisbrown.co.uk
+1	Web site	http://www.curtisbrown.co.uk
+2	Date of birth	1935
+2	Birthplace	Dulwich, south London
+2	Occupation	Critic	novelist	Professor	Honorary Professor
+2	Affiliation	School of English, University of Birmingham
+2	Work	Ginger, you're barmy	Thinks	Author, author	Nice work	Changing places	Small world	How far can you go	Language of fiction	The novelist at the crossroads	Write on	The writing game	Home truths	Martin Chuzzlewit	How far can you go?	Consciousness and the novel: connected essays	Therapy	British museum is falling down	Out of the shelter	Paradise news	The picturegoers	Small world: an academic romance	After Bakhtin: essays on fiction and criticism	The art of fiction	The modes of modern writing	The practice of writing	Working with structuralism	Write on: occasional essays 65-85
+2	Award	Whitbread Book of the Year	Sunday Express Book of the Year	Hawthornden Prize	Yorkshire Post Fiction Prize	CBE	Commander of the British Empire
+2	School	St. Joseph's Academy	University College, London	UCL
+2	Degree	MA
+3	Other Name	DL
+3	Occupation	authors
+3	Work	Small World	Changing Places	Nice Work
+3	Location	Birmingham, England
+4	Date of birth	Jan. 28, 1935
+4	Birthplace	London, Eng.
+4	Other Name	David John Lodge
+4	Occupation	novelist	literary critic	editor
+4	Work	The Picturegoers	Ginger, You're Barmy
+4	School	University College, London	University of Birmingham
+4	Degree	B.A	M.A.	Ph.D.
+4	Nationality	English
+5	Occupation	novelist	emeritus professor	author
+5	Affiliation	English department	University of Birmingham	Birmingham	Brown University	the University of California at Berkeley
+5	Work	The Picturegoers	Changing Places	Small World	Nice Work	Consciousness and the Novel	Thinks ...	The British Museum Is Falling Down	Ginger, You're Barmy	Out of the Shelter	Changing Places: A Tale of Two Campuses	How Far Can You Go? 	Souls and Bodies	Small World: An Academic Romance 	Paradise News 	Therapy	Home Truths	Language of Fiction: Essays in Criticism and Verbal Analysis of the English Novel	Graham Greene	Jane Austen: Emma, A Casebook	The Novelist at the Crossroads, and Other Essays on Fiction and Criticism	Evelyn Waugh	Twentieth Century Literary Criticism: A Reader	The Modes of Modern Writing: Metaphor, Metonymy, and the Typology of Modern Literature	Working With Structuralism: Essays and Reviews on Nineteenthand Twentieth-Century Literature	Write On: Occasional Essays '65-'85	Modern Criticism and Theory: A Reader 	After Bakhtin: Essays on Fiction and Criticism	The Art of Fiction: Illustrated From Classic and Modern Texts	The Practice of Writing	Consciousness and the Novel: Connected Essays
+5	School	University of London
+5	Degree	B.A.
+5	Location	London
+5	Nationality	British
+6	Occupation	author
+6	Work	Thinks	Changing Places
+6	Nationality	British
+7	Other Name	David M. Lodge	Lodge, D.M.	D.M. Lodge	D. Lodge
+7	Occupation	Faculty
+7	Affiliation	University of Wisconsin-Madison	Department of Biological Sciences	University of Notre Dame
+7	School	University of Oxford
+7	Degree	D. Phil.
+7	Location	Department of Biological Sciences Galvin, Notre Dame, IN 46556	University of Notre Dame Notre Dame, Indiana 46556
+7	Phone	574-631-6552	574-631-5000
+7	Email	biology.biosadm.1@nd.edu
+8	Occupation	Author	writers
+8	Work	Paradise News	Therapy	Thinks . . .	Souls and Bodies	The British Museum Is Falling Down	Changing Places
+9	Date of birth	1935	28 January 1935
+9	Birthplace	Dulwich, South London
+9	Other Name	David John Lodge
+9	Occupation	Novelist	Literary Critic	Essayist	Dramatist	novelist-critics	Lecturer
+9	Affiliation	Royal Armoured Corps	University of Birmingham	University of California, Berkeley
+9	Work	Changing Places	Small World	Nice Work	Rummidge trilogy	About Catholic Authors	The Picturegoers	Ginger, You're Barmy	Between These Four Walls	Slap in the Middle	The British Museum is Falling Down	Graham Greene	The Language of Fiction	Out of the Shelter	Evelyn Waugh
+9	Education	St. Joseph's Academy	University College London	UCL
+9	Major	English
+9	Degree	B.A.	M.A.
+9	Location	England, Britain, Europe	England
+9	Nationality	England
+9	Relatives	William Frederick	Rosalie Murphy Lodge	Mary Frances Jacob
+10	Occupation	Author	writer
+10	Work	Thinks . . .	Small World	The Art of Fiction	The Practice of Writing	Nice Work	The Art of Fiction: Illustrated from Classic and Modern Texts	Paradise News	Changing Places
+13	Date of birth	1935
+13	Birthplace	London, England, UK
+13	Occupation	Writer	Actor
+13	Work	Martin Chuzzlewit	Nice Work	Small World	L.A. Law	Safe Sex	The Green, Green Grass of Home
+14	Date of birth	19 August 1921
+14	Birthplace	Rochester, Kent, England, UK
+14	Occupation	Actor
+14	Work	Lovejoy	A Going Concern	Edge of Sanity	Dr. Jekyll et Mr. Hyde	Hot Meta	Religion of the People	Crossroads	Bloodbath at the House of Death	Minder	Rocky Eight and a Half	Sahara	Nanny	Into the Blitz	There's a Lot of It About	Worzel Gummidge	Dolly Clothes-Peg	Murder at the Wedding	Lovely Couple	Robin's Nest	Everything You Wish Yourself	Love & Marriage	Target	The Run	Carry on England	Potter's Picture Palace	Bless This House	A Matter of Principle	Dixon of Dock Green	The Job	Nightmare Hours	Grenade	It Ain't Half Hot Mum	The Grand Illusion	Larry Grayson	Q5	Q7	Q8	Q9	Carry on Laughing!	The Case of the Coughing Parrot	The Case of the Screaming Winkles	The Nine Old Cobblers	One in the Eye for Harold	The Sobbing Cavalier	The Sweeney	Chalk and Cheese	The Return of the Pink Panther	Blake Edwards' The Return of the Pink Panther	Barlow at Large	Barlow	Rat Run	Thriller	A Killer with Two Faces	Carry on Behind	Father Brown	The Man with Two Beards	QB VII	Crown Court	Nuts	Carry on Dick	Carry on Girls	Charley One-Eye	Ghost in the Noonday Sun	Alexander the Greatest	Go for a Take	Double Take	The Amazing Mr. Blunden	The Pathfinders	Our Daffodils Are Better Than Your Daffodils	Sitting Ducks	The Reg Varney Revue	Hide and Seek	Mutiny on the Buses	On the Buses	The Persuaders!	The Time and the Place	Bachelor of Arts	Incense for the Damned	Bloodsuckers	Doctors Wear Scarlet	Freedom Seekers	Incense of the Damned	The Magnificent Seven Deadly Sins	Mr. Horatio Knibbles	Tottering Towers	The Fiend	Beware My Brethren	Beware of the Brethren	The Railway Children	The Mating Machine	All About Little Eve	Z Cars	Give and Take: Part 2	Give and Take: Part 1	Eyewitness	Sudden Terror	Raising the Roof	Hoffman	Scream and Scream Again	Screamer	What's Good for the Goose	Girl Trouble	Randall and Hopkirk (Deceased)	My Partner the Ghost	Who Killed Cock Robin	The Magic Christian	The Champions	The Gun-Runners	The Night People	Oh! What a Lovely War	The Avengers	Fog	Epic	Scramble	School for Unclaimed Girls	Hell House Girls	House of Unclaimed Women	The Smashing Bird I Used to Know	Crooks and Coronets	Sophie's Place	The Fixer	Headline Hunters	Only When I Larf	Smashing Time	Corruption	Carnage	Laser Killer	The Sky Bike	Caccia alla volpe	After the Fox	The Sandwich Man	That Swinging City	Press for Time	United!	The Alphabet Murders	The ABC Murders	The Early Bird	Norman Wisdom: The Early Bird	San Ferry Ann	The Amorous Adventures of Moll Flanders	Moll Flanders	Catch Us If You Can	Having a Wild Weekend	Gideon's Way	Gideon C.I.D.	State Visit	The Intelligence Men	Spylarks	The Intelligence Men or M.I.5 Plus 2 Equals 0	Cup Fever	The Saint	The Man Who Liked Toys	The Hidden Truth	The Final Analysis	Guns at Batasi	Cluff	Clough	The Screeching Cat	A Shot in the Dark	Saturday Night Out	Benny Hill	The Trouble Maker	A Pair of Socks	Ghost Squad	G.S.5	The Golden Silence	Two Left Feet	The Long Ships	Dugi brodovi	The Dock Brief	Trial and Error	Kill or Cure	The Boys	Captain Clegg	Night Creatures	Pirates of Blood River	Mrs. Gibbons' Boys	Go to Blazes	On the Beat	Time to Remember	Edgar Wallace Mysteries: Time to Remember	No My Darling Daughter	They Met in a City	A Bride in the Morning	Carry on Regardless	The Hellfire Club	Raising the Wind	Roommates	Two Way Stretch	The Bulldog Breed	Jazz Boat	Never Let Go	Watch Your Stern	What a Carry On: Watch Your Stern	After Hours	Yesterday's Enemy	I'm All Right Jack	The Ugly Duckling	Bobbikins	Life in Emergency Ward 10	Emergency	Idle on Parade	The League of Gentlemen	The Running Jumping & Standing Still Film	Up the Creek	Further Up the Creek	I Was Monty's Double	Hell, Heaven or Hoboken	The Crossroad Gallows	Scotland Yard: The Crossroad Gallows	Ice-Cold in Alex	Desert Attack	The Silent Enemy	No Time to Die	Tank Force	The April 8th Show (Seven Days Early)	The Safecracker	I Only Arsked!	Girls at Sea	The Naked Truth	Your Past Is Showing	Strangers' Meeting	These Dangerous Years	Dangerous Years	Dangerous Youth	The Counterfeit Plan	The Intimate Stranger	Finger of Guilt	The Long Arm	The Third Key	Women Without Men	Blonde Bait	Private's Progress	The Cockleshell Heroes	Orders Are Orders	The Unknown Peter Sellers
+15	Occupation	novelist	critic	Emeritus Professor
+15	Affiliation	University of Birmingham
+15	Work	Changing Places	Small World	Nice Work	Author, Author	Consciousness and the Novel	The Year of Henry James	Consciousness and the Novel: Connected Essays	Home Truths: A Novella	Home Truths: A Play	The Practice of Writing: Essays, Lectures, Reviews, and a Diary	Therapy: A Novel	The Art of Fiction: Illustrated from Classic and Modern Texts	Paradise News: A Novel	The Writing Game: A Comedy	After Bakhtin: Essays on Fiction and Criticism	The British Museum Is Falling Down	The Modes of Modern Writing: Metaphor, Metonymy, and the Typology of Modern Literature	Nice Work: A Novel	The Novelist at the Crossroads: And Other Essays on Fiction and Criticism	Write On: Occasional Essays, '65-'85	Out of the Shelter	Language of Fiction: Essays in Criticism and Verbal Analysis of the Nglish Novel	Small World: An Academic Romance	Ginger, You're Barmy	Souls and Bodies	Working with Structuralism: Essays and Reviews on Nineteenth and Twentieth Century Literature	How Far Can You Go?	Modernism, Antimodernism and Postmodernism	Changing Places: A Tale of Two Campuses	20th Century Literary Criticism; A Reader	Evelyn Waugh
+19	Occupation	Author	professor
+19	Work	Therapy	ThinksÅc	A David Lodge Trilogy: "Changing Places", "Small World", "Nice Work"	How Far Can You Go?	The British Museum Is Falling Down	Author! Author!	Paradise News	Changing Places	Small World	Nice Work
+24	Other Name	Lodge, David
+24	Occupation	Author
+24	Work	Thinks . . .
+25	Date of birth	01/28/1935	1935
+25	Occupation	Author	Novelist	novelist
+25	Affiliation	University of Birmingham
+25	Work	Home Truths: A Novella	The Practice of Writing	Nice Work	Therapy	Thinks	Consciousness and the Novel	Home Truths 	Small World 	Thinks Åc
+25	Nationality	British
+27	Other Name	Lodge, David
+27	Occupation	Author	comic novelist
+27	Work	Author, Author	ThinksÅc	Therapy	The British Museum Is Falling Down	The Year of Henry James: The Story of a Novel - With Other Essays on the Genesis, Composition and Reception of Literary Fiction	How Far Can You Go?	Nice Work	Changing Places: A Tale of Two Campuses	A David Lodge Trilogy: "Changing Places", "Small World", "Nice Work"	The Art of Fiction: Illustrated from Classic and Modern Texts
+29	Occupation	satirist	writer	Author
+29	Work	Therapy	Changing Places
+29	Nationality	British
+30	Other Name	Lodge, David
+31	Work	Edge of Sanity	Carry On Laughing 	Having a Wild Weekend 	Trial and Error 	Two-Way Stretch
+32	Work	Small World	Therapy	Thinks...
+33	Occupation	Author	novelist
+33	Work	The Practice Of Writing	Essays,Lectures,Reviews And A Diary
+34	Work	Author, Author
+36	Other name	David M. Lodge
+36	Occupation	Professor	ecologist	fellow	Faculty
+36	Affiliation	Biological Sciences	Kroc Institute	The Joan B. Kroc Institute for International Peace Studies, University of Notre Dame
+36	School	University of Oxford
+36	Degree	D. Phil.
+36	Location	176 Galvin Life Science Notre Dame, IN 46556
+36	Phone	(574) 631-6094	(574) 631 - 6970
+36	Email	Lodge.1@nd.edu
+37	Date of birth	1935
+37	Affiliation	The Agency (London) Ltd
+37	Work	Between These Four Walls	Home Truths	Writing Game, The
+37	Nationality	British
+38	Date of birth	28 January 1935
+38	Birthplace	South London
+38	Occupation	Professor	Honorary Fellow	Emeritus Professor	Fellow	Visiting Professor	Chairman	playwright	screenwriter	comic novelist	literary critics	novelist
+38	Affiliation	University College London	University of Birmingham	University of California, Berkeley	University of East Anglia	Royal Society of Literature	Judges for the Booker Prize for Fiction
+38	Work	The Art of Fiction	The Picturegoers	Ginger, You're Barmy	The British Museum is Falling Down	Out of the Shelter	Changing Places	Small World	Nice Work	How Far Can You Go?	Paradise News	Therapy	Thinks Åc	Big Words - Small Worlds	The Writing Game	Home Truths	Consciousness and the Novel 	Graham Greene	Language of Fiction: Essays in Criticism and Verbal Analysis of the English Novel 	Evelyn Waugh	The Novelist at the Crossroads and Other Essays on Fiction and Criticism	20th-Century Literary Criticism: A Reader	The Modes of Modern Writing: Metaphor, Metonymy and the Typology of Modern Literature	Working with Structuralism: Essays and Reviews in 19th and 20th Century Literature 	Write On: Occasional Essays	Modern Criticism and Theory: A Reader 	After Bakhtin: Essays on Fiction and Criticism	The Practice of Writing	Home Truths: A Novella	Martin Chuzzlewit
+38	Award	Royal Television Society Award (Best Drama Serial)	Silver Nymph	Hawthornden Prize	Yorkshire Post Book Award (Finest Fiction)	Whitbread Book of the Year	Royal Television Society Award  (Best Drama Serial)	Sunday Express Book of the Year	Silver Nymph  (International Television Festival (Monte Carlo))	Writers' Guild Award (Best Adapted Screenplay)	Commonwealth Writers Prize (Eurasia Region, Best Book)	Chevalier de l'Ordre des Arts et des Lettres	CBE
+38	School	University College London
+38	Location	Curtis Brown Group Ltd Haymarket House 28-29 Haymarket London SW1Y 4SP England
+38	Phone	+44 (0)20 7393 4400
+38	Fax	+44 (0)20 7393 4401
+38	Email	info@curtisbrown.co.uk
+38	Web site	http://www.curtisbrown.co.uk
+39	Birthplace	London
+39	Occupation	writer	novelist	professor	critic
+39	Affiliation	University of Birmingham
+39	Work	Thinks . . .	The Picturegoers	Language and Fiction	Working with Structuralism	After Bakhtin: Essays on Fiction and Criticism	Changing Places	How Far Can You Go?
+39	Award	Hawthornden Prize	Whitbread Book of the Year	Commander of the British EmpireSmall World	Nice Work
+39	School	University College, London
+39	Nationality	British
+41	Occupation	novelist	critic
+41	Work	Consciousness and the Novel Connected Essays	Changing Places	Small World	Nice Work	Thinks...	Consciousness and the Novel
+41	Nationality	English
+43	Other Name	Lodge, David
+43	Occupation	Author
+43	Work	Therapy	Nice Work
+44	Occupation	author	commentator	essayist
+45	Date of birth	1935
+45	Birthplace	London
+45	Occupation	full-time writer	Honorary Professor	Fellow
+45	Affiliation	British Army	English Department	Birmingham	Royal Society of Literature
+45	Work	The Picturegoers	Ginger, You're Barmy	The British Museum is Falling Down	Out of the Shelter	Changing Places	How Far Can You Go?	Small World	Nice Work	Paradise News	Therapy	Language of Fiction	The Novelist at the Crossroads	The Modes of Modern Writing	Working with Structuralism	After Bakhtin: Essays on Fiction and Criticism	Modern Criticism and Theory	Scenes of Clerical Life for Penguin Classics	Lucky Jim for Penguin Twentieth-Century Classics	Write On	The Art of Fiction	Martin Chuzzlewit	The Writing Game
+45	Award	Hawthornden Prize	Yorkshire Post Fiction PrizeWhitbread Book of the Year	1988 Sunday Express Book of the Year Award	Royal Television Society's Award for the best drama serial of 1989	Silver Nymph at the International Television Festival
+45	School	University College, London	University of Birmingham
+45	Degree	BA degree	MA	doctorate
+45	Location	Birmingham
+48	Date of birth	1935
+48	Birthplace	South London
+48	Occupation	Honorary Fellow	full-time writer	fellow	Honorary Professor
+48	Affiliation	University College London	University of Birmingham	Royal Society of Literature
+48	Work	Author, Author	The Picturegoers	Ginger, You're Barmy	The British Museum is Falling Down	Out of the Shelter	How Far Can You Go?	Paradise News	Therapy	The Man Who Wouldn't Get Up and Other Stories	Home Truths: A Novella	Thinks...	Changing Places	Small World: An Academic Romance	Nice Work	A David Lodge Trilogy	Graham Greene	Language of Fiction: Essays and Criticism and Verbal Analysis of English Novel	Evelyn Waugh	The Novelist at the Crossroads and Other Essays on Fiction and Criticism	The Modes of Modern Writing: Metaphor, Metonymy and Typologoy of Modern Literature	Write On: Occasional Essays 1965-1985	Modern Criticism and Theory: A Reader	After Bakhtin: Essays on Fiction and Criticism	The Art of Fiction	The Practice of Writing	Consiousness and the Novel	The Year of Henry James: The Story of Novel with Other Essays
+48	Award	Whitbread Book of the Year	1996 Commonwealth Writers Prize
+48	School	University College London	University of Birmingham
+48	Degree	BA	MA	PhD
+48	Location	Birmingham
+49	Occupation	author	Emeritus Professor	professor
+49	Affiliation	Birmingham University	Birmingham
+49	Work	Small World	Nice Work	The Picturegoers	Author, Author
+49	School	University College, London
+49	Location	Edgbaston
+49	Relatives	Mary	Christopher
+50	Occupation	Novelist	professor
+50	Affiliation	University of Birmingham
+50	Work	Martin Chuzzlewit	The Art of Fiction and The Practice of Writing	Changing Places	Small World	Therapy	The British Museum is Falling Down	Souls and Bodies	How Far Can You Go?
+51	Date of birth	1935
+51	Occupation	author
+51	Work	Changing Places: A Tale of Two Campuses	Small World: An Academic Romance	Nice Work	The Picturegoers	Ginger, You're Barmy	The British Museum Is Falling Down	Out of the Shelter	How Far Can You Go?	Souls and Bodies	Up the Ladder to Obscurity	Paradise News	Therapy	Mr. Copping: A Master Teacher	Surprised by Summer	Thinks...	Author, Author	A David Lodge Trilogy: Changing Places, Small World, Nice Work	Three Novels: Ginger, You're Barmy, British Museum Is Falling Down, How Far Can You Go?	The Best of Ring Lardner	The Man Who Wouldn't Get Up: And other stories	Scenes of Academic Life: Selected from His Own Novels	The Writing Game	Home Truths	About Catholic authors	Graham Greene	Language of Fiction: Essays in Criticism and Verbal Analysis of the English Novel	Jane Austen: 'Emma': A Casebook	Jane Austen's "Emma": Selection of Critical Essays (Casebook S.)	Evelyn Waugh	The Novelist at the Crossroads: And Other Essays on Fiction and Criticism	Twentieth Century Literary Criticism: A Reader	The Modes of Modern Writing: Metaphor, Metonymy and the Typology of Modern Literature	Working with Structuralism: Essays and Reviews on Nineteenth and Twentieth Century Literature	Novels of Graham Greene	Write on: Occasional Essays, 1965-85	Modern Criticism and Theory: A Reader	After Bakhtin: Essays on Fiction and Criticism	The Art of Fiction: Illustrated from Classic and Modern Texts	The Practice of Writing	Consciousness and the Novel: Connected Essays	The Year of Henry James: The Story of a Novel	Small World	The Art of Fiction
+51	Award	Whitbread Prize Best Novel
+53	Date of birth	1935
+53	Occupation	author
+53	Affiliation	University of Birmingham
+53	Work	The Picturegoers	Ginger You're Barmy	The British Museum Is Falling Down	Out of the Shelter	Changing Places	How Far Can You Go?	Small World: An Academic Romance	Nice Work	Paradise News	Therapy	Home Truths - novella	Thinks ...
+53	Nationality	British
+55	Occupation	novelist
+55	Work	Author, Author	Author, Author A Novel
+56	Affiliation	AIBS	University of Notre Dame
+59	Occupation	novelist	critic	teacher	writer
+59	Affiliation	University of Birmingham
+59	Work	Paradise News	Therapy	Thinks . . .	Consciousness and the Novel: Connected Essays	Consciousness and the Novel	Small World	Changing Places	Nice Work
+59	Award	Hawthornden and Whitbread prizes
+59	Location	Birmingham, England
+59	Nationality	British
+64	Occupation	Author
+64	Work	Modern Criticism and Theory
+65	Date of birth	1935
+65	Birthplace	London
+65	Occupation	novelist	critic
+65	Nationality	English
+66	Affiliation	Outsider	Omaha
+66	Location	UK	US	London
+66	Nationality	British
+66	Web site	http://www.outsider.tv	http://www.omahapictures.com
+67	Occupation	IT Project Manager
+67	Location	San Francisco Bay Area
+68	Date of birth	1935
+68	Birthplace	London
+68	Occupation	novelist	critic
+68	Nationality	English
+69	Occupation	novelist	academic critic	university teacher
+69	Work	THINKÅc	Changing Places	Small World	Nice Work
+69	Nationality	British
+70	Occupation	writer
+70	Work	Thinks...	Small World	The Art of Fiction
+70	Nationality	British
+71	Date of birth	1935
+71	Occupation	novelist	critic	Professor
+71	Affiliation	University of Birmingham
+71	Work	Ginger You're Barmy
+71	Nationality	English
+72	Birthplace	Manchester, England
+72	Affiliation	Royal Air Force	Shelby County Historical Society
+72	Work	ItÅfs History To Keep
+72	Nationality	American
+72	Relatives	Sherrie
+74	Work	Author, Author
+75	Work	A Shot in the Dark	Casino Royale	Edge of Sanity	Return of the Pink Panther,
+76	Work	How Far Can You Go?	Nice Work	Small World
+77	Occupation	Author	author	Honorary Professor
+77	Affiliation	University of Birmingham
+77	Work	Author, Author	Thinks....	Home Truths	Write On 	British Museum Is Falling Down 	Small World	Practice Of Writing
+77	Location	Birmingham
+78	Date of birth	1935
+78	Work	Tell me Father	About Catholic Authors	The Picturegoers	Ginger, YouÅfre Barmy	The British Museum Is Falling Down	Language of Fiction: Essays in Criticism and Verbal Analysis of the English Novel	Graham Greene	Jane AustenÅfs ÅgEmma,Åh A Casebook	Out of the Shelter	The Novelist at the Crossroads and Other Essays on Fiction and Criticism	Evelyn Waugh	Emma	Twentieth Century Literary Criticism: A Reader	Scenes of Clerical Life	The Woodlanders	Changing Places: A Tale of Two Campuses	The Modes of Modern Writing: Metaphor, Metonymy, and the Typology of Modern Literature	Modernism, Antimodernism, and Postmodernism	How Far Can You Go?	Working with Structuralism: Essays and Reviews on Nineteenth- and Twentieth-Century Literature	Small World: An Academic Romance	The Best of Ring Lardner	Write On: Occasional Essays Åe65-Åf85	The Spoils of Poynton	Malcolm Bradbury	Modern Criticism and Theory: A Reader	Nice Work: A Novel	After Bakhtin: Essays on Fiction and Criticism	The Writing Game: A Comedy	Paradise News: A Novel	The Art of Fiction: Illustrated from Classics and Modern Texts	Therapy: A Novel	The Practice of Writing: Essays, Lectures, Reviews and a Diary	The Man Who WouldnÅft Get Up, and Other Stories	Home Truths: A Play	Home Truths: A Novella	Thinks. . . A Novel	Consciousness & the Novel: Connected Essays
+79	Other name	David M. Lodge	Lodge, D. M.	D. M. Lodge
+79	Occupation	Search Fellows	Fellows	Professor	Fellow	Scholar	faculty	Director	Associate Editor
+79	Affiliation	University of Notre Dame Department of Biological Sciences	Aldo Leopold Leadership Program	University of Wisconsin-Madison	University of Notre Dame	College of Science	undergraduate Arts & Letters/Science Honors Program	American Midland Naturalist, Executive Committee	The American Midland Naturalist, Executive Committee	Ecological Applications, Editorial board	Phi Beta Kappa
+79	Award	Fulbright Senior Research Award	Guyer Post Doctoral Fellowship	hodes Scholarship	Oak Ridge National Laboratory Graduate Fellowship
+79	School	University of the South	University of Oxford
+79	Degree	D. Phil.	B.S.	Dr.
+79	Phone	574.631.6094
+79	FAX	574.631.7413
+79	Email	David.M.Lodge.1@nd.edu
+80	Location	Newcastle. NSW. Australia
+81	Work	Thinks . . .	Changing Places
+82	Date of birth	1935 AD	1935	January 28, 1935
+82	Birthplace	London
+82	Other name	Lodge, David
+82	Occupation	Authors	Satirists	full-time writer	Fellow	visiting professor	Chairman
+82	Affiliation	University of Birmingham	University of California, Berkeley	Royal Society of Literature	Judges for the Booker Prize for Fiction
+82	Work	Changing Places
+82	Award	CBE
+82	School	University College London	University of Birmingham
+82	Degree	Bachelor's degree	Master's degree	Ph.D	Doctor of Philosophy
+82	Nationality	British
+85	Occupation	Authors
+86	Date of birth	1935
+86	Other name	Lodge, David	LODGE, DAVID
+86	Occupation	Authors
+86	Work	Small World	Therapy	Thinks
+88	Date of birth	1935
+88	Other name	Lodge, David
+88	Occupation	Authors
+88	Work	Small World	Therapy	Thinks
+89	Other name	Lodge, David
+89	Occupation	author
+89	Work	NICE WORK	Nice Work
+90	Occupation	Author
+90	Work	Nice Work
+92	Work	Consciousness and the Novel	ThinksÅc
+93	Work	Thinks	THINKSÅc
+94	Work	Out of the Shelter
+95	Occupation	author
+95	Work	THERAPY
+95	Nationality	British
+96	Date of birth	1935
+96	Birthplace	London
+96	Occupation	novelist	critic	full-time writer
+96	Affiliation	Univ. of Birmingham
+96	Work	Graham Greene	Evelyn Waugh	The Language of Fiction	The Modes of Modern Writing	Working with Structuralism	The Art of Fiction	Consciousness and the Novel	The Picturegoers	Changing Places	Small World	Nice Work	Paradise News	Therapy	Thinks Åc
+96	School	University College, London	Univ. of Birmingham
+96	Degree	B.A.	M.A.	Ph.D.
+96	Nationality	English
+98	Occupation	Authors	Contemporary Writers	Author	novelist	social critic
+98	Work	Small World

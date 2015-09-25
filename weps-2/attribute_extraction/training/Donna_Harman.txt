@@ -1,0 +1,112 @@
+0	Phone	617-269-3227
+2	Affiliation	Kiley Real Estate
+2	Location	707 E Broadway South Boston, MA 02127
+2	Phone	617-269-3227	508-208-8687
+2	FAX	617-269-3336
+2	Email	donna@kiley.com
+3	Occupation	manager
+3	Affiliation	ITL	Information Access and User Interfaces Division
+3	Award	1999 Tony Kent Strix Award
+6	Birthplace	Lubbock
+6	Occupation	Faculty	Instructor	pre-nursing advisor
+6	Affiliation	LCU	Green Lawn church of Christ	cradle roll department	department of Natural Sciences
+6	School	Texas Tech University	Lubbock Christian University	Lubbock Christian High School
+6	Major	Biology
+6	Degree	M.Ed.	B.S.	masters
+6	Location	Science bldg room 110
+6	Relatives	Randy Harman	Melanie
+6	Phone	(806) 720-7632
+6	Email	donna.harman@lcu.edu
+7	Affiliation	National Institute of Standards and Technology
+7	Award	1999 Strix Award
+7	School	Cornell University
+12	Affiliation	American Forest & Paper Association	AF&PA
+13	Other name	Donna Williamson Harman	D. Harman
+13	Affiliation	Lister Hill National Center for Biomedical Communications, National Library of Medicine
+13	Location	Bethesda, Maryland
+14	Other name	Donna Christine Shumake Harman
+14	Location	Virginia
+14	Relatives	Ernest Harman	Christopher Brian Harman	Stephanie Harman	Barbara Harman McKaskle	Jeanette Shumake	Agatha Johnson	Edward Shumake
+15	Affiliation	Fish Tales
+15	Location	Maryland	OCEAN CITY	21st Street	Ocean City
+15	Relatives	Shawn
+15	Web site	www.ocfishtales.com
+16	Occupation	Editor
+18	Occupation	editor
+19	Other name	Donna K. Harman
+19	Occupation	Editors	Editor
+21	Other name	D. K. Harman
+21	Occupation	editors
+21	Affiliation	National Institute of Standards and Technology
+21	Location	Gaithersburg MD
+21	Email	Donna.Harman@nist.gov
+22	Affiliation	NIST
+22	Email	donna.harman@nist.gov
+23	Affiliation	National Institute of Standards and Technology
+23	School	Cornell University
+23	Major	electrical engineering
+26	Affiliation	National Institute of Standards and Technology
+26	Location	Gaithersburg, MD 20899
+28	Work	SIGIR '96 : proceedings of the 19th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval : Zurich, Switzerland, August 18-22, 1996
+29	Work	TIPSTER Volume 3
+33	Affiliation	National Institute of Standards and Technology	NIST
+35	Affiliation	NIST
+35	Location	Gaithersburg, Maryland, USA
+37	Occupation	Treasurer
+37	Affiliation	AMERICAN FOREST & PAPER ASSOC PAC	AF&PAPAC	FKA FOREST INDUSTRIES PAC	FIPAC
+37	Location	1111 19TH STREET NW SUITE 800 WASHINGTON, DC 20036
+39	Affiliation	National Inst. of Standards and Technology
+39	Email	donna.harman@nist.gov
+41	Affiliation	National Institute of Standards and Technology
+41	Location	Gaithersburg, Md, USA
+41	Email	donna.harman@nist.gov
+43	Occupation	agent
+43	Affiliation	Coldwell Banker Kiley Real Estate
+43	Location	Coldwell Banker Kiley Real Estate 707 East Broadway South Boston, MA 02127
+43	Phone	508-208-8687	617-269-3227
+43	FAX	617-269-3336
+43	Email	donna@kiley.com
+45	Occupation	editor
+45	Work	Proceedings of the 19th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR'96, August 18-22, 1996, Zurich, Switzerland (Special Issue of the SIGIR Forum)
+46	Other name	HARMAN, D.
+46	Affiliation	National Institute of Standards and Technology
+47	Other name	HARMAN, D.
+47	Affiliation	National Institute of Standards and Technology
+48	Other name	Harman, D.
+48	Affiliation	National Institute for Standards and Technology
+48	Location	Maryland, USA
+49	Other name	Harman D.
+49	Affiliation	National Institute of Standards and Technology
+53	Work	Proceedings of the 15th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. Copenhagen, Denmark, June 21-24, 1992
+54	Occupation	Senior Vice President of Policy and Government Affairs
+54	Affiliation	AF&PA
+57	Location	707 East Broadway South Boston, MA US 02127
+57	Phone	617-269-3227
+60	Occupation	Senior Vice President
+60	Affiliation	AF&PA
+61	Occupation	treasurer
+61	Affiliation	American Forest & Paper Association Political Action Committee
+62	Location	707 East Broadway South Boston, MA US 02127
+62	Phone	617-269-3227
+63	Occupation	Staff writer
+64	Affiliation	American Forest & Paper Association	AF&PA
+67	Affiliation	National Institute of Standards and Technology
+69	Work	TREC: Experiment and Evaluation in Information Retrieval
+73	Affiliation	NIST	National Institute of Standards and Technology
+76	Occupation	manager
+76	Affiliation	Written Natural Language Processing Group of NIST's Advanced Systems Division
+78	Affiliation	NIST
+80	Affiliation	NIST
+80	Email	donna.harman@nist.gov
+83	Affiliation	National Institute of Standards and Technology	NIST
+84	Occupation	editor
+86	Occupation	Treasurer
+86	Affiliation	AMERICAN FOREST & PAPER ASSOC PAC	AF&PAPAC	FKA FOREST INDUSTRIES PAC	FIPAC
+86	Location	1111 19TH STREET NW SUITE 800 WASHINGTON, DC 20036
+87	Work	TREC: Experiment and Evaluation in Information Retrieval
+91	Affiliation	NIST
+91	Email	donna.harman@nist.gov
+96	Degree	Dr.
+98	Other name	Harman (Donna)
+99	Other name	Donna Harman Cadwell
+99	Location	Santa Rosa, Calif.

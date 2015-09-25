@@ -1,0 +1,33 @@
+0	No Value
+1	No Value
+2	Search Results	CiteSeer (DB)	
+5	Search Results	dblp (DB)	
+8	Search Results	alibris	
+10	No Value
+11	No Name	"Crane, Gregory"	
+12	No Value
+13	No Value
+14	No Value
+17	Search Results	CiteSeer (DB)	
+27	No Value	Bibliography	
+28	No Name	No Text	
+30	No Value	Celebrity? (Occupation)	
+32	No Name	Page Not Found	
+37	No Name	
+39	No Value	Bibliography
+42	No Value	Bibliography
+44	No Value	
+46	Search Results	AddALL.com
+52	No Name	"Crane, Gregory"
+66	No Value	
+68	No Value	Yale University Press
+74	No Value	
+80	No Name	Gregory R. Crane
+81	No Name	"Spencer Gregory, Gerard Crane"
+85	No Value	
+86	No Value	
+89	No Value	
+93	Search Results	CiteSeer (DB)
+94	No Name	
+95	Search Results	CiteSeer (DB)
+97	No Value	

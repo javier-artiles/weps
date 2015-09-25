@@ -1,0 +1,29 @@
+0	No Name
+3	No Name	George S. Clinton	
+11	Multiple Targets
+13	Foreign Language	Spanish	
+22	No Name
+26	No Name
+30	Search Results	razorgator.com	
+36	No Name
+38	No Value
+39	No Value
+40	No Name
+42	Multiple Targets
+44	Search Results	eBay	
+49	Search Results	BMG Music Service	
+51	Multiple Targets
+60	No Name	No Text
+63	No Name	George S. Clinton in the title of the page
+64	No Value	
+66	Search Results	yourmusic.com
+67	No Value	
+68	No Value	
+71	No Value	
+76	No Value	
+83	No Name	
+84	No Name	
+88	No Name	No Text
+89	No Value	
+93	No Name	George Clinton apperas only in the title of the page
+99	No Value	

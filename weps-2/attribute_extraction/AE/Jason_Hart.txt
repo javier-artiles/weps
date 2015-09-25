@@ -1,0 +1,812 @@
+1	affiliation	UTA
+1	dateofbirth	Apr 29, 1978
+1	occupation	Guard
+1	occupation	Player
+1	school	Syracuse
+2	birthplace	Los Angeles, CA
+2	dateofbirth	April 29, 1978
+2	occupation	PG
+2	school	Syracuse
+3	affiliation	Asheville Altitude
+3	affiliation	Bobcats
+3	affiliation	Charlotte
+3	affiliation	Charlotte Bobcats
+3	affiliation	Kings
+3	affiliation	Los Angeles
+3	affiliation	Los Angeles Clippers
+3	affiliation	Makedonikos BC
+3	affiliation	Milwaukee
+3	affiliation	Milwaukee Bucks
+3	affiliation	Sacramento
+3	affiliation	Sacramento Kings
+3	affiliation	San Antonio
+3	affiliation	San Antonio Spurs
+3	affiliation	Spurs
+3	affiliation	Utah
+3	affiliation	Utah Jazz
+3	birthplace	Los Angeles, California
+3	dateofbirth	April 29, 1978
+3	nationality	American
+3	nationality	USA
+3	occupation	Point guard
+3	occupation	backup guard
+3	occupation	freshman
+3	occupation	point guard
+3	occupation	professional basketball player
+3	occupation	senior
+3	school	Inglewood
+3	school	Syracuse
+3	school	Syracuse University
+4	affiliation	LAC
+4	affiliation	Los Angeles Clippers
+4	affiliation	SAC
+4	affiliation	UTA
+4	birthplace	Los Angeles, California
+4	dateofbirth	Apr 29, 1978
+4	occupation	Guard
+4	occupation	Player
+4	occupation	Point Guard
+4	school	Syracuse
+6	birthplace	Los Angeles, CA
+6	dateofbirth	April 29, 1978
+6	occupation	PG
+6	school	Syracuse
+7	affiliation	CHA
+7	affiliation	Clippers
+7	affiliation	Jazz
+7	affiliation	LAC
+7	affiliation	Los Angeles Clippers
+7	affiliation	MLW
+7	affiliation	SA
+7	affiliation	SAC
+7	affiliation	UTA
+7	dateofbirth	4/29/1978
+7	occupation	G
+7	occupation	Guard
+7	occupation	Player
+7	school	Syracuse
+10	affiliation	Jason Hart Racing
+10	affiliation	Panoz Racing School
+10	email	jason@jasonhartracing.com
+10	occupation	driving instructor
+10	phone	(972) 898-3952
+11	othername	Jason Hart Klein
+12	affiliation	Clippers
+12	affiliation	L.A.C.
+12	affiliation	Los Angeles Clippers
+12	occupation	Point Guards
+12	occupation	point guards
+13	affiliation	CHA
+13	affiliation	LAC
+13	affiliation	MIL
+13	affiliation	SA
+13	affiliation	SAC
+13	affiliation	UTA
+13	affiliation	Utah Jazz
+13	dateofbirth	Apr 29, 1978
+13	occupation	PG
+13	school	Syracuse
+14	affiliation	Asheville Altitude
+14	affiliation	Charlotte Bobcats
+14	affiliation	Los Angeles Clippers
+14	affiliation	Makedonikos
+14	affiliation	Milwaukee Bucks
+14	affiliation	Sacramento Kings
+14	affiliation	San Antonio Spurs
+14	affiliation	Utah Jazz
+14	dateofbirth	4/29/78
+14	occupation	PG
+14	occupation	point guard
+14	school	Syracuse
+15	affiliation	Clippers
+15	affiliation	LOS ANGELES CLIPPERS
+15	birthplace	Los Angeles, California
+15	dateofbirth	4/29/1978
+15	occupation	PG
+15	occupation	Point Guard
+15	occupation	player
+15	school	Syracuse
+16	affiliation	Los Angeles Clippers
+16	birthplace	Los Angeles, California
+16	dateofbirth	Apr 29, 1978
+16	occupation	Point Guard
+16	school	Syracuse
+17	affiliation	Bobcats
+17	affiliation	Spurs
+17	mentor	Bernie Bickerstaff
+17	mentor	Bickerstaff
+17	occupation	point guards
+19	affiliation	Oakland
+19	affiliation	Oakland A's
+19	affiliation	Oklahoma
+19	affiliation	Oklahoma Redhawks
+19	affiliation	Texas Ranger
+19	affiliation	Texas Rangers
+19	award	AA #3 Best Hitter
+19	award	Midland Rockhounds Play of the Year
+19	award	Northwest League MVP
+19	award	Texas League Player of the Week 5/15-5/21
+19	award	Topps 2000 Player-Of-Year
+19	birthplace	Walnut Creek, CA
+19	dateofbirth	September 5, 1977
+19	location	Springfield, Missouri
+19	occupation	1B
+19	othername	Jason Wyatt Hart
+19	school	Fair Grove (MO) HS
+19	school	Southwest Missouri State
+20	affiliation	CHA
+20	affiliation	Clippers
+20	affiliation	Jazz
+20	affiliation	LAC
+20	affiliation	Los Angeles Clippers
+20	affiliation	MLW
+20	affiliation	SA
+20	affiliation	SAC
+20	affiliation	UTA
+20	dateofbirth	4/29/1978
+20	occupation	G
+20	occupation	No. 3 point guard
+20	occupation	backup point guard
+20	occupation	reserve guard
+22	affiliation	Bucks
+22	affiliation	Charlotte Bobcats
+22	affiliation	Los Angeles Clippers
+22	affiliation	Makedonikos
+22	affiliation	Milwaukee Bucks
+22	affiliation	Sacramento Kings
+22	affiliation	San Antonio Spurs
+22	affiliation	Utah Jazz
+22	birthplace	Los Angeles, California
+22	dateofbirth	April 29, 1978
+22	dateofbirth	April 29, 1979
+22	occupation	Guard
+22	occupation	professional basketball player
+22	othername	J-Hart
+22	othername	Jason Keema Hart
+22	school	Inglewood High School
+22	school	Syracuse University
+23	affiliation	Attorney's Office
+23	affiliation	Davidson County Sheriff's Office
+23	affiliation	Education Committee
+23	affiliation	Health, Hospitals, and Social Services Committee
+23	affiliation	Metropolitan Council of Nashville and Davidson County
+23	affiliation	Public Safety - Beer and Regulated Beverages Committee
+23	affiliation	U.S. Army
+23	degree	Bachelor of Science degree
+23	occupation	Combat Medic
+23	occupation	Vice Chair
+23	occupation	deputy
+23	occupation	investigator
+23	occupation	legislator
+23	occupation	legislators
+23	school	Middle Tennessee State University
+23	school	U.S. Army Medical Specialist College
+24	affiliation	Breckenridge Associates Real Estate
+24	email	info@BreckenridgeFineHomes.com
+24	email	info@breckenridgefinehomes.com
+24	fax	(970) 453-5412
+24	location	Breckenridge & Summit County
+24	phone	(800) 774-7970
+24	phone	(970) 376-7599
+24	phone	(970) 453-2200
+24	phone	1-800-774-7970
+25	affiliation	The Paris Business Review
+25	occupation	head
+26	affiliation	Spurs
+26	dateofbirth	04/29/78
+26	location	Los Angeles
+26	major	Sociology
+26	occupation	G
+26	occupation	freshman
+26	occupation	senior
+26	othername	Glass Jaw
+26	school	Syracuse
+27	affiliation	CHA
+27	affiliation	LAC
+27	affiliation	MIL
+27	affiliation	SA
+27	affiliation	SAC
+27	affiliation	UTA
+27	affiliation	Utah Jazz
+27	dateofbirth	Apr 29 1978
+27	occupation	PG
+27	school	Syracuse
+28	affiliation	Commercial Division
+28	email	HartAgent@aol.com
+28	fax	321.452.5990
+28	location	2955 Pineda Causeway Suite 101 | Melbourne, Florida 32940
+28	occupation	Owner
+28	occupation	Realtor
+28	phone	321.693.2672
+28	phone	321.698.0099
+28	phone	800. 607.HART (4278)
+30	affiliation	CAA
+30	affiliation	California Apartment Association
+30	affiliation	Hart Commercial Real Estate
+30	affiliation	LHI
+30	affiliation	LHI Apartment Brokers
+30	affiliation	LeMay & Hart Real Estate Investments
+30	affiliation	NAA
+30	affiliation	NAR
+30	affiliation	National Apartment Association
+30	affiliation	National Assocaition of Realtors
+30	affiliation	PCAOR
+30	affiliation	Pismo Coast Asocation of Realtors
+30	affiliation	RECS
+30	affiliation	Real Estate CyberSpace Society
+30	affiliation	board of directors for the Boys & Girls Club of South San Luis Obispo
+30	affiliation	board of directors of Arroyo Grande Rotary Club
+30	email	Jason@HartCRE.com
+30	location	Nipomo
+30	occupation	principal
+30	phone	805-481-9010
+30	relatives	Gianni
+30	relatives	Lucca
+30	relatives	Shelli
+30	school	California Polytechnic State University
+30	school	School of Business
+31	affiliation	CHA
+31	affiliation	Charlotte Bobcats
+31	affiliation	LAC
+31	affiliation	Los Angeles Clippers
+31	affiliation	MIL
+31	affiliation	Milwaukee Bucks
+31	affiliation	SAC
+31	affiliation	SAS
+31	affiliation	Sacramento Kings
+31	affiliation	San Antonio Spurs
+31	affiliation	UTA
+31	affiliation	Utah Jazz
+31	birthplace	Los Angeles, California
+31	dateofbirth	April 29, 1978
+31	occupation	Guard
+31	othername	Jason Keema Hart
+31	school	Inglewood
+31	school	Syracuse University
+31	school	syracuse
+32	affiliation	Asheville Altitude
+32	affiliation	Bobcats
+32	affiliation	Charlotte
+32	affiliation	Clippers
+32	affiliation	Jazz
+32	affiliation	Los Angeles Clippers
+32	affiliation	Milwaukee
+32	affiliation	Sacramento
+32	affiliation	San Antonio
+32	affiliation	Utah Jazz
+32	occupation	guard
+32	school	Syracuse
+35	affiliation	Charlotte
+35	affiliation	Clippers
+35	affiliation	Jazz
+35	affiliation	Los Angeles
+35	affiliation	Milwaukee
+35	affiliation	SAC
+35	affiliation	Sacramento
+35	affiliation	Sacramento Kings
+35	affiliation	San Antonio
+35	affiliation	Utah
+35	affiliation	Utah Jazz
+35	birthplace	Los Angeles, CA
+35	dateofbirth	04/29/1978
+35	occupation	PG
+35	occupation	point guards
+35	school	Syracuse
+36	occupation	special effects assistant
+36	work	Blood for Blood
+36	work	Midnight Man
+37	affiliation	Clippers
+37	affiliation	Jazz
+37	affiliation	Utah Jazz
+37	dateofbirth	April 29, 1976
+37	occupation	Point Guard
+37	school	Syracuse
+38	affiliation	Frisco
+38	affiliation	Midland
+38	affiliation	Minnesota
+38	affiliation	Minnesota Twins
+38	affiliation	Modesto
+38	affiliation	Oklahmoa
+38	affiliation	Rangers
+38	affiliation	Rochester
+38	affiliation	Sacramento
+38	affiliation	Sou Oregon
+38	affiliation	Texas
+38	affiliation	Texas Rangers
+38	birthplace	Walnut Creek, CA
+38	dateofbirth	09/05/1977
+38	occupation	1B
+38	occupation	First Basemen
+38	occupation	first baseman
+38	school	Southwest Missouri State
+39	affiliation	Clippers
+39	affiliation	Los Angeles Clippers
+39	affiliation	Utah
+39	occupation	backup point guards
+39	occupation	guard
+41	affiliation	Frisco
+41	affiliation	Midland
+41	affiliation	Minnesota Twins
+41	affiliation	Modesto
+41	affiliation	Oakland Athletics
+41	affiliation	Oklahoma
+41	affiliation	Sacramento
+41	affiliation	South Oregon
+41	affiliation	Texas
+41	affiliation	Texas Rangers
+41	award	Most Valuable Player
+41	dateofbirth	November 30, 1999
+41	occupation	Player
+42	affiliation	Clippers
+42	affiliation	Clips
+42	affiliation	Los Angeles Clippers
+42	dateofbirth	April 29, 1978
+42	occupation	G
+43	affiliation	TEX
+43	birthplace	Walnut Creek, California
+43	dateofbirth	Sep 5, 1977
+44	affiliation	Clippers
+44	affiliation	Los Angeles Clippers
+44	affiliation	Utah
+44	dateofbirth	4/29/1978
+44	occupation	G
+44	occupation	Player
+44	occupation	point guard
+44	school	Syracuse
+45	affiliation	Charlotte
+45	affiliation	Charlotte Bobcats
+45	affiliation	LA Clippers
+45	affiliation	LAC
+45	affiliation	Los Angeles Clippers
+45	affiliation	Milwaukee
+45	affiliation	Milwaukee Bucks
+45	affiliation	Sac
+45	affiliation	Sacramento
+45	affiliation	Sacramento Kings
+45	affiliation	San Antonio
+45	affiliation	San Antonio Spurs
+45	affiliation	Seattle SuperSonics
+45	affiliation	Utah
+45	affiliation	Utah Jazz
+45	birthplace	Los Angeles, California
+45	dateofbirth	April 29, 1978
+45	occupation	Point Guard
+45	school	Syracuse
+46	affiliation	Jazz
+46	occupation	No. 3 point guard
+46	occupation	player
+47	affiliation	Breckenridge Associates
+47	affiliation	Breckenridge Associates Real Estate
+47	affiliation	Prudential Timberhill Real Estate
+47	affiliation	Summit County Investment Company
+47	affiliation	Swan River Ranch
+47	award	ChairmanÅfs Circle Award
+47	degree	Bachelor of Arts
+47	email	jason@breckenridgeassociates.com
+47	major	Economics
+47	occupation	Broker Associate
+47	occupation	brokers
+47	occupation	co-listing broker
+47	occupation	licensed broker
+47	occupation	listing broker
+47	occupation	partner
+47	occupation	real estate professionals
+47	phone	(800) 774-7970
+47	relatives	Aldyn
+47	relatives	McKenzie
+47	school	St. Lawrence University
+47	website	http://www.breckenridgefinehomes.com/
+48	affiliation	Clippers
+48	affiliation	L.A. Clippers
+48	affiliation	Los Angeles Clippers
+48	affiliation	Utah Jazz
+48	occupation	PG
+48	occupation	guard
+48	occupation	point guard
+48	occupation	reserve point guard
+48	school	SU
+49	affiliation	Clippers
+49	affiliation	LA
+49	affiliation	Los Angeles
+52	affiliation	Clippers
+52	dateofbirth	04/29/1978
+52	occupation	G
+52	occupation	PG
+53	affiliation	Utah Jazz.
+53	birthplace	Los Angeles, California
+53	dateofbirth	April 29 1978
+53	dateofbirth	April 29, 1978
+53	nationality	American
+53	occupation	point guard
+53	occupation	professional basketball player
+54	affiliation	ActivIdentity Corporation
+54	affiliation	Board of Directors
+54	affiliation	Protocom
+54	affiliation	Protocom Development Systems Pty. Ltd.
+54	affiliation	Sales
+54	location	Fremont, California
+54	occupation	Chief Executive Officer
+54	occupation	Director
+54	occupation	Directors
+54	occupation	Senior Vice President
+54	occupation	independent investor
+55	affiliation	Pace University
+55	degree	MFA
+55	location	Providence
+55	school	Brown/Trinity Consortium MFA acting program
+55	work	Big Love
+55	work	Glengarry Glen Ross
+55	work	Iggy Woo
+55	work	Little Shop of Horrors
+55	work	The Blue Room
+55	work	The Jude's Law
+56	affiliation	EMI Music / Capitol Records
+56	affiliation	Gibson, Dunn & Crutcher
+56	affiliation	Universal Music Group
+56	location	Greater Los Angeles Area
+56	occupation	Financial Systems Admin.
+56	occupation	Senior Manager HRIS
+56	occupation	Webmaster
+56	school	University of California, Riverside
+57	affiliation	Charlotte
+57	affiliation	Jazz
+57	affiliation	Los Angeles Clippers
+57	affiliation	Milwaukee
+57	affiliation	Sacramento
+57	affiliation	San Antonio
+57	affiliation	Utah Jazz
+57	occupation	guard
+58	affiliation	Bears
+58	affiliation	Frisco RoughRiders
+58	award	Missouri Valley Conference MVP
+58	birthplace	Springfield
+58	school	Missouri State
+59	affiliation	Charlotte
+59	affiliation	LAC
+59	affiliation	Los Angeles
+59	affiliation	Milwaukee
+59	affiliation	SAC
+59	affiliation	Sacramento
+59	affiliation	San Antonio
+59	birthplace	Los Angeles, CA
+59	dateofbirth	04/29/1978
+59	school	Syracuse
+60	affiliation	LOS ANGELES CLIPPERS
+60	affiliation	Los Angeles Clippers
+60	occupation	Point Guard
+61	affiliation	Clippers
+61	affiliation	Jazz
+61	occupation	backup point guard
+62	affiliation	ACTI
+62	affiliation	ActivCard Corp.
+62	affiliation	ActivIdentity
+62	affiliation	Protocom
+62	affiliation	board of directors
+62	affiliation	sales and marketing
+62	occupation	CEO
+62	occupation	chief executive officer
+62	occupation	senior manager
+62	occupation	senior vice president
+63	affiliation	Asheville Altitude
+63	affiliation	Bucks
+63	affiliation	Charlotte
+63	affiliation	Clippers
+63	affiliation	Kings
+63	affiliation	Los Angeles Clippers
+63	affiliation	Milwaukee
+63	affiliation	Sacramento
+63	affiliation	Sacramento Kings
+63	affiliation	San Antonio
+63	affiliation	San Antonio Spurs
+63	affiliation	Spurs
+63	birthplace	Los Angeles
+63	occupation	guard
+63	occupation	point guard
+63	occupation	senior
+63	school	Inglewood High School
+63	school	Syracuse
+63	school	Syracuse University
+64	affiliation	Midland RockHounds
+64	affiliation	Modesto A's
+64	affiliation	Southern Oregon Timberjacks
+66	work	Biker Build-Off
+66	work	Brian Klock vs. Jason Hart
+66	work	Chasing the Dream
+67	affiliation	RedHawks
+67	occupation	first baseman
+71	affiliation	Charlotte Bobcats
+71	affiliation	Los Angeles Clippers
+71	affiliation	Milwaukee Bucks
+71	affiliation	Orangemen
+71	affiliation	Sacramento Kings
+71	affiliation	San Antonio Spurs
+71	affiliation	Utah Jazz
+71	mentor	Jim Boeheim
+71	othername	Jason Keema Hart
+71	school	SU
+71	school	Syracuse
+71	school	Syracuse University
+72	affiliation	MetroTex Association of REALTORS
+72	phone	(214) 540-2727
+72	phone	(817) 944-6382
+72	website	http://www.dfwrealtors.com
+75	affiliation	Clippers
+75	affiliation	Clips
+75	affiliation	Jazz
+75	affiliation	LAC
+75	affiliation	Los Angeles Clippers
+75	affiliation	Utah
+75	affiliation	Utah Jazz
+75	occupation	G
+75	occupation	PG
+75	occupation	backup PG
+75	occupation	guard
+76	affiliation	Los Angeles Clippers
+76	dateofbirth	Apr 29 1978
+76	occupation	Guard
+76	school	Syracuse
+79	affiliation	Utah Jazz
+79	occupation	PG
+80	affiliation	ACTI
+80	affiliation	ActivIdentity
+80	affiliation	ActivIdentity&#174; Corporation
+80	affiliation	ActivIdentity? Corporation
+80	affiliation	Protocom
+80	award	Ernst & Young Australian Young Entrepreneur Of The Year
+80	location	Silicon Valley
+80	nationality	Australian
+80	occupation	CEO
+80	occupation	Entrepreneur
+80	occupation	chief executive office
+80	website	www.actividentity.com
+81	affiliation	Paris Business Review
+83	affiliation	Bobcats
+83	affiliation	Charlotte
+83	affiliation	Los Angeles Clippers
+83	affiliation	Sacramento
+83	occupation	guard
+83	occupation	point guard
+83	school	Syracuse
+85	affiliation	Bobcats
+85	affiliation	Charlotte
+85	affiliation	Clippers
+85	affiliation	Jazz
+85	affiliation	Sacramento
+85	affiliation	Utah Jazz
+85	mentor	Dunleavy
+85	mentor	Eric Musselman
+85	mentor	Mike Dunleavy
+85	occupation	player
+87	affiliation	Clippers
+87	affiliation	Jazz
+87	affiliation	Los Angeles Clippers
+87	occupation	guard
+87	occupation	veteran guard
+89	email	jasonhart6@hotmail.com
+90	affiliation	Utah Jazz
+90	occupation	Guard
+90	school	Syracuse
+91	affiliation	Mayport Naval Air Station
+91	affiliation	Navy
+91	affiliation	USS Saratoga (CV 60), Operations Department, Operations Information Division
+91	birthplace	Chattanooga, TN
+91	birthplace	TN
+91	dateofbirth	1970
+91	occupation	Operations Specialist
+91	occupation	Petty Officer Third Class, E-4
+91	occupation	Veteran
+91	othername	Hart, Jason
+91	othername	Jason W. Hart
+92	affiliation	Clippers
+92	affiliation	Los Angeles Clippers
+92	affiliation	Utah
+92	occupation	backup point guards
+92	occupation	guard
+93	email	Jason@milehighmultisport.com
+93	location	Saratoga, New York
+93	occupation	Coach
+93	occupation	USAT Level 1 Certified Triathlon Coach
+93	occupation	sophomore
+93	school	University of Wisconsin-Whitewater
+95	othername	Jason 
+97	affiliation	Utah Jazz
+98	affiliation	Charlotte Bobcats
+98	mentor	Adelman
+98	mentor	Rick Adelman
+98	occupation	point guard
+99	school	SU
+99	school	Syracuse
+100	work	Biker Build Off Season 3 - Episode 11: Brian Klock vs. Jason Hart
+101	affiliation	Clippers
+101	affiliation	Los Angeles Clippers
+106	affiliation	Charlotte
+106	affiliation	Clippers
+106	affiliation	Jazz
+106	affiliation	Los Angeles
+106	affiliation	Los Angeles Clippers
+106	affiliation	Sacramento Kings
+106	affiliation	Utah
+106	affiliation	Utah Jazz
+106	occupation	point guards
+107	work	Iggy Woo
+109	location	New York
+109	occupation	pianist
+109	occupation	seasoned recitalist
+109	occupation	staff accompanist
+109	school	American Institute of Musical Studies
+109	work	Hansel and Gretel
+109	work	Into the Woods
+109	work	Les Miserables
+109	work	The Magic Flute
+110	affiliation	Charlotte
+110	affiliation	Clippers
+110	affiliation	Jazz
+110	affiliation	Los Angeles
+110	affiliation	Los Angeles Clippers
+110	affiliation	Sacramento Kings
+110	affiliation	Utah
+110	affiliation	Utah Jazz
+110	occupation	point guards
+110	school	SU
+112	affiliation	Charlotte Bobcats
+112	affiliation	Clippers
+112	affiliation	Jazz
+112	affiliation	Los Angeles Clippers
+112	affiliation	Orange
+112	affiliation	Sacramento Kings
+112	affiliation	San Antonio Spurs
+112	affiliation	Utah Jazz
+112	birthplace	California
+112	school	SU
+112	school	Syracuse
+113	affiliation	Charlotte
+113	affiliation	Jazz
+113	affiliation	Los Angeles Clippers
+113	affiliation	Milwaukee
+113	affiliation	Sacramento
+113	affiliation	San Antonio
+113	affiliation	Utah Jazz
+113	occupation	guard
+113	occupation	point guard
+114	affiliation	Frisco RoughRiders
+114	affiliation	RoughRiders
+114	affiliation	Texas Rangers
+114	occupation	first baseman
+117	affiliation	Protocom Development Systems
+117	nationality	Australian
+117	occupation	IT entrepreneur
+118	affiliation	ACTI
+118	affiliation	ActivCard
+118	affiliation	ActivCard Corp.
+118	affiliation	ActivIdentity
+118	affiliation	Protocom
+118	affiliation	board of directors
+118	affiliation	sales and marketing
+118	location	Fremont, Calif.
+118	occupation	CEO
+118	occupation	Chief Executive Officer
+118	occupation	chief executive officer
+118	occupation	senior manager
+118	occupation	senior vice president
+118	website	http://www.actividentity.com
+121	affiliation	Clippers
+121	affiliation	Los Angeles
+121	affiliation	Los Angeles Clippers
+121	mentor	Mike Dunleavy
+121	occupation	guard
+122	affiliation	Bobcats
+122	affiliation	Clippers
+122	affiliation	Jazz
+122	affiliation	Los Angeles
+122	affiliation	Utah
+122	affiliation	kings
+122	occupation	point guards
+124	affiliation	Oklahoma RedHawks
+124	affiliation	Sacramento River Cats
+126	othername	Hitman
+126	othername	Jason 
+127	affiliation	Clippers
+127	affiliation	Los Angeles Clippers
+127	affiliation	Utah
+127	occupation	backup point guards
+127	occupation	guard
+128	affiliation	CHR
+128	affiliation	LAC
+128	affiliation	MIL
+128	affiliation	SAC
+128	affiliation	SAS
+128	affiliation	UTA
+128	birthplace	Los Angeles, CA, USA
+128	dateofbirth	4/29/1978
+128	occupation	G
+128	occupation	Players
+128	othername	Jason Keema Hart
+128	school	Inglewood
+128	school	Syracuse
+128	school	Syracuse University
+130	affiliation	CRYPTOCard
+130	occupation	CEO
+130	occupation	European CEO
+130	website	www.twofactor.blogspot.com
+131	affiliation	Mayport Naval Air Station
+131	affiliation	Navy
+131	affiliation	USS Saratoga (CV 60), Operations Department, Operations Information Division
+131	birthplace	Chattanooga, TN
+131	occupation	Petty Officer Third Class, E-4
+131	othername	Jason W. Hart
+132	affiliation	Minnesota Twins
+132	affiliation	Texas Rangers
+132	affiliation	Twins
+135	affiliation	Jazz
+135	affiliation	Utah
+135	mentor	Jerry Sloan
+135	mentor	Sloan
+135	occupation	reserve guards
+138	affiliation	Clippers
+138	affiliation	Los Angeles Clippers
+138	affiliation	Utah
+138	occupation	backup point guards
+138	occupation	guard
+139	affiliation	Dramapop
+139	occupation	keyboard player
+139	occupation	singer/songwriter
+139	occupation	solo artist
+139	work	Antonio
+139	work	Beautiful Nightmare
+139	work	Don't Fall
+139	work	Hold On
+139	work	I Won't Blame Myself
+139	work	IF I WERE YOU
+139	work	If I Were You
+139	work	Israel
+139	work	Marco Polo
+139	work	Mona Lisas and Mad Hatters
+139	work	Rising/Falling
+139	work	Sometimes the Heart
+139	work	Sweet Lorraine
+139	work	Take a Look Around
+140	affiliation	Charlotte
+140	affiliation	Clippers
+140	affiliation	Jazz
+140	affiliation	Los Angeles
+140	affiliation	Los Angeles Clippers
+140	affiliation	Sacramento Kings
+140	affiliation	Utah
+140	affiliation	Utah Jazz
+140	occupation	point guards
+142	affiliation	Clippers
+142	affiliation	Los Angeles Clippers
+143	affiliation	Built Right
+143	affiliation	Built Right Inc.
+143	affiliation	Built Right Incorporated
+143	affiliation	Built Right, Incorporated
+144	affiliation	Sacramento Kings
+144	occupation	PG
+144	occupation	SG
+145	affiliation	Plymouth Albion
+145	occupation	forward
+146	affiliation	Clippers
+146	affiliation	Jazz
+146	affiliation	L.A.
+146	affiliation	Utah Jazz
+146	mentor	Sloan
+146	occupation	backup, point guard
+146	occupation	player
+146	occupation	point guard
+148	affiliation	Hart Commercial Real Estate
+148	affiliation	LHI Apartment Brokers
+148	affiliation	LeMay & Hart Real Estate Investments
+148	affiliation	Pismo Coast Association of Realtors
+148	affiliation	board of directors for the Boys & Girls Club of South San Luis Obispo
+148	affiliation	board of directors of Arroyo Grande Rotary Club
+148	fax	805-481-9019
+148	location	Hart Commercial Real Estate 200 South 13th St, Suite 202 Grover Beach, CA 93433
+148	occupation	Commercial Real Estate Broker
+148	occupation	Commercial real estate broker
+148	occupation	broker
+148	phone	805-481-9010
+148	school	California Polytechnic State University of San Luis Obispo School of Business
+148	website	www.HartCRE.com
+149	relatives	Lina Obshatkina
+150	affiliation	Clippers
+150	affiliation	Los Angeles Clippers

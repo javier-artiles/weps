@@ -1,0 +1,89 @@
+1	affiliation	Center Universitaire d'Informatique University of Geneva
+1	affiliation	Cognitive Computation Group at  University of Illinois at Urbana-Champaign
+1	affiliation	Computer Science department at University of Geneva
+1	affiliation	Geneva Artificial Intelligence Lab
+1	degree	B.S
+1	degree	M.S
+1	fax	41 22 379 02 50
+1	major	Applied Mamathics and Informatics
+1	major	CS
+1	mentor	Christian Pellegrini
+1	mentor	James Henderson
+1	occupation	PhD Student
+1	phone	41 22 379 02 15
+1	school	St. Petersburg State Polytechnical University
+1	work	ISBN Constituent Parser
+1	work	ISBN Dependency Parser
+1	work	SSN Parsing Package
+2	occupation	Actor
+2	othername	Vanya Titov
+2	work	Mol'ba o proshchenii
+3	occupation	Actor
+3	othername	Vanya Titov
+3	work	Mol'ba o proshchenii
+4	affiliation	University of Geneva
+4	work	ISBN Dependency Parser
+4	work	idp
+5	affiliation	Swingler Co
+5	affiliation	Swingler co
+5	email	ititov@usa.net
+5	occupation	programmers
+5	occupation	software support
+6	work	Day Watch
+7	work	Day Watch
+8	othername	ivan_titov@list.ru
+10	othername	ivan_titov@list.ru
+13	affiliation	University of Illinois at Urbana-Champaign
+13	occupation	Postdoctoral Researcher
+21	affiliation	University of Illinois at Urbana-Champaign
+21	mentor	Dan Roth
+21	occupation	Postdoctoral Researchers
+22	affiliation	University of Geneva
+22	location	Switzerland
+23	affiliation	College of Engineering
+23	affiliation	Department of Computer Science
+23	affiliation	Thomas M. Siebel Center for Computer Science
+23	affiliation	UIUC
+23	affiliation	University of Illinois at Urbana-Champaign
+24	affiliation	College of Engineering
+24	affiliation	Department of Computer Science
+24	affiliation	Thomas M. Siebel Center for Computer Science
+24	affiliation	UIUC
+24	affiliation	University of Illinois at Urbana-Champaign
+26	affiliation	ACL
+26	affiliation	Association for Computational Linguistics
+26	othername	I. Titov
+27	affiliation	University of Illinois at Urbana-Champaign
+31	occupation	Sound Designer
+31	work	Day Watch
+33	affiliation	University of Geneva
+33	location	Switzerland
+38	work	Day Watch
+40	work	Day Watch
+43	work	Day Watch
+46	affiliation	Smena
+46	occupation	financial manager
+48	occupation	Sound Designer
+48	work	Day Watch
+54	affiliation	University of Geneva
+54	location	Switzerland
+63	affiliation	University of Geneva
+63	location	Switzerland
+86	location	Zelenograd
+90	relatives	Feodosiia
+90	relatives	Varvara TITOV
+91	occupation	Sound Designer
+91	work	Day Watch
+92	location	Moscow
+92	location	Moscow, Russia
+92	othername	MustDie
+93	affiliation	PRATUM INTEGRUM ORCHESTRA
+93	occupation	2nd violin
+95	affiliation	PRATUM INTEGRUM ORCHESTRA
+95	occupation	2nd violin
+104	award	Best Sound Directing
+104	award	Golden Eagle
+104	award	National Film Awards
+104	work	Day Watch
+108	affiliation	University of Geneva
+108	website	http://cui.unige.ch/~titov/

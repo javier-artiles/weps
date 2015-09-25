@@ -1,0 +1,163 @@
+2	Date of birth	1965
+2	Birthplace	Dublin
+2	Occupation	lecturer in baroque and early music
+2	Affiliation	Mary Immaculate College, Unversity of Limerick
+2	School	College of Music	Trinity College Dublin	National University of Ireland, Maynooth	NUI, Maynooth
+2	Major	music	Irish	Performance	Musicology	organ	musicology
+2	Degree	MA	PhD
+5	Occupation	founder	editor	Author	author
+5	Work	The Trouble with Tom	Banvard's Folly	Sixpence House	Not Even Wrong: Adventures in Autism	Community Writing	The Trouble with Tom: The Strange Afterlife and Times of Thomas Paine	121 Years of Solitude
+5	Location	Iowa City, Iowa
+6	Occupation	author	editor
+6	Work	The Trouble with Tom	Banvard's Folly	Sixpence House	Not Even Wrong: Adventures in Autism	Community Writing	Lady Into Fox	Sixpence House: Lost in a Town of Books	To Ruhleben?And Back	English As She Is Spoke	Banvard's Folly: Tales of Renowned Obscurity, Famous Anonymity, and Rotten Luck
+6	Location	Portland, Oregon
+8	Occupation	author
+8	Work	Not Even Wrong: A Father's Journey Into the Lost History of Autism	Sixpence House: Lost in a Town of Books 	The Trouble with Tom: The Strange Afterlife and Times of Thomas Paine	Sixpence House
+10	Occupation	Artist
+10	Work	Live in Spain	From Town to Town	Paul Collins
+12	Occupation	priest
+15	Other name	Paul David Collins
+16	Occupation	artists
+17	Date of birth	25 July 1937
+17	Birthplace	London, England, UK
+17	Occupation	Actor	writer	performer
+17	Work	Peter Pan	Caddyshack 	Following the Leader	There She Goes	Art School Confidential	Metal Gear Solid 3: Subsistence	Without a Trace	W.A.T	Viuda Negra	xXx: State of the Union	xXx 2: The Next Level	xXx?: The Next Level	Cold Circle & Intersection	xXx: The Next Level	The West Wing	Faith-Based Initiative	Metal Gear Solid 3: Snake Eater	MGS3	Metal Gear Solid 3	Ideal	Bring It on Again	Dragnet	L.A. Dragnet	For Whom the Whistle Blows	JAG	Dangerous Game	Critical Condition	In Country	First Casualty	Code of Conduct	Joe and Max	Joe and Max - Rivalen im Ring	Scrubs	My Day Off	The Breed	When Billie Beat Bobby	Billie contre Bobby: La bataille des sexes	The Invisible Man	I-Man	It Hurts When I Do This	Family Law	A Mother's Son	A Season for Miracles	Hallmark Hall of Fame: A Season for Miracles	Chicago Hope	Upstairs, Downstairs	Instinct	The Practice	Infected	The Drew Carey Show	Drew Dates a Senior	Dead Man on Campus	Captured	Profiler	Bloodlust	Ambition in the Blood	Shadow of Angels	Shadow of Angels: Part 2	Ally McBeal	Pilot	Ink	Murphy's Law	ER	Post Mortem	Malcolm & Eddie	Club Story	Mother	The John Larroquette Show	Larroquette	Running for Carly	Executive Decision	Champs	For Art's Sake	Beverly Hills, 90210	Breast Side Up	Must Be a Guy Thing	The Little Fish	Dad, the Angel & Me	Long Shadows	Tarz?n	Tarzan and the New Commissioner	Tarzan and the Sapphire Elephant	Acapulco H.E.A.T.	Code Name: Perfect Specimen	Law & Order	Law & Order Prime	Pride and Joy	Love, Honor & Obey: The Last Mafia Marriage	Dave	Black Widow Murders: The Blanche Taylor Moore Story	Star Trek: Deep Space Nine	DS9	Deep Space Nine	Star Trek: DS9	Battle Lines	Bloodlines: Murder in the Family	Life Goes On	Incident on Main	Sinatra	Melrose Place	A Promise Broken	Raven	Is Someone Crazy in Here or Is It Me	The Golden Girls	Home Again, Rose: Part 2	The Mangiacavallo Curse Makes a Lousy Wedding Present	Secrets	Danielle Steel's Secrets	For Richer, for Poorer	Father, Son and the Mistress	Quantum Leap	The Play's the Thing - September 9, 1969	Growing Pains	The Young and the Homeless	Night Court	My Life as a Dog Lawyer	Razing Bull	Defenseless	The Marrying Man	Too Hot to Handle	Guilty by Suspicion	Liste noire, La	The Chase	L.A. Law	New Kidney on the Block	Izzy Ackerman or Is He Not	Murphy Brown	Strike Two	Funny About Love	Family of Spies	The Operation	Bodily Harm	Hunter	Code 3	Matlock	The Mayor: Part 2	The Mayor: Part 1	The Neon Empire	George Washington II: The Forging of a Nation	Without a Trace	The Royal Romance of Charles and Diana	Hawaii Five-O	McGarrett	One for the Money	N.Y.P.D.	What's a Nice Girl Like You	Fair Exchange	To Each His Own	Surfside 6	Heels over Head	Midnight Lace	You Are There	Mr. Christian Seizes the Bounty	The Pepsi-Cola Playhouse	Action Tonight	A Mansion for Jimmy	Peter Pan	The Walt Disney Christmas Show	Lorna Doone	Rogues of Sherwood Forest	Challenge to Lassie	Woman to Woman
+18	Occupation	Rev.	Fr.
+18	Affiliation	M.S.C.	MSC
+18	Work	Papal Power	Papal Power: A Proposal for Change in Catholicism's Third Millennium
+18	Degree	Dr.
+22	Occupation	Fr	Specialist Editor-Religion
+22	Affiliation	ABC	MSC
+22	Work	Mixed Blessings	No Set Agenda	God's Earth: Religion as if Matter Really Mattered
+24	Work	Not Even Wrong: Adventures in Autism
+29	Occupation	instructor	director	officer	director	co-director 	leader
+29	Affiliation	Ethnic Dance Chicago	the C & J Dancers	the Folk Dance Council of Chicago	University of Chicago	the University of Chicago Folk Dance Club
+29	School	Tilden Tech	University of Chicago
+29	Location	Chicago	Ethinc Dance Chicago2656 W Montrose Ave - Suite 110 Chicago, IL 60618
+29	Phone	(773)-463-2288
+29	FAX	(773)-463-1830
+29	Email	pcollins@ethnicdance.net
+31	Occupation	Client Partner	Principal/Account Director	Planner 	Vice President
+31	Affiliation	Macquarium	Macquarium Intelligent Communications	Radius Communication	Fleishman-Hillard
+31	School	Wittenberg University
+31	Location	Greater Atlanta Area
+32	Work	The Trouble With Tom: The Strange Afterlife and Times of Thomas Paine
+33	Work	From Town to Town
+34	Date of birth	1969
+34	Birthplace	Pennsylvania
+34	Occupation	writer
+34	Affiliation	Collins Library
+34	Work	Community Writing: Researching Social Issues Through Compostion	Banvard's Folly: Thirteen Tales of Renowned Obscurity, Famous Anonymity, and Rotten Luck	Sixpence House: Lost in a Town of Books	Not Even Wrong: Adventures in Autism 	The Trouble with Tom: The Strange Afterlife and Times of Thomas Paine	English as She Is Spoke	To Ruhleben?And Back	Lady into Fox	The Riddle of the Traveling Skull	The Lunatic at Large
+34	Nationality	American
+35	Birthplace	England
+35	Occupation	AUTHOR	writers
+35	Work	CYBERSKIN
+35	Award	Heavyweight Kick Boxing Champion of Australia
+35	Location	Australia
+37	Occupation	missionary
+37	Location	First Baptist Church, Elyria, Ohio
+37	Relatives	Mary Amesbury
+41	Occupation	Personal Trainer	leader	Strength and Conditioning Coach and Personal Trainer
+41	Work	The Body Coach 'Firmer Thighs & Trimmer Waist'	Core-Strength Basics 'Bodyweight Toning Exercises' Build your strongest body ever with Australia's ""Body Coach""	Speed for Sport 'Basics' Drills for developing Speed, Agility and Quickness for Sport.	Quickfeet, Dynamic Warm-up Basics Learn how to Warm-up on the move	""Swimstrength"" Revolutionary Core-Strength Exercise Program for Swimming
+41	Major	Personal Development, Health and Physical Education	PDHPE
+41	Degree	Bachelor of Physical Education Degree
+42	Affiliation	Portland State University
+42	Work	The Trouble With Tom: The Strange Afterlife and Times of Thomas Paine.
+44	Affiliation	Portland State University
+44	Work	The Trouble With Tom: The Strange Afterlife and Times of Thomas Paine
+45	Date of birth	July 25, 1985	1985
+45	Birthplace	Kentucky
+45	Other name	Matthew Paul Collins	Matthew Collins	Matt
+45	Relatives	Sandi Kay
+46	Occupation	Tech Support staff
+46	Affiliation	Pacman's Portal
+47	Work	The Earthborn
+47	Nationality	Aussie
+51	Other name	Paul D. Collins
+51	Work	The Hidden Face of Terrorism: The Dark Side of Social Engineering, From Antiquity to September 11	The Ascendancy of the Scientific Dictatorship: An Examination of Epistemic Autocracy, From the 19th to the 21st Century
+51	Major	Communications
+51	Degree	Associate of Arts and Science degree
+52	Other name	Paul Collins Bloomsbury
+52	Occupation	author
+52	Affiliation	Hay Castle
+52	Work	Sixpence House: Lost in a Town of Books	Banvard's Folly: Thirteen People Who Didn't Change the World
+52	Mentor	Richard Booth
+52	Relatives	Jennifer	Morgan
+53	Birthplace	New York City
+54	Other name	Collins, Paul
+54	Occupation	author
+54	Work	Sixpence House: Lost in a Town of Books	Banvard's Folly: Thirteen People Who Didn't Change the World	Not Even Wrong.
+54	Location	San Francisco	Welsh
+58	Occupation	artists
+58	Work	From Town To Town
+62	Occupation	priesthood	Australian church historian	Sacred Heart	Fr.	Catholic priesthood
+62	Work	Papal Power	From Inquisition to Freedom
+62	Location	Australia
+63	Date of birth	1954
+63	Work	2 Real 2000	Castle Rock	Cyberboy	Double Trouble	Flying High!	The Gold Diggers	The Hyper Kid	Out of This World	Replicas	Rude Cars	The Shadow Factory	Spaced Out!	The Tooth Fairy Mystery	Tricking	The Wizard's Torment 	The Government in Exile 	Old Bones 	The Dog King 	Generation X 	Cyberskin 	Stalking Midnight 	Dragonlinks 	The Earthborn
+63	Location	Australia
+68	Occupation	Father	priesthood	freelance writer	broadcaster 	Fr
+68	Affiliation	ABC	ABC Television	Missionaries of the Sacred Heart
+68	Work	Crusade or Conspiracy	From Inquisition to Freedom
+69	Other name	Paul S. Collins
+69	Occupation	Dr.	MD	Critical Care Surgeon	General Surgeon	Vascular Surgeon
+69	School	MD	Dr.
+69	Degree	University South Florida College Med
+69	Location	Saint Petersburg, Florida (FL)	1201 5th Avenue North Saint Petersburg, Florida (FL)
+70	Date of birth	1940
+70	Birthplace	Melbourne
+70	Occupation	Catholic priesthood	priest	secondary school teacher	broadcaster	commentator	Specialist Editor ? Religion	protagonist	free-lance priest-writer-broadcaster
+70	Affiliation	ABC
+70	Work	Mixed Blessings	No Set Agenda	God's Earth: Religion as if Matter Really Mattered	Papal Power
+70	School	Harvard University	the Australian National University
+70	Major	theology	history
+70	Degree	Masters degree	Doctorate
+70	Location	Canberra
+73	Occupation	Author	writers
+73	Work	Not Even Wrong: Adventures in Autism	Sixpence House
+73	Location	Hay-On-Wye
+73	Relatives	Morgan
+74	Location	Chicago, Illinois
+74	Phone	(773) 506-8822 (h)	(773) 463-2288 (w)
+74	Email	pcollins@jordan-webb.net
+78	Date of birth	1954
+78	Birthplace	England
+78	Work	Metaworlds	Strange Fruit	The Wizard's Tormen	The Worm Ourobouros	The Worm Ourobouros	Fantastic Worlds	Dream Weavers,	The Earthborn	The Willcroft Inheritance	Gothic Ghosts
+78	Award	the Australian SF Achievement Awards	Aurealis Convenors'Award	Clayton's Award	Aurealis Convenors' Award
+78	Location	Australia
+79	Work	Harriet Tubman's Underground Railroad
+85	Work	Flyin High	01 Sombi li sombi lo	02 Who's gonna buy me a beer 	Afton Place 	All over the world 	All Over Town 	Atoon Place 	Bobby	Don't Wait Up For Me 	Dream A Little Longer 	FDR	Flying High 	Hanging On The Telephone 	Helen 	I'm on Fire 	In Another World 	It's Gonna Be a Long Time 	It's Not Easy Being Poor 	Let me into your life 	Let's Go 	Long Way From Home 	Lost Again 	More than Yesterday	On The Highway 	Paco & Juan 	Paco and Juan 	Paco Y Juan 	R&Roll Shoes 	Rock 'n' Roll Shoes	Silly Love 	Soul Cellar	That's What Life Is All About 	The Kids Are The Same 	Under The Spanish Sun 	Walking Out Of Love	Will You Be A Woman 	You Can Fly! You Can Fly! You Can Fly!
+85	Web site	www.metropolisink.com/pcollins
+86	Work	Art School Confidential	XXX: State of the Union	Captured 	Instinct 	Mother 	Executive Decision 	Defenseless 	Guilty By Suspicion 	The Marrying Man 	Funny About Love 	Without a Trace) 	Caddyshack 	Midnight Lace 	Peter Pan
+90	Affiliation	Portland State University
+90	Work	The Trouble with Tom: The Strange Afterlife and Times of Thomas Paine
+92	Work	Art School Confidential	Joe And Max	The Breed 	Captured	Instinct	Pavilion of Women	Melrose Place 	Scrubs
+93	Date of birth	1954
+93	Birthplace	England
+93	Occupation	writers
+93	Work	Strange Fruit	Metaworlds	The Wizard's Torment	Dream Weavers	Book People ? Meet Australia's favourite children's authors and illustrators.	Spinouts
+93	Award	Australian SF Achievement Awards	Aurealis Convenors' Award	the Clayton's Award	the Aurealis Convenors' Award	the inaugeral Peter McNamara Award
+93	Location	Australia
+94	Affiliation	University of Chichester
+94	School	University of London
+94	Degree	PhD
+94	Location	New Hall 109	University of Chichester, College Lane, Chichester, West Sussex PO19 6PE
+94	Phone	+44 (0) 1243 816194
+94	FAX	+44 (0) 1243 816080
+94	Email	p.collins@chi.ac.uk
+96	Birthplace	New York City
+96	Affiliation	Beat	Nerves	Columbia
+96	Work	To Beat or Not to Beat
+96	School	Julliard School of Music
+97	Occupation	priest	historian	priesthood	Rev.
+97	Affiliation	MSC
+97	Work	Papal Power	Papal Power by an anonymous consulter of the Congregation for the Doctrine of the Faith.
+97	Degree	Dr.
+97	Nationality	Australian
+98	Occupation	writer	freelancer
+98	Work	PRESCIENCE RENDEZVOUS	KING WITHOUT AN EMPIRE
+98	Nationality	Canadian
+99	Occupation	Rev.	Fr.
+99	Affiliation	MSC
+99	Work	Papal Power by an anonymous consulter of the Congregation for the Doctrine of the Faith	Papal Power: A Proposal for Change in Catholicism's Third Millennium
+99	Degree	Dr.

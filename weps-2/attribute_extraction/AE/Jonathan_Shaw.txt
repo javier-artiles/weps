@@ -1,0 +1,669 @@
+1	relatives	Kathy
+4	affiliation	Fun City
+4	affiliation	Fun City Tattoo
+4	birthplace	New York
+4	birthplace	New York City
+4	birthplace	New York City, New York
+4	dateofbirth	Independence Day 1953
+4	dateofbirth	July 4, 1953
+4	location	Rio de Janeiro, Brazil
+4	mentor	Bob Shaw
+4	mentor	Charles Bukowski
+4	mentor	Spider Webb
+4	mentor	Webb
+4	occupation	Author
+4	occupation	Tattoo artist
+4	occupation	managing editor
+4	occupation	tattoo artist
+4	occupation	tattooist
+4	occupation	writer
+4	othername	Jonathan D. Shaw
+4	othername	Jonathan Dowling Shaw
+4	relatives	Artie Shaw
+4	relatives	Doris
+4	relatives	Doris Dowling
+4	relatives	Leonard B. Kaufman
+4	work	Narcisa Our Lady of Ashes
+4	work	Narcisa: Our Lady of Ashes
+6	occupation	Photographic Artist
+7	occupation	Editor
+7	occupation	Production Manager
+7	occupation	additional film editor
+7	occupation	assistant editor
+7	occupation	post-production assistant
+7	occupation	post-production supervisor
+7	occupation	supervising editor
+7	othername	Jonathan P. Shaw
+7	othername	Jonathon Shaw
+7	work	2GE+HER
+7	work	2gether
+7	work	Backfire
+7	work	Blind Justice
+7	work	Buddy
+7	work	Carmen: A Hip Hopera
+7	work	China: The Panda Adventure
+7	work	Commander in Chief
+7	work	D.A.R.Y.L.
+7	work	Dead Connection
+7	work	Doggone
+7	work	Dragon Sword
+7	work	Embedded
+7	work	Everest E.R.
+7	work	Fall from Grace
+7	work	Fancy Footwork
+7	work	Final Combination
+7	work	Four Feet Under
+7	work	Fright Night Part 2
+7	work	George and the Dragon
+7	work	George und das Ei des Drachen
+7	work	Happy New Year
+7	work	Hollis & Rae
+7	work	Homeward Bound: The Incredible Journey
+7	work	Jaws 3
+7	work	Jaws 3-D
+7	work	Jaws III
+7	work	Kill Me Again
+7	work	Leading with Her Heart
+7	work	Leap of Faith
+7	work	Lights Out
+7	work	Little Giants
+7	work	Orphans
+7	work	Over There
+7	work	Raising the Bar
+7	work	Roadblock Duty
+7	work	Rub a Tub Tub
+7	work	Santa and Pete
+7	work	Sea Monsters: A Prehistoric Adventure
+7	work	Shark
+7	work	Siegfried & Roy: The Magic Box
+7	work	Situation Normal
+7	work	T-Rex: Back to the Cretaceous
+7	work	The Bounty Hunter
+7	work	The Heavenly Kid
+7	work	The Magic Box
+7	work	The Whoopee Boys
+7	work	Twin Peaks
+7	work	Vietnam, Texas
+7	work	Virtuosity 
+7	work	Voices
+7	work	Voices from a Locked Room
+7	work	Walking Across Egypt
+7	work	What the #$*! Do We (K)now!?
+7	work	What the Bleep Do We Know!?
+7	work	What the Bleep!?: Down the Rabbit Hole
+8	occupation	Actor
+8	occupation	Director
+8	work	Condition Red
+8	work	Condition Red - h?lytystila
+8	work	Drau?en lauert der Tod
+8	work	It Happened One Night
+8	work	The Final Curtain
+8	work	Tightrope
+9	location	Rio De Janeiro
+9	occupation	artist
+9	occupation	blogger
+9	occupation	creator
+9	occupation	head doctor
+9	occupation	innovator
+9	occupation	novelist
+9	occupation	tattoo artist
+9	occupation	tattoo master
+9	relatives	Artie Shaw
+9	relatives	Doris Dowling
+9	work	NARCISA: OUR LADY OF ASHES
+9	work	Narcisa: Our Lady of Ashes
+10	affiliation	Groundwater and Natural Resources Protection Board
+10	occupation	Board Chair
+10	occupation	Geologist
+10	occupation	Hydrogeologist
+10	occupation	P.G.
+10	othername	Jonathan E. Shaw
+11	affiliation	Labour
+11	occupation	MP
+12	affiliation	Department of Computer Science University of Rochester
+12	email	jshaw@cs.rochester.edu
+12	location	CSB 630 Department of Computer Science University of Rochester Rochester, NY 14627
+13	affiliation	Duke Biology
+13	degree	PhD
+13	email	shaw@duke.edu
+13	fax	919-660-7293
+13	location	331/332 Bio Sci
+13	occupation	Professor
+13	othername	A. J. Shaw
+13	othername	J. Shaw
+13	phone	919-660-7344
+13	phone	919-660-7372
+13	school	University of Michigan
+14	occupation	body artist
+14	occupation	merchant seaman
+14	occupation	tattooist
+14	relatives	Artie Shaw
+14	work	Mambo Over Miami
+14	work	TATTOOED LADY
+15	affiliation	British Society of Painters
+15	affiliation	International Guild of Artists
+15	birthplace	Leeds
+15	dateofbirth	1959
+15	occupation	Fellow
+15	occupation	interior designer
+15	work	Noir I
+20	affiliation	Department of Biology Duke University
+20	affiliation	Duke University Herbarium
+20	affiliation	Shaw Laboratory
+20	degree	Ph.D.
+20	fax	(+1) 919 660-7293
+20	location	139 Biological Sciences Bldg.
+20	location	Durham  North Carolina 27708 U.S.A.
+20	occupation	Curator
+20	othername	Jon Shaw
+20	phone	(+1) 919 660-7345
+20	school	University of Michigan
+21	work	Time/motion
+26	affiliation	Boies, Schiller & Flexner
+26	affiliation	Seattle office of Susman Godfrey
+26	affiliation	U.S. District Court for the District of Maryland
+26	affiliation	Wiley, Rein & Fielding
+26	degree	B.A.
+26	degree	J.D.
+26	email	jshaw@bsfllp.com
+26	fax	202 237 6131
+26	location	Washington, DC
+26	major	History
+26	mentor	Frank A. Kaufman
+26	occupation	Associate Editor
+26	occupation	Partner
+26	occupation	associate
+26	occupation	partner
+26	othername	Jonathan M. Shaw
+26	phone	202 274 1123
+26	school	Johns Hopkins University
+26	school	University of Pennsylvania
+27	affiliation	Commons Environmental Audit Select Committee
+27	affiliation	Defra
+27	affiliation	Department for Environment, Food and Rural Affairs
+27	affiliation	Education and Skills Select Committee
+27	affiliation	Kent County Council
+27	affiliation	Marine, Landscape & Rural Affairs
+27	affiliation	commons
+27	birthplace	Aylesford
+27	dateofbirth	1966
+27	location	Snodland
+27	mentor	Ruth Kelly
+27	occupation	Assistant Government Whip
+27	occupation	MP
+27	occupation	Minister
+27	occupation	PPS
+27	occupation	Parliamentary Under Secretary of State
+27	occupation	care assistant
+27	occupation	fruit picker
+27	occupation	local councillor
+27	occupation	regional minister
+27	occupation	social worker
+28	affiliation	3face Media
+28	affiliation	Utilimaster Corp
+28	location	Indianapolis, Indiana Area
+28	major	Computer Sciences
+28	occupation	Owner
+28	occupation	inventory control clerk
+28	school	Ivy Tech State College
+29	occupation	Author
+29	work	Time/Motion
+30	occupation	Assistant Director
+30	occupation	Co-Producer
+30	work	Raising the Bar
+30	work	Shrooms
+30	work	The Daisy Chain
+30	work	Veronica Guerin 
+31	occupation	artists
+33	occupation	tattoo artist
+34	affiliation	Computer Science Ph. D. program at the University of Rochester
+34	affiliation	Department of Computer Science University of Rochester
+34	affiliation	URCS Vision
+34	email	jshaw@cs.rochester.edu
+34	location	CSB 630 Department of Computer Science University of Rochester Rochester, NY 14627
+34	occupation	Graduate Student
+34	website	http://www.cs.rochester.edu/jshaw
+34	website	http://www.rochester.edu/research/vision/people/Jonathan_M_Shaw
+35	occupation	photographer
+37	phone	(317) 577-3222
+37	phone	(800) 977-0922
+38	affiliation	Labour
+38	occupation	MP
+38	website	www.jonathanshaw.org.uk
+39	affiliation	British Society of Painters
+39	affiliation	International Guild of Artists
+39	birthplace	Leeds
+39	dateofbirth	1959
+39	occupation	Artist
+39	occupation	Fellow
+39	occupation	interior designer
+39	work	Amethyst Skies I
+39	work	Cinnamon Skies I
+39	work	Cinnamon Skies II
+39	work	Cinnamon Skies III
+39	work	Cinnamon Skies IV
+39	work	Crimson Contours I
+39	work	Crimson Contours II
+39	work	Crimson Contours III
+41	work	Narcisa: Our Lady of Ashes
+44	affiliation	Asian Institute of Technology
+44	location	Thailand
+45	location	Canada
+45	location	Ontario, Canada
+45	occupation	CEO
+45	occupation	International Vice President
+46	affiliation	E&S
+46	affiliation	Evans & Sutherland Computer Corporation
+46	affiliation	Spitz Inc.
+46	location	Salt Lake City, Utah
+46	occupation	CEO
+46	occupation	Chief Executive Officer
+46	occupation	Officer
+46	occupation	President
+46	othername	Jonathan A Shaw
+47	occupation	Editor
+47	work	Blind Justice
+47	work	Buddy
+47	work	Mickey
+47	work	Sea Monsters: A Prehistoric Adventure
+47	work	T-Rex: Back to the Cretaceous
+47	work	Voices 
+47	work	Walking Across Egypt
+47	work	What the #$*! Do We Know?!
+49	affiliation	Royal Navy
+49	occupation	officer
+49	othername	Jonathan Shaw Christian
+49	relatives	Charlotte Mabel Christian
+49	relatives	Douglas Christian
+49	relatives	Elizabeth Christian
+49	relatives	Emily Christian
+49	relatives	George Petrie Christian
+49	relatives	Jonathan Whitby Christian
+49	relatives	Mary Anne Christian
+49	relatives	Mary Shaw
+49	relatives	Prowse Christian
+49	relatives	Robert Calder Christian
+49	relatives	William Christian
+51	location	Sydney
+52	occupation	tattoo artist
+53	occupation	tattoo artist
+53	relatives	Artie Shaw
+53	work	Narcisa
+56	affiliation	College of Architecture's Animation and Modeling Research Lab
+56	affiliation	College of Computing Georgia Institute of Technology
+56	affiliation	College of Computing's Graphics, Visualizatio n, and Usability Center
+56	affiliation	Georgia Institute of Technology's GVU Center
+56	affiliation	Georgia Institute of Technology's Imagine Lab
+56	affiliation	Goldsmith's Studio
+56	affiliation	Roswell Clock & Antique Co.
+56	award	Best in Show
+56	degree	Bachelor of Arts
+56	degree	Bachelor of Science
+56	degree	Master of Science
+56	email	shawj@cc.gatech.edu
+56	location	801 Atlantic Drive College of Computing Georgia Institute of Technology Atlanta, GA 30332-0280
+56	location	Room 210
+56	major	Design Computing
+56	major	Mathematics
+56	major	Studio Art
+56	occupation	Faculty
+56	occupation	Research Scientist
+56	occupation	Research Scientist I
+56	othername	Jonathan Mac Shaw
+56	phone	404-894-5218
+56	school	Georgia Institute of Technology
+56	school	Kennesaw State University
+57	affiliation	Coventry University
+57	affiliation	De Montfort University
+57	affiliation	Media and Communication
+57	affiliation	North Warwickshire & Hinckley College
+57	affiliation	School of Art & Design at Coventry University
+57	affiliation	department of Media & Communication
+57	award	Creative Ambitions Award
+57	award	Photography Portfolio Award
+57	degree	B.A.
+57	degree	M.A.
+57	degree	Masters degree
+57	degree	Pg.Dip
+57	email	Jonathan.Shaw@coventry.ac.uk
+57	location	ET103
+57	major	Computer Graphics
+57	major	Graphic Design
+57	major	Moving Image and Photography
+57	major	Visual Communication
+57	occupation	Acting Course Leader
+57	occupation	Lecturer
+57	occupation	Media Production Course Director
+57	occupation	Principal Lecturer
+57	occupation	Programme Manager
+57	occupation	Senior Lecturer
+57	occupation	Visiting Lecturer
+57	occupation	commercial photographer
+57	occupation	photographic artist
+57	occupation	principal lecturer
+57	phone	+44 (0)24 7688 7198
+57	school	University of Central England
+57	school	University of Central England Birmingham
+57	school	University of the West of England
+57	school	University of the West of England Bristol
+57	website	http://www.jonathan-shaw.com/
+57	work	(re)collect
+57	work	100 Habits of Successful Graphic Designers
+57	work	Bull Ring the Heart of Birmingham
+57	work	Guide to Ecstacity
+57	work	Time|Motion
+58	affiliation	British Society of Painters
+58	affiliation	International Guild of Artists
+58	occupation	Fellow
+58	work	Cappucino Skies I (Ultimate Tour exclusive)
+58	work	Cappucino Skies II (Ultimate Tour exclusive)
+58	work	Cappucino Skies III (Ultimate Tour exclusive)
+58	work	Cerulean Skies (tryptych) paper 3 no I60 x I60
+58	work	Eastern Skies I
+58	work	Eastern Skies II
+58	work	Fusion I
+58	work	Fusion II
+58	work	Fusion III 
+58	work	Indigo Skies I
+58	work	Indigo Skies II
+58	work	Indigo Skies III
+58	work	Infinite Blue I (box canvas)
+58	work	Infinite Blue II (box canvas)
+58	work	Infinite Blue III (box canvas)
+58	work	Lava I
+58	work	Lava II
+58	work	Lava III
+58	work	Midnight Skies I
+58	work	Midnight Skies II
+58	work	Midnight Skies III
+58	work	Natural Contours I
+58	work	Natural Contours II
+58	work	Noir I
+58	work	Noir II
+58	work	Oriental I 
+58	work	Oriental II 
+58	work	Ruby Skies I (Love Tour exclusive)
+58	work	Ruby Skies II (Love Tour exclusive)
+58	work	Shadow Lands
+58	work	Umber skies I
+58	work	Umber skies II
+58	work	Umber skies III
+60	work	Natural Contours II
+60	work	Noir I
+60	work	Skies Of Fire II
+64	relatives	Alice
+64	relatives	Benoni Shaw
+64	relatives	George Shaw (sr)
+64	relatives	John Shaw
+64	relatives	Phoebe Watson
+68	birthplace	Leeds
+68	dateofbirth	1959
+68	occupation	Artist
+68	occupation	artist
+68	work	Amethyst Skies I, II, III
+68	work	Calypso skies
+68	work	Light force I II III
+68	work	Lilac Fusion I II II (triptych)
+68	work	Vanilla Skies
+69	affiliation	College of Computing Georgia Institute of Technology
+69	email	shawj@cc.gatech.edu
+69	location	801 Atlantic Drive College of Computing Georgia Institute of Technology Atlanta, GA 30332-0280
+69	location	Room 210
+69	occupation	Research Scientist I
+69	phone	404-894-5218
+70	affiliation	Too Nubian Entertainment
+70	othername	The Juiceman
+73	occupation	golfers
+81	affiliation	Environment
+81	occupation	Minister
+83	relatives	Adam Jordan Shaw
+83	relatives	Elena Rebecca Shaw
+83	relatives	Gale Kurzweil
+86	affiliation	Department of Biology, Ithaca College
+86	degree	Dr.
+86	fax	(607) 274-3474
+86	location	Department of Biology, Ithaca College, Ithaca, NY 14850
+86	location	Ithaca, New York
+86	othername	A. Jonathan Shaw
+86	phone	(607) 274-3969
+87	affiliation	Fun City Studio
+87	birthplace	New York City
+87	occupation	tattoo artists
+87	work	Tightrope
+88	birthplace	Prob England
+88	relatives	Persis DUNHAM
+88	relatives	Phebe WATSON
+89	affiliation	Department of Botany, Duke University
+89	location	Department of Botany, Duke University, Durham NC, 27708
+89	othername	A. JONATHAN SHAW
+90	birthplace	Elkrun Twsp. Columbiana Co., Ohio
+90	dateofbirth	1/14/1834
+90	location	Chandler Cemetery Hardin County, Ohio
+90	relatives	Abigail TURNER
+90	relatives	David SHAW
+90	relatives	Eva SHAW
+90	relatives	Hamilton SHAW
+90	relatives	Harvey Wood SHAW
+90	relatives	Ida A. SHAW
+90	relatives	Jennie SHAW
+90	relatives	Nancy WOOD
+90	relatives	Sarah SHAW
+91	affiliation	British Society of Painters
+91	affiliation	International Guild of Artists
+91	birthplace	Leeds
+91	dateofbirth	1959
+91	occupation	Fellow
+91	occupation	interior designer
+91	work	Cinnamon Skies I
+91	work	Cinnamon Skies II
+91	work	Cinnamon Skies III
+91	work	Cinnamon Skies IV
+91	work	Crimson Contours I
+91	work	Crimson Contours II
+91	work	Crimson Contours III
+91	work	Fusion 1
+91	work	Fusion 11
+91	work	Fusion 111
+91	work	Graphite Skies I
+91	work	Graphite Skies II
+91	work	Graphite Skies III
+91	work	Noir 1
+91	work	Noir 11
+93	relatives	Linda Shaw
+94	dateofbirth	May 1st
+95	affiliation	Department of Botany, Duke University
+95	location	Department of Botany, Duke University, Durham NC, 27708
+95	othername	A. JONATHAN SHAW
+96	location	Fayette County
+96	location	Indiana
+96	occupation	soldier
+99	occupation	managing editor
+100	affiliation	DEFRA
+100	affiliation	Labour
+100	affiliation	UK Fisheries
+100	occupation	Minister
+101	affiliation	Fun City
+101	location	Rio
+101	occupation	artist
+101	occupation	full time tattooer
+101	occupation	writer
+101	relatives	Vera
+101	work	Narcisa
+101	work	Narcisa: Our Lady of Ashes
+102	affiliation	British Society of Painters
+102	affiliation	International Guild of Artists
+102	birthplace	Leeds
+102	dateofbirth	1959
+102	occupation	Artist
+102	occupation	Fellow
+102	occupation	interior designer
+103	occupation	Minister
+103	occupation	Regional Minister
+105	affiliation	School of Art & Design at Coventry University
+105	degree	Masters degree
+105	occupation	principal lecturer
+105	school	University of Central England
+105	school	University of the West of England
+105	work	Guide to Ecstacity
+105	work	Time|Motion
+106	email	jsarcla@bellsouth.net
+106	location	365 nth 4th st baton rouge, la 70801
+107	affiliation	British Society of Painters
+107	affiliation	International Guild of Artists
+107	occupation	Fellow
+107	occupation	artist
+107	occupation	interior designer
+108	affiliation	AIT
+109	occupation	Artist
+109	work	Amethyst Skies I
+109	work	Cinnamon Skies I
+109	work	Cinnamon Skies II
+109	work	Cinnamon Skies III
+109	work	Cinnamon Skies IV
+109	work	Crimson Contours I
+109	work	Crimson Contours II
+109	work	Crimson Contours III
+109	work	Eastern Skies II
+109	work	Fusion I
+109	work	Fusion II
+109	work	Fusion III
+109	work	Graphite Skies I
+109	work	Graphite Skies II
+109	work	Graphite Skies III
+109	work	Indigo Skies I
+109	work	Indigo Skies II
+109	work	Indigo Skies III
+109	work	Lava I
+109	work	Lava II
+109	work	Lava III
+109	work	Midnight Skies I
+109	work	Midnight Skies II
+109	work	Midnight Skies III
+109	work	Natural Contours I
+109	work	Natural Contours II
+109	work	Noir I
+109	work	Noir II
+109	work	Oriental I
+109	work	Oriental II
+109	work	Sapphire Skies I
+109	work	Sapphire Skies II
+109	work	Sapphire Skies III
+109	work	Sapphire Skies IV
+109	work	Shadowlands
+109	work	Skies of Fire I
+109	work	Skies of Fire II
+109	work	Umber Skies III
+111	location	MIDLAND
+112	occupation	tattoo artist
+112	relatives	Artie Shaw
+112	relatives	Doris Dowling.
+113	affiliation	Media and Communication
+113	affiliation	Media and Communication department
+113	degree	Masters degree
+113	occupation	Course Leader
+113	occupation	Undergraduate Co-ordinator
+113	occupation	commercial photographer
+113	occupation	photographic artist
+113	school	University of Central England
+113	school	University of the West of England
+113	work	Guide to Ecstacity
+114	work	Narcisa
+114	work	Narcisa: Our Lady of Ashes
+115	affiliation	British Society of Painters
+115	affiliation	International Guild of Artists
+115	occupation	Fellow
+115	occupation	interior designer
+117	affiliation	Advanced Wood Products Lab
+117	affiliation	Center for Assistive Technology and Environmental Access
+117	affiliation	College of Architecture
+117	affiliation	College of Architecture's Interactive Media Architecture Group in Education (IMAGINE) Lab
+117	affiliation	College of Computing
+117	affiliation	GVU Center
+117	affiliation	Georgia Institute of Technology
+117	affiliation	Imagine Lab
+117	degree	B.A.
+117	degree	B.S.
+117	degree	M.S. degree
+117	location	217A
+117	major	Design Computing
+117	major	Mathematics
+117	major	Studio Art
+117	occupation	Associate Director
+117	occupation	Research Scientist I
+117	occupation	Research Scientist II
+117	occupation	instructor
+117	phone	404 894-4876
+117	school	Georgia Institute of Technology
+118	location	Rio De Janeiro
+118	occupation	author
+118	occupation	tattooist 
+118	website	www.myspace.com/jsfuncity
+118	work	NARCISA
+118	work	NARCISA: OUR LADY OF ASHES
+120	work	Inspiration
+120	work	Serenity
+120	work	Sienna Tryptich
+120	work	Terracotta Skies
+121	location	Birmingham, Great Britain
+121	othername	Shaw, Jonathan
+122	affiliation	IFS
+122	occupation	research economist
+123	occupation	property developer
+123	relatives	Camilla
+123	relatives	Camilla Shaw
+123	relatives	Jake
+125	affiliation	British Society of Painters
+125	affiliation	International Guild of Artists
+125	occupation	Fellow
+125	occupation	interior designer
+127	occupation	interior designer
+127	work	Seascape 1
+127	work	Seascape 2
+127	work	Seascape 3
+127	work	Seascape 4
+130	affiliation	Fisheries
+130	occupation	Minister
+133	affiliation	UK Fisheries
+133	occupation	Minister
+137	affiliation	U.K. Environment
+137	occupation	Minister
+138	work	Fusion I
+138	work	Fusion II
+138	work	Fusion III
+138	work	Lava I
+138	work	Lava II
+138	work	Lava III
+138	work	Noir I
+138	work	Noir II
+138	work	Oriental I
+138	work	Oriental II
+139	affiliation	CLET, AIT
+141	occupation	Artists
+141	work	Evening Blaze
+141	work	Fusion III
+141	work	Magenta Skies I
+141	work	Magenta Skies II
+141	work	Magenta Skies III
+141	work	Mellow Evening
+141	work	Midnight Skies I
+141	work	Midnight Skies II
+141	work	Noir I
+141	work	Noir II
+141	work	The End of the Day
+142	othername	A. Jonathan Shaw
+143	affiliation	British Society of Painters
+143	affiliation	International Guild of Artists
+143	occupation	Fellow
+144	relatives	Sarah Rich
+144	relatives	Thomas Shaw
+146	othername	A. Jonathan Shaw
+148	affiliation	Department for Environment, Food and Rural Affairs
+148	affiliation	House of Commons
+148	affiliation	Labour
+148	affiliation	Parliament
+148	email	shawj@parliament.uk
+148	occupation	Minister
+148	occupation	Parliamentary undersecretary of state
+149	email	jonathan.shaw@unco.edu
+149	occupation	Academic Program Coordinators
+149	phone	970 351-2897

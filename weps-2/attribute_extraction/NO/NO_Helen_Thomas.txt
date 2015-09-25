@@ -1,0 +1,13 @@
+2	No Value
+47	Multiple Target
+70	No Value
+82	No Value
+86	Not Found
+92	Search Result
+94	Search Result
+102	No Value
+114	No Name
+117	No Name
+127	No Value
+135	No Name
+147	No Value

@@ -1,0 +1,47 @@
+1	Search Results	CiteSeer (DB)
+4	Search Results	dblp (DB)
+5	Search Results	dblp (DB)
+8	Search Results	EasyBookSearch
+9	References	
+10	No Name	
+11	References	
+17	References	
+20	Multiple Targets	
+24	No Value	
+25	No Value	Bibliography
+27	No Name	
+30	No Value	
+31	No Value	
+32	No Value	
+34	No Value	
+36	No Value	Bibliography
+38	No Name	
+40	No Value	
+42	No Name	Harman
+44	No Value	Bibliography
+50	Inaccessible	
+51	No Value	
+52	No Value	Bibliography
+55	No Value	
+56	No Value	Bibliography
+58	No Value	dblp (DB)
+59	No Value	dblp (DB)
+65	No Value	Bibliography
+66	No Value	
+68	No Value	
+71	No Value	Bibliography
+72	No Value	
+74	No Value	
+75	No Value	Bibliography
+77	No Name	
+79	No Name	Login Page
+81	No Value	
+82	No Value	Bibliography
+85	No Value	
+88	No Value	Bibliography
+89	No Value	
+90	No Name	
+93	No Value	
+94	No Name	Page Not Found
+95	No Value	
+97	No Value	

@@ -1,0 +1,56 @@
+2	No Name
+3	Search Results	CiteSeer (DB)	
+6	No Name	Paul H. Clough	
+7	Search Results	AllBookstores.com	
+8	No Name	"Clough, Paul"	
+11	Non Person	Rocks from the Millstone Grit Series	
+14	No Value
+18	Search Results	CiteSeer (DB)	
+19	Search Results	Best Book Buys	
+24	search result
+25	no value
+27	search result
+28	search result
+29	name of things
+31 	search result
+34	search result
+35	search result
+37	search result
+38	name of things
+39	book review
+40	search result
+44	no value
+45	book review
+47	name of things
+50	no value
+51	no value
+53	no value
+54	non-english part and reference part
+55	search result
+56	no value
+57	reference page
+58	no name
+59	no name
+61	no value
+64	no value
+65	no value
+66	no value
+68	no value
+70	no value
+71	no name
+72	no name
+75	page not found
+76	no value
+77	no value
+78	name of things
+80	no value
+81	no name
+84	no name
+85	no value
+86	no name
+89	no name
+90	no value
+94	no name
+97	no value
+98	no value
+99	no value

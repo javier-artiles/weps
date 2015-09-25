@@ -1,0 +1,490 @@
+1	affiliation	Village Counseling
+1	degree	Dr.
+1	location	6797 North High Street Worthington, Ohio
+1	occupation	LISW
+1	phone	(614) 888-8819
+2	occupation	editors
+2	othername	Judith D. Schwartz
+2	work	Tell Me No Lies
+2	work	The Mother Puzzle
+3	affiliation	Design Five Creatives
+3	affiliation	Graphic Designers Professional Group
+3	affiliation	Long Island University, Southampton Campus
+3	affiliation	Macmillan/McGraw-Hill
+3	affiliation	Studio Six Graphics
+3	affiliation	The Cooper Union Alumni Association
+3	affiliation	The McGraw Hill Companies
+3	affiliation	Witz End Design
+3	degree	BFA
+3	degree	MA
+3	location	Greater New York City Area
+3	major	Advertising Design
+3	occupation	ART DIRECTOR
+3	occupation	Adjunct Professor
+3	occupation	Art DIrector
+3	occupation	Art Director
+3	occupation	DESIGNER
+3	occupation	Designer
+3	occupation	Sr. Design Mgr
+3	occupation	sr design mgr
+3	school	School of Visual Arts
+3	school	Syracuse University
+3	school	Syracuse University- School of Visual and Performing Arts
+3	school	The Cooper Union for the Advancement of Science and Art
+4	occupation	Actress
+4	occupation	historical consultant
+4	work	Before Stonewall
+4	work	Before Stonewall: The Making of a Gay and Lesbian Community
+4	work	Night Force
+4	work	Nightforce
+6	work	Animal Precinct
+6	work	Starved from Starvation
+6	work	Unprotected Guard Dog
+7	affiliation	Apple Computer
+7	affiliation	Polar Spring Corporation
+7	affiliation	Raise the Bar
+7	affiliation	To the Point
+7	major	fine arts
+7	occupation	President
+7	occupation	entrepreneur
+7	occupation	marketing manager
+7	occupation	product manager
+7	occupation	strategic planning manager
+7	school	Cornell University's School of Architecture, Art, and Planning
+7	work	Doublethink: A Tale of Unintended Consequences
+9	location	Bennington, Vt.
+9	othername	Judith D. Schwartz
+10	affiliation	New York City College of Technology
+10	degree	BS
+10	degree	EdD
+10	degree	MS
+10	email	jschwartz@citytech.cuny.edu
+10	occupation	Professor
+10	occupation	Registered Dental Hygienist
+10	phone	718.260.5075
+10	school	Columbia University
+10	school	Fairleigh Dickinson University
+10	school	Rutgers University
+11	affiliation	Northwestern University
+11	degree	PhD
+11	occupation	associate professor
+11	occupation	author
+11	occupation	specialist
+11	school	New York University
+11	work	French Court Dance and Dance Music: A Guide to Primary Source Writings
+11	work	New Grove Dictionary of Music and Musicians
+12	affiliation	School of Music
+12	degree	PhD
+12	email	j-schwartz@northwestern.edu
+12	occupation	Associate Professor
+12	occupation	Faculty Affiliates
+12	occupation	author
+12	occupation	specialist
+12	school	New York University
+12	work	French Court Dance and Dance Music: A Guide to Primary Source Writings
+12	work	New Grove Dictionary of Music and Musicians
+14	affiliation	Board of Directors for the Watershed Center for the Ceramic Arts, Studio Potter Magazine, The Joseph Schein International Museum of Ceramic Art, at Alfred University, The Jingdezhen Sanbao Ceramic Art Institute, Jingdezhen, China, The Musuem of Ceramic Art, New York, NY, and the Univeristy Council for Art Education
+14	affiliation	International Academy of Ceramics
+14	affiliation	New York University, Steinhardt School of Culture, Education, and Human Development
+14	affiliation	Sculpture: Craft Media Area
+14	award	Advisor of the Year
+14	degree	B.A.
+14	degree	M.A.
+14	degree	Ph.D.
+14	email	judith.schwartz@nyu.edu
+14	occupation	Associate Professor
+14	occupation	Educational consultant
+14	occupation	Head
+14	occupation	Invited member
+14	occupation	author
+14	occupation	critic
+14	occupation	curator
+14	phone	(212) 998 5700
+14	school	New York University
+14	school	Queens College
+14	work	Confrontational Clay: The Artist As Social Critic
+16	affiliation	Laila Rowe
+16	birthplace	Bronx, New York
+16	major	jewelry design
+16	occupation	artist
+16	occupation	jewelry collector and designer
+16	occupation	owners
+16	school	Fashion Institute of Technology
+17	affiliation	Department of Elementary and Early Childhood Education at Queens College, City University of New York
+17	affiliation	Queens College
+17	degree	Dr.
+17	degree	Masterfs degree
+17	major	early childhood education
+17	occupation	Authors
+17	occupation	Professor
+17	occupation	faculty
+17	occupation	teacher
+17	othername	Judith I. Schwartz
+17	school	Hunter College
+17	school	New York University
+17	work	Encouraging Early Literacy: An Integrated Approach to Reading and Writing in N-3
+18	work	Special Thoughts For Special People
+19	occupation	writers
+19	othername	Judith Dora Schwartz
+19	relatives	Alvin Schwartz
+19	relatives	Tony Eprile
+19	school	Brown University
+19	school	Columbia University Graduate School of Journalism
+20	occupation	Author
+20	work	Radical Feminists of Heterodoxy: Greenwich Village, 1912-1940
+21	degree	Dr.
+21	degree	M.D.
+21	location	New York
+21	occupation	M.D.
+21	occupation	obstetrician and gynecologist
+21	othername	Judith W. Schwartz
+21	relatives	Fred Schwartz
+21	relatives	Michael A. Brizel
+21	relatives	Michael Brizel
+21	school	Barnard College
+21	school	Mount Sinai School of Medicine
+22	work	Nightforce
+24	affiliation	Shefsky & Froelich
+24	affiliation	Shefsky & Froelich, Ltd.
+24	degree	B.A.
+24	degree	J.D.
+24	degree	M.L.A.
+24	email	jsherwin@shefskylaw.com
+24	location	111 East Wacker Drive 28th Floor Chicago, IL 60601
+24	occupation	Part-time Faculty
+24	occupation	Partner
+24	occupation	active speaker
+24	occupation	author
+24	occupation	partner
+24	othername	Judith S. Sherwin
+24	othername	Judith Schwartz Sherwin
+24	phone	(312) 836-4179
+24	school	John Marshall
+24	school	Roosevelt
+24	school	University of Chicago
+25	affiliation	American Bar Association
+25	affiliation	American Health Lawyers Association
+25	affiliation	Attorney Registration and Disciplinary Commission of the State of Illinois
+25	affiliation	Board of Directors
+25	affiliation	Chicago Bar Association
+25	affiliation	Council for Jewish Elderly
+25	affiliation	Decalogue Society of Lawyers
+25	affiliation	Hearing Panel
+25	affiliation	Illinois Bar Association
+25	affiliation	Inquiry Board
+25	affiliation	Jewish Family and Community Service
+25	affiliation	John Marshall Law School
+25	affiliation	Leading Lawyers Network
+25	affiliation	Loyola University Law School
+25	affiliation	Masters of Jurisprudence Business Law Program
+25	affiliation	Oakton Community College
+25	affiliation	Project LEAP (Legal Elections in All Precincts)
+25	affiliation	Spertus Institute
+25	degree	BS
+25	degree	JD
+25	degree	MLA
+25	occupation	Adjunct professor
+25	occupation	Shareholder
+25	occupation	Special counsel
+25	occupation	lead counsel
+25	othername	Judith S. Sherwin
+25	othername	Judith Schwartz Sherwin
+25	school	John Marshall Law School
+25	school	Roosevelt University
+25	school	University of Chicago
+25	work	Long-Term Care Litigation, 2008 Edition
+30	affiliation	Dept. of Art & Art Professions
+30	affiliation	Lenox China Corporation
+30	affiliation	New York Univeristy
+30	affiliation	Sculpture in Craft Media: New York University Dept of Art and Art Professions
+30	degree	Ph.D.
+30	fax	(212) 995-4320
+30	fax	212 995-4320
+30	location	* New York Univeristy * * Dept. of Art & Art Professions * * 34 Stuyvesant St. * * New York, NY 10003 *
+30	location	New York University Dept of Art and Art Professions 34 Stuyvesant St New York, NY 10003
+30	occupation	Area Head
+30	occupation	Director
+30	occupation	Professor
+30	occupation	educational consultant
+30	occupation	professional artist
+30	othername	Judith S. Schwartz
+30	phone	(212) 998-5733
+30	phone	212 998-5733
+32	relatives	Jessica Jones
+32	relatives	Joseph Schwartz
+32	relatives	Lenore
+32	relatives	Lenore Schwartz
+32	relatives	Louis
+32	relatives	Louis Jones
+32	relatives	Norma Kay
+33	location	Ginosar, IS
+33	location	Omaha
+35	location	Bennington, Vermont
+35	occupation	published writer
+35	othername	Judith D. Schwartz
+35	relatives	Brendan
+35	relatives	Tony Eprile
+35	work	Mother Puzzle
+35	work	Tell Me No Lies How to Stop Lying to Your Partner---and Yourself--in the 4 Stages of Marriage
+36	affiliation	Florence Performing Arts
+36	location	4899 Heceta Beach Rd, Florence, OR 97439-9176, United States
+36	location	Florence, OR
+36	occupation	Principal
+36	phone	(541) 997-1012
+37	degree	Dr.
+37	work	Confrontational Ceramics
+39	affiliation	WAFHS
+39	affiliation	Washington Area Folk Harp Society
+39	occupation	President
+39	occupation	officers
+39	occupation	registrar
+41	occupation	quest artist
+41	occupation	stitcher
+41	relatives	VIVIAN KALFON
+41	relatives	Viv
+41	relatives	Vivian
+41	relatives	Vivian Kalfon
+44	affiliation	Marana Branch
+44	affiliation	Marana Branch Food Bank
+44	location	11734 West Grier Road
+44	occupation	Marketing and Development Coordinator
+44	occupation	Staff Members
+44	occupation	educator
+44	othername	Judith P. Schwartz
+44	phone	(520) 682-3001
+46	affiliation	Board of Directors
+46	affiliation	CGOA
+46	affiliation	CGOA Board
+46	affiliation	Crochet Guild of America
+46	occupation	Director At Large
+48	work	Doublethink
+51	affiliation	Laila Rowe
+53	affiliation	FSU College of Medicine
+53	affiliation	Medical Education
+53	fax	407-835-4107
+53	location	FSU College of Medicine 250 East Colonial Drive Suite 200 Orlando, FL 32801-2203
+53	location	Orlando
+53	occupation	Clinical Coordinator
+53	phone	407-835-4103
+54	work	American Shino: The Glaze of a Thousand Faces
+56	work	Negotiations: Creating a Teacher Union-Administration Process That Promotes School Achievement
+57	award	Advisor of the Year award
+57	award	Everson Museum of Art award
+57	birthplace	New York
+57	degree	B.A.
+57	degree	M.A.
+57	degree	Ph.D.
+57	school	New York University
+57	school	Queens College
+58	affiliation	Long Island chapter of  STC
+59	affiliation	Abbott
+59	affiliation	Abbott Northwestern Hospital
+59	location	Minneapolis
+59	occupation	nurse
+62	affiliation	The Center for Learning Correction
+62	fax	+972 09-7729889
+62	location	20 Ha'shahafim St. Ra'anana 43724 Israel
+62	phone	+972 09-7729888
+64	location	USA
+66	affiliation	NYU
+66	occupation	curator
+66	occupation	professor
+66	occupation	writer
+67	work	Doublethink
+70	affiliation	Lenox China > Corporation
+70	affiliation	New York Univeristy
+70	email	jss1@ACF5.NYU.EDU
+70	fax	(212) 995-4320
+70	location	> * New York Univeristy * > * Dept. of Art & Art Professions * > * 34 Stuyvesant St. * > * New York, NY 10003 * 
+70	occupation	Director
+70	occupation	Professor
+70	occupation	educational consultant
+70	occupation	professional artist
+70	othername	Judith S. Schwartz
+70	phone	(212) 998-5733
+71	affiliation	To the Point
+71	email	judith@tothept.com
+71	location	Palo Alto
+71	occupation	Teachers
+71	occupation	author
+71	occupation	principal
+71	work	Doublethink: A Tale of Unintended Consequences
+72	relatives	Murray
+72	relatives	Yoni
+72	relatives	Yoni A. Schwartz
+73	affiliation	Apple
+73	affiliation	Apple Computer
+73	affiliation	To the Point
+74	affiliation	Lifelong Learning Institute in University College at Washington University in St. Louis
+74	occupation	director
+74	relatives	Richard Schwartz
+76	affiliation	CCSAB
+76	affiliation	Community College Science Advisory Board
+76	affiliation	Mathematics Department
+76	affiliation	SUNY ORANGE
+76	email	judith.schwartz@sunyorange.edu
+76	occupation	Chair
+77	occupation	Patient Support Coordinator
+77	phone	212-561- 9175
+77	website	www.compassionandchoicesofny.org
+78	affiliation	MOCA
+78	affiliation	MOCA board
+79	location	Buenos Aires
+79	location	US
+79	location	southwest New Hampshire
+79	phone	1-603-357-9919
+79	phone	15-6047-6609
+80	email	judith@topt.com
+80	location	Palo Alto
+80	work	Doublethink: A Tale of Unintended Consequences
+81	work	Collaboration:The Key to Successful Negotiations and School Decision Making
+83	affiliation	UCAE
+83	location	New York City
+83	occupation	Officers
+83	occupation	Presidents
+85	occupation	archivist
+86	work	Tell Me No Lies: How to Face the Truth and Build a Loving Marriage
+87	affiliation	Mount Sinai Medical Center
+87	affiliation	Obstetrics & Gynecology - Mount Sinai Hosp
+87	affiliation	Obstetrics & Gynecology, Mount Sinai Sch Med
+87	degree	MD
+87	location	45 E 82nd St Fl 1New York, NY, 10028
+87	location	One Gustave L. Levy Pl New York, NY 10029
+87	occupation	Asst Clin Prof
+87	occupation	Doctor
+87	occupation	MD
+87	occupation	doctor
+87	phone	212-241-6500
+87	phone	212-879-5959
+87	school	Mount Sinai Sch Med
+89	work	Radical Feminists of Heterodoxy: Greenwich Village, 1912-1940
+90	affiliation	Mt. Sinai Hospital
+90	degree	MD
+90	email	jwschwartz@aol.com
+90	location	45 E. 82nd St. New York, NY 10028
+90	location	New York City
+90	location	New York, NY
+90	occupation	MD
+90	occupation	OB-GYN
+90	occupation	gynecologist
+90	othername	Judy Scwartz
+90	phone	212-879-5959
+90	school	Barnard
+91	affiliation	Design Five Creatives
+91	affiliation	Macmillan/McGraw-Hill
+91	affiliation	Studio Six Graphics
+91	location	United States: Greater New York City Area
+91	occupation	Art Director
+91	occupation	Sr. Design Mgr
+91	occupation	art director
+91	occupation	designer
+91	occupation	owner
+92	affiliation	Laila Rowe
+92	occupation	co-owners
+92	website	http://www.lailarowe.com
+92	website	www.lailarowe.com
+93	work	Hip to Knit
+94	degree	Dr.
+94	location	NY
+94	location	New York
+94	location	New York, NY
+94	occupation	Doctors
+94	occupation	Dr.
+94	occupation	Gynecologist
+94	occupation	Obstetrician
+96	affiliation	NYU
+97	affiliation	NYU
+97	occupation	curator
+97	occupation	professor
+97	occupation	writer
+99	affiliation	BrAATS
+99	email	judith@monad.net
+99	occupation	Organizers
+99	phone	1 603 357 - 9919
+100	degree	Dr.
+100	work	Confrontational Ceramics
+101	affiliation	DSS
+101	affiliation	Santa Monica College
+101	email	Schwartz_Judy@smc.edu
+101	occupation	Coordinator
+101	occupation	Staffperson
+101	phone	4444
+105	affiliation	Dental Hygiene
+105	affiliation	New York City College of Technology
+105	occupation	Professor
+108	affiliation	NYU
+108	occupation	curator
+108	occupation	professor
+108	occupation	writer
+109	affiliation	Board of Directors for the Watershed Center for the Ceramic Arts, Studio Potter Magazine, The Joseph Schein International Museum of Ceramic Art, at Alfred University, The Jingdezhen Sanbao Ceramic Art Institute, Jingdezhen, China, The Museum of Ceramic Art, New York, NY, and the University Council for Art Education
+109	affiliation	International Academy of Ceramics
+109	affiliation	Lenox China Company
+109	affiliation	Sculpture: Craft Media Area
+109	occupation	Educational consultant
+109	occupation	Invited member
+109	occupation	author
+109	occupation	critic
+109	occupation	curator
+109	occupation	head
+112	affiliation	AltaVista
+112	location	Palo Alto
+112	occupation	spokeswoman
+117	affiliation	Graduate School
+117	occupation	Communications Specialist
+118	affiliation	Hart House
+118	affiliation	Justina M. Barnicke Gallery
+118	affiliation	U of T
+118	occupation	curator
+119	relatives	Deborah2 Jones
+119	relatives	Jessica Jones
+119	relatives	Louis Jones
+119	relatives	Louis1 Jones
+120	relatives	Leon
+120	relatives	Stephanie Schwartz
+122	occupation	swimmers
+123	affiliation	Twin Brooks Antiques
+123	location	Bennington, Vt
+124	degree	Dr.
+125	degree	PhD
+125	work	CONFRONTATIONAL CERAMICS
+126	affiliation	Marana Branch
+126	affiliation	Marana Branch Food Bank
+126	location	11734 West Grier Road
+126	occupation	Marketing and Development Coordinator
+126	occupation	Staff Members
+126	occupation	educator
+126	othername	Judith P. Schwartz
+126	phone	(520) 682-3001
+127	location	New York, NY
+129	location	New York 
+132	othername	Judith L. Schwartz
+132	work	Hip to Crochet
+132	work	Hip to Knit
+133	location	New York, NY
+134	occupation	amateur historian
+134	occupation	author
+134	othername	Schwarz, Judith
+135	affiliation	Department of Art and Art Professions, New York University
+135	degree	Ph.D.
+135	occupation	Curator
+135	occupation	Essayist
+138	affiliation	Hart House, University of Toronto
+138	affiliation	Justina Barnike Gallery
+138	location	Toronto, Ont.
+138	occupation	Curator
+139	affiliation	NYU
+139	occupation	curator
+139	occupation	professor
+139	occupation	writer
+140	work	Confrontational Ceramics
+143	location	Mount Laurel
+143	location	Ventnor
+143	relatives	Murray
+143	relatives	Murray Schwartz
+145	affiliation	Department of Art and Art Professions at New York University
+145	degree	Dr.
+145	degree	Ph.D.
+145	occupation	Associate Professor
+148	affiliation	SITE
+148	occupation	Founding Members
+149	affiliation	BC of Staten Island

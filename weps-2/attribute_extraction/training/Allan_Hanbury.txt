@@ -1,0 +1,98 @@
+1	Affiliation	Vienna University of Technology Institute of Computer Aided Automation Pattern Recognition and Image Processing Group
+1	Location	Vienna University of Technology Institute of Computer Aided Automation Pattern Recognition and Image Processing Group Favoritenstrasse 9/183-2 A-1040 Vienna Austria	Favoritenstrasse 9, 4th floor, purple area, room HB 04 18
+1	Phone	+43 (1) 58801 - 18359
+1	FAX	+43 (1) 58801 - 18392
+1	Email	hanbury@prip.tuwien.ac.at
+1	Web site	http://www.prip.tuwien.ac.at/~hanbury
+3	Affiliation	PRIP group of the Vienna University of Technology
+3	Location	Vienna
+3	Web site	http://www.prip.tuwien.ac.at/~hanbury
+6	Occupation	Masters Student
+6	Affiliation	Physics department at UCT
+7	Date of birth	5 March 1974
+7	Birthplace	George, South Africa
+7	Other name	Allan George Hanbury
+7	Occupation	Assistant Professor	Post-Doctoral Researcher
+7	Affiliation	Pattern Recognition and Image Processing Group (PRIP), Vienna University of Technology
+7	Work	Mathematical Morphology on the Unit Circle: with applications to hues and to oriented textures	Pattern Recognition Proceedings of the 27th DAGM Symposium, Springer, 2005
+7	School	Ecole Nationale Sup?rieure des Mines de Paris	University of Cape Town
+7	Major	Physics	Applied Mathematics
+7	Degree	PhD	Master of Science	M.Sc.	Bachelor of Science
+7	Mentor	J. Serra	G. N. Robertson
+7	Location	Pattern Recognition and Image Processing Group (PRIP) Vienna University of Technology Favoritenstra?e 9/1832 A-1040 Vienna Austria
+7	Nationality	Irish
+7	Phone	+43 (0)1 58801 18359
+7	FAX	+43 (0)1 58801 18392
+7	Email	Hanbury@prip.tuwien.ac.at
+7	Web site	http://www.prip.tuwien.ac.at/~hanbury
+10	Date of birth	05 March 1974
+10	Occupation	Lecturer	post-doctoral researcher
+10	Affiliation	Vienna University of Technology
+10	School	UCT
+10	Degree	Ph.D.	M.Sc.	B.Sc.
+10	Location	Vienna, Austria
+11	Affiliation	PRIP, Vienna University of Technology
+11	Email	hanbury@prip.tuwien.ac.at
+12	Date of birth	05 March 1974
+12	Occupation	Lecturer	post-doctoral researcher
+12	Affiliation	Vienna University of Technology
+12	School	UCT
+12	Degree	Ph.D.	M.Sc.	B.Sc.
+12	Location	Vienna, Austria
+15	Affiliation	Vienna University of Technology
+16	Date of birth	5 March 1974
+16	Occupation	3rd year PhD
+16	Affiliation	Ecole des Mines de Paris
+17	Occupation	Masters Student
+17	Location	Room 243, R.W. James Building
+17	Phone	(021) 650 3361
+17	FAX	(021) 650 3342
+17	Email	hanbury@physci.uct.ac.za
+19	Date of birth	5 March 1974
+19	Occupation	3rd year PhD
+19	Affiliation	Ecole des Mines de Paris
+20	Other name	Allan G. Hanbury
+22	Web site	allanhanbury.netfirms.com
+29	Affiliation	Vienna University of Technology
+29	Location	Austria
+33	Affiliation	Technical University Vienna, PRIP,
+33	Location	Austria
+33	Phone	+43 1 58801 18359
+33	Email	hanbury@prip.tuwien.ac.at
+37	Web site	http://allanhanbury.netfirms.com
+43	Affiliation	Vienna Univ. of Technology
+43	Location	Austria
+45	Work	Pattern Recognition : 27th DAGM Symposium, Vienna, Austria, August 31 - September 2, 2005, Proceedings
+49	Work	Pattern recognition : 27th DAGM Symposium, Vienna, Austria, August 31-September 2, 2005 : proceedings
+50	Work	Pattern recognition : 27th DAGM Symposium, Vienna, Austria, August 31-September 2, 2005 : proceedings
+56	Web site	http://allanhanbury.netfirms.com
+57	Affiliation	Vienna University of Technology
+57	Location	Austria
+59	Work	DAGM (Organization). Symposium (27th: 2005: Vienna, Austria). Pattern recognition: 27th DAGM Symposium, Vienna, Austria, August 31- September 2, 2005: proceedings
+61	Affiliation	Vienna University of Technology
+62	Work	Pattern recognition : 27th DAGM Symposium, Vienna, Austria, August 31-September 2, 2005 : proceedings
+67	Affiliation	Vienna University of Technology
+67	Location	Austria
+67	Email	hanbury@prip.tuwien.ac.at
+70	Other name	Jeffrey Allan Hanbury
+70	School	Cradock High School
+71	Work	PATTERN RECOGNITION : 27TH DAGM SYMPOSIUM, VIENNA, AUSTRIA, AUGUST 31-SEPTEMBER 2, 2005 : PROCEEDINGS
+73	Affiliation	PRIP, TU Vienna
+74	Affiliation	Vienna University of Technology
+74	Location	Austria
+75	Affiliation	Vienna University of Technology
+75	Location	Austria
+77	Affiliation	PRIP, TU Vienna
+80	Work	Pattern recognition : 27th DAGM symposium proceedings, Vienna, Austria, Aug. 31-Sept. 2, 2005
+83	Affiliation	TU Wien
+83	Location	Austria
+87	Affiliation	TU Wien
+87	Email	hanbury@prip.tuwien.ac.at
+88	Affiliation	TU Vienna - PRIP
+92	Work	Pattern Recognition: 27th DAGM Symposium, Vienna, Austria, August 31 - September 2, 2005, Proceedings (Lecture Notes in Computer Science)
+93	Affiliation	Tech University of Vienna
+96	Degree	Dr.
+96	FAX	+43 1 58801 18392
+97	Work	Pattern Recognition: 27th DAGM Symposium, Vienna, Austria, August 31 - September 2, 2005, Proceedings (Lecture Notes in Computer Science)
+98	Affiliation	Vienna University of Technology
+98	Location	Austria

@@ -1,0 +1,1785 @@
+2	award	BCA Mystery Guild's Thriller of the Year award
+2	award	Edgar Award for Best First Mystery
+2	award	International Thriller Writer's ThrillerMaster Award
+2	award	International Thriller of the Year
+2	award	Readers' Digest Readers' Choice Award
+2	occupation	author
+2	occupation	novelist
+2	occupation	storyteller
+2	othername	the man who can't miss
+2	work	1st to Die
+2	work	2nd Chance
+2	work	3rd Degree
+2	work	4th of July
+2	work	Along Came a Spider
+2	work	Honeymoon
+2	work	Kiss the Girls
+2	work	MAXIMUM RIDE
+2	work	Maximum Ride
+2	work	Miracle on the 17th Green
+2	work	Step on a Crack
+2	work	The Big Bad Wolf
+2	work	The Day America Told the Truth
+2	work	The Thomas Berryman Number
+2	work	Women's Murder Club
+2	work	santaKid
+3	affiliation	J. W. Thompson
+3	award	BCA Mystery GuildÅfs Thriller of the Year
+3	award	Best First Novel
+3	award	Edgar
+3	award	Edgar Award
+3	award	International Thriller of the Year award
+3	birthplace	Newburgh, New York, United States
+3	dateofbirth	March 22, 1947
+3	degree	Masters degree
+3	degree	bachelor's degree
+3	location	Palm Beach, Florida
+3	nationality	American
+3	occupation	Novelist
+3	occupation	author
+3	occupation	chairman
+3	othername	James B. Patterson
+3	othername	the man who canÅft miss
+3	relatives	Jack
+3	relatives	Susan
+3	school	Manhattan College
+3	school	Vanderbilt University
+3	work	1st to Die
+3	work	2nd Chance
+3	work	3rd Degree
+3	work	4th of July
+3	work	7th Heaven
+3	work	8th Confession
+3	work	Against Medical Advice: A True Story
+3	work	Along Came A Spider
+3	work	Beach Road
+3	work	Black Friday
+3	work	Black Market
+3	work	Cat and Mouse
+3	work	Child of Darkness, Child of Light
+3	work	Cradle & All
+3	work	Cross
+3	work	Cross Country
+3	work	Cross Fire
+3	work	Daniel X: Alien Hunter
+3	work	Double Cross
+3	work	Four Blind Mice
+3	work	Hide & Seek
+3	work	Honeymoon
+3	work	Jack & Jill
+3	work	Judge and Jury
+3	work	Kiss the Girls
+3	work	Lifeguard
+3	work	London Bridges
+3	work	Mary, Mary
+3	work	Maximum Ride
+3	work	Maximum Ride, Vol. 1
+3	work	Maximum Ride: Saving the World and Other Extreme Sports
+3	work	Maximum Ride: School's Out Forever
+3	work	Maximum Ride: The Angel Experiment
+3	work	Maximum Ride: The Final Warning
+3	work	Maximum Ride: Water Wings
+3	work	Miracle on the 17th Green
+3	work	Pop Goes the Weasel
+3	work	Roses are Red
+3	work	Sail
+3	work	Sam's Letters to Jennifer
+3	work	Season of the Machete
+3	work	See How They Run
+3	work	Step on a Crack
+3	work	Sundays at Tiffany's
+3	work	Suzanne's Diary for Nicholas
+3	work	The 5th Horseman
+3	work	The 6th Target
+3	work	The Beach House
+3	work	The Big Bad Wolf
+3	work	The Dangerous Days of Daniel X
+3	work	The Jericho Commandment
+3	work	The Jester
+3	work	The Lake House
+3	work	The Midnight Club
+3	work	The Quickie
+3	work	The Thomas Berryman Number
+3	work	Violets are Blue
+3	work	Virgin
+3	work	When the Wind Blows
+3	work	You've Been Warned
+4	award	2004 Readers' Digest Readers' Choice Award
+4	award	BCA Mystery Guild's Thriller of the Year Award
+4	award	Edgar Award for Best First Mystery
+4	award	International Thriller of the Year for 2005
+4	birthplace	Newburgh, New York
+4	location	Palm Beach, Florida
+4	major	English
+4	occupation	author
+4	occupation	storyteller
+4	occupation	writer
+4	school	Manhattan College
+4	school	The Graduate School at Vanderbilt University
+4	website	www.jamespatterson.com
+4	website	www.pattersonpageturner.org
+4	work	1st to Die
+4	work	2nd Chance
+4	work	3rd Degree
+4	work	4th of July
+4	work	Along Came a Spider
+4	work	Kiss the Girls
+4	work	Lifeguard
+4	work	Mary, Mary
+4	work	Maximum Ride
+4	work	Maximum Ride: The Angel Experiment
+4	work	santaKid
+5	birthplace	Newburgh, New York, USA
+5	dateofbirth	22 March 1947
+5	degree	BA
+5	major	English
+5	occupation	Producer
+5	occupation	Writer
+5	occupation	executive producer
+5	school	Manhattan College
+5	work	1st to Die
+5	work	Along Came a Spider
+5	work	Amazon Fishbowl with Bill Maher
+5	work	And the Truth Will (Sometimes) Set You Free
+5	work	Breakfast
+5	work	Child of Darkness, Child of Light
+5	work	F1rst to Die
+5	work	FBI Guy
+5	work	Father's Day
+5	work	First to Die
+5	work	Forbes Celebrity 100: Who Made Bank?
+5	work	Im Netz der Spinne
+5	work	James Patterson's F1rst to Die
+5	work	James Patterson's Suzanne's Diary for Nicholas
+5	work	Kiss the Girls
+5	work	Masque de l'araign?e, Le
+5	work	Maximum Ride
+5	work	Miracle on the 17th Green
+5	work	NBC News Today
+5	work	Never Tell
+5	work	Newsnight Review
+5	work	Review
+5	work	Richard & Judy
+5	work	Suzanne's Diary for Nicholas
+5	work	The Making of 'Along Came a Spider
+5	work	The Simpsons
+5	work	The Today Show
+5	work	To Drag & to Hold
+5	work	Today
+5	work	Virgin
+5	work	When the Wind Blows
+5	work	Women's Murder Club
+5	work	Yokel Chords
+7	affiliation	J. W. Thompson
+7	award	BCA Mystery Guild's Thriller of the Year
+7	award	Edgar
+7	award	International Thriller of the Year award
+7	dateofbirth	March 22, 1947
+7	location	Palm Beach, Florida
+7	nationality	American
+7	occupation	author
+7	occupation	chairman
+7	othername	James B. Patterson
+7	othername	the man who can't miss
+7	relatives	Jack
+7	work	Along Came A Spider
+7	work	Honeymoon
+7	work	Lifeguard
+7	work	Maximum Ride
+7	work	The Fifth Horseman
+7	work	You've Been Warned
+7	work	santaKid
+9	affiliation	J. Walter Thompson, North America
+9	award	Edgar Award for the best first mystery novel
+9	degree	B.A.
+9	degree	M.A.
+9	location	Palm Beach County, Florida
+9	major	English
+9	occupation	chairman
+9	occupation	chief executive officer
+9	occupation	copywriter
+9	occupation	executive creative director
+9	occupation	junior copywriter
+9	occupation	novelists
+9	school	Manhattan College
+9	school	Vanderbilt University
+9	work	1st to Die
+9	work	2nd Chance
+9	work	Along Came a Spider
+9	work	Cat & Mouse
+9	work	Cradle and All
+9	work	Four Blind Mice
+9	work	Hide & Seek
+9	work	Jack & Jill
+9	work	Kiss the Girls
+9	work	Miracle on the 17th Green
+9	work	Pop Goes the Weasel
+9	work	Roses Are Red
+9	work	Suzanne's Diary for Nicholas
+9	work	The Beach House
+9	work	The Day America Told the Truth
+9	work	The Jester
+9	work	The Lake House
+9	work	The Thomas Berryman Number
+9	work	Violets Are Blue
+9	work	When the Wind Blows
+10	award	Edgar award
+10	dateofbirth	1947
+10	location	Florida
+10	occupation	author
+10	occupation	writers
+10	work	1st to Die
+10	work	2nd Chance
+10	work	3rd Degree
+10	work	4th of July
+10	work	7th Heaven
+10	work	7th Heaven (Women's Murder Club, book 7)
+10	work	8th Confession
+10	work	8th Confession (Women's Murder Club, book 8)
+10	work	A Women's Murder Club Omnibus
+10	work	Against Medical Advice A True Story
+10	work	Against Medical Advice: A True Story
+10	work	Along Came a Spider
+10	work	Beach Road
+10	work	Black Friday
+10	work	Black Market
+10	work	Black Market / Hide and Seek
+10	work	Cat and Mouse
+10	work	Cat and Mouse / 1st to Die
+10	work	Cat and Mouse / Pop Goes the Weasel
+10	work	Cradle and All
+10	work	Cross
+10	work	Cross Country
+10	work	Cross Country (Alex Cross, book 14)
+10	work	Dangerous Days of Daniel X
+10	work	Daniel X Alien Hunter
+10	work	Daniel X: Alien Hunter
+10	work	Double Cross
+10	work	Four Blind Mice
+10	work	Hide and Seek
+10	work	Honeymoon
+10	work	Jack and Jill
+10	work	Judge and Jury
+10	work	Kiss the Girls
+10	work	London Bridges
+10	work	Mary Mary
+10	work	Maximum Ride, Vol. 1 Manga
+10	work	Miracle on the 17th Green
+10	work	Pop! Goes the Weasel
+10	work	Roses Are Red
+10	work	Roses Are Red / Violets Are Blue
+10	work	Roses Are Red / Violets Are Blue (Alex Cross Omnibus)
+10	work	Run for Your LIfe
+10	work	Run for Your Life (Michael Bennett, book 2)
+10	work	Sail
+10	work	Sam's Letters to Jennifer
+10	work	Santakid
+10	work	Saving the World: And Other Extreme Sports
+10	work	School's Out-- Forever
+10	work	Season of the Machete
+10	work	See How They Run
+10	work	Step on a Crack
+10	work	Sundays at Tiffany's
+10	work	Suzanne's Diary for Nicholas
+10	work	The 5th Horseman
+10	work	The 6th Target
+10	work	The Angel Experiment
+10	work	The Beach House
+10	work	The Big Bad Wolf
+10	work	The Final Warning
+10	work	The Jericho Commandment
+10	work	The Jester
+10	work	The Lake House
+10	work	The Lifeguard
+10	work	The Midnight Club
+10	work	The Quickie
+10	work	The Thomas Berryman Number
+10	work	Thriller: Stories To Keep You Up All Night
+10	work	Torn Apart The Heartbreaking Story of a Childhood Lost
+10	work	Torn Apart: The Heartbreaking Story of a Childhood Lost
+10	work	Violets Are Blue
+10	work	Virgin
+10	work	Water Wings
+10	work	Water Wings (Maximum Ride, book 5)
+10	work	When the Wind Blows
+10	work	When the Wind Blows and The Lake House
+10	work	You've Been Warned
+11	othername	JP
+11	work	Final Warning
+11	work	School's Out Forever
+13	affiliation	J. W. Thompson advertising company
+13	affiliation	James Patterson PageTurner Awards
+13	award	ITW Thrillermaster
+13	dateofbirth	1947-03-22
+13	degree	bachelor's degree
+13	location	Palm Beach
+13	location	Palm Beach, Florida, USA
+13	nationality	USA
+13	occupation	Author
+13	occupation	author
+13	occupation	chairman
+13	othername	Jmaes Patterson
+13	othername	Patterson, James
+13	school	Manhattan College
+13	work	1st to Die
+13	work	2nd Chance
+13	work	3rd Degree
+13	work	4th of July
+13	work	Along Came a Spider
+13	work	Cat & Mouse
+13	work	Cross
+13	work	Four Blind Mice
+13	work	Jack & Jill
+13	work	Kiss the Girls
+13	work	London Bridges
+13	work	Mary, Mary
+13	work	Maximum Ride: The Angel Experiment
+13	work	Pop Goes the Weasel
+13	work	Roses Are Red
+13	work	Step on a Crack
+13	work	Suzanne's Diary for Nicholas
+13	work	The 5th Horseman
+13	work	The Big Bad Wolf
+13	work	Violets Are Blue
+13	work	When the Wind Blows
+14	occupation	Author
+14	work	When the Wind Blows
+16	occupation	Author
+16	work	Along Came a Spider
+16	work	Kiss the Girls
+17	occupation	Actor
+17	work	The Catcher
+19	work	7th Heaven
+19	work	Double Cross (Alex Cross)
+19	work	Sail
+19	work	You've Been Warned
+20	award	Edgar
+20	degree	B.A.
+20	degree	M.A.
+20	major	English literature
+20	occupation	student
+20	occupation	thriller author
+20	occupation	thriller writer
+20	occupation	writer
+20	website	www.jamespatterson.com
+20	work	Along Came a Spider
+20	work	Cat and Mouse
+20	work	Hide and Seek
+20	work	Jack and Jill 
+20	work	Kiss the Girls
+20	work	Pop Goes the Weasel
+20	work	Season of the Machete
+20	work	See How They Run
+20	work	The Midnight Club
+20	work	The Thomas Berryman Number
+20	work	WHEN THE WIND BLOWS
+20	work	When the Wind Blows
+22	location	Florida
+22	occupation	author
+22	relatives	Jack
+22	work	ALONG CAME A SPIDER
+22	work	SUZANNE'S DIARY FOR NICHOLAS
+22	work	santaKid
+23	affiliation	J. W.
+23	nationality	American
+23	occupation	author
+23	occupation	chairman
+24	work	Astrology
+26	affiliation	J. Walter Thompson, North America
+26	award	Edgar Award for the best first mystery novel
+26	degree	B.A.
+26	degree	M.A.
+26	location	Palm Beach County, Florida
+26	major	English
+26	occupation	Author
+26	occupation	chairman
+26	occupation	chief executive officer
+26	occupation	executive creative director
+26	occupation	junior copywriter
+26	occupation	novelists
+26	school	Manhattan College
+26	school	Vanderbilt University
+26	work	1st To Die 
+26	work	2nd Chance 
+26	work	3rd Degree 
+26	work	4th of July 
+26	work	5th Horseman, the 
+26	work	6th Target, the 
+26	work	7th Heaven
+26	work	Along Came a Spider
+26	work	Beach House, the 
+26	work	Beach Road 
+26	work	Big Bad Wolf, the 
+26	work	Black Friday
+26	work	Cat & Mouse
+26	work	Cradle and All
+26	work	Cross 
+26	work	Dangerous Days of Daniel X, the
+26	work	Double Cross
+26	work	Four Blind Mice 
+26	work	Hide & Seek
+26	work	Honeymoon 
+26	work	Jack & Jill
+26	work	Jester, the 
+26	work	Judge & Jury 
+26	work	Kiss the Girls
+26	work	Lake House, the 
+26	work	Lifeguard 
+26	work	London Bridges 
+26	work	Mary, Mary 
+26	work	Maximum Ride: Saving the World and Other Extreme Sports 
+26	work	Maximum Ride: School's Out Forever 
+26	work	Maximum Ride: The Angel Experiment 
+26	work	Maximum Ride: The Final Warning
+26	work	Midnight Club, the
+26	work	Miracle on the 17th Green
+26	work	Pop Goes the Weasel 
+26	work	Quickie, the 
+26	work	Roses Are Red
+26	work	Sail
+26	work	Sam's Letters to Jennifer 
+26	work	SantaKid
+26	work	Season of the Machete
+26	work	See How They Run
+26	work	Step on a Crack 
+26	work	Sundays at Tiffany's
+26	work	Suzanne's Diary for Nicholas 
+26	work	The Day America Told the Truth
+26	work	The Jester
+26	work	The Lake House
+26	work	The Thomas Berryman Number
+26	work	Thomas Berryman Number, the
+26	work	Thriller: Stories To Keep You Up All Night
+26	work	Violets Are Blue 
+26	work	Virgin
+26	work	When the Wind Blows
+26	work	You've Been Warned 
+26	work	santaKid
+27	award	BCA Mystery Guild's Thriller of the Year
+27	award	Edgar
+27	award	International Thriller of the Year award
+27	occupation	author
+27	occupation	writer
+27	othername	JP
+27	othername	The Man Who Can't Miss
+27	work	1ST TO DIE
+27	work	1st TO DIE
+27	work	ALONG CAME A SPIDER
+27	work	Along Came A Spide
+27	work	HONEYMOON
+27	work	KISS THE GIRLS
+27	work	LIFEGUARD
+27	work	Maximum Ride
+27	work	ROSES ARE RED
+27	work	SANTAKID
+27	work	SUZANNE'S DIARY FOR NICHOLAS
+27	work	THE THOMAS BERRYMAN NUMBER
+27	work	The Simpsons
+27	work	VIOLETS ARE BLUE
+27	work	WHEN THE WIND BLOWS
+27	work	Women's Murder Club
+27	work	YOU'VE BEEN WARNED
+28	website	http://www.jamespatterson.com/
+28	work	Double Cross
+28	work	Honeymoon
+28	work	SAIL
+28	work	Sail
+28	work	Sundays at Tiffany's
+28	work	Suzanne's Diary for Nicholas
+28	work	THE JESTER 
+28	work	The Dangerous Days of Daniel X
+28	work	The final warning
+28	work	You've Been Warned
+29	birthplace	Newburgh, New York, United States
+29	dateofbirth	March 22, 1947
+29	occupation	author
+29	website	http://www.jamespatterson.com/
+29	work	1st to Die (Women's Murder Club)
+29	work	2nd Chance
+29	work	3rd Degree
+29	work	4th of July
+29	work	Along Came a Spider (Alex Cross, Book 1)
+29	work	Kiss the Girls (Alex Cross, Book 2)
+29	work	Pop Goes the Weasel
+29	work	Sam's Letters to Jennifer
+29	work	Suzanne's Diary for Nicholas
+29	work	The Beach House
+30	award	Edgar Award for Best First Mystery Novel
+30	degree	Masters degree
+30	major	English
+30	occupation	advertising copywriter
+30	occupation	author
+30	occupation	writer
+30	work	1st to Die
+30	work	Along Came a Spider
+30	work	Maximum Ride: The Angel Experiment
+30	work	Sam's Letters to Jennifer
+30	work	Suzanne's Diary for Nicholas
+30	work	The Thomas Berryman Number
+30	work	When the Wind Blows
+30	work	santaKid
+31	work	Double Cross
+31	work	SUNDAYS AT TIFFANY'S
+31	work	You've Been Warned
+32	affiliation	J. Walter Thompson
+32	affiliation	James Patterson Entertainment
+32	award	Edgar Award
+32	location	Palm Beach, Fla
+32	location	Westchester County, N.Y.
+32	major	English
+32	occupation	CEO
+32	occupation	advertising executive
+32	occupation	author
+32	occupation	writer
+32	school	Manhattan College
+32	work	Along Came a Spider
+32	work	Mary, Mary
+32	work	Step on a Crack
+32	work	The Thomas Berryman Number
+33	occupation	Author
+33	occupation	Authors
+33	work	Along Came a Spider
+33	work	Black Market
+33	work	Daniel X: Alien Hunter: A Graphic Novel (Daniel X)
+33	work	Double Cross (Alex Cross)
+33	work	Hide and Seek
+33	work	Jack and Jill
+33	work	Kiss the Girls
+33	work	Midnight Club
+33	work	Sam's Letters To Jennifer
+33	work	SantaKid
+33	work	The Dangerous Days of Daniel X
+33	work	The Day America Told the Truth: What People Really Believe About Everything That Really Matters
+33	work	The Final Warning (Maximum Ride, Book 4)
+33	work	Virgin
+36	occupation	author
+36	work	7th Heaven
+36	work	Double Cross
+36	work	Maximum Ride: The Final Warning
+36	work	Sail
+36	work	Sundays at Tiffany's
+36	work	The Dangerous Days of Daniel X
+36	work	The Final Warning
+37	award	Edgar Award for Best First Mystery
+37	birthplace	Newburgh, New York
+37	dateofbirth	March 22, 1947
+37	degree	M. A.
+37	occupation	author
+37	school	Manhattan College
+37	school	Vanderbilt University
+37	work	Along Came a Spider
+37	work	Honeymoon
+37	work	James Patterson
+37	work	Kiss the Girls
+37	work	Lifeguard
+37	work	Mary, Mary
+37	work	Maximum Ride
+37	work	The 5th Horseman
+37	work	The Thomas Berryman Number
+37	work	Thriller
+38	work	1st to Die (Women's Murder Club)
+38	work	2nd Chance
+38	work	3rd Degree (Women's Murder Club)
+38	work	4th of July (Women's Murder Club (Paperback))
+38	work	7th Heaven (Women's Murder Club)
+38	work	8th Confession
+38	work	Along Came a Spider 
+38	work	Beach Road
+38	work	Black Friday
+38	work	Cat & Mouse
+38	work	Cradle and All
+38	work	Cross
+38	work	Cross Country
+38	work	Double Cross (Alex Cross)
+38	work	Four Blind Mice
+38	work	Hide & Seek
+38	work	Honeymoon
+38	work	Jack & Jill
+38	work	Judge & Jury
+38	work	Kiss the Girls
+38	work	Lifeguard
+38	work	London Bridges
+38	work	Mary, Mary
+38	work	Maximum Ride Book #3: Saving the World and Other Extreme Sports (Maximum Ride)
+38	work	Maximum Ride: School's Out Forever
+38	work	Maximum Ride: The Angel Experiment (Maximum Ride)
+38	work	Miracle on the 17th Green: A Novel about Life, Love, Family, Miracles ... and Golf
+38	work	Pop Goes the Weasel
+38	work	Roses Are Red
+38	work	Sail
+38	work	Sam's Letters to Jennifer
+38	work	SantaKid
+38	work	Season of the Machete
+38	work	See How They Run
+38	work	Step on a Crack
+38	work	Sundays at Tiffany's
+38	work	Suzanne's Diary for Nicholas
+38	work	The 5th Horseman (Women's Murder Club)
+38	work	The 6th Target
+38	work	The Beach House
+38	work	The Big Bad Wolf
+38	work	The Final Warning: A Maximum Ride Novel
+38	work	The Jester
+38	work	The Lake House (Large Print)
+38	work	The Midnight Club
+38	work	The Quickie
+38	work	The Thomas Berryman Number
+38	work	Violets Are Blue
+38	work	When the Wind Blows
+38	work	You've Been Warned
+39	work	4th of July
+39	work	Beach Road: Library Edition
+39	work	Cross: Library Edition
+39	work	Lifeguard
+39	work	Mary, Mary
+39	work	Mary, Mary: A Novel
+39	work	Maximum Ride: The Angel Experiment
+39	work	Sail
+39	work	Saving the World and Other Extreme Sports
+39	work	School's Out - Forever
+39	work	Step on a Crack
+39	work	Sundays at Tiffany's
+39	work	The 5th Horseman
+39	work	The 5th Horseman: Library Edition
+39	work	The Angel Experiment
+39	work	The Dangerous Days of Daniel X
+39	work	The Final Warning: A Maximum Ride Novel
+39	work	The Quickie
+39	work	Women's Murder Club
+41	affiliation	J. Walter Thompson
+41	affiliation	JWT
+41	award	Edgar Award
+41	birthplace	upstate New York
+41	location	Palm Beach, Florida
+41	location	Westchester, NY
+41	nationality	American
+41	occupation	advertising executive
+41	occupation	author
+41	occupation	chairman
+41	occupation	copywriter
+41	occupation	writer
+41	occupation	writers
+41	othername	James B Patterson
+41	relatives	Jack
+41	relatives	Susan Solie
+41	work	2nd Chance
+41	work	Along Came a Spider
+41	work	Cat and Mouse
+41	work	First to Die
+41	work	The 5th Horseman
+41	work	Thomas Berryman Number
+44	work	Along Came a Spider
+44	work	Cross
+45	award	BCA Mystery Guild's Thriller of the Year
+45	award	Edgar
+45	award	International Thriller of the Year award
+45	nationality	American
+45	occupation	author
+45	occupation	crime writer
+45	othername	James B. Patterson
+45	work	Along Came A Spider
+45	work	Kiss the Girls
+45	work	The Lake House
+47	award	BCA Mystery Guild's Thriller of the Year
+47	award	Edgar
+47	award	International Thriller of the Year award
+47	occupation	author
+47	othername	The Man Who Can't Miss
+47	work	3rd Degree
+47	work	4th Of July
+47	work	5th Horseman (Unabridged)
+47	work	Along Came a Spider
+47	work	Beach Road
+47	work	Big Bad Wolf
+47	work	Honeymoon
+47	work	Jester, The (Abridged)
+47	work	Jester, The (Unabridged)
+47	work	Kiss The Girls
+47	work	Kiss the Girls
+47	work	Lake House, The
+47	work	Lifeguard
+47	work	London Bridges
+47	work	Mary Mary
+47	work	Maximum Ride
+47	work	Maximum Ride: The Angel Experiment
+47	work	Sam's Letters To Jennifer
+47	work	Suzanne's Diary For Nicholas
+47	work	The 5th Horseman
+47	work	Thomas Berryman Number
+47	work	Thriller - Stories to Keep You Up All Night
+47	work	When The Wind Blows
+47	work	Women's Murder Club
+47	work	You've Been Warned
+47	work	santaKid
+48	award	Edgar Award for best first mystery novel
+48	major	English
+48	occupation	chairman
+48	occupation	junior copywriter
+48	school	Manhattan College
+48	work	1ST TO DIE
+48	work	2ND CHANCE
+48	work	ALONG CAME A SPIDER
+48	work	Along Came a Spider
+48	work	BLACK MARKET
+48	work	CAT AND MOUSE
+48	work	CRADLE AND ALL
+48	work	FOUR BLIND MICE
+48	work	HIDE AND SEEK
+48	work	JACK AND JILL
+48	work	KISS THE GIRLS
+48	work	POP GOES THE WEASEL
+48	work	ROSES ARE RED
+48	work	SEE HOW THEY RUN
+48	work	THE BEACH HOUSE
+48	work	THE MIDNIGHT CLUB
+48	work	THE SEASON OF THE MACHETE
+48	work	THE THOMAS BERRYMAN NUMBER
+48	work	The Day America Told the Truth
+48	work	The Jericho Commandment
+48	work	The Thomas Berryman Number
+48	work	VIOLETS ARE BLUE
+48	work	Virgin
+48	work	WHEN THE WIND BLOWS
+49	affiliation	Best of On The Beat
+49	affiliation	Catch and Release
+49	affiliation	Go, Leafs, Go!
+49	affiliation	On The Beat
+49	website	www.flickr.com/groups/bestofonthebeat/
+49	website	www.flickr.com/groups/catchandrelease/
+49	website	www.flickr.com/groups/goleafsgo/
+49	website	www.flickr.com/groups/onthebeat/
+51	location	Florida
+51	occupation	author
+51	relatives	Jack
+51	work	3rd Degree
+51	work	4th of July
+51	work	7th Heaven,
+51	work	Along Came a Spider
+51	work	Beach Road
+51	work	Cross
+51	work	Double Cross
+51	work	Honeymoon
+51	work	Judge & Jury
+51	work	Lifeguard
+51	work	London Bridges
+51	work	Mary, Mary
+51	work	Maximum Ride: Saving the World and Other Extreme Sports
+51	work	Maximum Ride: School's Out Forever
+51	work	Sail
+51	work	Sam's Letters to Jennifer
+51	work	Step on a Crack
+51	work	Sundays At Tiffany's
+51	work	Suzanne's Diary for Nicholas
+51	work	The 5th Horseman
+51	work	The 6th Target
+51	work	The Dangerous Days Of Daniel X
+51	work	The Final Warning
+51	work	The Jester
+51	work	The Quickie
+51	work	Thriller
+51	work	santaKid
+54	occupation	Authors
+54	occupation	ad executive
+54	occupation	mystery writer
+55	occupation	thriller-churner-outer
+55	occupation	writers
+55	relatives	Jack
+55	work	Maximum Ride
+55	work	The Simpsons
+56	occupation	Author
+56	website	www.jamespatterson.com
+56	work	Four Blind Mice
+56	work	Roses Are Red
+58	occupation	authors
+60	affiliation	J. Walter Thompson, North America
+60	affiliation	McLean Hospital
+60	award	Edgar Award for Best First Mystery Novel
+60	dateofbirth	1947
+60	degree	B.A.
+60	degree	M.A.
+60	location	Palm Beach County, Florida
+60	location	Westchester County, New York
+60	major	English
+60	occupation	author
+60	occupation	chief executive officer
+60	occupation	executive creative director
+60	occupation	junior copywriter
+60	occupation	senior
+60	othername	king of page-turners
+60	relatives	Charles
+60	relatives	Isabelle
+60	school	Manhattan College
+60	school	Vanderbilt University
+60	work	3rd Degree
+60	work	Along Came a Spider
+60	work	Black Friday
+60	work	Judge & Jury (Large Print)
+60	work	London Bridges
+60	work	Mary, Mary
+60	work	Maximum Ride #2: School's Out Forever
+60	work	Season of the Machete
+60	work	Suzanne's Diary for Nicholas
+60	work	The 5th Horseman
+60	work	The Big Bad Wolf
+60	work	The Lake House
+60	work	The Thomas Berryman Number
+60	work	When the Wind Blows
+61	award	Edgar Award for Best First Mystery Novel
+61	birthplace	Newburgh, New York
+61	dateofbirth	March 22, 1947
+61	degree	B.A.
+61	degree	M.A.
+61	location	Palm Beach, Florida
+61	school	Manhattan College
+61	school	Vanderbilt University
+61	work	Along Came a Spider
+61	work	Cat & Mouse
+61	work	Cross
+61	work	Double Cross
+61	work	Four Blind Mice
+61	work	Jack and Jill
+61	work	Kiss the Girls
+61	work	London Bridges
+61	work	Mary, Mary
+61	work	Pop Goes the Weasel
+61	work	Roses Are Red
+61	work	The 6th Target
+61	work	The Big Bad Wolf
+61	work	The Thomas Berryman Number
+61	work	Thriller: Stories to Keep You Up All Night
+61	work	Violets Are Blue
+62	occupation	Author
+62	work	Along Came a Spider
+62	work	Kiss the Girls
+63	award	BCA Mystery Guild's Thriller of the Year
+63	award	Edgar
+63	award	International Thriller of the Year award
+63	occupation	author
+63	othername	The Man Who Can't Miss
+63	work	1st to Die
+63	work	2nd Chance
+63	work	3rd Degree
+63	work	4th of July
+63	work	5th Horseman, The
+63	work	6th Target
+63	work	7th Heaven
+63	work	Against Medical Advice
+63	work	Along Came a Spider
+63	work	Beach House
+63	work	Beach Road
+63	work	Big Bad Wolf, The 
+63	work	Cat & Mouse
+63	work	Cradle and All
+63	work	Cross Country
+63	work	Dangerous Days of Daniel X
+63	work	Double Crossed
+63	work	Final Warning
+63	work	Four Blind Mice
+63	work	Hide and Seek
+63	work	Honeymoon
+63	work	Jack & Jill
+63	work	Jester, The
+63	work	Kiss the Girls
+63	work	Lake House, The
+63	work	Lifeguard
+63	work	London Bridges
+63	work	Mary Mary
+63	work	Maximum Ride
+63	work	Maximum Ride 3: Saving the World and Other Extreme Sports
+63	work	Miracle on the 17th Green
+63	work	Pop Goes the Weasel
+63	work	Quickie, The
+63	work	Roses are Red
+63	work	Sail
+63	work	Sam's Letters to Jennifer
+63	work	Santa Kid
+63	work	Step On A Crack
+63	work	Sundays at Tiffany's
+63	work	Suzanne's Diary for Nicholas
+63	work	The Thomas Berryman Number
+63	work	Violets are Blue
+63	work	When the Wind Blows
+63	work	You've Been Warned
+64	award	BCA Mystery Guild's Thriller of the Year
+64	award	Edgar
+64	award	International Thriller of the Year award
+64	dateofbirth	March 22, 1947
+64	nationality	American
+64	occupation	author
+64	othername	James B. Patterson
+64	othername	the man who can't miss
+64	work	3rd Degree
+64	work	4th Of July
+64	work	5th Horseman
+64	work	6th Target, The
+64	work	Beach Road
+64	work	Big Bad Wolf
+64	work	Cross
+64	work	Honeymoon
+64	work	Jester, The
+64	work	Judge and Jury
+64	work	Kiss The Girls
+64	work	Lake House
+64	work	Lifeguard
+64	work	London Bridges
+64	work	Mary Mary
+64	work	Maximum Ride Book #3 (Maximum Ride)
+64	work	Maximum Ride: Saving The World and Other Extreme Sports
+64	work	Maximum Ride: The Angel Experiment
+64	work	Pop Goes The Weasel
+64	work	Sam's Letters To Jennifer
+64	work	Sam's Letters to Jennifer
+64	work	Season of the Machete
+64	work	Step on a Crack
+64	work	Suzanne's Diary For Nicholas
+64	work	Thomas Berryman Number
+64	work	Thriller - Stories to Keep You Up All Night
+64	work	When The Wind Blows
+65	work	Daniel X
+65	work	daniel x
+67	work	1st to Die
+67	work	2nd Chance
+67	work	3rd Degree
+67	work	4th of July
+67	work	Along Came A Spider
+67	work	Black Friday
+67	work	Black Market
+67	work	Cat and Mouse
+67	work	Cradle and All
+67	work	Cross
+67	work	Double Cross
+67	work	Down Will Come Baby
+67	work	Four Blind Mice
+67	work	Hide & Seek
+67	work	Honeymoon
+67	work	Jack & Jill
+67	work	Judge & Jury
+67	work	Kiss The Girls
+67	work	Lifeguard
+67	work	London Bridges
+67	work	Mary, Mary
+67	work	Midnight Club
+67	work	Miracle on the 17th Green
+67	work	Pop! Goes the Weasel
+67	work	Roses Are Red
+67	work	Sail
+67	work	Sam's Letters to Jennifer
+67	work	Saving the World & Other Extreme Sports
+67	work	School's Out - Forever
+67	work	Season of the Machete
+67	work	See How They Run
+67	work	Seventh Heaven
+67	work	Step on a Crack
+67	work	Sundays at Tiffany's
+67	work	Suzanne's Diary for Nicholas
+67	work	The 5th Horseman
+67	work	The 6th Target
+67	work	The Angel Experiment
+67	work	The Beach House
+67	work	The Beach Road
+67	work	The Big Bad Wolf
+67	work	The Dangerous Days of Daniel X '08
+67	work	The Final Warning
+67	work	The Jester
+67	work	The Lake House
+67	work	The Midnight Club
+67	work	The Quickie
+67	work	The Thomas Berryman Number
+67	work	Thriller
+67	work	Violets Are Blue
+67	work	Virgin
+67	work	When the Wind Blows
+67	work	You've Been Warned
+69	birthplace	Ohio, USA
+69	dateofbirth	1851
+69	location	Moccasin, Effingham, Illinois, USA
+69	occupation	farmer
+69	othername	James W. Patterson
+69	relatives	Nancy YOUNGER
+69	relatives	Nancy Younger
+70	affiliation	J. W. Thompson
+70	affiliation	James Patterson PageTurner Awards
+70	award	Edgar Award for Best First Mystery Novel
+70	location	Palm Beach, Florida
+70	occupation	author
+70	occupation	chairman
+70	relatives	Jack
+70	relatives	Susan
+70	work	1st To Die 
+70	work	2nd Chance 
+70	work	4th of July 
+70	work	7th Heaven
+70	work	Against Medical Advice 
+70	work	Along Came A Spider
+70	work	Cross 
+70	work	Cross Country
+70	work	Double Cross 
+70	work	Four Blind Mice 
+70	work	Mary, Mary 
+70	work	Maximum Ride
+70	work	Pop Goes The Weasel 
+70	work	Roses Are Red 
+70	work	Saving the World and Other Extreme Sports 
+70	work	Suzanne's Diary For Nicholas 
+70	work	The Beach House 
+70	work	The Big Bad Wolf 
+70	work	The Jester 
+70	work	The Thomas Berryman Number
+70	work	Thriller 
+70	work	Violets Are Blue 
+70	work	When The Wind Blows 
+71	work	1st To Die
+71	work	2nd Chance
+71	work	Along Came a Spider
+71	work	Black Friday
+71	work	Cat and Mouse
+71	work	Cross
+71	work	Four Blind Mice
+71	work	Fourth Of July
+71	work	Hide and Seek
+71	work	Jack and Jill
+71	work	Kiss the Girls
+71	work	London Bridges
+71	work	Mary, Mary
+71	work	Pop Goes the Weasel
+71	work	Roses Are Red
+71	work	Season of The Machete
+71	work	See How They Run
+71	work	The Big Bad Wolf
+71	work	The Jester
+71	work	The Lake House
+71	work	The Midnight Club
+71	work	The Thomas Berryman Number
+71	work	Violets Are Blue
+71	work	When the Wind Blows
+72	affiliation	J. Walter Thompson
+72	birthplace	Newburgh, N.Y.
+72	major	English
+72	occupation	Author
+72	occupation	CEO
+72	occupation	author
+72	occupation	writer
+72	school	Manhattan College
+72	school	Vanderbilt University
+72	work	1st to Die
+72	work	2nd Chance
+72	work	Along Came a Spider
+72	work	Mary, Mary
+72	work	Suzanne's Diary for Nicholas
+72	work	The Jester
+72	work	You've Been Warned
+73	award	BCA Mystery Guild's Thriller of the Year
+73	award	Edgar
+73	award	International Thriller of the Year award
+73	dateofbirth	March 22 1947
+73	nationality	American
+73	occupation	author
+73	occupation	writers
+73	othername	James B. Patterson
+73	work	The 6th Target
+75	dateofbirth	1947
+75	location	FL, US
+75	occupation	author
+75	work	Against Medical Advice: One Family's Struggle with an Agonizing Medical Mystery 
+75	work	Cross Country 
+75	work	Double Cross 
+75	work	Max: A Maximum Ride Novel 
+75	work	Maximum Ride: The Final Warning 
+75	work	Run for Your Life 
+75	work	Saving the World and Other Extreme Sports 
+75	work	Sundays at Tiffany's 
+75	work	The Dangerous Days of Daniel X 
+75	work	You've Been Warned 
+76	work	1st to Die
+76	work	2nd Chance
+76	work	3rd Degree
+76	work	4th of July
+76	work	5th Horseman
+76	work	6th Target
+76	work	7th Heaven
+76	work	Along Came A Spider
+76	work	Beach House
+76	work	Beach Road
+76	work	Black Friday
+76	work	Black Market
+76	work	Cat and Mouse
+76	work	Cradle & All
+76	work	Cross
+76	work	Double Cross
+76	work	Four Blind Mice
+76	work	Hide & Seek
+76	work	Honeymoon
+76	work	Jack & Jill
+76	work	Judge and Jury
+76	work	Kiss the Girls
+76	work	Lifeguard
+76	work	London Bridges
+76	work	Mary, Mary
+76	work	Maximum Ride 4: The Final Warning
+76	work	Maximum Ride: Saving the World and Other Extreme Sports
+76	work	Maximum Ride: School's Out??ÅhForever
+76	work	Maximum Ride: The Angel Experiment
+76	work	Miracle on the 17th Green
+76	work	Pop Goes the Weasel
+76	work	Roses are Red
+76	work	Sail
+76	work	Sam's Letters to Jennifer
+76	work	Santa Kid
+76	work	Season of the Machete
+76	work	See How They Run
+76	work	Step on a Crack
+76	work	Sundays at Tiffany's
+76	work	Suzanne's Diary for Nicholas
+76	work	The Big Bad Wolf
+76	work	The Dangerous Days of Daniel
+76	work	The Jericho Commandment
+76	work	The Jester
+76	work	The Lake House
+76	work	The Midnight Club
+76	work	The Quickie
+76	work	The Thomas Berryman Number
+76	work	Violets are Blue
+76	work	Virgin
+76	work	When the Wind Blows
+76	work	You've Been Warned
+77	affiliation	J. Walter Thompson
+77	dateofbirth	March 22, 1947
+77	occupation	CEO
+77	occupation	advertising executive
+77	occupation	author
+77	work	1st to Die
+77	work	Along Came a Spider
+77	work	Kiss the Girls
+79	occupation	thriller-churner-outer
+79	occupation	writers
+79	work	The Simpsons
+81	work	Charlie Rose with Joan Sutherland; Howard Blum; James Patterson; Michael Murphy
+82	othername	Patterson, James
+82	work	Along Came a Spider
+83	award	BCA Mystery Guild's Thriller of the Year
+83	award	Edgar
+83	award	International Thriller of the Year award
+83	award	ReaderÅfs Digest ReaderÅfs Choice Award
+83	occupation	Author
+83	occupation	author
+83	othername	The Man Who Can't Miss
+83	work	Along Came a Spider
+83	work	Honeymoon
+83	work	Kiss the Girls
+83	work	Maximum Ride
+83	work	The Dangerous Days of Daniel X
+83	work	The Simpsons
+83	work	The Thomas Berryman Number
+83	work	Women's Murder Club
+84	location	Palm Beach, Fla.
+84	occupation	Author
+84	occupation	writer
+84	work	Along Came Spider
+84	work	Kiss the Girls
+85	award	BCA Mystery Guild's 
+85	award	Best First Novel
+85	award	Edgar
+85	award	Edgar Award
+85	award	Thrillermaster Award
+85	birthplace	Newburgh New York
+85	dateofbirth	1947
+85	occupation	Writer
+85	occupation	advertising executive
+85	occupation	author
+85	occupation	writers
+85	school	Vanderbilt University
+85	work	6th Target
+85	work	Cross
+85	work	Maximum Ride
+85	work	Step on a Crack
+85	work	Thomas Berryman Number
+86	work	Double Cross
+87	occupation	advertising executive
+87	othername	JP
+87	othername	Patterson, James
+87	work	Maximum Ride
+87	work	Maximum Ride: Saving the World and Other Extreme Sports
+87	work	Maximum Ride: School's Out ? Forever
+87	work	Maximum Ride: The Angel Experiment
+87	work	The Angel Experiment
+87	work	The Lake House
+87	work	When the Wind Blows
+88	affiliation	J. W. Thompson
+88	award	BCA Mystery Guild's Thriller of the Year
+88	award	Edgar
+88	award	International Thriller of the Year award
+88	nationality	American
+88	occupation	author
+88	occupation	chairman
+88	othername	James B. Patterson
+88	work	1st to Die: A Novel
+88	work	2nd Chance (Women's Murder Club)
+88	work	3rd Degree (Women's Murder Club)
+88	work	7th Heaven (Women's Murder Club)
+88	work	Along Came a Spider
+88	work	Cross
+88	work	Double Cross (Alex Cross)
+88	work	Maximum Ride: School's Out - Forever (Maximum Ride)
+88	work	Roses Are Red (Alex Cross Novels)
+88	work	Step on a Crack
+88	work	Sunday's at Tiffany's
+88	work	The 6th Target
+88	work	The Final Warning: A Maximum Ride Novel
+88	work	The Quickie
+88	work	You've Been Warned
+89	location	Palm Beach
+89	occupation	student
+89	occupation	young-adult author
+89	relatives	Jack
+89	relatives	Jack Patterson
+89	work	Daniel X.
+89	work	Maximum Ride
+89	work	The Dangerous Days of Daniel X
+91	location	Florida
+91	occupation	Author
+91	othername	Patterson, James
+91	work	4th of July
+91	work	London Bridges
+92	birthplace	Newburgh, NY
+92	dateofbirth	22-Mar-1947
+92	degree	BA
+92	degree	MA
+92	major	English
+92	nationality	United States
+92	occupation	Author
+92	othername	James B. Patterson
+92	relatives	Charles
+92	relatives	Isabelle
+92	school	Manhattan College
+92	school	Vanderbilt University
+92	website	http://www.jamespatterson.com/
+94	work	James Patterson Special Edition Reader Digital Book
+94	work	Maximum Ride: The Angel Experiment
+94	work	Thriller
+95	occupation	author
+95	occupation	novelist
+95	relatives	Jack
+95	work	The Final Warning
+97	occupation	Author
+97	occupation	junior copywriter
+97	occupation	novelists
+97	othername	Patterson, James
+97	work	Beach House
+97	work	Lake House
+97	work	When the Wind Blows
+98	birthplace	Newburgh, New York, USA
+98	dateofbirth	22 March 1947
+98	occupation	Author
+98	othername	Patterson, James
+98	work	1st to Die 
+98	work	2nd Chance
+98	work	3rd Degree
+98	work	4th of July
+98	work	Along Came a Spider
+98	work	America in the 20th Century 
+98	work	Beach Road
+98	work	Black Friday 
+98	work	Cat & Mouse 
+98	work	Cradle and All 
+98	work	Four Blind Mice
+98	work	Hide & Seek 
+98	work	Honeymoon
+98	work	Jack & Jill 
+98	work	James Patterson's Nursery Rhyme Thrillers
+98	work	Judge & Jury
+98	work	Kiss the Girls
+98	work	Lifeguard
+98	work	London Bridges
+98	work	Mary, Mary
+98	work	Mid-Night Club 
+98	work	Miracle on the 17th Green : A Novel about Life, Love, Family, Miracles ... and Golf
+98	work	Patterson Summer Audio Twinpack 
+98	work	Pop Goes the Weasel 
+98	work	Reader's Digest Select Editions Large Print Vol 135
+98	work	Roses are Red
+98	work	Sam's Letters to Jennifer
+98	work	Saving the World and Other Extreme Sports
+98	work	School's Out Forever
+98	work	Season of the Machete 
+98	work	See How They Run 
+98	work	Sphinxes
+98	work	Suzanne's Diary for Nicholas 
+98	work	The 5th Horseman
+98	work	The Angel Experiment
+98	work	The Beach House
+98	work	The Big Bad Wolf
+98	work	The Dangerous Days of Daniel X
+98	work	The Day America Told the Truth: What People Really Believe About Everything That Really Matters
+98	work	The Final Warning
+98	work	The Jericho commandment: A novel 
+98	work	The Jester
+98	work	The Lake House
+98	work	The Lazarus Pit
+98	work	The Midnight Club 
+98	work	The Second American Revolution
+98	work	The Thirteen 
+98	work	The Thomas Berryman Number 
+98	work	Thriller: Stories To Keep You Up All Night
+98	work	Violets are Blue 
+98	work	Virgin 
+98	work	When the Wind Blows
+98	work	You've Been Warned
+99	location	Briarcliff Manor
+99	location	Palm Beach
+99	occupation	author
+99	occupation	authors
+99	occupation	novelist
+99	relatives	Jack
+99	relatives	Sue
+99	work	Daniel X
+99	work	The Dangerous Days of Daniel X
+104	work	American Dream
+104	work	First Day At Agility Class
+104	work	Getting While The Getting Is GoodÅc
+104	work	Sugar Sugar
+106	affiliation	J. Walter Thompson agency
+106	occupation	writer
+106	othername	JP
+106	school	Vanderbilt
+106	work	Along Came a Spider
+106	work	Cradle and All
+106	work	Kiss the Girls
+106	work	Miracle on the 17th Green
+106	work	Virgin
+106	work	When the Wind Blows
+108	occupation	Author
+108	occupation	author
+108	work	Daniel X
+108	work	Maximum Ride: Saving the World and Other Extreme Sports
+108	work	Maximum Ride: The Final Warning
+108	work	The Dangerous Days of Daniel X
+108	work	The Final Warning
+110	location	Florida
+110	occupation	Author
+110	occupation	author
+110	relatives	Jack
+110	relatives	Sue
+110	school	St. Patrick's Christian Brothers school
+110	work	Against Medical Advice
+110	work	Along Came a Spider
+110	work	Kiss the Girls
+110	work	Sail
+110	work	The Thomas Berryman Number
+111	location	Palm Beach, Florida
+111	occupation	author
+111	work	Along Came A Spider
+111	work	Death In Scarlet
+111	work	Kiss The Girls
+111	work	WomenÅfs Murder Club
+111	work	WomenÅfs Murder Club: Death in Scarlet
+113	occupation	author
+113	occupation	writer
+113	othername	JP
+113	work	Berryman
+113	work	Sam's Letters to Jennifer
+113	work	SamÅfs Letters to Jennifer
+113	work	Suzanne's Diary for Nicholas
+113	work	The Thomas Berryman Number
+114	birthplace	Newburgh, New York
+114	dateofbirth	3-22-1947
+114	website	www.jamespatterson.com
+114	work	1st to Die
+114	work	1st to die
+114	work	2nd Chance
+114	work	3rd Degree
+114	work	4th of July
+114	work	7th Heaven
+114	work	Against medical Advice
+114	work	Beach Road
+114	work	Cat & Mouse 
+114	work	Cradle and all 
+114	work	Cross 
+114	work	Double Cross
+114	work	Four Blind Mice 
+114	work	Honeymoon
+114	work	Jack & Jill 
+114	work	Judge & Jury
+114	work	Lifeguard
+114	work	London Bridges 
+114	work	Mary, Mary 
+114	work	Maximum Ride:     Schools Out-Forever
+114	work	Maximum Ride:     The Angel Experiment
+114	work	Maximum Ride: Saving the World      and other Extreme Sports
+114	work	Pop goes the Weasle 
+114	work	Roses are Red 
+114	work	Run for your Life
+114	work	Sail 
+114	work	Sam's Letters to Jennifer
+114	work	Step on a Crack 
+114	work	Sundays at Tiffany's
+114	work	Suzanne's Diary for Nicholas
+114	work	The 5th Horseman
+114	work	The 6th Target
+114	work	The Beach House
+114	work	The Big Bad Wolf 
+114	work	The Final Warning:    A Maximum Ride Novel
+114	work	The Jester
+114	work	The Lake House 
+114	work	The Quickie 
+114	work	The dangerous Days of Daniel X 
+114	work	Violets are Blue 
+114	work	When the Wind blows 
+114	work	You've been warned
+114	work	santaKid 
+115	work	Sail
+116	work	1st to Die
+116	work	2nd Chance
+116	work	3rd Degree
+116	work	4th of July
+116	work	The 5th Horseman
+117	award	Edgar Allan Poe Award
+117	occupation	author
+117	work	1st to Die
+117	work	2nd Chance
+117	work	3rd Degree
+117	work	4th of July
+117	work	Along Came a Spider
+117	work	Beach Road
+117	work	Black Friday
+117	work	Black Market
+117	work	Cat and Mouse
+117	work	Cradle and All
+117	work	Four Blind Mice
+117	work	Hide and Seek
+117	work	Honeymoon
+117	work	Jack and Jill
+117	work	Kiss the Girls
+117	work	Lifeguard
+117	work	London Bridges
+117	work	Mary, Mary
+117	work	Maximum Ride: The Angel Experiment
+117	work	Miracle on the 17th Green
+117	work	Pop goes the Weasel
+117	work	Roses are Red
+117	work	Sam's Letters to Jennifer
+117	work	Season of the Machete
+117	work	Suzanne's Diary for Nicholas
+117	work	The 5th Horseman
+117	work	The Beach House
+117	work	The Big Bad Wolf
+117	work	The Jester
+117	work	The Lake House
+117	work	The Midnight Club
+117	work	The Thomas Berryman Number
+117	work	Violets are Blue
+117	work	Virgin
+117	work	When the Wind Blows 
+118	dateofbirth	March 22, 1947
+118	nationality	American
+118	occupation	Author
+120	work	Along Came a Spider
+120	work	Beach Road
+120	work	Cat & Mouse
+120	work	Cross
+120	work	Double Cross
+120	work	Four Blind Mice
+120	work	Jack and Jill
+120	work	Kiss the Girls
+120	work	London Bridges
+120	work	Mary Mary
+120	work	Pop Goes The Weasel
+120	work	Roses are Red
+120	work	Sam's Letters to Jennifer
+120	work	Sundays At Tiffany's
+120	work	Suzannes Diary for Nicholas
+120	work	The Big Bad Wolf
+120	work	The Dangerous Days of Daniel X
+120	work	The Quickie
+120	work	Violets are Blue
+121	award	Edgar Award for the best first mystery novel
+121	degree	B.A.
+121	degree	M.A.
+121	location	Palm Beach County, Florida
+121	major	English
+121	occupation	Author
+121	occupation	novelists
+121	school	Manhattan College
+121	school	Vanderbilt University
+121	work	1st to Die
+121	work	2nd Chance
+121	work	3rd Degree
+121	work	4th of July
+121	work	7th Heaven
+121	work	Along Came A Spider
+121	work	Black Market
+121	work	Cat and Mouse
+121	work	Cradle and All
+121	work	Cross
+121	work	Double Cross
+121	work	Four Blind Mice
+121	work	Hide and Seek
+121	work	Honeymoon
+121	work	Jack and Jill
+121	work	Judge & Jury
+121	work	Kiss the Girls
+121	work	Lifeguard
+121	work	London Bridges
+121	work	Mary, Mary
+121	work	Miracle on the 17th Green
+121	work	Pop Goes the Weasel
+121	work	Roses are Red
+121	work	Sail
+121	work	Sam's Letter to Jennifer
+121	work	Season of the Machete
+121	work	See How They Run
+121	work	Step on a Crack
+121	work	Suzanne's Diary for Nicholas
+121	work	The 5th Horseman
+121	work	The 6th Target
+121	work	The Beach House
+121	work	The Big Bad Wolf
+121	work	The Dangerous Days of Daniel X
+121	work	The Jericho Commandment
+121	work	The Jester
+121	work	The Lake House
+121	work	The Maximum Ride: The Angel Experiment
+121	work	The Midnight Club
+121	work	The Quickie
+121	work	The Thomas Berryman Number
+121	work	Violets are Blue
+121	work	Virgin
+121	work	When the Wind Blows
+121	work	Women's Murder Club
+121	work	You've Been Warned
+122	award	Edgar Award for the best first mystery novel
+122	occupation	author
+122	occupation	novelists
+122	occupation	thriller writer
+122	relatives	Jack
+122	work	First to Die
+122	work	Suzanne's Diary
+122	work	Suzanne's Diary for Nicholas
+122	work	Suzanne's Diary for Nicholas: A Novel
+122	work	Today Show
+123	work	Along Came a Spider
+123	work	Cat & Mouse
+123	work	Four Blind Mice
+123	work	Jack and Jill
+123	work	Kiss the Girls
+123	work	London Bridges
+123	work	Mary, Mary
+123	work	Pop Goes the Weasel
+123	work	Roses are Red
+123	work	The Big Bad Wolf
+123	work	Violets are Blue
+125	work	
+125	work	1st to die
+125	work	2nd Chance
+125	work	3rd Degree
+125	work	4th of July
+125	work	7th Heaven
+125	work	Along Came a Spider
+125	work	Cat and Mouse
+125	work	Cross
+125	work	Maximum Ride: Saving the World and Other Extreme Sports
+125	work	Maximum Ride: School's Out Forever
+125	work	Maximum Ride: The Angel Experiment
+125	work	Roses Are Red
+125	work	Suzanne's Diary
+125	work	The 5th Horseman
+125	work	The 6th Target
+125	work	The Beach House
+125	work	When The Wind Blows
+127	relatives	Jack
+127	relatives	Sue
+129	award	Edgar Award for the best first mystery novel
+129	degree	B.A.
+129	degree	M.A.
+129	location	Palm Beach County, Florida
+129	major	English
+129	occupation	Author
+129	occupation	authors
+129	occupation	novelists
+129	school	Manhattan College
+129	school	Vanderbilt University
+129	work	1st to Die
+129	work	2nd Chance
+129	work	3rd Degree
+129	work	4th of July
+129	work	7th Heaven
+129	work	Along Came A Spider
+129	work	Black Market
+129	work	Cat and Mouse
+129	work	Cradle and All
+129	work	Cross
+129	work	Double Cross
+129	work	Four Blind Mice
+129	work	Hide and Seek
+129	work	Honeymoon
+129	work	Jack and Jill
+129	work	Judge & Jury
+129	work	Kiss the Girls
+129	work	Lifeguard
+129	work	London Bridges
+129	work	Mary, Mary
+129	work	Miracle on the 17th Green
+129	work	Pop Goes the Weasel
+129	work	Roses are Red
+129	work	Sail
+129	work	Sam's Letter to Jennifer
+129	work	Season of the Machete
+129	work	See How They Run
+129	work	Step on a Crack
+129	work	Suzanne's Diary for Nicholas
+129	work	The 5th Horseman
+129	work	The 6th Target
+129	work	The Beach House
+129	work	The Big Bad Wolf
+129	work	The Dangerous Days of Daniel X
+129	work	The Jericho Commandment
+129	work	The Jester
+129	work	The Lake House
+129	work	The Maximum Ride: The Angel Experiment
+129	work	The Midnight Club
+129	work	The Quickie
+129	work	The Thomas Berryman Number
+129	work	Violets are Blue
+129	work	Virgin
+129	work	When the Wind Blows
+129	work	You've Been Warned
+130	work	1ST TO DIE
+130	work	2nd CHANCE
+130	work	FOUR BLIND MICE
+130	work	THE BEACH HOUSE
+130	work	THE LAKE HOUSE
+132	occupation	author
+132	occupation	writer
+132	work	Cross
+132	work	MR 4
+132	work	Maximum Ride 3
+132	work	Sundays At Tiffany's
+133	work	James Patterson's Suzanne's Diary for Nicholas
+134	work	THE FINAL WARNING
+134	work	The Final Warning
+135	work	1st to Die [The Women's Murder Club Series Book 1]
+135	work	2nd Chance [The Women's Murder Club Series Book 2]
+135	work	3rd Degree [The Women's Murder Club Series Book 3]
+135	work	7th Heaven [The Women's Murder Club Series Book 7]
+135	work	Along Came a Spider [Alex Cross Series Book 1]
+135	work	Beach Road
+135	work	Black Market
+135	work	Cat & Mouse [Alex Cross Series Book 4]
+135	work	Cradle and All
+135	work	Double Cross [Alex Cross Series Book 13]
+135	work	Four Blind Mice [Alex Cross Series Book 8]
+135	work	Jack & Jill [Alex Cross Series Book 3]
+135	work	Judge & Jury
+135	work	Kiss the Girls [Alex Cross Series Book 2]
+135	work	Mary Mary [Alex Cross Series Book 11]
+135	work	Maximum Ride 2 [Maximum Ride Series Book 2]
+135	work	Maximum Ride: The Angel Experiment [Maximum Ride Series Book 1]
+135	work	Pop Goes the Weasel [Alex Cross Series Book 5]
+135	work	Roses are Red [Alex Cross Series Book 6]
+135	work	Sail
+135	work	Sam's Letters to Jennifer
+135	work	Saving the World and Other Extreme Sports [Maximum Ride Series Book 3]
+135	work	Step on a Crack
+135	work	Sundays at Tiffany's
+135	work	Suzanne's Diary for Nicholas
+135	work	The 5th Horseman [The Women's Murder Club Series Book 5]
+135	work	The 6th Target [The Women's Murder Club Series Book 6]
+135	work	The Big Bad Wolf [Alex Cross Series Book 9]
+135	work	The Dangerous Days of Daniel X
+135	work	The Final Warning [Maximum Ride Series Book 4]
+135	work	The Jester
+135	work	The Lake House
+135	work	The Quickie
+135	work	Thriller: Stories to Keep You Up All Night
+135	work	Violets Are Blue [Alex Cross Series Book 7]
+135	work	When the Wind Blows
+135	work	You've Been Warned
+137	work	CRADLE AND ALL
+137	work	VIRGIN
+138	affiliation	J. Walter Thompson
+138	award	Edgar Award
+138	location	Palm Beach
+138	location	Palm Beach, Fla.
+138	occupation	author
+138	occupation	chairman
+138	occupation	writer
+138	work	Midnight Club
+138	work	The 5th Horseman
+138	work	The Thomas Berryman Number
+139	occupation	author
+139	work	 The Midnight Club
+139	work	Pop Goes the Weasel
+139	work	Roses are Red
+139	work	Violets are Blue
+141	occupation	author
+141	work	James Patterson Special Edition Reader Digital Book Bundle
+141	work	Sundays at Tiffany's
+142	occupation	author
+142	work	Double Cross
+142	work	The 6th Target
+142	work	The Quickie
+142	work	You've Been Warned
+143	occupation	Author
+143	work	Beach Road
+144	dateofbirth	1947
+144	occupation	Author
+144	work	1st to Die
+144	work	2nd Chance
+144	work	3rd Degree
+144	work	4th of July
+144	work	7th Heaven
+144	work	Along Came a Spider
+144	work	Black Friday
+144	work	Black Market
+144	work	Cat and Mouse
+144	work	Cradle and All
+144	work	Cross
+144	work	Cross Country
+144	work	Double Cross
+144	work	Four Blind Mice
+144	work	Hide and Seek
+144	work	Honeymoon
+144	work	Jack and Jill
+144	work	Judge and Jury
+144	work	Kiss the Girls
+144	work	Lifeguard
+144	work	London Bridges
+144	work	Mary, Mary
+144	work	Midnight Club
+144	work	Pop! Goes the Weasel
+144	work	Roses Are Red
+144	work	Run for Your Life
+144	work	Sail
+144	work	Season of the Machete
+144	work	See How They Run
+144	work	Step on a Crack
+144	work	Sundays at TiffanyÅfs
+144	work	The 5th Horseman
+144	work	The 6th Target
+144	work	The Beach House
+144	work	The Beach Road
+144	work	The Big Bad Wolf 
+144	work	The Jericho Commandment
+144	work	The Jester 
+144	work	The Lake House 
+144	work	The Quickie
+144	work	The Thomas Berryman Number
+144	work	Violets Are Blue
+144	work	Virgin
+144	work	When the Wind Blows
+144	work	YouÅfve Been Warned
+146	work	1st to Die
+146	work	4th of July
+146	work	FINAL WARNING, THE
+146	work	Honeymoon
+146	work	Maximum Ride #4: The Final Warning
+146	work	Maximum Ride the Final Warning (Maximum Ride)
+146	work	Maximum Ride: The Final Warning
+146	work	Maximum Ride: The Final Warning (Maximum Ride Adults Version)
+146	work	Maximum Ride: The Final Warning (Maximum Ride: The Protectors)
+146	work	STEP ON A CRACK BY JAMES PATTERSON(2007)HB/DJ-NEW-GREAT
+146	work	The Final Warning
+146	work	The Final Warning (Maximum Ride)
+146	work	The Final Warning (Maximum Ride, Book 4)
+146	work	The Final Warning: A Maximum Ride Novel
+146	work	The Final Warning: A Maximum Ride Novel (Maximum Ride)
+149	work	James Patterson's Suzanne's Diary for Nicholas

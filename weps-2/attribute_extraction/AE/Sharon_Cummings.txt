@@ -1,0 +1,392 @@
+2	affiliation	Terrace Gallery
+2	degree	M.A.
+3	affiliation	American Red Cross, SRAO
+3	affiliation	Red Cross
+3	affiliation	first class of Red Cross SRAO girls
+3	othername	Sharon (Vander Ven) Cummings
+4	location	United States
+4	occupation	Artist
+4	work	A Higher Plane
+4	work	Ascension
+4	work	Black & White Art M...
+4	work	Blue Pure Water 163
+4	work	Blue Pure Water 170
+4	work	Breaking Through
+4	work	Currents
+4	work	Dream Catcher
+4	work	Illuminaries
+4	work	Onda Rossa
+7	location	United States
+7	occupation	Artist
+7	work	A Higher Plane
+7	work	Ascension
+7	work	Black & White Art M...
+7	work	Blue Pure Water 163
+7	work	Blue Pure Water 170
+7	work	Breaking Through
+7	work	Currents
+7	work	Dream Catcher
+7	work	Illuminaries
+7	work	Onda Rossa
+8	affiliation	Ottawa National Wildlife Refuge
+8	affiliation	The Downtown Print Shop
+8	affiliation	Toledo Camera Club
+8	location	Ottawa County, Ohio
+8	occupation	professional freelance wildlife/nature photographer
+9	school	Paul D Schreiber High School
+9	website	www.reunion.com/sv53
+11	affiliation	Terrace Gallery
+11	degree	M.A.
+11	email	ttgallery_47@yahoo.com
+11	occupation	Professional Full-Time Artist
+12	location	502 Madison Avenue Suite 11 Toledo, OH 43604
+12	work	Burrowing Owl
+12	work	Burrowing Owls
+12	work	Eastern Bluebird, female breeding plumage
+12	work	Eastern Bluebird, male
+12	work	Palm Warbler, breeding
+12	work	Red Squirrel
+12	work	Red-winged Blackbird, male
+12	work	Sanderlings, immature
+12	work	Sooty Shearwater
+13	affiliation	Terrace Gallery
+13	degree	M.A.
+13	degree	Masters Degree
+13	major	Fine Art
+13	occupation	full time professional artist
+13	work	A Day To Remember - Abstract Landscape Art
+13	work	A River Runs Through It - Abstract Colorful Art
+13	work	Arctic Auras Abstract Blue Art Oversized Painting
+13	work	Bloom - Abstract Art Painting Poppy Red Poppies
+13	work	Blue City - Abstract Modern Art Landscape Painting
+13	work	Blue Sky - Abstract Modern Landscape Art Oversized
+13	work	Flowers Are For Sharing
+13	work	Inner Heat - Abstract Textured Oversized Painting
+13	work	Pure Koi Joy - Abstract Pond Fish Painting Art
+13	work	Summer Sun - Warm Abstract Landscape Earthtones
+13	work	Summer Wind Abstract Brown Earthtone Art Painting
+13	work	The Girl In The Garden - Abstract Female Nude Art
+13	work	The Goddesses Of The Garden - Abstract Flowers Art
+13	work	The Power Of One - Earthtone Oversized Painting
+13	work	The Roots Of Love Run Deep - Poppy Art
+13	work	Three Poppies - Colorful Red Poppy Art Painting
+14	location	Florida
+14	occupation	Artist
+14	phone	813-983-9241
+14	website	http://sharoncummings.artspan.com/
+14	website	http://www.terracegallery.com/
+14	website	http://www.yessy.com/terracegallery
+14	work	Blue Sky
+14	work	Dreaming In Color
+14	work	Exuberance
+14	work	Fire Nymph
+14	work	Journey To Zen
+14	work	Muse In The Fire
+14	work	Ruby
+14	work	Sun Shadow
+15	location	Tampa, FL 33617  United States
+15	occupation	Artist
+15	phone	(813) 983-9241
+15	work	Black Magic
+15	work	Counting Rings
+15	work	Crimson Shore
+15	work	Sea Song (Song of The Sea)
+16	location	Tampa United States
+16	occupation	Artist
+16	website	http://www.yessy.com/terracegallery
+16	work	A Visit With Ama
+16	work	Arctic Auras
+16	work	Big Poppies
+16	work	Burnished Poppies
+16	work	Dancing Moons 
+16	work	Emerald Moons
+16	work	Expansive Muse
+16	work	Genisis 16
+16	work	Summer Sun
+16	work	Sun Catchers
+16	work	The Joy Of Flight
+17	affiliation	D?j? Vu Theatre
+17	birthplace	Jamaica
+17	location	Jacksonville
+17	occupation	owner
+18	degree	M.A.
+19	location	London, United Kingdom
+19	occupation	Deputy Director
+20	affiliation	Terrace Gallery
+20	affiliation	terracegallery
+20	work	Black Magic 158
+20	work	Black Magic 164
+20	work	Black Magic 166
+20	work	Black Magic 167
+20	work	Black Magic 168
+20	work	Currents
+20	work	Dream Catcher
+20	work	GICLEE ART Zen Land...
+20	work	Illuminaries
+20	work	Laughing Sea
+20	work	Mardi Gras
+20	work	Onda Rossa
+20	work	Pure Water 126 - Bl...
+20	work	Pure Water 144
+20	work	Pure Water 161
+20	work	Pure Water 163
+20	work	Pure Water 166
+20	work	Spring Divas
+20	work	Spring Splendor
+20	work	Together
+20	work	Wisdom
+21	affiliation	Consolidated Publishing Facility
+21	affiliation	W.Va. Dept. of Administration
+21	affiliation	West Virginia Department of Administration
+21	occupation	Pre-Press Service Technician
+21	othername	SHARON K. CUMMINGS
+22	location	Tampa, FL United States
+22	occupation	Artist
+22	website	http://www.absolutearts.com/portfolios/t/terracegallery
+22	work	Awakening
+22	work	House of Blue
+23	affiliation	Aqua America
+23	affiliation	FLEET BANK
+23	affiliation	Yellow book USA
+23	affiliation	keystone mercy
+23	affiliation	quest diagnostics
+23	email	srina49@verizon.net
+23	location	6227 Jefferson Street
+23	location	Philadelphia
+23	location	Philadelphia, PA 19151
+23	location	Philadelphia, Pennsylvania, United States
+23	occupation	Billing Representative
+23	occupation	Collector
+23	occupation	Customer Service Representative
+23	occupation	Galley Review Specialist
+23	occupation	professional customer service representative
+23	phone	(215) 473-4549
+23	school	ETI International
+24	affiliation	Terrace Gallery
+24	othername	Sharon A Aal-Cummings
+24	work	3 Ways To Zen - Abstract Asian Earthtone Brown Art Painting
+24	work	A Day To Remember - Abstract Landscape Blue Art Painting
+24	work	A River Runs Through It - Abstract Colorful Art Painting
+24	work	Arctic Auras - Abstract Blue Art Painting
+24	work	Awakening - Colorful Vibrant Abstract Art Painting Oversized
+24	work	Bloom - Abstract Red Poppy Art Painting Poppies
+26	affiliation	Terrace Gallery
+26	occupation	professional full-time artist
+26	website	http://TerraceGallery.boundlessgallery.com
+26	work	Dreaming T ...
+26	work	Golden Pea ...
+26	work	Healing He ...
+26	work	Spring Pop ...
+26	work	Summer Sun
+27	occupation	Message Board Administrators
+27	othername	SassyInIowa
+29	affiliation	Consolidated Publishing Facility
+29	affiliation	W.Va. Dept. of Administration
+29	affiliation	WEST VIRGINIA DEPARTMENT OF ADMINISTRATION
+29	affiliation	West Virginia Department of Administration
+29	occupation	Pre-Press Service Technician
+29	othername	SHARON K. CUMMINGS
+31	work	Ruby
+33	affiliation	Deja Vu
+33	affiliation	Deja Vu Theatre Productions
+33	birthplace	Jamaica
+33	occupation	chief executive officer
+33	work	Insecure
+33	work	One Love
+34	affiliation	Terrace Gallery
+34	degree	MA
+35	affiliation	Charlotte E. Ray Inn of Court
+35	affiliation	Committee on Fairness and Access to the Courts of the District of Columbia, D.C. Bar Representative to the Advisory Committee
+35	affiliation	Committee on Trustees
+35	affiliation	D.C. Bar Community Economic Development Pro Bono Project Advisory Committee
+35	affiliation	Editorial Board, American Criminal Law Review, Unleashing the Prosecutor's Discretion, 20 Am. Crim. L. Rev. 507
+35	affiliation	Fellows of the American Bar Foundation
+35	affiliation	GWAC Foundation, Inc.
+35	affiliation	Lawyers' Committee for Civil Rights Under Law
+35	affiliation	Lowell School
+35	affiliation	Phi Beta Kappa
+35	affiliation	Public Employee Relations Board
+35	affiliation	Robins, Kaplan, Miller, & Ciresi L.L.P.
+35	affiliation	U.S. District Court for the District of Columbia, Advisory Committee on Pro Se Litigation
+35	affiliation	U.S. District Court for the District of Maryland
+35	affiliation	YES
+35	affiliation	Youth Education Services
+35	degree	B.A.
+35	degree	J.D.
+35	email	scgiles@rkmc.com
+35	location	1801 K Street, N.W. Suite 1200 Washington, D.C. 20006
+35	mentor	Herbert F. Murray
+35	occupation	Board Member
+35	occupation	Chair
+35	occupation	Chairperson
+35	occupation	Charter Member
+35	occupation	lead trial counsel
+35	othername	Giles
+35	othername	Sharon Cummings Giles
+35	phone	(202) 775-0725
+35	school	Georgetown University Law Center
+35	school	University of South Carolina
+36	affiliation	Terrace Gallery
+37	location	Florida
+37	occupation	Artists
+37	occupation	artist
+37	occupation	painter
+37	work	Contrast
+37	work	Movement
+37	work	Texture
+40	location	Southern Indiana
+42	affiliation	M.A.G.M.A.
+42	affiliation	Mountain Area Gem and Mineral Association
+42	affiliation	Opalhaus Rockshop
+43	affiliation	Red Cross
+43	affiliation	SRAO
+43	affiliation	Supplemental Recreational Activities Overseas
+43	othername	Sharon (Vander Ven) Cummings
+44	affiliation	Public Employee Relations Board
+44	occupation	Board Members
+44	othername	Sharon Cummings Giles
+45	affiliation	Executive Board
+45	affiliation	Executive Committee
+45	occupation	Co-President
+45	occupation	PTA Officers
+52	location	Ashland
+54	affiliation	TerraceGallery
+54	email	ttgallery_47@yahoo.com
+54	phone	813-983-9241
+55	location	Raleigh
+58	affiliation	ONWRA
+58	affiliation	Ottawa National Wildlife Refuge Association Board of Directors
+58	affiliation	Sharon Cummings Nature Photography
+58	affiliation	Toledo Camera Club
+58	location	Toledo, Ohio
+58	occupation	board member
+58	occupation	freelance photographer
+58	website	www.sharoncummings.net
+61	affiliation	California SmokersÅf Helpline
+61	affiliation	Helpline
+61	affiliation	UCSDÅfS CALIFORNIA SMOKERSÅf HELPLINE
+61	occupation	research coordinator
+62	email	ttgallery_47@yahoo.com
+62	location	Florida
+62	location	United States
+62	major	art
+62	occupation	Artist
+62	occupation	personal trainer
+62	othername	Aal-Cummings
+62	phone	813-983-9241
+62	school	Universtiy of Tampa
+63	work	Exuberance
+63	work	Muse In The Fire
+64	relatives	Chasity Caulder
+64	relatives	Dianna Harris
+64	relatives	Dustin Vinson
+64	relatives	GLENN DALE VINSON
+64	relatives	Glenn Dale Vinson
+64	relatives	Michael Vinson
+67	affiliation	TOLEDO CAMERA CLUB
+67	work	Cottontail
+67	work	Dinners Here
+72	affiliation	Blaircroft Labradors
+72	location	9415 Highway 66 Wadesville, Indiana 47638
+72	phone	(812) 985-5175
+74	affiliation	California SmokersÅf Helpline
+74	affiliation	Helpline
+74	affiliation	UCSD'S California Smokers' Helpline
+74	occupation	research coordinator
+76	occupation	Minority Partners
+76	othername	Sharon Cummings Giles
+79	affiliation	Labs of Blaircroft
+79	location	Wadesville, Indiana USA
+80	location	Tampa, FL, United States
+80	occupation	Seller
+82	location	Canyon Country
+85	affiliation	SCSO
+85	affiliation	SCSO Board
+85	occupation	Public Relations Manager
+86	affiliation	California SmokersÅf Helpline
+86	affiliation	Helpline
+86	affiliation	UCSD's California Smokers Helpline
+86	occupation	research coordinator
+88	affiliation	Consumer Protection Division Law Department U.S. Postal Service
+88	location	 Consumer Protection Division Law Department U.S. Postal Service Washington, DC 20260-1100
+89	relatives	Brook Cummings
+89	relatives	Kim
+89	relatives	Krissie Borchard
+89	relatives	William Bishop 
+90	affiliation	The University of Texas School of Public Health
+90	email	Sharon.S.Cummings@uth.tmc.edu
+90	occupation	DeanÅfs Executive Staff
+90	occupation	Senior Executive Assistant to the Dean
+90	phone	713-500-9041
+91	affiliation	Stahl Elementary School
+91	award	NEISD Superintendent's Awards
+91	occupation	beacon
+101	affiliation	St. Barnabas' Episcopal Church, Leeland
+101	affiliation	St. BarnabasÅf Church
+101	fax	(301) 249-3838
+101	location	St. BarnabasÅf Church 14111 Oak Grove Rd. Post Office Box 4528 Upper Marlboro, MD 20775
+101	occupation	Convention Deligates
+101	occupation	Junior Warden
+101	occupation	Officers
+101	phone	(301) 249-5000
+102	occupation	attorney
+105	affiliation	Eastern Caribbean Supreme Court
+105	occupation	High Court Judge
+105	occupation	Magistrate
+109	affiliation	Four Mile Elementary
+109	fax	515-262-1933
+109	location	670 SE 68th St. Pleasant Hill, IA 50327
+109	occupation	Principal
+109	phone	515-265-1972
+110	occupation	Transcriber
+112	affiliation	Terrace Gallery
+112	affiliation	terracegallery gallery
+112	email	ttgallery_47@yahoo.com
+112	occupation	Professional Full-Time Artist
+112	website	www.terracegallery.com
+112	website	www.yessy.com/terracegallery
+115	affiliation	Administration L&N Federal Credit Union
+115	affiliation	L&N Federal Credit Union
+115	email	Sharon.Cummings@lnfcu.com
+115	fax	(502) 515-8390
+115	location	L&N Federal Credit Union 9265 Smyrna Parkway Louisville, Kentucky 40229
+115	location	Louisville, Kentucky
+115	occupation	Vice President
+115	phone	(502) 515-8329
+120	othername	Sharon Cummings Eves
+121	affiliation	Terrace Gallery
+125	email	chasecreek@yahoo.com
+125	phone	(631)749-4379
+128	award	Best Family Show
+128	award	Evelyn Reed Award for Best Family Show
+128	award	Goldie Awards
+128	award	Goldies
+128	award	Irving G. Wallpaper Award
+128	work	I Believe In Make Believe
+128	work	You're A Good Man, Charlie Brown
+132	affiliation	SEBA
+132	affiliation	SouthEastern Bluegrass Association
+135	occupation	attorney
+137	affiliation	DAR
+137	affiliation	Daughters of the American Revolution
+137	affiliation	James Bright Chapter of the DAR
+137	affiliation	James Bright Chapter of the Daughters of the American Revolution
+138	affiliation	Wright Elementary
+138	occupation	Faculty
+139	work	Labor Of Love series
+140	relatives	Jennifer
+140	relatives	Jennifer Cummings
+141	relatives	Cyndi
+141	relatives	Gabrielson
+141	relatives	KEN SKROVIG
+141	relatives	Ken
+141	relatives	Ken Skrovig
+141	relatives	Lyndi
+141	relatives	Morgan
+141	relatives	Myndi
+141	relatives	Rector
+145	affiliation	NABA NY Newsletter Committee
+145	occupation	Committee Director
+147	othername	Sharon Cummings-Baxter
+148	relatives	Julius Jefferson
+149	occupation	Committee Director

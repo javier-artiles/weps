@@ -1,0 +1,344 @@
+4	dateofbirth	December 1,1974
+4	location	NORCROSS, Georgia, United States
+4	occupation	Artists
+4	othername	Otis Lee, Jr.
+15	affiliation	Coppin Chapel AME church
+15	affiliation	Hormel‚Äôs
+15	affiliation	HormelÔøΩfs
+15	affiliation	Masonic Temple Lodge No. 45
+15	affiliation	U.S. Military
+15	birthplace	Lauderdale, MS
+15	dateofbirth	August 11, 1922
+15	othername	OTIS LEE PICKETT
+15	othername	Otis L. Pickett
+15	relatives	Bessie B. Brown
+15	relatives	Deborah K. Sailor
+15	relatives	Ed and Annie B. Pickett
+15	relatives	Elizabeth Carlise
+15	relatives	Ethel Mae Pickett
+15	relatives	James E. Pickett
+15	relatives	Johnnie R. Pickett
+15	relatives	ML Pickett
+15	relatives	Mattie Pearl Mundy
+15	relatives	Oletha Pickett
+15	relatives	Otis L. Pickett Jr.
+15	relatives	Pearlie Mae
+15	relatives	Pearlie Mae Pickett
+15	relatives	Percy Rochon Jr
+15	relatives	Shirlee R. Brown
+15	relatives	Theresa and Helen Pickett
+15	relatives	Willie L. Pickett
+19	affiliation	Marine Corps
+19	birthplace	Steele, Missouri
+19	dateofbirth	March 2nd, 1948
+19	occupation	PFC
+19	occupation	Private First Class
+19	othername	Allen
+19	othername	Otis Lee Allen
+22	affiliation	Boston Celtics
+22	affiliation	Cougars
+22	affiliation	CougarÅfs radio broadcast team
+22	affiliation	Houston
+22	affiliation	Houston Cougars
+22	affiliation	Kansas City Kings
+22	affiliation	Kings
+22	affiliation	New Jersey Nets
+22	affiliation	University of Houston men's basketball team
+22	award	District VI Player of the Year
+22	award	SWC player of the Decade
+22	award	Southwest Conference Player of the Year
+22	birthplace	Winter Haven, Florida
+22	dateofbirth	December 9, 1955
+22	nationality	American
+22	occupation	college freshman
+22	occupation	guard
+22	occupation	junior
+22	occupation	professional basketball player
+22	occupation	senior
+22	occupation	sophomore
+22	occupation	team captain
+22	othername	Birdsong
+22	othername	Otis Birdsong
+22	othername	Otis Lee Birdsong
+22	school	University of Houston
+22	school	Winter Haven High School
+23	location	Washington D.C. Metro Area
+23	occupation	Owner
+26	affiliation	95th Engineer Regiment
+26	affiliation	U.S. Army Corps of Engineers
+26	birthplace	Baltimore
+26	dateofbirth	1918
+26	occupation	Staff Sergeant
+26	othername	Otis Edward Lee, Sr.
+26	othername	Otis Lee Jr.
+30	affiliation	Cobras
+30	affiliation	Dukes
+30	occupation	tenor lead
+30	occupation	writer
+30	relatives	Nate
+30	work	I Will Return
+36	occupation	Artists
+38	affiliation	American Bar Association
+38	affiliation	Georgia Bar Association
+38	affiliation	Mississippi Bar Association
+38	birthplace	Jackson, MS
+38	dateofbirth	1972
+38	degree	B.A.
+38	degree	J.D.
+38	email	clee@deminglaw.com
+38	fax	(770) 564-2267
+38	location	4851 Jimmy Carter Blvd Norcross, Georgia 30093-3641
+38	occupation	Associate
+38	othername	Charles Otis Lee
+38	phone	(770) 564-2600
+38	phone	770-564-2600
+38	phone	912-527-2000
+38	school	Rust College
+38	school	University of Mississippi School of Law
+40	affiliation	Cedar Shoals High School
+40	birthplace	Madison County
+40	occupation	custodian
+40	othername	Otis Lee Robinson
+40	relatives	Barbara Smith
+40	relatives	Bart ''Cokey''
+40	relatives	Bessie Robinson
+40	relatives	Carolyn Robinson
+40	relatives	Donnie Ellington
+40	relatives	Ivan ''Sugar''
+40	relatives	Jeff Robinson
+40	relatives	L.C. Peoples
+40	relatives	Marilyn Robison
+40	relatives	Mattie Robinson
+40	relatives	Randolph Peterkin
+40	relatives	Sallie Robinson
+40	relatives	Sonny Robinson
+41	birthplace	Sundial, WV
+41	dateofbirth	14 Aug 1908
+41	othername	Otis Lee Pettry
+41	relatives	Arizona Minnie Pettry
+41	relatives	Arley Kenneth Pettry
+41	relatives	Billy Franklin Pettry
+41	relatives	Carlos Pettry
+41	relatives	Dille Mae Canterbury
+41	relatives	Edna Lois Pettry
+41	relatives	Faye Marie Marie Pettry
+41	relatives	James Sanford Pettry
+41	relatives	James Willard Pettry
+41	relatives	Mary Ann Pettry
+41	relatives	Pauline Pettry
+41	relatives	Ruby Maxine Pettry
+41	relatives	Sarah Rosetta Milam
+41	relatives	Willie Ray Pettry
+43	othername	Otis Lee/Rhodes
+43	relatives	Matty/Wray
+43	relatives	R. Åc/Rhodes
+45	affiliation	Boston Celtics
+45	affiliation	Cougars
+45	affiliation	CougarÅfs radio broadcast team
+45	affiliation	Houston
+45	affiliation	Houston Cougars
+45	affiliation	Kansas City Kings
+45	affiliation	Kings
+45	affiliation	New Jersey Nets
+45	affiliation	University of Houston men's basketball team
+45	award	District VI Player of the Year
+45	award	SWC player of the Decade
+45	award	Southwest Conference Player of the Year
+45	birthplace	Winter Haven, Florida
+45	dateofbirth	December 9, 1955
+45	nationality	American
+45	occupation	college freshman
+45	occupation	guard
+45	occupation	junior
+45	occupation	professional basketball player
+45	occupation	senior
+45	occupation	sophomore
+45	occupation	team captain
+45	othername	Birdsong
+45	othername	Otis Birdsong
+45	othername	Otis Lee Birdsong
+45	school	University of Houston
+45	school	Winter Haven High School
+47	affiliation	South Atlanta
+47	affiliation	South Atlanta HS
+47	award	January 2008 Student-Athletes of the Month
+47	location	Atlanta, GA
+47	mentor	Brown
+47	mentor	Trina Brown
+47	occupation	Sophomore
+47	occupation	freshman
+54	othername	OTIS LEE ALLEN
+63	affiliation	Cooper
+63	affiliation	Cooper & Sons, Inc
+63	location	348 E 113th St, Los Angeles, CA 90061-3020, United States
+63	location	Los Angeles, CA
+63	occupation	President
+63	othername	Otis Lee Cooper
+63	phone	(323) 374-0444
+66	othername	Otis Lee IV
+66	relatives	Mallory Lee
+67	othername	Otis L.
+67	othername	Otis Lee Carney
+67	relatives	Alfred
+67	relatives	Alfred Farris Carney
+67	relatives	CARNEY
+67	relatives	CARNEY - James H.
+67	relatives	CARNEY, James
+67	relatives	Earnest C.
+67	relatives	Earnest CARTER
+67	relatives	Ernest
+67	relatives	Farris
+67	relatives	Gerstle
+67	relatives	Gladys
+67	relatives	Gladys BARNES
+67	relatives	James Burton Carney
+67	relatives	James CARNEY
+67	relatives	James Henry Carney
+67	relatives	Jewel
+67	relatives	Jewel Earnestine Carney
+67	relatives	Jewel REASOR
+67	relatives	Jim
+67	relatives	Lawrence
+67	relatives	Lee Farris Carney
+67	relatives	Mary Gladys Carney
+67	relatives	W. L., W. G., and L. F. CARNEY
+67	relatives	William L.
+67	relatives	William Lawrence Carney
+67	relatives	Willis G.
+67	relatives	Willis Gerstle Carney
+67	relatives	Woodford
+67	relatives	Woodford Matthew Carney
+68	othername	OTIS LEE WOODS
+69	dateofbirth	1968-11-08
+69	location	916 CANAL ST MYRTLE BEACH SC 29577
+69	location	Horry
+69	othername	ALFORD OTIS
+69	othername	ALFORD OTIS LEE
+71	relatives	Pearl Lois (Heaton) Gray
+71	relatives	Vivian Eleane Richardson
+72	othername	Allen, Otis Lee
+75	affiliation	Navy
+75	affiliation	USN
+75	birthplace	Scottsville, KY.
+75	dateofbirth	26 March 1913
+75	occupation	RM3
+75	occupation	Radioman Third Class
+75	occupation	aerial gunner
+75	othername	Dennis
+75	othername	Otis Lee Dennis
+78	dateofbirth	12/19/1912
+78	location	Jordan Stream Church Cemetery Highway 112 South of Toomsboro
+79	othername	Otis Lee Hayden
+80	phone	859-854-5178
+86	affiliation	BOS
+86	affiliation	Boston Celtics
+86	affiliation	KCK
+86	affiliation	Kansas City Kings
+86	affiliation	NJN
+86	affiliation	New Jersey Nets
+86	birthplace	Winter Haven, Florida
+86	dateofbirth	December 9, 1955
+86	occupation	Guard
+86	othername	Bird
+86	othername	Otis Birdsong
+86	othername	Otis Lee Birdsong
+86	school	University of Houston
+86	school	Winter Haven
+97	othername	Otis Lee Whitten
+97	relatives	Dorothy Elouise O'Rear
+98	birthplace	Cumberland R.I.
+98	birthplace	Cumberland RI
+98	birthplace	Cumberland Rhode Island
+98	birthplace	Cumberland, R.I.
+98	dateofbirth	28 Apr 1799
+98	relatives	Abigail Lee
+98	relatives	Amariah Lee
+98	relatives	Cecelia Lee
+98	relatives	Galenpeck Lee
+98	relatives	John Lee Jr
+98	relatives	Joseph Lee Jr
+98	relatives	Levi Lee
+98	relatives	Nancy
+98	relatives	Ruth Lee
+98	relatives	William Henry Lee
+108	relatives	Mary
+108	relatives	Richard
+108	relatives	Richard Alvin Lee
+111	dateofbirth	03/28/1982
+111	othername	Otis Lee Allen
+112	dateofbirth	02/22/1973
+112	location	106 Courtyard Circle, Goldsboro NC
+112	othername	Otis Lee Coley
+113	othername	Otis Lee Williams
+113	relatives	James
+113	relatives	James Burton Williams
+125	othername	Otis Lee Peeler
+125	relatives	Dennis Dale Peeler
+125	relatives	Joy Lynn Peeler
+125	relatives	Marilyn Beam
+126	othername	Otis Lee Walker
+126	othername	Walker
+127	othername	Otis Lee Norris
+130	affiliation	McCall Corporation
+130	affiliation	McCall's
+130	occupation	Editor-Publisher
+130	othername	Otis Lee Weise
+131	othername	Otis Lee Artis Jr.
+131	relatives	Christie J. Ephrim
+138	othername	Otis Lee Sanders
+139	dateofbirth	04/01/1987
+139	location	531 Bellulah Brown Rd.
+139	othername	OTIS LEE STEADMAN
+141	othername	BUSH, OTIS LEE
+143	othername	Otis Lee Tugwell IV
+145	affiliation	Arkansas RimRockers
+145	affiliation	Boston Celtics
+145	affiliation	Kansas City Kings
+145	affiliation	New Jersey Nets
+145	affiliation	Personalties and Promotions International
+145	award	Polk's greatest athlete
+145	award	Southwest Conference Player of the Decade
+145	birthplace	Polk County
+145	birthplace	Winter Haven
+145	location	Little Rock, Ark.
+145	mentor	Joe Harge
+145	occupation	athlete
+145	occupation	athletes
+145	occupation	director
+145	occupation	general manager
+145	occupation	guard
+145	occupation	players
+145	occupation	president
+145	othername	Birdsong
+145	othername	OTIS LEE BIRDSONG
+145	othername	Otis Birdsong
+145	relatives	Deborah
+145	school	University of Houston
+145	school	Winter Haven High School
+146	affiliation	McCall's
+146	occupation	editor
+146	occupation	publisher
+146	othername	Otis Lee Wiese
+146	othername	Wiese
+147	relatives	Emma Clayborn Wheeler
+147	relatives	Emma Lee Wheeler Martin
+148	affiliation	Church of Christ
+148	birthplace	Buckeye, Ariz.
+148	occupation	heavy-equipment operator
+148	othername	OTIS LEE ACREY
+148	othername	Otis Lee Acrey
+148	relatives	Don Acrey
+148	relatives	Jeanie Dees
+148	relatives	Loyd Acrey
+148	relatives	Lynn Acrey
+148	relatives	Shirley Stratton
+148	relatives	Stanley Acrey
+148	relatives	Steven Acrey
+149	othername	Otis Lee HEWITT
+149	relatives	Frieda HEWITT
+149	relatives	Howard Harold HEWITT
+149	relatives	Luna LEE
+149	relatives	Stanley HEWITT
+149	relatives	Thomas William HEWITT
+150	othername	Eakes, Otis Lee
+150	relatives	Cowart, Gracie Bell

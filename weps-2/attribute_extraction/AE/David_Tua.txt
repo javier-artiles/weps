@@ -1,0 +1,455 @@
+2	affiliation	Joint Association of Boxers
+2	affiliation	Tuaman Inc. Ltd.
+2	birthplace	Aopo, Western Samoa
+2	birthplace	Faleatiu, Western Samoa
+2	dateofbirth	November 21, 1972
+2	location	New Zealand
+2	mentor	Barry
+2	mentor	Cedric Kushner
+2	mentor	Kevin Barry
+2	mentor	Kushner
+2	mentor	Martin Pugh
+2	mentor	Pugh
+2	mentor	Shields
+2	nationality	Samoan
+2	occupation	heavyweight
+2	occupation	heavyweight boxer
+2	occupation	unionized boxer
+2	othername	Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi
+2	othername	The Terminator
+2	othername	Tuaman
+3	dateofbirth	Nov. 21, 1972
+3	location	New Zealand
+5	location	New Zealand
+5	othername	Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi
+6	dateofbirth	November 21, 1972
+6	location	New Zealand
+6	location	South Auckland, New Zealand
+6	occupation	fighter
+6	othername	Tuaman
+7	location	Vero Beach, Florida
+7	mentor	Bloodworth
+7	mentor	Roger Bloodworth
+7	mentor	Ronnie Shields
+7	mentor	Shields
+7	occupation	fighter
+7	occupation	heavyweights
+8	occupation	boxers
+8	occupation	fighter
+8	occupation	fighters
+8	occupation	heavyweight
+8	othername	Tuaman
+8	othername	tua man
+9	occupation	Heavyweights
+9	othername	David " The TuaMan " Tua
+9	othername	Samoan Sandman
+9	othername	TUAMAN
+10	birthplace	Samoa
+10	dateofbirth	November 21st
+10	location	Aukland, New Zealand
+10	location	New Zealand
+10	location	United States
+10	mentor	Afa
+10	nationality	Samoan
+10	othername	David 
+10	othername	David "Terminator" Tua
+10	relatives	Afa
+10	relatives	Uncle Afa
+10	relatives	the Wild Samoan #1
+11	location	Vero Beach, Florida
+11	mentor	Bloodworth
+11	mentor	Roger Bloodworth
+11	mentor	Ronnie Shields
+11	mentor	Shields
+11	occupation	fighter
+12	birthplace	Samoa
+12	occupation	heavyweights
+12	othername	David ÅgTuamanÅh Tua
+13	location	New Zealand
+13	nationality	Samoan
+13	occupation	artist
+13	occupation	fighter
+14	birthplace	Western Samoa
+14	location	New Zealand
+14	nationality	Samoan
+14	occupation	boxer
+14	occupation	fighter
+14	occupation	heavyweight
+14	othername	The Terminator
+14	othername	The Throwin??? Samoan
+14	othername	The ThrowinÅf Samoan
+14	othername	The Tuaman
+15	mentor	Cedric Kushner
+15	mentor	Kevin Barry
+15	mentor	Roger Bloodworth
+16	location	New Zealand
+16	occupation	fighter
+16	othername	Tua-man
+17	birthplace	Samoa
+17	location	New Zealand
+17	mentor	Cedric Kushner
+17	mentor	Kushner
+17	occupation	heavyweights
+17	occupation	knockout artist
+17	othername	David ÅgTuamanÅh Tua
+18	birthplace	Faleatiu
+18	birthplace	Western Samoa
+18	dateofbirth	November 21, 1972
+18	location	Aukland, New Zealand
+18	location	Mangere, Auckland, New Zealand
+18	mentor	Kevin Barry
+18	nationality	Samoan
+18	occupation	boxers
+18	occupation	fighters
+18	othername	Davita Manfaufau Sanerifi
+18	othername	The Terminator
+18	othername	Tuaman
+18	relatives	Tuavale
+19	occupation	fighter
+19	occupation	fighters
+19	occupation	heavyweight
+19	othername	The Tuaman
+19	othername	Tuaman
+20	dateofbirth	21 November 1972
+20	location	Auckland
+20	location	New Zealand
+20	nationality	Samoa
+20	occupation	Boxer
+20	othername	The Bomber
+20	website	http://www.tuaman.com
+21	occupation	boxers
+22	occupation	fighters
+23	dateofbirth	November 21, 1972
+23	occupation	Heavyweight boxer
+23	othername	David "Terminator" Tua
+24	occupation	boxer
+24	othername	TUAMAN
+25	occupation	fighter
+25	occupation	heavyweight
+25	occupation	heavyweights
+27	location	New Zealand
+27	nationality	Samoan
+27	occupation	boxer
+27	occupation	fighter
+27	occupation	slugger
+28	othername	Tuaman
+29	location	New Zealand
+29	mentor	Cedric Kushner
+30	occupation	boxer
+30	occupation	boxers
+30	occupation	fighters
+30	othername	Tuaman
+32	mentor	Roger Bloodworth
+32	nationality	Samoan
+32	occupation	heavyweight
+32	othername	Heavyweight Savior
+33	mentor	Kevin Barry
+33	occupation	boxer
+34	location	Auckland
+34	location	New Zealand
+36	birthplace	Samoa
+36	location	New Zealand
+36	mentor	Bloodworth
+36	mentor	Cedric Kushner
+36	mentor	Kushner
+36	mentor	Roger Bloodworth
+36	nationality	Samoan
+36	occupation	fighter
+36	occupation	heavyweight
+37	nationality	Samoan
+37	occupation	boxer
+37	occupation	fighter
+37	occupation	heavyweight
+37	othername	Tuaman
+38	birthplace	Western Samoa
+38	birthplace	Western Samoa, Faleatiu
+38	dateofbirth	21 November 1972
+38	location	Auckland
+38	location	Aukland, New Zealand
+38	location	Mangere
+38	location	Mangere, Auckland, New Zealand
+38	location	New Zealand
+38	nationality	New Zealander
+38	nationality	Samoan
+38	occupation	Boxer
+38	othername	David Tua Davita Manfaufau Sanerifi
+38	relatives	Tuavale
+38	relatives	Tuavale Mafaufau
+39	othername	Tua, David
+40	location	New Zealand
+40	nationality	Samoan
+41	othername	TUAMAN
+43	award	Knockout of the Year
+43	location	New Zealand
+43	occupation	heavyweight
+45	location	Auckland
+45	location	New Zealand
+45	mentor	Kevin Barry
+45	mentor	Martin Pugh
+45	occupation	Heavyweight
+49	birthplace	Aopo, American Samoa
+49	dateofbirth	November 21, 1972
+49	location	Auckland
+49	location	New Zealand
+49	othername	Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi
+51	location	New Zealand
+51	occupation	boxer
+51	occupation	boxers
+51	occupation	fighter
+51	occupation	heavyweight
+51	othername	The Tuaman
+51	othername	Tuaman
+53	birthplace	Western Samoa, Faleatiu
+53	dateofbirth	21 November 1972
+53	location	Auckland
+53	location	Mangere
+53	location	Mangere, Auckland, New Zealand
+53	location	New Zealand
+53	location	United States
+53	mentor	Kenape Faletoese
+53	mentor	Kevin Barry
+53	mentor	Martin Pugh
+53	mentor	Ronnie Shields
+53	occupation	boxers
+53	occupation	fighters
+53	occupation	heavyweight
+53	occupation	middleweight
+53	occupation	professional fighter
+53	othername	Davita Manfaufau Sanerifi
+53	relatives	Tuavale
+53	relatives	Tuavale Mafaufau
+54	occupation	fighters
+54	occupation	heavyweight
+54	othername	DT
+59	birthplace	Samoa
+59	location	United States
+59	occupation	boxer
+59	occupation	boxers
+59	occupation	heavyweight
+59	occupation	heavyweights
+59	othername	Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi
+59	othername	the tuaman
+63	location	New Zealand
+63	location	south auckland new zealand
+63	occupation	boxer
+63	othername	TUA MAN
+65	occupation	Heavyweights
+65	othername	Tuaman
+67	occupation	boxer
+69	location	New Zealand
+69	mentor	Kevin Barry
+69	mentor	Roger Bloodworth
+69	occupation	boxer
+70	award	bronze medal
+70	location	New Zealand
+70	occupation	fighters
+70	occupation	pugilist
+70	othername	The Tuaman
+70	othername	Tuaman
+71	location	New Zealand
+71	nationality	Samoan
+71	occupation	fighter
+72	birthplace	Samoa
+72	location	Auckland
+72	location	South Auckland, New Zealand
+72	location	United States
+72	occupation	fighter
+72	occupation	fighters
+72	occupation	heavyweight
+72	othername	David ÅgThe TuamanÅh Tua
+72	othername	The TUAMAN
+72	othername	Tuaman
+75	location	Auckland
+75	location	New Zealand
+75	mentor	Cedric Kushner
+75	mentor	Kushner
+75	mentor	Lee Parore
+75	mentor	Roger Bloodworth
+75	occupation	boxers
+75	othername	Tuaman
+75	othername	the Tuaman
+77	mentor	Kevin Barry
+77	mentor	Martin Pugh
+77	mentor	Roger Bloodworth
+77	occupation	boxer
+77	occupation	fighter
+77	occupation	heavyweight
+77	occupation	knockout artist
+77	occupation	professional athlete
+77	othername	Kevin (Barry)
+77	othername	Tuaman
+80	occupation	fighter
+80	othername	Tuaman
+82	location	New Zealand
+82	mentor	Kevin Barry
+82	mentor	Ronnie Shields
+82	nationality	Samoan
+82	occupation	fighter
+82	occupation	fighters
+82	occupation	heavyweight
+83	occupation	fighters
+84	mentor	Cedric Kushner
+84	occupation	Heavyweight
+84	occupation	fighter
+86	location	Salt Lake City
+86	nationality	Samoan
+86	othername	David ÅgTuamanÅh Tua
+87	birthplace	Samoa
+87	location	Auckland
+87	location	New Zealand
+87	location	South Auckland, New Zealand
+87	location	United States
+87	nationality	New Zealander
+87	occupation	fighter
+87	occupation	fighters
+87	occupation	heavyweight
+87	othername	David ???The Tuaman??ÅETua
+87	othername	David ÅgThe TuamanÅh Tua
+87	othername	THE TUAMAN
+87	othername	Tuaman
+88	birthplace	Samoa
+88	location	Auckland
+88	location	New Zealand
+88	location	South Auckland, New Zealand
+88	location	United States
+88	nationality	New Zealander
+88	occupation	fighter
+88	occupation	fighters
+88	occupation	heavyweight
+88	othername	David ÅgThe TuamanÅh Tua
+88	othername	The Tuaman
+88	othername	Tuaman
+90	birthplace	Western Samoa
+90	location	New Zealand
+90	mentor	Dan Goossen
+90	nationality	Samoan
+91	nationality	Samoan
+91	occupation	fighters
+91	othername	David ÅeTuaManÅf Tua
+91	othername	TuaMan
+95	location	New Zealand
+95	nationality	Samoan
+95	occupation	boxer
+95	occupation	boxers
+97	nationality	Samoan
+97	nationality	Samoans
+97	occupation	fighters
+97	occupation	heavyweight slugger
+97	occupation	heavyweights
+97	othername	TUA-MAN
+97	othername	Tua-Man
+98	location	New Zealand
+98	nationality	New Zealander
+98	nationality	Samoan
+101	othername	David "Tuaman" Tua
+102	nationality	Samoan
+103	location	New Zealand
+103	occupation	fighter
+103	occupation	heavyweights
+104	location	New Zealand
+105	location	Auckland
+105	location	New Zealand
+107	mentor	Ronnie Shields
+107	occupation	boxer
+107	occupation	boxers
+107	occupation	fighter
+107	occupation	fighters
+107	othername	Samoan Sandman
+107	othername	The Tuaman
+107	othername	Tuaman
+108	occupation	Heavyweight
+108	occupation	boxer
+108	occupation	fighter
+108	othername	The Tuaman
+108	othername	Tuaman
+108	website	http://www.davidtua.net/
+110	location	New Zealand
+110	nationality	Samoan
+110	othername	tuaman
+112	occupation	fighter
+113	occupation	Heavyweight Fighter
+113	occupation	heavyweight fighter
+113	othername	David The Terminator, Tuaman Tua
+113	othername	Tuaman
+115	mentor	Roger Bloodworth
+116	nationality	New Zealander
+116	nationality	Samoan
+116	othername	David 
+117	occupation	heavyweight fighter
+118	location	New Zealand
+118	location	St. Petersburg
+118	occupation	Heavyweight
+118	occupation	Heavyweights
+118	occupation	fighters
+120	mentor	Roger Bloodworth
+120	occupation	heavyweight
+120	occupation	veteran heavyweight
+121	occupation	fighter
+121	occupation	heavyweight
+123	location	Auckland
+123	location	New Zealand
+123	location	Salt Lake City
+123	nationality	Samoan
+123	occupation	Heavyweights
+123	occupation	boxer
+123	occupation	fighter
+123	occupation	heavyweight
+123	occupation	heavyweights
+123	othername	David ÅgTuamanÅh Tua
+124	othername	David "The Terminator" Tua
+125	location	Auckland
+125	location	New Zealand
+125	occupation	heavyweights
+128	mentor	Barry
+128	mentor	Kevin Barry
+129	occupation	boxer
+129	occupation	fighter
+132	occupation	fighters
+133	location	New Zealand
+133	mentor	Dan Goosen
+133	occupation	boxer
+134	location	New Zealand
+134	location	United States
+134	mentor	Kevin Barry
+134	mentor	Martin Pugh
+134	occupation	fighter
+134	occupation	fighters
+134	occupation	heavyweight boxer
+134	relatives	Robina
+135	location	Auckland
+135	location	New Zealand
+135	location	South Auckland, New Zealand
+135	mentor	Barry
+135	mentor	Kevin Barry
+135	occupation	heavyweight
+135	occupation	puncher
+136	location	Auckland
+136	location	New Zealand
+136	location	South Auckland, New Zealand
+136	occupation	Fighters
+137	occupation	heavyweight
+137	othername	Tuaman
+138	mentor	Kevin Barry
+138	occupation	puncher
+139	location	Salt Lake City
+139	nationality	Samoan
+139	othername	David ÅgTuamanÅh Tua
+140	mentor	Berry
+140	mentor	Kevin Berry
+140	occupation	fighter
+140	occupation	puncher
+142	location	New Zealand
+143	occupation	fighter
+144	nationality	Samoan
+145	location	New Zealand
+145	occupation	fighter
+146	birthplace	Western Samoa
+146	location	New Zealand
+147	award	Bloodworth
+147	award	Roger Bloodworth
+147	location	Auckland
+147	location	New Zealand
+148	location	Auckland
+148	location	New Zealand
+148	mentor	Bloodworth
+148	mentor	Roger Bloodworth

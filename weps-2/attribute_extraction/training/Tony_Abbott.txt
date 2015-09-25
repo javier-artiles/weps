@@ -1,0 +1,155 @@
+0	Work	The Secrets of Droon	KRINGLE	FIREGIRL	THE SECRETS OF DROON
+1	Date of birth	4 November 1957
+1	Birthplace	London, United Kingdom	London
+1	Other name	Anthony John "Tony" Abbott	The Mad Monk	Abbott, Anthony John
+1	Occupation	politician	Leader	Scholar	journalist	press secretary	Executive Director	Plant Manager	Parliamentary Secretary to the Minister for Employment, Education, Training and Youth Affairs	Minister	Manager of Government Business
+1	Affiliation	Health and Ageing	Liberal Party of Australia	House in the Australian federal government	House of Representatives	Liberal Party	Australians for Constitutional Monarchy	Pioneer Concrete	Health ministry	NSW Rural Fire Service	Davidson Rural Fire Brigade	Health	Workplace Relations
+1	School	Highfield Kindergarten	Holy Family Convent	St Aloysius' College	St Ignatius' College, Riverview	University of Sydney	University of Oxford	St Patrick's diocesan seminary
+1	Degree	Bachelor of Economics	BEc	Bachelor of Laws	LLB	Master of Arts	MA
+1	Nationality	Australian
+1	Relatives	Margaret
+2	Occupation	Minister	Federal Member
+2	Affiliation	Health and Ageing
+3	Birthplace	Cleveland, Ohio
+3	Work	Danger Guys	The Secrets of Droon
+3	Award	Children's Book-of-the-Month Club Main Selection	Main Selection of the Children's Book-of-the-Month Club
+3	School	University of Connecticut	UConn
+3	Major	music	psychology	English	English Literature
+3	Degree	bachelors degree
+3	Mentor	Patricia Reilly Giff
+3	Location	Trumbull, Connecticut
+5	Occupation	Minister
+5	Affiliation	Health
+5	School	St Ignatius College
+6	Occupation	Minister
+6	Affiliation	Federal Health
+7	Occupation	minister	Minister
+7	Affiliation	federal Health	Health
+7	Relatives	Daniel
+8	Occupation	MP	Leader	Minister
+8	Affiliation	Health and Ageing	Liberal Party of Australia	House	Parliament House
+8	Phone	(02) 6277 7220	(02) 9977 6411
+8	FAX	(02) 6273 4146	(02) 9977 8715
+10	Occupation	MHR	Minister
+10	Affiliation	HR	Health and Ageing
+11	Date of birth	4 November 1957
+11	Birthplace	London, United Kingdom	London
+11	Other name	Anthony John "Tony" Abbott	The Mad Monk	Abbott, Anthony John
+11	Occupation	Minister	politician	Leader	Scholar	journalist	press secretary	Executive Director	Plant Manager	Parliamentary Secretary to the Minister for Employment, Education, Training and Youth Affairs	Minister	Manager of Government Business	MP
+11	Affiliation	Health and Ageing	Liberal Party of Australia	House in the Australian federal government	House of Representatives	Liberal Party	Australians for Constitutional Monarchy	Pioneer Concrete	Health ministry	NSW Rural Fire Service	Davidson Rural Fire Brigade	Health	Workplace Relations
+11	School	Highfield Kindergarten	Holy Family Convent	St Aloysius' College	St Ignatius' College, Riverview	University of Sydney	University of Oxford	St Patrick's diocesan seminary
+11	Degree	Bachelor of Economics	Bec	Bachelor of Laws	LLB	Master of Arts	MA
+11	Nationality	Australian
+11	Relatives	Margaret
+12	Occupation	MINISTER	Minister
+12	Affiliation	WORKPLACE RELATIONS
+13	Occupation	author
+13	Work	Firegirl	Kringle 	The Secrets of Droon 	Chronicles of Droon	Droon	The Chronicles of Droon
+17	Occupation	Minister	MINISTER
+17	Affiliation	Health	HEALTH
+18	Occupation	Author
+18	Work	The Knights of Silversnow	The Mask of Maliban	The Moon Scroll 	Secrets of Droon #14: Voyage of the Jaffa Wind	The Dream Thief	The Coiled Viper	Search for the Dragon Ship
+19	Occupation	Minister
+19	Affiliation	Workplace Relations
+21	Affiliation	MLA for Drayton Valley - Calmar
+22	Birthplace	Cleveland , OH , United States
+22	Occupation	author
+22	Work	Danger Guys
+22	School	University of Connecticut	degree in
+22	Major	English Literature
+22	Location	Trumbull , CT
+23	Birthplace	Cleveland, Ohio
+23	Occupation	author
+23	Work	Fire Girl	Kringle 	Time Surfers 	The Weird Zone 	Don't Touch That Remote! 	The Secrets of Droon	Cracked Classics 	Danger Guys
+23	School	University of Connecticut
+23	Major	English
+23	Degree	bachelor's degree
+24	Occupation	Author
+24	Work	Kringle	Secrets Of Droon: The Moon Dragon (Secrets of Droon)	Secrets Of Droon Special Edition	Secrets Of Droon Special Edition #3: Voyagers Of The Silver Sand: Voyagers Of The Silver Sand	In the Shadow of Goll
+26	Occupation	Minister
+26	Affiliation	Health
+28	Occupation	Minister	chief strategists
+28	Affiliation	Health
+29	Occupation	minister
+29	Affiliation	health
+30	Date of birth	1952
+30	Occupation	author
+30	Work	Secrets of Droon	Danger Guys	Time Surfers	Weird Zone	Don't Touch That Remote	Cracked Classics	Secrets of Droon Special Edition	There's an Alien in My Backpack	Kringle
+31	Occupation	MP	Hon
+31	Occupation	Federal Minister
+31	Affiliation	Health
+35	Occupation	author	bookseller	librarian
+35	Work	Droon
+35	Location	Connecticut
+36	Occupation	poltician
+37	Occupation	Minister
+37	Affiliation	Federal Health
+39	Occupation	Director of IT
+39	Location	Charlotte, North Carolina Area
+41	Occupation	MP	Hon
+42	Occupation	Minister
+42	Affiliation	federal Health
+43	Occupation	Minister
+43	Affiliation	FEDERAL Health
+47	Occupation	Hydrometeorological Technician
+48	Occupation	Professor	writer	president	judge
+48	Affiliation	Davidson	the N.C. Writers Network	the Charlotte Writers Club	the Davidson faculty
+48	Work	The Search for Wonder In the Cradle of the World	The Girl In the Yellow RaincoatA Small Thing Like A Breath
+48	Award	the N.C. Poetry Society's Thomas H. McDill competition	the state's Sam Ragan Fine Arts Award
+49	Occupation	minister
+49	Affiliation	Federal health
+53	Occupation	politician	journalist
+53	Affiliation	the House of Representatives
+53	School	Sydney University
+53	Mentor	Emmett Costello
+54	Occupation	Health Minister
+62	Occupation	the Federal Health Minister
+62	Location	Australia
+63	Occupation	politician
+64	Occupation	Minister
+64	Affiliation	Health
+64	Location	Australia
+65	Occupation	Parliamentary Secretary to the Minister for Employment, Education, Training
+65	Location	Warringah
+66	Occupation	Minister
+66	Affiliation	Federal Health
+67	Occupation	MP	Liberal Member	Federal Minister
+67	Affiliation	Warringah	Workplace Relations
+68	Occupation	right-wing politicians
+68	Location	Australia
+69	Occupation	Minister
+69	Affiliation	Health
+70	Occupation	Minister
+70	Affiliation	Health
+72	Occupation	Minister
+72	Affiliation	Federal Health
+72	Location	Australia
+73	Nationality	Australia
+75	Occupation	Minister
+76	Occupation	Leader	MP	Minister	Hon.
+76	Affiliation	Global Foundation	the House	Health and Ageing
+76	Location	Australia
+79	Occupation	writer	professor
+79	Affiliation	Davidson	Davidson College	Queens University	First Presbyterian Church
+79	Work	The Man Who	The Girl in the Yellow Raincoat	A Small Thing Like a Breath	The Search for Wonder in the Cradle of the World	Leaving Maggie Hope
+79	Award	Charlotte's Novello Festival prize	the Gold Award
+79	School	Harvard
+79	Major	literary criticism	modern drama
+79	Degree	Ph.D.
+79	Location	Charlotte
+80	Affiliation	Liberal party
+83	Occupation	Minister	MP	Minister
+83	Affiliation	Health	Federal Health
+83	Nationality	Australian
+86	Occupation	Minister
+86	Affiliation	Federal Employment Services	Employment Services
+86	Location	Australia
+88	Occupation	ministers
+88	Affiliation	federal health
+92	Occupation	Minister
+92	Affiliation	Australian Employment Services	federal Employment Services
+93	Occupation	mystery writer
+93	Work	The Tower of the Elf King
+98	Affiliation	the Liberal Party
+99	Occupation	Minister
+99	Affiliation	Health

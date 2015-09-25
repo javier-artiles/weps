@@ -1,0 +1,1088 @@
+001	work	Backstairs at the White House
+001	work	Dave
+001	work	The West Wing
+001	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+1	affiliation	Gridiron Club
+1	affiliation	Hearst Newspapers
+1	affiliation	National Press Club
+1	affiliation	UPI
+1	affiliation	United Press International
+1	affiliation	Washington Daily News
+1	affiliation	White House Correspondents Association
+1	affiliation	White House Press Corps
+1	affiliation	Women's National Press Club
+1	award	Friend of Freedom Award
+1	award	Helen Thomas Lifetime Achievement Award
+1	award	International Women's Media Foundation Lifetime Achievement Award
+1	award	Intrepid Award
+1	birthplace	Winchester, Kentucky
+1	dateofbirth	August 4, 1920
+1	degree	bachelor's degree
+1	nationality	American
+1	occupation	White House bureau chief
+1	occupation	columnist
+1	occupation	copygirl
+1	occupation	correspondent
+1	occupation	cub reporter
+1	occupation	news service reporter
+1	occupation	officer
+1	occupation	president
+1	occupation	print journalist
+1	occupation	reporter
+1	othername	Sitting Buddha
+1	school	Wayne State University
+1	school	Wayne University
+003	work	
+003	work	Front Row at the White House
+003	work	Thanks for the Memories, Mr. Preside...
+003	work	The Great White House Breakout
+003	work	Watchdogs of Democracy?
+3	occupation	author
+3	occupation	journalist
+004	work	Dateline: White House
+004	work	Front Row at the White House: My Life and Times
+004	work	Names in the News
+004	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+4	affiliation	Daily News
+4	affiliation	Gridiron Club
+4	affiliation	Hearst Corporation
+4	affiliation	Hearst Newspapers
+4	affiliation	King Features Syndicate
+4	affiliation	National Press Club
+4	affiliation	UPI
+4	affiliation	UPI's White House bureau
+4	affiliation	United Press International
+4	affiliation	Washington Daily News
+4	affiliation	White House Correspondents Association
+4	affiliation	White House Press Corps
+4	affiliation	White House bureau 
+4	affiliation	Women's National Press Club 
+4	affiliation	the Washington press corps
+4	award	Helen Thomas Lifetime Achievement Award
+4	award	International Women's Media Foundation Lifetime Achievement Award
+4	award	Intrepid Award
+4	birthplace	Winchester, Kentucky
+4	birthplace	Winchester, Ky., U.S.
+4	dateofbirth	1920
+4	dateofbirth	Aug. 4, 1920
+4	dateofbirth	August 4, 1920
+4	degree	bachelor's degree
+4	major	English
+4	nationality	U.S.
+4	occupation	Bureau Chief
+4	occupation	bureau chief 
+4	occupation	chief
+4	occupation	chief White House correspondent
+4	occupation	columnist
+4	occupation	copy girl
+4	occupation	copygirl
+4	occupation	correspondent
+4	occupation	cub reporter
+4	occupation	dean
+4	occupation	journalist
+4	occupation	journalists
+4	occupation	news service reporter
+4	occupation	officer 
+4	occupation	president
+4	occupation	reporter
+4	occupation	reporters
+4	occupation	writer
+4	othername	Sitting Buddha
+4	othername	The Devastator
+4	othername	Thomas, Helen
+4	relatives	Douglas B. Cornell
+4	relatives	George Thomas
+4	relatives	George and Mary Thomas
+4	school	Wayne University
+005	work	Front Row at the White House: My Life and Times
+005	work	Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House
+005	work	Watchdogs of Democracy
+5	affiliation	Hearst Newspapers
+5	affiliation	UPI
+5	affiliation	United Press International
+5	affiliation	Washington Daily News
+5	affiliation	Washington Press Corps
+5	affiliation	White House Bureau 
+5	affiliation	the UPI team
+5	birthplace	Winchester, Kentucky
+5	occupation	Chief
+5	occupation	White House correspondent
+5	occupation	copy girl
+5	occupation	print journalist
+5	occupation	reporters
+5	occupation	syndicated columnist
+5	othername	The First Lady of the Press
+5	school	Wayne State University
+006	work	Thank You, Mr. President: Helen Thomas at the White House
+6	affiliation	White House press corps
+6	birthplace	Winchester, Kentucky, USA
+6	dateofbirth	4 August 1920
+6	occupation	dean
+7	affiliation	Hearst Newspapers
+7	affiliation	White House journalistic corps
+7	occupation	columnist
+7	occupation	journalist
+7	occupation	media veteran
+8	affiliation	Hearst News Service
+8	affiliation	UPI
+8	affiliation	White House press corps
+8	occupation	news writer
+8	occupation	reporter
+010	work	Front Row at the White House : My Life and Times
+10	affiliation	Hearst Newspapers
+10	affiliation	UPI
+10	affiliation	White House Press Corps
+10	dateofbirth	1920
+10	dateofbirth	August 4, 1920
+10	nationality	American
+10	nationality	US
+10	occupation	columnist
+10	occupation	correspondent
+10	occupation	former/retired news service reporter
+10	occupation	journalist
+10	occupation	liberal reporter
+10	occupation	reporter
+10	occupation	reporters
+10	occupation	wire reporter
+11	affiliation	Hearst Newspapers
+11	affiliation	White House press corps
+11	occupation	dean
+11	occupation	journalist
+12	affiliation	White House press corps
+12	occupation	senior member
+013	work	Dateline: White House
+013	work	Front Row at the White House
+013	work	Thanks for the Memories, Mr. President
+013	work	Watchdogs of Democracy? The Waning Washington Press Corps & How It Has Failed the Public
+13	affiliation	Gridiron Club
+13	affiliation	Hearst News Service
+13	affiliation	National Press Club
+13	affiliation	U.P.I.
+13	affiliation	U.P.I. team
+13	affiliation	United Press International
+13	affiliation	Washington Daily News
+13	affiliation	White House Correspondents Association
+13	affiliation	Women's National Press Club
+13	award	Aldo Beckman Award
+13	award	Bob Considine Award
+13	award	Columbia University Journalism Award
+13	award	Glamour Woman of the Year Lifetime Achievement Award
+13	award	International WomenÅfs Media Foundation Lifetime Achievement Award
+13	award	Matrix Award
+13	award	National Press Club Fourth Estate Award
+13	award	Newspaper Woman of Washington
+13	award	Ohio University Journalism Award
+13	award	Society of Professional Journalists First Lifetime Award
+13	award	University of Texas Journalism Award
+13	award	Wayne State University Journalism Award
+13	award	William Allen White Journalism Award
+13	award	Woman of the Year
+13	birthplace	Winchester, Kentucky
+13	dateofbirth	August 4, 1920
+13	degree	honorary doctorate degrees
+13	occupation	President
+13	occupation	columnist
+13	occupation	copy girl
+13	occupation	officer
+13	relatives	Cornell
+13	relatives	Douglas Cornell
+13	school	Brown University
+13	school	Michigan State University
+13	school	St. Bonaventure University
+13	school	Wayne State University
+13	school	the George Washington University
+014	work	Watchdogs of Democracy?
+14	affiliation	Hearst
+14	affiliation	Hearst Newspapers
+14	affiliation	UPI
+14	affiliation	UPIÅfs White House bureau
+14	affiliation	United Press International
+14	affiliation	White House press corps
+14	award	Lifetime Achievement Award
+14	occupation	chief 
+14	occupation	columnist
+14	occupation	correspondent
+14	occupation	dean
+14	occupation	journalist
+14	occupation	journalists
+14	occupation	opinion writer
+14	occupation	print journalist 
+14	occupation	reporter 
+15	degree	DC
+15	degree	Dr. 
+16	affiliation	Hearst News Service
+16	affiliation	King Features Syndicate
+16	affiliation	White House press corps
+16	dateofbirth	August 4, 1920
+16	occupation	White House correspondent
+16	occupation	columnist
+16	occupation	dean
+16	occupation	reporter
+018	work	Front Row at the White House: My Life and Times
+018	work	Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House
+18	affiliation	Gridiron Club
+18	affiliation	National Press Club 
+18	affiliation	White House Correspondents Association
+18	affiliation	White House press corps
+18	birthplace	Winchester, KY
+18	dateofbirth	4-Aug-1920
+18	degree	BA
+18	nationality	United States
+18	occupation	Journalist
+18	occupation	White House reporter
+18	occupation	print journalist
+18	occupation	reporter
+18	othername	Helen A. Thomas
+18	relatives	Anne
+18	relatives	Barbara
+18	relatives	Douglas B. Cornell
+18	relatives	Genevieve
+18	relatives	George Antonious
+18	relatives	George Thomas
+18	relatives	Isabelle
+18	relatives	Josephine
+18	relatives	Katharine
+18	relatives	Mary
+18	relatives	Matry
+18	relatives	Sabe
+18	relatives	Tommy
+18	school	Eastern High School
+18	school	Wayne State University
+19	affiliation	Hearst
+19	affiliation	Hearst Newspapers
+19	affiliation	Hearst newspapers
+19	affiliation	UPI
+19	affiliation	United Press International
+19	affiliation	the White House press corps
+19	occupation	White House correspondent
+19	occupation	White House reporter
+19	occupation	anti-war protester
+19	occupation	author
+19	occupation	columnist
+19	occupation	correspondent
+19	occupation	dean
+19	occupation	journalist
+19	occupation	print journalist
+19	occupation	reporter
+19	occupation	reporters
+21	affiliation	Hearst
+21	email	hthomas@hearstdc.com
+21	occupation	White House columnist
+022	work	Dateline: White House 
+022	work	Front Row at the White House: My Life and Times
+22	affiliation	Gridiron Club
+22	affiliation	National Press Club
+22	affiliation	UPI
+22	affiliation	United Press International
+22	affiliation	Washington press corps
+22	affiliation	White House Correspondents Association
+22	affiliation	White House bureau
+22	birthplace	Winchester, Kentucky
+22	dateofbirth	8/4/1920
+22	dateofbirth	August 4
+22	occupation	White House correspondent
+22	occupation	chief
+22	occupation	dean
+22	occupation	officer 
+22	occupation	print journalist
+22	school	Wayne University
+24	affiliation	UPI
+24	affiliation	United Press International
+24	affiliation	White House Press Corps
+24	dateofbirth	1920
+24	occupation	chief
+24	occupation	journalist
+24	occupation	reporter
+24	othername	First Lady of the Press
+25	affiliation	Hearst
+25	affiliation	Hearst Newspapers
+25	email	hthomas@hearstdc.com
+25	occupation	White House columnist
+31	affiliation	Gridiron Club
+31	affiliation	National Press Club
+31	affiliation	United Press International
+31	affiliation	White House CorrespondentsÅf Association
+31	nationality	American
+31	nationality	Americans
+31	occupation	White House reporter
+31	occupation	correspondent
+31	occupation	journalist
+31	occupation	journalists
+31	occupation	officer
+31	occupation	president
+31	occupation	senior columnist
+032	work	Watchdogs of Democracy? The Waning Washington Press Corps and How It Has Failed the Public
+32	affiliation	Hearst Newspapers
+32	affiliation	United Press International
+32	affiliation	White House press corps
+32	affiliation	the White House Press Corp
+32	occupation	White House correspondent
+32	occupation	chief White House correspondent
+32	occupation	journalist
+32	occupation	opinion columnist
+35	affiliation	Hearst Newspapers
+35	affiliation	White House press corps
+35	occupation	columnist 
+35	occupation	dean
+35	occupation	journalist
+38	affiliation	Hearst newspapers
+38	affiliation	White House press corps
+38	occupation	columnist
+38	occupation	dean
+39	affiliation	the White House press corps
+39	occupation	dean
+40	affiliation	Hearst Newspapers
+40	occupation	White House reporter
+40	occupation	reporter
+40	occupation	syndicated columnist
+043	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+43	affiliation	the White House press corps
+43	occupation	White House Correspondent
+43	occupation	journalist
+43	occupation	senior member
+43	othername	The First Lady of the Press
+44	affiliation	the White House press corps
+44	occupation	journalist
+44	occupation	journalists
+44	occupation	professional journalist
+45	affiliation	Hearst
+45	affiliation	Hearst Newspapers
+45	email	hthomas@hearstdc.com
+45	occupation	White House columnist
+046	work	Front Row at the White House
+046	work	Thanks for the Memories, Mr. President
+046	work	Watchdogs of Democracy?
+46	affiliation	UPI
+46	affiliation	United Press
+46	affiliation	White House bureau
+46	occupation	White House correspondent
+46	occupation	chief 
+46	occupation	reporter
+46	occupation	reporters
+48	occupation	journalist
+48	occupation	reporter
+052	work	Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House
+52	affiliation	Hearst Newspapers
+52	affiliation	UPI
+52	affiliation	United Press International
+52	affiliation	White House press corps
+52	award	Arab American Institute Foundation's 5th Annual Kahlil Gibran Spirit of Humanity Awards
+52	award	Intrepid Award
+52	birthplace	Kentucky
+52	dateofbirth	August
+52	nationality	American
+52	occupation	White House correspondent
+52	occupation	columnist
+52	occupation	reporter
+52	othername	First Lady of the Press
+52	othername	grande dame of American journalism
+54	affiliation	Washington Press Corps
+54	occupation	journalist
+57	affiliation	Hearst
+57	affiliation	Hearst Newspapers
+57	email	hthomas@hearstdc.com
+57	occupation	White House columnist
+058	work	Watchdogs of Democracy.
+58	affiliation	White House Press Corps
+58	affiliation	the Washington bureau of United Press International
+59	affiliation	Hearst Newspapers
+59	affiliation	the White House press corps
+59	award	Helen Thomas Lifetime Achievement Award
+59	award	International Women's Media Foundation Lifetime Achievement Award
+59	degree	honorary Doctor of Humane Letters
+59	occupation	journalist
+59	occupation	journalists
+59	occupation	opinion writer
+59	occupation	reporter
+59	occupation	senior member
+59	school	Siena College
+060	work	Front Row at the White House: Thanks for the Memories, Mr. President
+60	affiliation	Hearst newspapers
+60	affiliation	U.P.I.
+60	affiliation	United Press International
+60	affiliation	White House press corps
+60	nationality	American
+60	occupation	White House Correspondent 
+60	occupation	White House correspondent
+60	occupation	senior member
+60	othername	The First Lady of the Press
+061	work	Watchdogs for Democracy?
+61	affiliation	UPI
+61	affiliation	White House press corps 
+61	occupation	White House correspondent
+61	occupation	columnist
+61	occupation	journalists
+61	occupation	reporters
+61	occupation	wire service reporter
+61	othername	HT
+62	affiliation	Washington corps
+62	affiliation	White House Press Corps
+62	affiliation	the White House Press Corps(e,) 
+62	email	hthomas@hearstdc.com
+62	occupation	White House reporter
+62	occupation	journalist 
+62	occupation	journalists
+62	occupation	reporter
+62	othername	HT
+63	affiliation	Hearst
+63	affiliation	United Press International
+63	affiliation	Washington press corps
+63	occupation	White House correspondent
+63	occupation	reporter
+64	affiliation	Hearst Corporation
+64	occupation	journalists
+64	othername	dean of journalism
+65	affiliation	Hearst
+65	affiliation	Hearst Newspapers
+65	email	hthomas@hearstdc.com
+65	occupation	White House columnist
+66	affiliation	Hearst
+66	affiliation	Hearst Newspapers
+66	email	hthomas@hearstdc.com
+66	occupation	White House columnist
+67	affiliation	Gridiron Club
+67	affiliation	Hearst Newspapers
+67	affiliation	National Press Club
+67	affiliation	United Press International
+67	affiliation	White House Correspondents Association 
+67	affiliation	White House bureau
+67	award	Helen Thomas Lifetime Achievement Award
+67	award	International Women's Media Foundation Lifetime Achievement Award
+67	occupation	 chief
+67	occupation	columnist
+67	occupation	correspondent
+67	occupation	officer
+67	occupation	president
+68	affiliation	Hearst
+68	affiliation	Hearst News Service
+68	affiliation	UPI
+68	affiliation	United Press
+68	affiliation	White House press corps
+68	affiliation	the White House bureau for United Press International
+68	occupation	White House correspondent
+68	occupation	White House reporter 
+68	occupation	columnist
+68	occupation	dean
+68	occupation	head 
+68	occupation	journalist
+68	occupation	reporter
+69	affiliation	Hearst newspapers
+69	affiliation	National Press Club
+69	affiliation	White House Correspondents' Association
+69	affiliation	the White House press corps
+69	occupation	""the first lady" of the press"
+69	occupation	White House correspondent
+69	occupation	journalists
+69	occupation	reporters
+71	affiliation	Hearst Newspapers
+71	occupation	White House correspondent
+71	occupation	columnist
+71	occupation	reporter
+072	work	Front Row at the White House
+72	affiliation	Hearst newspapers
+72	affiliation	National Press Club
+72	affiliation	UPI
+72	affiliation	UPI White House bureau 
+72	affiliation	United Press International
+72	affiliation	White House Correspondents' Association
+72	occupation	White House correspondent
+72	occupation	chief
+72	occupation	correspondent
+72	occupation	journalist
+72	occupation	wire service reporters
+72	othername	the first lady of the press
+73	affiliation	White House Press Corp.
+73	nationality	American
+73	occupation	journalist 
+73	occupation	journalists
+73	occupation	news reporter
+73	occupation	reporter
+074	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+74	affiliation	Gridiron Club
+74	affiliation	Hearst Newspapers
+74	affiliation	National Press Club
+74	affiliation	UPI
+74	affiliation	United Press International 
+74	affiliation	White House Correspondents Association
+74	affiliation	White House Press Corps
+74	affiliation	White House bureau
+74	occupation	Correspondent
+74	occupation	Hearst Newspapers
+74	occupation	Journalist
+74	occupation	Public Servant
+74	occupation	White House correspondent
+74	occupation	chief
+74	occupation	columnist
+74	occupation	correspondent
+74	occupation	news service reporter
+74	occupation	officer
+74	occupation	president
+75	affiliation	Hearst
+75	affiliation	Hearst Newspapers
+75	email	hthomas@hearstdc.com
+75	occupation	White House columnist
+76	affiliation	White House press corps
+76	occupation	journalism veteran
+76	school	Wayne State University
+77	affiliation	White House press corps
+77	occupation	Dean
+77	occupation	liberal journalist 
+78	affiliation	UPI
+78	affiliation	United Press International
+78	affiliation	Washington Daily News
+78	affiliation	White House Press Corp
+78	affiliation	White House Press Corps 
+78	nationality	American
+78	occupation	Chief White House Correspondent
+78	occupation	White House correspondent
+78	occupation	columnist
+78	occupation	copyboy 
+78	occupation	copygirl
+78	occupation	hostess
+78	occupation	reporter
+78	occupation	reporters
+78	occupation	senior White House correspondent
+78	othername	the First Lady of American journalism
+78	relatives	George
+78	relatives	Mary
+78	school	Wayne University
+79	affiliation	Hearst
+79	affiliation	Hearst Newspapers
+79	email	hthomas@hearstdc.com
+79	occupation	White House columnist
+80	affiliation	HEARST NEWSPAPERS
+80	affiliation	Hearst Newspapers
+80	email	helent@hearstdc.com
+80	occupation	columnist
+081	work	Front Row
+081	work	Front Row at the White House
+81	affiliation	Hearst
+81	affiliation	UPI
+81	affiliation	United Press International
+81	award	Helen Thomas Award for Lifetime Achievement
+81	degree	honorary degrees
+81	occupation	Reporters
+81	occupation	White House reporter
+81	occupation	White House reporters
+81	occupation	bureau chief
+81	occupation	columnist
+81	occupation	journalist
+81	occupation	reporter
+81	relatives	Douglas Cornell
+83	occupation	White House correspondent
+83	occupation	journalist
+84	affiliation	Hearst
+84	affiliation	Hearst Newspapers
+84	email	hthomas@hearstddc.com
+84	occupation	White House columnist
+85	email	hthomas@hearstdc.com
+85	phone	202-263-6400
+87	affiliation	UPI
+87	affiliation	United Press International
+87	occupation	Washington correspondents
+87	occupation	reporter
+87	occupation	senior White House correspondent
+88	affiliation	UPI
+88	affiliation	United Press International
+88	affiliation	White House Press Corp
+88	occupation	Washington journalist
+88	occupation	columnist
+88	occupation	journalist
+88	occupation	national reporter
+88	occupation	professional
+88	occupation	reporter
+89	affiliation	Hearst
+89	email	hthomas@hearstddc.com
+89	occupation	White House columnist
+90	affiliation	Hearst
+90	email	hthomas@hearstddc.com
+90	occupation	White House columnist
+091	work	Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House
+91	affiliation	Hearst Newspapers
+91	affiliation	UPI
+91	affiliation	UPI White House Bureau 
+91	affiliation	UPI team
+91	affiliation	United Press International
+91	affiliation	Washington Daily News
+91	affiliation	Washington press corps
+91	birthplace	Winchester, Kentucky
+91	occupation	Chief 
+91	occupation	copy girl
+91	occupation	journalist
+91	occupation	print journalist
+91	occupation	syndicated columnist
+91	othername	The First Lady of the Press
+91	school	Wayne State University
+93	affiliation	Hearst Newspapers
+93	occupation	White House reporter
+93	occupation	columnist
+93	occupation	journalist
+93	occupation	news reporter
+095	work	Watchdogs of Democracy? The Waning Washington Press Corps and How It Has Failed the Public
+95	affiliation	Hearst Newspapers
+95	affiliation	National Press Club
+95	affiliation	United Press International
+95	affiliation	White House bureau 
+95	occupation	chief
+95	occupation	columnist
+95	occupation	correspondent
+95	occupation	officer
+096	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+96	affiliation	Hearst Newspapers 
+96	affiliation	National Press Club
+96	affiliation	UPI
+96	affiliation	United Press International
+96	affiliation	White House Press Corps
+96	affiliation	White House bureau 
+96	award	Helen Thomas Lifetime Achievement Award
+96	nationality	American
+96	occupation	White House reporter
+96	occupation	chief 
+96	occupation	columnist
+96	occupation	correspondent
+96	occupation	officer
+96	occupation	reporter
+97	affiliation	Hearst
+97	email	hthomas@hearstddc.com
+97	occupation	White House columnist
+098	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+98	affiliation	Gridiron Club
+98	affiliation	Hearst Newspapers 
+98	affiliation	NPR
+98	affiliation	UPI
+98	affiliation	United Press International
+98	affiliation	WH Press Corps
+98	affiliation	WH Press corp
+98	affiliation	White House Press Corps
+98	affiliation	White House bureau
+98	affiliation	White House press corps
+98	affiliation	the National Press Club
+98	affiliation	the White House Correspondents Association
+98	affiliation	the Whitehouse press corps
+98	dateofbirth	August 4, 1920
+98	occupation	White House reporter
+98	occupation	activist
+98	occupation	chief
+98	occupation	columnist
+98	occupation	correspondent
+98	occupation	journalist
+98	occupation	journalists
+98	occupation	news service reporter
+98	occupation	officer 
+98	occupation	president 
+98	occupation	reporter
+99	affiliation	Hearst Newspapers
+99	affiliation	United Press International
+99	affiliation	White House bureau 
+99	occupation	Author
+99	occupation	White House journalist
+99	occupation	chief
+99	occupation	columnist
+99	occupation	correspondent
+99	othername	First Lady of the Press
+100	affiliation	Hearst Newspapers
+100	affiliation	UPI
+100	affiliation	United Press International
+100	affiliation	White House press corps
+100	affiliation	the Washington press corps
+100	occupation	dean
+100	occupation	journalist
+100	occupation	journalists
+100	occupation	reporter
+100	occupation	reporters
+101	affiliation	Hearst Newspapers
+101	affiliation	UPI
+101	affiliation	United Press International
+101	affiliation	Washington Daily News
+101	affiliation	Washington Press Corps
+101	affiliation	White House Bureau 
+101	birthplace	Winchester, Kentucky
+101	occupation	Chief
+101	occupation	White House correspondent
+101	occupation	copy girl
+101	occupation	print journalist
+101	occupation	reporters
+101	occupation	syndicated columnist
+101	othername	The First Lady of the Press
+101	school	Wayne State University
+101	work	Front Row at the White House: My Life and Times
+101	work	Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House
+101	work	Watchdogs of Democracy
+103	affiliation	White House press corps
+103	occupation	White House correspondent
+103	occupation	reporter
+103	website	www.liberalgirls4stuffyrepublicanmen.com
+104	affiliation	Hearst
+104	email	hthomas@hearstddc.com
+104	occupation	White House columnist
+105	affiliation	Gridiron Club
+105	affiliation	National Press Club
+105	affiliation	UPI
+105	affiliation	UPI's White House bureau 
+105	birthplace	Winchester, Kentucky
+105	dateofbirth	August 4, 1920
+105	occupation	Consumer Advocate
+105	occupation	White House correspondent
+105	occupation	chief
+105	occupation	officer
+105	occupation	president
+105	occupation	print journalist 
+105	occupation	reporter
+105	relatives	George Thomas
+105	relatives	Mary Thomas
+105	school	Wayne University
+105	work	Front Row at the White House: My Life and Times
+106	affiliation	Gridiron Club
+106	affiliation	National Press Club
+106	affiliation	United Press International 
+106	affiliation	White House Bureau 
+106	award	Helen Thomas Lifetime Achievement Award
+106	birthplace	Detroit, MI
+106	dateofbirth	"August 4, 1920"
+106	degree	honorary degrees
+106	occupation	Chief
+106	occupation	officer
+106	occupation	print journalist
+106	occupation	reporters
+106	othername	First Lady of the Press
+106	school	Detroit Public Schools
+106	school	Wayne State University
+107	affiliation	D.C. press corps
+107	affiliation	Gridiron Club
+107	affiliation	Hearst Newspapers
+107	affiliation	National Press Club
+107	affiliation	UPI
+107	affiliation	White House Correspondents Association
+107	affiliation	White House Press Corps
+107	occupation	White House correspondent
+107	occupation	columnist
+107	occupation	journalist
+107	occupation	officer
+107	occupation	president
+107	occupation	reporter
+108	occupation	White House journalist 
+108	occupation	author
+109	affiliation	Hearst
+109	email	hthomas@hearstddc.com
+109	occupation	White House columnist
+110	affiliation	Hearst Newspapers
+110	affiliation	UPI
+110	affiliation	United Press International
+110	affiliation	Washington Daily News
+110	affiliation	Washington Press Corps
+110	affiliation	the UPI team
+110	birthplace	Winchester, Kentucky
+110	occupation	White House correspondent
+110	occupation	author
+110	occupation	copy girl
+110	occupation	print journalist
+110	occupation	reporters
+110	occupation	syndicated columnist
+110	othername	The First Lady of the Press
+110	school	Wayne State University
+110	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+111	affiliation	Hearst Newspapers
+111	affiliation	WH press corps
+111	affiliation	the White House Press Corps
+111	occupation	Columnist
+111	occupation	journalist
+111	occupation	journalists
+111	occupation	reporter
+112	affiliation	United Press International's Washington bureau 
+112	affiliation	White House press corps
+112	occupation	White House correspondent
+112	occupation	journalist
+113	affiliation	Hearst newspapers
+113	affiliation	United Press International
+113	affiliation	White House Press Corps
+113	occupation	columnist
+113	occupation	correspondent
+113	occupation	dean
+116	affiliation	 Washington press corps
+116	affiliation	Gridiron Club
+116	affiliation	Hearst
+116	affiliation	Hearst News Service
+116	affiliation	Hearst Newspapers
+116	affiliation	National Press Club
+116	affiliation	UPI
+116	affiliation	United Press International 
+116	affiliation	White House Correspondents Association
+116	affiliation	White House bureau 
+116	affiliation	the White House press corps 
+116	birthplace	Winchester, Kentucky
+116	dateofbirth	8/4/20
+116	occupation	Journalist
+116	occupation	Syndicated columnist
+116	occupation	White House correspondent
+116	occupation	chief
+116	occupation	columnist
+116	occupation	dean
+116	occupation	journalist
+116	occupation	officer
+116	occupation	print journalist
+116	occupation	reporter
+116	othername	First Lady of the press
+116	school	Wayne University
+116	work	Dateline: White House
+116	work	Front Row at the White House: My Life and Times
+118	affiliation	National Press Club
+118	affiliation	White House Correspondents Association
+118	affiliation	White House Press Corps
+118	affiliation	White House bureau 
+118	affiliation	the Washington Daily News
+118	occupation	chief
+118	occupation	copy girl
+118	occupation	officer
+118	occupation	president
+118	occupation	reporter
+118	work	Front Row at the White House
+119	affiliation	Hearst newspaper
+119	affiliation	United Press International
+119	affiliation	Washington Daily News
+119	affiliation	White House bureau
+119	birthplace	Winchester, Ky
+119	occupation	chief
+119	occupation	columnist
+119	occupation	copy girl
+119	occupation	correspondent
+119	occupation	journalist 
+119	occupation	print journalist
+119	school	Wayne State University
+119	work	Front Row at the White House
+119	work	Thanks for the Memories, Mr. President
+120	relatives	Ann
+120	relatives	Bronwen
+120	relatives	Edward
+120	relatives	Edward Thomas
+120	relatives	Merfyn
+120	relatives	Myfanwy
+120	relatives	Myfanwy Thomas
+120	work	As it Was
+120	work	World Without End 
+121	occupation	journalist
+121	occupation	reporter 
+121	occupation	reporters
+122	affiliation	Hearst Newspapers
+122	affiliation	United Press International
+122	affiliation	White House Bureau 
+122	occupation	Chief
+122	occupation	White House Correspondent
+122	occupation	White House correspondent
+122	occupation	reporters
+122	occupation	syndicated columnist
+122	othername	The First Lady of the Press
+122	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+123	affiliation	Hearst
+123	email	hthomas@hearstddc.com
+123	occupation	White House columnist
+124	affiliation	HEARST NEWSPAPERS
+124	affiliation	Hearst Newspapers
+124	email	helent@hearstdc.com
+124	occupation	columnist
+125	affiliation	UPI
+125	affiliation	WASHINGTON PRESS CORP
+125	affiliation	the Washington Press Corp
+125	affiliation	the White House press corp 
+125	email	hthomas@hearstdc.com
+125	occupation	White House correspondent
+125	occupation	journalist
+125	occupation	journalists
+125	occupation	reporter
+125	occupation	reporters 
+125	phone	202-263-6400
+126	affiliation	Hearst Newspapers
+126	affiliation	UPI
+126	award	Lifetime Achievement Award
+126	occupation	columnist
+126	occupation	journalist
+126	occupation	reporter
+128	affiliation	Hearst newspapers
+128	affiliation	WH press corpse
+128	affiliation	the White House press corps
+128	occupation	journalist
+128	occupation	journeyman reporter
+128	occupation	political columnist
+128	occupation	reporter
+128	occupation	reporters
+129	affiliation	Press Corps
+129	affiliation	White House Press Corps
+129	occupation	Washington political journalist 
+129	occupation	White House correspondent
+129	occupation	reporter
+130	affiliation	Hearst
+130	occupation	White House columnist
+131	affiliation	Hearst
+131	email	hthomas@hearstddc.com
+131	occupation	White House columnist
+132	affiliation	Gridiron 
+132	affiliation	UPI
+132	affiliation	United Press International
+132	affiliation	White House press corps
+132	affiliation	the Gridiron Club
+132	occupation	President
+132	occupation	dean
+132	occupation	newspaper journalists
+133	affiliation	DC press corps
+133	affiliation	Hearst
+133	affiliation	Hearst News Service
+133	affiliation	UPI
+133	affiliation	United Press
+133	affiliation	United Press International
+133	affiliation	White House Press Corps
+133	affiliation	White House bureau for United Press International
+133	affiliation	White House press corps
+133	nationality	American
+133	occupation	Washington journalist
+133	occupation	White House Reporter
+133	occupation	White House correspondent
+133	occupation	columnist
+133	occupation	dean
+133	occupation	journalist
+133	occupation	journalists
+133	occupation	reporter
+133	occupation	reporters
+134	affiliation	Hearst Newspapers
+134	affiliation	White House Bureau
+134	affiliation	White House Press Corps
+134	occupation	Chief
+134	occupation	White House correspondent
+134	occupation	columnist
+134	occupation	journalist
+134	occupation	political reporter
+134	othername	"the First Lady" of the press
+134	othername	The First Lady of the Washington Press Corps
+136	occupation	reporter
+137	affiliation	Hearst Newspapers
+138	affiliation	Gridiron
+138	affiliation	Hearst
+138	affiliation	Hearst Newspapers
+138	affiliation	National Press Club
+138	affiliation	United Press International
+138	affiliation	White House Bureau 
+138	affiliation	White House Correspondents' Association
+138	occupation	Chief
+138	occupation	White House correspondent
+138	occupation	White House journalists
+138	occupation	White House reporters 
+138	occupation	columnist
+138	occupation	dean
+138	occupation	reporters
+138	occupation	syndicated columnist
+138	othername	The First Lady of the Press
+138	work	Front Row at the White House -- My Life and Times.
+138	work	Watchdogs of Democracy?
+138	work	Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public
+139	affiliation	Hearst
+139	affiliation	Hearst newspaper
+139	occupation	""the First Lady"" of the press
+139	occupation	'First Lady' of the White House press corps
+139	occupation	JOURNALIST
+139	occupation	US political reporter
+139	occupation	White House correspondent
+139	occupation	correspondent
+139	occupation	journalist
+139	occupation	journalists
+139	othername	First Lady of the press
+139	othername	the First Lady of the press
+140	affiliation	Hearst
+140	affiliation	United Press International 
+140	affiliation	White House Correspondents Association
+140	occupation	White House journalists
+140	occupation	journalist
+140	occupation	president
+140	occupation	reporter
+141	affiliation	Gridiron Club
+141	affiliation	UPI
+141	affiliation	United Press International 
+141	affiliation	WHPC
+141	affiliation	White House Correspondents Association
+141	affiliation	White House Press Corps
+141	affiliation	White House bureau
+141	affiliation	the National Press Club
+141	occupation	chief
+141	occupation	correspondent
+141	occupation	officer 
+141	occupation	president
+142	affiliation	White House press corps
+142	occupation	Dean
+142	occupation	White House reporters
+142	occupation	liberal journalist 
+142	othername	Grande Dame of Journalism
+143	affiliation	White House press corps
+143	occupation	author
+143	occupation	dean
+143	work	Dateline: White House
+143	work	Front Row at the White House
+143	work	Thanks for the Memories, Mr. President
+144	affiliation	Hearst Corporation
+144	affiliation	Hearst Newspapers 
+144	affiliation	UPI
+144	affiliation	United Press International
+144	affiliation	Washington Daily News
+144	affiliation	Washington Press Corps
+144	affiliation	White House bureau
+144	affiliation	White House press corps
+144	affiliation	the UPI team
+144	birthplace	Winchester , Kentucky
+144	occupation	White House reporter
+144	occupation	chief
+144	occupation	columnist
+144	occupation	copy girl
+144	occupation	correspondent
+144	occupation	dean
+144	occupation	print journalist
+144	school	Wayne State University
+145	affiliation	Hearst
+145	email	hthomas@hearstdc.com
+145	occupation	White House columnist
+146	affiliation	Gridiron Club
+146	affiliation	Hearst Magazines
+146	affiliation	National Press Club
+146	affiliation	White House Correspondents Association
+146	affiliation	Women's National Press Club
+146	affiliation	the Washington press corps
+146	award	Newspaper Woman of Washington
+146	email	info@greatertalent.com
+146	occupation	Columnist
+146	occupation	Washington journalist 
+146	occupation	officer
+146	occupation	president
+146	phone	212.645.4200
+146	work	Watchdogs for Democracy? The Waning Washington Press Corps and How It Has Failed the Public
+148	affiliation	Hearst Corporation
+148	affiliation	Hearst Newspapers
+148	affiliation	UPI
+148	affiliation	United Press International
+148	affiliation	Washington Daily News
+148	affiliation	Washington Press Corps
+148	affiliation	White House bureau
+148	affiliation	White House press corps
+148	affiliation	the UPI team
+148	birthplace	Winchester, Kentucky
+148	occupation	Columnist
+148	occupation	White House Correspondent 
+148	occupation	chief
+148	occupation	copy girl
+148	occupation	correspondent
+148	occupation	dean
+148	occupation	print journalist
+148	school	Wayne State University
+148	work	Front Row at the White House
+148	work	Thanks for the Memories, Mr. President
+150	affiliation	Hearst Newspapers
+150	affiliation	UPI
+150	affiliation	United Press International
+150	affiliation	Washington, D.C., press corps
+150	affiliation	White House bureau
+150	affiliation	the Hearst News Service
+150	birthplace	Winchester, Kentucky, United States of America
+150	dateofbirth	1920
+150	dateofbirth	August 4, 1920
+150	nationality	American
+150	occupation	chief 
+150	occupation	columnist
+150	occupation	dean
+150	occupation	journalist
+150	occupation	news service reporter
+150	occupation	reporter
+150	occupation	reporters

@@ -1,0 +1,53 @@
+3	Non Person	Thomas Baker (chemicals) Ltd.	
+4	Non Person	Thomas Baker & Associates Ltd.	
+5	No Name	Thomas E. Baker	
+6	Non Person	Thomas Baker Photography	
+7	No Name	Thos. Baker	
+13	Non Person	Thomas Baker (chemicals) Ltd.	
+14	No Value
+18	No Name	"BAKER, THOMAS A."	
+19	Multiple Targets	Sr & Jr	
+26	search result
+27	no string
+29	more than on Thomas
+33	no string
+34	no string
+38	no string
+40	name for things
+41	more than on Thomas
+42	no name
+44	more than on Thomas
+45	no name
+46	no string
+48	no name
+49	search result
+50	no name
+52	search result
+55	no string
+56	search result
+59	no string
+60	no name
+61	no name
+62	more than on Thomas
+66	no value
+67	more than on Thomas
+68	no string
+69	more than on Thomas
+70	more than on Thomas
+74	more than on Thomas
+76	no value
+77	no name
+78	more than on Thomas
+79	more than on Thomas
+80	no name
+81	search result
+83	no name
+84	no value
+85	more than on Thomas
+86	more than on Thomas
+87	no name
+88	search result
+89	more than on Thomas
+90	no value
+92	no name
+98	more than on Thomas

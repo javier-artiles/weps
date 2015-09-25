@@ -1,0 +1,156 @@
+5	location	Geneva
+5	occupation	Expressionist artist
+5	othername	the new Daumier
+8	occupation	Artist
+8	work	Untitled (from Taches DOEncre)
+9	occupation	Illustrator
+9	othername	MASEREEL, Franz
+9	othername	Masereel, Frans
+9	othername	Masereel, Franz
+11	birthplace	Blankenberghe - Belgium
+11	dateofbirth	1889
+12	occupation	artists
+12	occupation	graphic artists
+12	work	The Passion of a Man
+14	nationality	Belgian
+14	occupation	woodblock artist
+14	work	Passionate Journey
+14	work	The City
+17	nationality	Belgian
+17	work	The City
+18	work	The City
+19	nationality	Belgian
+19	occupation	Artist
+22	occupation	Woodcutters
+22	occupation	artists
+23	work	Die Stadt
+24	work	Die Stadt
+24	work	The City
+25	work	Passionate Journey
+36	occupation	artist
+36	occupation	woodcut artist
+45	work	Passionate Journey
+49	nationality	Belgian
+49	occupation	artist
+54	occupation	lino-engravers
+54	occupation	wood-cut artists
+54	work	Passions of a Man
+56	nationality	Belgian
+56	occupation	illustrator
+59	work	Der Traum des Madchens 
+62	dateofbirth	1889
+62	nationality	Belgian
+62	occupation	woodblock artist
+64	nationality	Belgian
+64	occupation	woodcut artist
+70	occupation	Illustrator
+70	othername	Masereel, Franz
+72	dateofbirth	1889
+72	dateofbirth	July 30, 1889
+72	nationality	Belgian
+72	occupation	graphic artist
+72	occupation	painter
+74	nationality	Belgian
+74	occupation	artist
+74	work	Passionate Journey
+75	location	Geneva
+76	dateofbirth	1889
+76	location	Geneva
+76	nationality	Belgian
+76	occupation	woodcut novelist
+76	othername	Masereel, Frans
+76	work	Landscapes and Voices
+76	work	Passionate Journey
+76	work	Politische Zeichnungen
+76	work	Story Without Words
+76	work	The Idea
+76	work	The Sun
+81	nationality	Belgian
+81	occupation	artists
+81	occupation	engraver
+82	dateofbirth	1889
+82	occupation	graphic artist
+82	occupation	painter
+84	dateofbirth	1889
+84	occupation	graphic artist
+84	occupation	painter
+85	dateofbirth	1889
+85	occupation	graphic artist
+85	occupation	painter
+86	occupation	artists
+88	work	Landscape and Voices
+89	occupation	Artists
+92	dateofbirth	1889
+92	nationality	Belgian
+92	occupation	graphic artist
+92	occupation	painter
+93	nationality	Belgian
+93	occupation	artist
+93	work	Passionate Journey
+96	dateofbirth	1889
+96	occupation	graphic artist
+96	occupation	painter
+96	occupation	painters
+97	nationality	Belgian
+100	dateofbirth	1889
+100	occupation	graphic artist
+100	occupation	painter
+101	dateofbirth	1889
+101	dateofbirth	July 30th
+101	nationality	Belgian
+101	occupation	graphic artist
+101	occupation	painter
+106	occupation	German expressionist
+107	work	The Passion of a Man
+109	work	Passionate Journey
+111	dateofbirth	1889
+111	occupation	graphic artist
+111	occupation	painter
+113	dateofbirth	1889
+113	nationality	Belgian
+113	occupation	graphic artist
+113	occupation	painter
+114	dateofbirth	1889
+114	occupation	graphic artist
+114	occupation	painter
+114	occupation	painters
+117	dateofbirth	1889
+117	nationality	Belgian
+117	occupation	painter
+119	occupation	German expressionist
+122	dateofbirth	1889
+122	nationality	Belgian
+122	occupation	painter
+127	dateofbirth	1889
+127	occupation	graphic artist
+127	occupation	painter
+127	occupation	painters
+128	dateofbirth	1889
+128	nationality	Belgian
+128	occupation	graphic artist
+128	occupation	painter
+131	occupation	German expressionist
+132	occupation	graphic novelists
+134	dateofbirth	1889
+134	nationality	Belgian
+134	occupation	painter
+136	occupation	artist
+136	work	The Idea
+138	occupation	artists
+141	dateofbirth	1889
+141	dateofbirth	July 30
+141	nationality	Belgian
+141	occupation	painter
+145	nationality	Belgium
+147	dateofbirth	1889
+147	dateofbirth	July 30, 1889
+147	nationality	Belgian
+147	occupation	graphic artist
+147	occupation	painter
+149	dateofbirth	1889
+149	nationality	Belgian
+149	occupation	painter
+150	dateofbirth	1889
+150	dateofbirth	July 30
+150	nationality	Belgian
+150	occupation	painter

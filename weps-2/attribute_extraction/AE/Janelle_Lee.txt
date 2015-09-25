@@ -1,0 +1,225 @@
+2	othername	Janelle G. Lee
+6	location	San Francisco Bay Area
+7	affiliation	Hornets
+7	birthplace	Columbia, MD
+7	dateofbirth	5/27/87
+7	major	Sports Management
+7	occupation	Defense
+7	occupation	SO
+7	relatives	Bruce and Anita Lee
+7	school	Long Reach HS
+7	school	Long Reach High School
+8	dateofbirth	January 06 1987
+9	affiliation	Business Affairs
+9	affiliation	Consortium
+9	affiliation	Uptown Consortium
+9	affiliation	Uptown Consortium Inc.
+9	affiliation	human resources at the University of Cincinnati
+9	degree	Associate Business Degree
+9	location	West Chester
+9	occupation	Director
+9	occupation	office manager
+9	relatives	Ralph
+9	school	UC
+9	school	University of Cincinnati
+9	website	www.uptownconsortium.org
+16	degree	Ph. D
+16	major	Sociology
+16	othername	Janelle Lee Woo
+16	school	Vanderbilt University
+17	occupation	Board Members
+17	phone	601-634-4527
+23	othername	Aisha Janelle Lee
+24	affiliation	Emerging Entertainment Pte Ltd
+24	location	Singapore
+25	birthplace	Roseville, CA
+25	dateofbirth	2/12/70
+28	othername	Aisha Janelle Lee
+29	dateofbirth	1988
+29	occupation	hair model
+31	affiliation	Raffles Girls' Primary School
+31	award	SCSA Veteran's Choice Award
+31	occupation	P4
+31	othername	Janelle Lee Hui Qin
+31	work	Fickle Fifi
+33	location	Bellingham
+33	relatives	Brandon Lee
+33	relatives	Hank
+35	location	Sulphur, Louisiana
+35	work	Cheese Crisps
+36	othername	K. Janelle Lee
+36	othername	Lee,K. Janelle
+39	affiliation	Berkeley Economic Research Associates
+39	degree	Dr.PH.
+39	email	janelle@bera.com
+39	fax	510-653-1257
+39	occupation	Senior Research Scientist
+39	othername	Lee YJ
+39	othername	Yi-Ju Janelle Lee
+39	phone	510-653-1256
+41	location	827 Academy Street 
+41	othername	Janelle Lee Gebo
+44	othername	janelle lee kelly
+51	affiliation	Raffles Girls' Primary School
+51	occupation	P4
+51	othername	Janelle Lee Hui Qin
+51	work	Fickle Fifi
+53	location	Vienna, Austria
+53	occupation	scholarship student
+53	othername	Janelle Lee Chee
+53	othername	Lee Chee
+57	school	Bismarck High School
+59	birthplace	Scottsdale, Maricopa, Arizona
+59	dateofbirth	19Apr 1979
+59	relatives	Jacob Alan LEE
+59	relatives	Jennifer LEE
+59	relatives	Jesse Edmond LEE
+59	relatives	Jordan Andrew LEE
+59	relatives	Jozanne LEE
+59	relatives	Judith Kerry CABALLERO
+59	relatives	Larry Louis LEE
+59	relatives	Larry Louis5 LEE
+63	location	Perth, Australia
+63	othername	Janelle Lee Mulholland
+63	othername	Mulholland
+63	relatives	Michael
+66	affiliation	St. Anthony'
+66	affiliation	St. Anthony's Girls  'A'
+66	occupation	10
+68	affiliation	Division of Research, Kaiser Permanente Medical Care Program
+68	degree	Dr
+68	degree	DrPH
+68	degree	MHA
+68	location	Oakland, Calif
+71	affiliation	Specialists in Health Insurance Services
+71	email	janelleL@SIHIS.com
+71	occupation	health insurance broker
+71	othername	K Janelle Lee
+71	phone	800.300.1376 ext 230
+72	affiliation	D
+72	affiliation	DSU
+72	affiliation	Delaware State
+72	affiliation	Hornets
+73	occupation	Guidance Counselor
+74	affiliation	St. Anthony's Girls
+74	affiliation	St. Anthony's Girls  'A'
+74	occupation	12
+77	location	Bentonville
+77	othername	Janelle Lee Spivey
+77	relatives	Felipe De Jesus Cenobio
+78	degree	Associate of Technical Arts
+78	major	Paralegal
+78	othername	Janelle Lee Kambich
+78	school	South Puget Sound Community College
+79	othername	Janelle Lee Branch
+79	school	Washburn Rural
+80	affiliation	Kaiser Permanente Division of Research
+80	degree	DrPH
+80	location	Oakland, California
+80	othername	J.L.
+81	othername	Janelle Lee Miller
+82	othername	Janelle Lee Anderson
+82	school	Lincoln-Sudbury
+82	school	Lincoln-Sudbury Regional High School
+84	affiliation	West Essex
+87	affiliation	SLU
+87	affiliation	Southeastern Louisiana University
+87	location	Mandeville
+87	location	ST. TAMMANY PARISH
+87	occupation	full-time undergraduate students
+87	occupation	students
+87	othername	Janelle Lee Krause
+89	othername	janelli lee
+93	occupation	Physical rapist
+93	relatives	Daniel
+94	affiliation	Board of Directors
+95	location	Sulphur, Louisiana
+95	work	Cheese Crisps
+96	affiliation	Good Shepherd School
+96	occupation	eighth grader
+97	othername	78500
+99	affiliation	SLU
+99	affiliation	Southeastern Louisiana University
+99	location	Mandeville
+99	location	ST. TAMMANY PARISH
+99	occupation	full-time undergraduate students
+99	occupation	students
+99	othername	Janelle Lee Krause
+102	location	Conneaut Lake
+102	othername	Janelle Lee Shelatz
+102	othername	Shelatz
+103	affiliation	Illinois State
+103	affiliation	Illinois State University
+103	location	Plainfield
+103	occupation	students
+103	othername	Janelle Lee Stoner
+105	othername	Janelle Lee Williams Miller
+106	major	Urban Planning
+106	occupation	Undergraduate
+106	othername	Janelle Lee Ericson
+107	occupation	President
+107	school	Singapore Polytechnic
+108	school	Carpio High School
+110	location	Lubbock
+110	othername	Janelle Lee Stevenson
+110	relatives	Matthew Joe Aviles
+113	affiliation	DSU
+113	affiliation	DSU SAAC
+113	affiliation	Delaware State University
+113	affiliation	SAAC
+113	affiliation	Student Athlete Advisory Committee
+113	affiliation	Student-Athlete Advisory Committee
+113	occupation	Representitives
+117	location	Kane'ohe
+117	othername	Janelle Lee Komatsu
+117	relatives	Madison Shea Takako Komatsu
+117	relatives	Scott Takaji Komatsu
+122	occupation	Student
+122	occupation	undergraduate students
+122	othername	Bowcock, Janelle Lee
+124	birthplace	Roseville, CA
+124	dateofbirth	2/12/70
+125	othername	McDonald, Janelle Lee
+125	school	Cordova
+130	othername	Janelle Lee Smith
+130	relatives	Craig James Smith
+132	affiliation	Uptown Consortium
+133	major	Urban Planning
+133	occupation	Graduate
+133	othername	Janelle Lee Ericson
+136	occupation	photographers
+137	affiliation	Emerging Entertainment
+137	affiliation	Emerging Entertainment Pte Ltd
+137	email	janelle@emerging-entertainment.com
+137	fax	+653272270
+137	location	Singapore
+137	phone	+6563272269
+137	website	http://www.emerging-entertainment.com
+139	relatives	Alvin M.H. Lee
+139	relatives	Brian
+139	relatives	Bruce
+139	relatives	Jan Lee
+139	relatives	Jill Barry
+139	relatives	Joelyn Nishioka
+139	relatives	Shirley Ann
+140	location	Cardington
+140	occupation	full-time students
+140	othername	Justice, Janelle Lee
+143	degree	MPP
+143	othername	JANELLE LEE KUBINEC
+143	othername	Janelle Kubinec
+145	affiliation	DSU
+145	affiliation	Delaware State University
+145	major	Sport Management
+145	occupation	STUDENT-ATHLETES
+145	occupation	student athletes
+145	occupation	student-athletes
+146	degree	PhD
+146	mentor	Thoits, Peggy
+149	othername	Janelle Lee Chee
+150	affiliation	Delaware State Hornets
+150	affiliation	Hornets
+150	birthplace	Columbia, MD
+150	occupation	Defense
+150	occupation	FR
+150	school	Long Reach HS

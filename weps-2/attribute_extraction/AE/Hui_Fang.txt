@@ -1,0 +1,216 @@
+3	affiliation	University of Delaware
+4	affiliation	Countrywide Securities Corporation
+4	affiliation	Indymac Bank
+4	degree	BS
+4	degree	MS
+4	degree	Phd
+4	location	Greater Los Angeles Area 
+4	major	Applied Math
+4	major	Automation
+4	major	Distributed Control and Optimization
+4	major	EE
+4	major	Electrical Engineering
+4	occupation	Credit and prepayment analyst
+4	occupation	Quantitative Analyst Intern
+4	occupation	Sr. Analyst
+4	school	University of Notre Dame
+4	school	University of Science and Technology of China
+6	affiliation	Advanced Technology Group Adobe Systems
+6	affiliation	Bartol Research Institute University  of Delaware
+6	affiliation	Department of Computer Science
+6	affiliation	National Laboratory of Solid  State  Microstructure Nanjing  University
+6	affiliation	University of Illinois  at Urbana  Champaign
+6	affiliation	University of Illinois  at Urbana-Champaign
+6	degree	Bachelor
+6	degree	MS
+6	degree	PhD
+6	email	huifang@uiuc.edu
+6	location	3217 Siebel  Center, Department of Computer Science University of Illinois at Urbana Champaign
+6	major	Computer Science
+6	major	Intensive Instruction
+6	major	Physics and Astronomy
+6	occupation	Creator
+6	occupation	Graphics Technology Intern
+6	occupation	Programmer
+6	occupation	Research Assistant
+6	occupation	Teaching Assistant
+6	phone	217-333-9051
+6	phone	217-359-7069
+6	school	Nanjing University
+6	school	University of Delaware
+6	school	University of Illinois  at Urbana-Champaign
+6	website	http://graphics.cs.uiuc.edu/~huifang
+6	work	Textureshop
+10	location	S'pore
+10	location	Singapore
+13	affiliation	Loyola Marymount University
+13	location	Hawthorne, CA
+13	occupation	international student
+13	othername	Ying-Hui Fang
+14	affiliation	Computer Science University of Illinois at Urbana-Champaign
+14	affiliation	Department of Computer Science and Engineering
+14	occupation	faculty candidate
+18	affiliation	Google
+18	affiliation	University of Illinois at Urbana-Champaign
+18	occupation	computer-vision researcher
+18	work	RotoTexture
+19	affiliation	Centre for East Asian Archaeology
+19	affiliation	Centre for East Asian Archaeology Shandong University
+19	occupation	Professor
+21	affiliation	Department of Mechanical Engineering Texas Center for Superconductivity University of Houston
+21	affiliation	Department of Mechanical Engineering University of Houston
+21	affiliation	Texas Center for Superconductivity University of Houston
+21	degree	Dr
+21	email	hfang@uh.edu
+21	fax	713-743-4503
+21	location	Department of Mechanical Engineering University of Houston, Houston, TX 77204-4006
+21	location	S69 E- D (Basement of Engineering Building)
+21	location	Texas Center for Superconductivity University of Houston, Houston, TX 77204-5002
+21	occupation	Research Assistant Professor
+21	phone	713-743-4548
+21	phone	713-743-5728
+27	othername	Miko Chu
+27	othername	Zhu Hui Fang
+27	work	Mou gaan dou II
+30	award	Best Supporting Actress
+30	othername	Hong Hui Fang
+30	work	The Shining Star
+31	location	NASHVILLE, TN United States
+31	othername	fangh
+32	dateofbirth	August 22 2008
+32	othername	OHF
+32	othername	OI
+32	othername	OI HUI FANG
+32	othername	Oi Hui Fang
+39	othername	Emily Koh Hui Fang
+42	work	Shao Shu Min Zu Di Qu Xi Su Yu Fa Lu De Diao Shi: Yi Yunnan Sheng Jinping Miaozu Yaozu Daizu Zizhixian Wei Zhong Xin De an Li Yan Jiu
+45	affiliation	Computer Science Department
+45	affiliation	UIUC
+45	affiliation	University of Illinois
+45	affiliation	University of Illinois CS Department
+45	affiliation	University of Illinois at Urbana-Champaign
+45	award	SIGIR 2004 Best Paper Award
+45	major	CS
+45	major	Computer Science
+45	mentor	ChengXiang Zhai
+45	occupation	students
+46	birthplace	Tianjin China
+46	degree	B.S
+46	degree	M.S
+46	fax	412-624-1668
+46	phone	412-624-8523
+46	school	Nankai University
+48	affiliation	Electrical Engineering University of Notre Dame
+48	degree	Ph.D
+48	major	Electrical Engineering
+48	nationality	China
+49	email	hui.fan_@_anderbilt.edu
+51	affiliation	Google
+51	affiliation	University of Illinois at Urbana-Champaign
+51	occupation	computer-vision researcher
+51	work	RotoTexture
+52	nationality	China
+52	occupation	Graduate Students
+62	othername	hong hui fang
+65	affiliation	Google
+65	affiliation	University of Illinois at Urbana-Champaign
+65	occupation	computer-vision researcher
+65	work	RotoTexture
+66	othername	Hui-Fang
+66	othername	Sun H.F
+70	occupation	Credited cast
+70	occupation	cast
+70	work	Fei chang shui yue
+74	othername	Hui Fang ZHAO
+75	affiliation	Shriners Hospital for Children
+75	degree	Dr
+75	email	cfang@shrinenet.org
+75	location	Cincinnati, Ohio 45229
+75	location	Shriners Hospital for Children, 3229 Burnet Avenue, Cincinnati, Ohio 45229
+75	othername	C.-H.F
+75	othername	Cheng-Hui Fang
+78	othername	Hong Hui Fang
+78	work	The Reunion
+79	degree	Ph.D
+79	school	Ohio State University
+80	occupation	Cast
+80	othername	Hong Hui Fang
+80	work	Metamorphosis Episode 11
+80	work	Metamorphosis Episode 12
+80	work	Metamorphosis Episode 13
+80	work	Metamorphosis Episode 14
+80	work	Metamorphosis Episode 15
+80	work	Metamorphosis Episode 16
+80	work	Metamorphosis Episode 17
+80	work	Metamorphosis Episode 18
+80	work	Metamorphosis Episode 19
+80	work	Metamorphosis Episode 20
+81	affiliation	NUS Titans
+81	othername	Brenda See Hui Fang
+82	affiliation	Archaeology at  Center for East Asian Archaeology Studies at Shandong University
+82	degree	Dr
+82	occupation	Professor
+88	affiliation	HeBei Orphanage
+88	othername	Lucy
+88	othername	Zhao Hui Fang
+89	affiliation	Archaeology at  Center for East Asian Archaeology Studies at Shandong University
+89	degree	Dr
+89	occupation	Professor
+93	affiliation	Department of Computer Science at University of Illinois at Urbana-Champaign
+93	affiliation	University of Illinois at Urbana-Champaign
+93	award	ACM SIGIR 2004 Best Paper Award
+93	degree	B.E
+93	degree	M.S
+93	major	Computer Science
+93	mentor	ChengXiang Zhai
+93	occupation	Ph.D. candidate
+93	school	Tsinghua University
+93	school	University of Illinois at Urbana-Champaign
+110	affiliation	ACM-W
+110	affiliation	ACM-W at OSU
+110	occupation	advisor
+113	affiliation	Materials Engineering
+113	degree	Ph.D
+113	email	hui.fang@shsu.edu
+113	phone	(936) 294 - 4288
+113	school	University of Houston
+116	affiliation	Archaeology at  Center for East Asian Archaeology Studies at Shandong University
+116	degree	Dr
+116	occupation	Professor
+125	affiliation	IRC
+125	affiliation	International Relationship Committee
+125	affiliation	SIG
+125	affiliation	SPC
+125	affiliation	Special Interest Group
+125	affiliation	Special Project Committee
+125	occupation	Treasurer
+125	othername	Ng Hui Fang
+127	othername	yeohuifa
+127	othername	Yeo Hui Fang
+128	affiliation	Rachel Raffles GirlÅfs Sec Sch
+128	othername	Koh Hui Fang
+129	affiliation	Rach Rgs
+129	othername	Koh Hui Fang
+130	occupation	INSTRUCTOR
+130	othername	Song Hui Fang
+131	affiliation	Archaeology at  Center for East Asian Archaeology Studies at Shandong University
+131	degree	Dr
+131	occupation	Professor
+132	affiliation	UI
+132	affiliation	University of Illinois
+132	award	2002 Siebel Scholars award
+132	degree	masterÅfs degree
+132	major	physics
+132	occupation	students
+132	school	Nanjing University
+132	school	University of Delaware
+135	othername	"Chinese" Candy
+135	othername	Candy
+135	othername	Fang Hui Feng
+135	othername	Feng Hui Fang
+141	occupation	Artistes
+141	othername	Hong Hui Fang
+143	email	hfhuang@singnet.com.sg
+143	othername	Ng Hui Fang
+149	occupation	INSTRUCTOR
+149	othername	Song Hui Fang

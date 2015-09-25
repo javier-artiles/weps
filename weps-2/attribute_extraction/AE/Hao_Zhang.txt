@@ -1,0 +1,382 @@
+1	affiliation	Harbin SC
+1	birthplace	Harbin, China
+1	dateofbirth	July 6, 1984
+1	location	Harbin, China (PRC)
+1	mentor	Gorsha Sur
+1	mentor	Huan Bing
+1	mentor	Sun Lu
+1	mentor	Yao Bin
+1	nationality	Chinese
+1	nationality	People's Republic of China
+1	occupation	figure skater
+1	othername	Zhang Hao
+3	degree	B.S.
+3	degree	M.E.
+3	degree	Ph.D.
+3	school	Institute of Computing Technology, Chinese Academy of Sciences
+3	school	Peking University
+3	school	University of Rochester
+4	affiliation	Department of Statistics
+4	affiliation	Washington State University
+4	degree	Ph.D.
+4	email	zhanghao@wsu.edu
+4	fax	(509) 335-8369
+4	location	Neill 409
+4	location	Neill Hall, Washington State University, Pullman WA 99164-3144
+4	occupation	Associate Professor
+4	phone	(509) 335-2958
+4	phone	509-335-8645
+4	school	Michigan State University
+8	award	Best Paper Award
+8	award	Best Student Proposal Award
+8	degree	Ph.D.
+8	mentor	Eugene Fiume
+8	school	University of Toronto
+9	dateofbirth	July 06 1984
+9	nationality	China
+12	affiliation	Department of CV Surgery, 1st Hospital, Wenzhou Medical College
+12	affiliation	Department of CV Surgery, Toronto General Hospital, University of Toronto
+12	affiliation	Department of Surgery ,Fu-Wai Heart Hospital, Beijing Union Medical College
+12	affiliation	Fu Wai Hospital, Chinese Academy of Medical Sciences
+12	degree	M.D.
+12	degree	Ph.D.
+12	email	drhaozhang@gmail.com
+12	occupation	M.D.
+12	occupation	Research Fellow
+12	occupation	Resident
+12	school	Wen Zhou Medical College
+12	school	Wenzhou Medical College
+14	birthplace	Harbin
+14	dateofbirth	July 6, 1984
+14	location	Harbin
+14	mentor	Gorsha Sur
+14	mentor	Lea Ann Miller
+14	mentor	Yao Bin
+14	nationality	China
+15	affiliation	Gamma
+15	affiliation	Gamma Pharmaceuticals, Incorporated
+15	degree	PHD
+15	location	Las Vegas, Nevada
+15	major	electrical engineering
+15	occupation	Chief Marketing Officer
+15	occupation	Director
+15	occupation	senior executive
+15	school	University of British Columbia
+15	school	University of British Columbia.
+18	birthplace	Harbin, China
+18	dateofbirth	6 July 1984
+18	othername	Zhang Hao
+18	work	Salt Lake City 2002: XIX Olympic Winter Games
+18	work	Turin 2006: XX Olympic Winter Games
+19	affiliation	BASiCS lab
+19	affiliation	Department of Engineering and Computer Sciences at University of California, Berkeley
+19	affiliation	UC Berkeley 
+19	affiliation	Wireless Foundations
+19	degree	bachelor's degree
+19	location	263 Cory Hall UC Berkeley Berkeley , CA , 94720
+19	mentor	Kannan Ramchandran
+19	occupation	2nd year Ph.D. student
+19	phone	3-982
+19	school	Tsinghua University
+20	location	Harbin
+20	mentor	Bin Yao
+20	mentor	Liu Wei
+20	mentor	Xiao Fei Chen
+20	nationality	China
+20	nationality	Chinese
+21	affiliation	American Geophysical Union
+21	affiliation	American Society of Limnology and Oceanography
+21	affiliation	Atmospheric and Ocean Optics Laboratory University of Miami Physics Department
+21	affiliation	Optical Society of America
+21	degree	Ph. D
+21	major	Physics
+21	occupation	Post-Doctoral Fellow
+21	othername	H. Zhang
+21	school	University of Miami
+22	affiliation	Taigen Biotechnology
+22	affiliation	UCB-pharma
+22	affiliation	Uni. Hospital Gasthuisberg
+22	affiliation	University Hospital Zurich
+22	occupation	Clinical research fellow
+22	occupation	Medical Director
+22	occupation	Research Physician
+22	occupation	Senior Clinical Research Physician
+23	dateofbirth	2/8
+23	location	Berkeley, CA USA
+23	othername	gnahz99
+25	affiliation	Center for Biological Sequence Analysis Department of Systems Biology, Technical University of Denmark
+25	email	hao@cbs.dtu.dk
+25	fax	(+45) 45 93 15 85
+25	location	208/003
+25	location	Center for Biological Sequence Analysis Department of Systems Biology, Technical University of Denmark, Building 208, DK-2800 Kongens Lyngby, DENMARK 
+25	occupation	PhD student
+25	occupation	bioinformatician
+25	phone	(+45) 45 25 24 77
+25	phone	(+45) 45 25 25 25
+25	phone	(+45) 45 25 61 27
+27	affiliation	Department of Electrical Engineering University of Wisconsin-Milwaukee
+27	degree	Ph.D
+27	email	zhang25@uwm.edu
+27	fax	414-229-6958
+27	location	EMS 1255 3200 North Cramer Street Milwaukee, WI 53211
+27	occupation	Associate Professor
+27	phone	(414) 229-1165
+27	school	Texas A&M University
+31	affiliation	Mobile Arts
+31	affiliation	Mobile Arts company
+31	othername	Jerry
+31	website	www.mobilearts.com
+31	website	www.mobilearts.se
+33	othername	Wen Hao Zhang
+33	school	FHHS
+33	school	Fort Hamilton
+33	school	Fort Hamilton High School
+34	nationality	China
+34	nationality	Chinese
+34	othername	Zhang Hao
+35	affiliation	Department of Forestry and Natural Resources
+35	affiliation	Department of Statistics
+35	affiliation	Purdue University
+35	email	zhanghao@purdue.edu
+35	location	Department of Statistics, 536 Mathematical Science Building, Purdue University, West Lafayette, IN 47906
+35	occupation	Professor
+35	phone	(765)496-9548
+36	affiliation	Department of Statistics # Purdue University
+36	affiliation	Purdue
+36	fax	1-765-494-0558
+36	location	# Department of Statistics # Purdue University # 250 N. University Street # West Lafayette, IN 47907-2066 # USA
+36	occupation	Professor
+36	phone	1-765-494-6030
+37	othername	Zhang Hao
+38	affiliation	Princeton University
+38	affiliation	University of Alberta
+38	degree	B.E. and M.S. degrees
+38	degree	Dr.
+38	degree	PhD
+38	degree	PhD degree
+38	email	hao.zhang@ualberta.ca
+38	fax	(780) 492-2881
+38	location	710(B), Chemical and Materials Engineering Building
+38	major	Enginering
+38	major	Materials Science
+38	major	Mechanical and Aerospace Enginering
+38	occupation	Assistant Professor
+38	occupation	postdoctoral research associate
+38	phone	(780) 492-8340
+38	school	Princeton University
+38	school	Tsinghua University
+41	nationality	China
+41	nationality	Chinese
+41	occupation	skater
+44	nationality	China
+44	nationality	Chinese
+45	location	China
+47	nationality	Chinese
+47	occupation	skaters
+54	nationality	China
+54	othername	Zhang Hao
+59	affiliation	ASCE
+59	affiliation	American Society of Civil Engineers
+59	affiliation	EERI
+59	affiliation	Earthquake Engineering Research Institute
+59	affiliation	SEAOG
+59	affiliation	School of Civil Engineering
+59	affiliation	Structural Engineers Association of Georgia
+59	affiliation	University of Sydney
+59	affiliation	Uzun & Case Engineers
+59	degree	 Dr. 
+59	degree	BE and ME degrees
+59	degree	BS
+59	degree	MS
+59	degree	PhD
+59	degree	PhD degree
+59	email	Hao.Zhang@usyd.edu.au
+59	fax	+61 2 9351 3343
+59	location	School of Civil Engineering, Room 312
+59	major	Civil Engineering
+59	occupation	Lecturer
+59	occupation	structural engineer
+59	othername	Zhang, H
+59	phone	+61 2 9351 3923
+59	school	GATECH
+59	school	Georgia Institute of Technology
+59	school	Tsinghua
+59	school	Tsinghua University
+60	work	Multivariate Geostatistical Models: Inference and Computation (Monographs on Statistics and Applied Probability) 
+62	nationality	China
+62	nationality	Chinese
+63	work	Advances in Large Margin Classi
+65	location	Madison WI
+65	location	Wisconsin Madison
+67	nationality	CHN
+70	nationality	China
+73	location	China
+75	location	Berkeley, CA USA
+76	nationality	China
+76	nationality	Chinese
+76	occupation	skaters
+76	othername	Zhang Hao
+79	affiliation	Environmental Science Department Lancaster University
+79	affiliation	Institute of Oceanography, the Chinese Academy of Sciences
+79	affiliation	Lancaster University
+79	affiliation	Liverpool University
+79	affiliation	University of Brussels
+79	degree	BSc degree
+79	degree	Dr.
+79	degree	PhD
+79	email	h.zhang@lancaster.ac.uk
+79	fax	+44 (0)1524 593985
+79	location	Environmental Science Department Lancaster University Bailrigg Lancaster, LA1 4YQ United Kingdom
+79	major	Chemistry
+79	major	Marine Chemistry
+79	occupation	Senior Lecturer
+79	othername	Zhang H.
+79	othername	Zhang, H.
+79	othername	Zhang., H.
+79	phone	+44 (0)1524 593899
+79	school	Ocean University of Qingdao
+79	school	ULB
+79	school	University of Brussels
+80	affiliation	Harbin Skating Club
+80	birthplace	Harbin
+80	dateofbirth	06.07.1984
+80	mentor	Bin Yao
+80	mentor	Bing Huan
+80	mentor	Gorsha Sur
+80	mentor	Lu Sun
+80	mentor	Wei Liu
+80	nationality	CHN
+80	occupation	student
+82	nationality	China
+84	affiliation	Department of Materials Science and Engineering at State University of New York at Stony Brook
+84	affiliation	Department of Mechanical and Aerospace Engineering Princeton University
+84	affiliation	General Research Institute for Non-ferrous Metals
+84	affiliation	Princeton University
+84	affiliation	Weifang Sanitary Wares Factory
+84	degree	BS Degree
+84	degree	MS Degree
+84	email	hzhang@princeton.edu
+84	location	Department of Mechanical and Aerospace Engineering Princeton University Princeton, New Jersey 08544
+84	location	New Jersey, US
+84	major	Materials Physics and Chemistry
+84	major	Materials Science and Engineering
+84	major	Mechanical and Aerospace Engineering
+84	mentor	Xia Zongning
+84	occupation	Administrator
+84	occupation	Invited Technologist
+84	occupation	Research Assistant
+84	occupation	Teaching Assistant
+84	othername	Zhang hao
+84	phone	609-258-2775
+84	school	State University of New York at Stony Brook
+84	school	Stony Brook
+84	school	Tsinghua
+84	school	Tsinghua University
+85	affiliation	Harbin Skating Club
+85	birthplace	Harbin
+85	dateofbirth	July 6, 1984
+85	mentor	Bin Yao
+85	mentor	Gorsha Sur
+85	occupation	Skaters
+86	othername	talk2hao
+89	nationality	China
+90	nationality	China
+90	nationality	Chinese
+92	degree	Ph. D.
+92	school	Hong Kong University of Science and Technology
+93	nationality	China
+93	othername	Zhang Hao
+98	email	zhangh@cs.ualberta.ca
+98	mentor	Hong Zhang
+98	occupation	Post Doctoral Fellow
+98	phone	+1-780-492-6365
+101	othername	H. Zhang
+108	nationality	Chinese
+108	occupation	Pair Skaters
+110	nationality	China
+110	nationality	Chinese
+110	othername	Zhang Hao
+111	affiliation	University of Leeds - Faculty of Business
+111	location	Leeds LS2 9JT United Kingdom
+116	nationality	China
+116	occupation	Figure skaters
+116	othername	Zhang Hao
+117	affiliation	University of Miami
+118	nationality	China
+119	affiliation	Department of Surgery, Fu Wai Hospital
+119	affiliation	Ministry of Health
+119	affiliation	Research Center for Cardiac Regenerative Medicine
+119	degree	MD
+119	degree	PhD
+119	location	Beijing, China
+119	occupation	MD
+120	affiliation	Department of Physiology and Biophysics The University of Alabama at Birmingham
+120	affiliation	UAB Department of Physiology and Biophysics
+120	location	Department of Physiology and Biophysics The University of Alabama at Birmingham MCLM 808/ 1918 University Boulevard Birmingham, AL 35294-0005
+120	occupation	Grad Student
+121	affiliation	Dept. of Electrical & Computer Engineering University of Victoria
+121	degree	B.Sc
+121	degree	MBA
+121	degree	Ph.D
+121	email	hzhang@ece.uvic.ca
+121	fax	(250) 721-6052
+121	location	Dept. of Electrical & Computer Engineering University of Victoria P.O. Box 3055 STN CSC Victoria, BC CANADA V8W 3P6
+121	occupation	Adjunct Assistant Professor
+121	occupation	Faculty
+121	phone	(250) 721-6043
+121	school	NYIT
+121	school	Shanghai
+121	school	UVic
+121	school	University of Victoria
+124	affiliation	University of Waikato
+124	othername	Zhang, Hao
+125	affiliation	USC Marshall School of Business
+125	degree	BS
+125	degree	MS
+125	degree	PhD
+125	email	zhanghao@usc.edu
+125	location	BRI 401G
+125	location	USC Marshall School of Business, Los Angeles CA 90089
+125	major	Industrial Engineering
+125	major	Operations, Information & Technology
+125	phone	(213) 821-2279
+125	school	Stanford University, Graduated School of Business
+125	school	Tsinghua University
+125	school	University of Illinois
+126	nationality	China
+130	degree	Dr.
+130	email	hao.zhang@ualberta.ca
+130	occupation	Faculty
+131	affiliation	Centre For Scientific Computing
+131	affiliation	Centre for Scientific Computing at Simon Fraser University
+131	degree	Bmath
+131	degree	Mmath
+131	degree	Ph.D
+131	occupation	Co-Director
+131	occupation	Faculty
+131	othername	H. Zhang
+131	othername	Richard (Hao) Zhang
+131	phone	778-782-6843
+131	school	University of Toronto
+131	school	University of Waterloo
+131	website	http://www.cs.sfu.ca/~haoz/
+135	nationality	China
+136	affiliation	EECS Department University of California, Berkeley
+136	affiliation	EECS Department, University of California, Berkeley
+136	affiliation	Electrical Engineering and Computer Sciences
+136	affiliation	UC Berkeley 
+136	mentor	Jitendra Malik
+136	othername	Zhang, Hao
+137	affiliation	Beijing Institute of Biotechnology
+137	affiliation	Department of Molecular Oncology
+137	location	Beijing Institute of Biotechnology, Beijing 100850, China
+138	nationality	China
+138	nationality	Chinese
+138	occupation	skaters
+138	othername	Zhang Hao
+142	nationality	China
+143	affiliation	Department of Urban and Civil Engineering, Ibaraki University
+143	location	Department of Urban and Civil Engineering, Ibaraki University, Nakanarusawa-cho 4-12-1, Hitachi, Ibaraki 316-8511, Japan
+148	affiliation	Edinburgh
+148	affiliation	Statistical Machine Translation Group at the University of Edinburgh
+149	degree	Dr.

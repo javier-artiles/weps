@@ -1,0 +1,38 @@
+0	Search Results	IMDb
+1	Not Found	
+6	No Name	Edward A. Fox
+7	Search Results	amazon.ca
+8	Multiple Targets	Sr & Jr
+9	Inaccessible	
+11	Search Results	amazon.com
+13	No Value	
+14	Search Results	amazon.com
+16	No Name	Edward Marshall - Fox at School
+22	Search Results	eBay
+23	Search Results	alibris
+24	No Name	"Frederick Ferdinand Fox by Miller, Edward"
+29	Search Results	CoteSeer
+30	Search Results	alibris
+37	Non Person	Edward Fox Photography
+38	Non Person	E D W A R D   F O X   &   S O N   P R I N T E R S
+39	Non Person	Edward Fox Photography
+40	No Value	
+47	No Name	Page Not Found
+50	Search Results	Barnes & Noble
+51	Search Results	Yahoo! Shopping
+62	No Name	
+64	Non Person	Thourabred
+65	Foreign Language	
+68	No Name	Edward M. Fox  
+70	Search Results	Yahoo! Shopping
+71	Multiple Targets	
+73	No Name	Member Access Required
+74	No Name	
+77	Non Person	Jon Edward Fox & Associates
+78	No Value	
+79	No Value	
+86	Search Results	BizRate
+88	Search Results	
+90	Search Results	video Universe
+95	Search Results	DVD Empire
+98	No Name	

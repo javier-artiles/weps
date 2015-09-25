@@ -1,0 +1,310 @@
+1	affiliation	Maryland House of Delegates
+1	dateofbirth	August 10, 1820
+1	occupation	Governor
+1	occupation	U.S. Presidential elector
+1	othername	Enoch Louis Lowe
+2	dateofbirth	August 10, 1820
+2	occupation	Governor
+2	occupation	U.S. Presidential elector
+2	othername	Enoch Louis Lowe
+2	othername	Enoch Lowe
+4	occupation	A&R
+4	occupation	Composer
+4	occupation	Executive Producer
+4	work	For My Protection
+4	work	Midwest Funk, Vol. 3
+9	occupation	Composer
+9	occupation	Executive Producer
+9	work	For My Protection
+9	work	Midwest Funk, Vol. 3
+12	affiliation	Democrat
+12	affiliation	Maryland House of Delegates
+12	birthplace	Frederick, Maryland
+12	birthplace	Maryland
+12	dateofbirth	August 10, 1820
+12	location	St. John's Catholic Cemetery in Frederick, Maryland
+12	occupation	Democratic presidential elector
+12	occupation	Governor
+12	occupation	governor
+12	othername	ENOCH LOUIS LOWE
+12	othername	Enoch Louis Lowe
+12	relatives	Esther Winder Polk
+12	school	Clongowa Wood College
+12	school	Clongowes Wood Colleg
+12	school	Jesuit College
+12	school	St. John's School
+14	affiliation	SAYVILLE MS
+14	location	SAYVILLE,   NY   11782
+15	occupation	A&R
+15	occupation	Composers
+15	occupation	Executive Producer
+15	work	2X's Tuff 
+15	work	Dead Man's Song 
+15	work	For My Protection
+15	work	Gingerbread Man (Intro) 
+15	work	Gingerbread Man (Outro)
+15	work	Let's Get It Twisted 
+15	work	Live and Learn 
+15	work	Making Money Moves 
+15	work	Marz Attacks 
+15	work	Nahm Ghettos 
+15	work	No Lies 
+15	work	No Ph E-Mails 
+15	work	One Day 
+15	work	Power of the Real 
+15	work	Time Runs Short [Remix] 
+16	occupation	Governor
+16	othername	Enoch, Louis Lowe
+17	affiliation	A&P Food Store
+17	affiliation	Lowe's Limousine Service, Inc.
+17	affiliation	Super Fresh
+17	birthplace	Washington, DC
+17	dateofbirth	August 14, 1940
+17	occupation	operator
+17	occupation	owner
+17	othername	Eddie
+17	othername	Eddie Louis Lowe, Sr.
+17	relatives	Beatrice (Samuel) Porter
+17	relatives	Doris London
+17	relatives	Eddie L. Lowe
+17	relatives	Edna Lowe-Martin
+17	relatives	Gladys
+17	relatives	Gladys Sarratt
+17	relatives	Lesia Eldridge
+17	relatives	Lonnie (Dareather), Earl (Hazel), Kenneth, Michael, and Richard Lowe
+17	relatives	Lonnie and Vietta Whitehurst Lowe
+17	relatives	Viola (John) Washington
+17	relatives	Wendy, and Karen Lowe
+17	school	Phelps Vocational High School
+22	othername	Edward Louis Lowe
+22	relatives	Anne Souders Lowe
+22	relatives	Ed
+22	relatives	Edward Mark Lowe, Sr.
+22	relatives	Lowe, Sr., Edward Mark
+24	occupation	professional dancer
+24	othername	Burns
+24	othername	Mary Louis Lowe Burns
+25	affiliation	CAN
+25	affiliation	CLE
+25	affiliation	FRN
+25	affiliation	PRV
+25	birthplace	Arlington, MA
+25	dateofbirth	June 21, 1895
+25	occupation	E
+25	occupation	RE
+25	occupation	RT
+25	occupation	T
+25	occupation	le
+25	occupation	re
+25	othername	Bull Lowe
+25	othername	Henry Louis Lowe Jr.
+25	school	Fordham
+25	school	Lafayette
+26	affiliation	American Legion
+26	affiliation	Leland Smith Builders
+26	affiliation	Lowe Construction Company
+26	affiliation	U.S. Army
+26	birthplace	Oakland Ky.
+26	dateofbirth	1927
+26	dateofbirth	April 29, 1927
+26	othername	Georgie L. Lowe
+26	othername	Georgie Louis Lowe
+26	relatives	Charles Clifton
+26	relatives	Debby Baumgardt
+26	relatives	Judy Sherman
+26	relatives	Kenneth ÅgMoochÅh Lowe
+26	relatives	Mabel (Elrod) Lowe
+26	relatives	Ray Kenneth
+26	relatives	Richard Lowe
+26	relatives	Sue Carol (Studle) Lowe
+27	occupation	professional dancer
+27	othername	Burns
+27	othername	Mary Louis Lowe Burns
+28	affiliation	House
+28	affiliation	PLP
+28	affiliation	Rangers Sports Club
+28	affiliation	Southampton Rangers Club Board of Trustees
+28	occupation	Deputy Speaker
+28	occupation	Hon.
+28	occupation	MP
+28	occupation	Speaker
+28	occupation	Speakers Chair
+28	othername	Stanley Lowe
+28	othername	Stanley William Louis Lowe
+28	school	Heron Bay School
+28	school	Wilberforce University
+30	affiliation	DM&IR
+30	birthplace	Phillips, Wis.
+30	location	Roselawn Cemetery, Roseville
+30	othername	Robert Louis Lowe
+30	relatives	Beatrice and Earl Lowe
+30	relatives	Carolyn (Nathan) Dungan
+30	relatives	James (Audrey) Lowe
+30	relatives	Jean
+30	relatives	Karppinen
+30	relatives	Kathleen (Tim) Heir
+30	relatives	Richard
+30	school	University of Minnesota Law School
+31	othername	Edward Louis Lowe
+31	relatives	Anne Souders Lowe
+31	relatives	EDWARD LOWE
+31	relatives	Ed
+31	relatives	Edward Mark Lowe, Sr.
+33	location	920 E. Broadway Cuero, Texas 77954
+33	mentor	Michael Cavanaugh
+33	occupation	Assistant Principal
+33	phone	(361)275-6157
+38	occupation	Pizza delivery driver
+38	othername	Louis Lowe III
+40	occupation	Composer
+40	occupation	Composers
+40	occupation	Executive Producer
+40	work	Midwest Funk, Vol. 3
+40	work	More Than Words
+46	relatives	LOWE, Mary Louisa (Stewart)
+47	affiliation	CHS
+47	mentor	Michael Cavanaugh
+47	occupation	Assistant Principal
+53	occupation	Rev.
+55	school	FRANKLIN HIGH SCHOOL
+56	dateofbirth	1820
+56	occupation	Governors
+56	othername	Enoch Louis Lowe
+60	othername	Lowe, L.
+62	occupation	Rev.
+63	affiliation	Measles, Mumps, Rubella, and Herpesviruses Laboratory Branch, Centers for Disease Control and Prevention
+63	location	Atlanta, Georgia
+63	othername	L. E. Lowe
+63	othername	L. Lowe
+63	othername	Lowe, L.
+66	occupation	Rev.
+67	occupation	Governor
+67	othername	Enoch Louis Lowe
+69	othername	Enouch Louis Lowe
+70	occupation	Rev.
+72	othername	Carol Louis Lowe
+75	affiliation	Dem
+75	affiliation	Democratic Party
+75	dateofbirth	1820
+75	occupation	Governors
+75	othername	Enoch Louis Lowe
+78	dateofbirth	August 10
+78	occupation	politicians
+78	othername	Enoch Louis Lowe
+79	occupation	Governor
+79	othername	E. Louis Lowe
+80	relatives	ARNOLD
+80	relatives	O.M. ARNOLD
+81	occupation	Rev.
+83	occupation	Governor
+83	othername	Enoch Louis Lowe
+84	location	116 East Second Street Frederick, MD 21701
+84	location	St. John's
+84	location	St. John's Cemetery
+84	occupation	Governor
+84	othername	Enoch Louis Lowe
+85	dateofbirth	August 10
+85	occupation	politicians
+85	othername	Enoch Louis Lowe
+86	location	St. John the Evangelist's cemetery
+86	occupation	governor
+86	othername	Enoch Louis Lowe
+87	relatives	Kathleen Shelton
+88	occupation	Governor
+88	othername	Enoch, Louis Lowe
+90	dateofbirth	1824
+90	othername	Enoch Louis Lowe
+91	location	116 E 2nd St, Frederick, MD 21701
+91	location	St John the Evangelist Cthlc
+91	location	St. John's
+91	occupation	Governor
+91	othername	Enoch Louis Lowe
+97	school	Sayville High School
+98	affiliation	Democratic
+98	occupation	Governors
+98	othername	Enoch Louis Lowe
+99	occupation	Custodian
+100	affiliation	First United Methodist Church
+100	fax	573-624-1964
+100	occupation	Pastor
+100	phone	573-624-3344
+103	occupation	Student
+105	school	Jacksonville
+105	school	Vallejo
+108	affiliation	Democratic
+108	nationality	American
+108	occupation	governor
+108	occupation	politician
+108	othername	ENOCH LOUIS LOWE
+108	othername	Enoch Louis Lowe
+112	affiliation	Democrat
+112	occupation	Gov.
+112	othername	Enoch Louis Lowe
+115	affiliation	Second Church
+115	affiliation	Second Presbyterian Church
+115	occupation	Attorney
+115	occupation	elder
+116	dateofbirth	1820
+116	nationality	U.S.
+116	occupation	Politicians
+116	othername	Enoch Louis Lowe
+118	dateofbirth	March 15 1985
+118	othername	Jamaiel Louis Lowe
+119	othername	Carol Louis Lowe
+121	othername	Carol Louis Lowe
+122	occupation	Gov.
+122	othername	Enoch Louis Lowe
+123	occupation	State Governors
+123	othername	Enoch Louis Lowe
+124	affiliation	Democrat
+124	dateofbirth	1820
+124	occupation	Governor
+124	othername	Enoch Louis Lowe
+125	location	116 East Second Street, Frederick, MD 21701
+125	location	St. John's
+125	location	St. John's Cemetery
+125	occupation	Governor
+125	othername	Enoch Louis Lowe
+126	occupation	Composer
+126	occupation	Executive Producer
+126	work	Midwest Funk, Vol. 3
+128	affiliation	Maryland House of Delegates
+128	affiliation	presidential elector
+128	birthplace	Frederick County Maryland, USA
+128	dateofbirth	Sep. 10, 1820
+128	location	Saint Johns Cemetery Frederick Frederick County Maryland, USA
+128	occupation	Governor
+128	othername	Enoch Louis Lowe
+130	school	Stephen F. Austin High School
+132	affiliation	First United Methodist Church
+132	occupation	Pastor
+132	occupation	Rev.
+132	phone	573-624-3344
+132	phone	573-624-4455
+133	othername	Edward Louis Lowe
+133	relatives	Anne Souders Lowe
+133	relatives	Ed
+133	relatives	Edward Mark Lowe, Sr.
+134	occupation	Governor
+134	othername	R. Louis Lowe
+135	occupation	Governor
+135	othername	E. Louis Lowe
+137	dateofbirth	Abt 1865
+137	relatives	Jeremiah Upshaw
+139	occupation	Gov.
+139	othername	Enoch Louis Lowe
+140	birthplace	Fresno, California
+140	dateofbirth	April 5, 1985
+140	location	Fresno City Hall
+140	othername	Anthony
+140	othername	Anthony Louis Lowe
+140	school	Santa Cruz
+140	school	UHS
+142	school	Hayden High School
+143	location	New River section of Anderson
+144	occupation	Governor
+144	othername	E. Louis Lowe
+145	occupation	Hon.
+145	othername	E. Louis Lowe
+148	occupation	Governor
+148	othername	Enoch Louis Lowe

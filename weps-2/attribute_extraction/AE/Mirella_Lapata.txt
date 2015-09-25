@@ -1,0 +1,89 @@
+1	affiliation	ICCS School of Informatics University of Edinburgh
+1	affiliation	Language at Edinburg
+1	email	mlap@inf.ed.ac.uk
+1	fax	+44-131-650-6626
+1	location	ICCS, School of Informatics University of Edinburgh 10 Crichton Street Edinburgh EH8 9AB
+1	location	IF 4.16
+1	phone	+44-131-650-4416
+2	award	EMNLP Best Paper Award
+2	degree	PhD
+2	othername	Lapata Maria
+2	othername	Lapata Mirella
+2	othername	Maria Lapata
+2	school	University of Edinburgh
+5	othername	Lapata M
+5	othername	M. Lapata
+6	othername	M Lapata
+9	award	EMNLP Best Paper Award
+9	degree	PhD
+9	othername	Lapata Maria
+9	othername	Lapata Mirella
+9	othername	Maria Lapata
+9	school	University of Edinburgh
+11	affiliation	Human Communication Research Centre
+11	affiliation	Institute for Communicating and Collaborative Systems
+11	affiliation	School of Informatics
+11	affiliation	University of Edinburgh
+11	email	mlap @ inf.ed.ac.uk
+11	location	IF-4.16
+11	occupation	Reader
+11	phone	+44 (0) 131 650 4416
+14	affiliation	University of Edinburgh
+26	affiliation	University of Edinburgh
+26	degree	Dr
+26	phone	+44-131-650-4413
+26	website	http://www.informatics.ed.ac.uk/prospectus/graduate/research.html
+30	othername	Maria Lapata
+35	affiliation	Computational Linguistics
+35	affiliation	University of Edinburgh
+35	degree	Dr
+35	fax	+44-131-650-6626
+35	phone	+44-131-650-4416
+35	website	http://www.inf.ed.ac.uk/
+36	othername	Maria Lapata
+45	othername	Maria Lapata
+47	affiliation	School of Informatics University of Edinburgh
+47	email	mlap@inf.ed.ac.uk
+47	location	2 Buccleuch Place
+47	location	Edinburgh EH8 9LW, UK
+51	affiliation	University of Edinburgh
+52	othername	M. Lapata
+55	affiliation	University of Edinburgh
+58	affiliation	EDITORIAL BOARD
+58	affiliation	U. of Edinburgh
+58	location	UK
+58	occupation	Associate Editors
+62	othername	Maria Lapata
+65	location	Greater New York City Area
+65	location	United States
+66	othername	Lapata Maria
+66	othername	Lapata Mirella
+68	affiliation	Informatics Edinburgh
+68	mentor	Chris Brew
+68	occupation	Faculty
+68	occupation	Ph.D Graduates
+68	othername	Lapata Maria
+68	othername	Lapata Mirella
+70	degree	Dr
+70	email	mlap@inf.ed.ac.uk
+70	fax	+44-131-650-6626
+70	phone	+44-131-650-4416
+70	website	http://www.inf.ed.ac.uk/
+82	affiliation	University of Edinburgh
+85	othername	Maria Lapata
+86	affiliation	University of Edinburgh
+94	affiliation	University of Sheffield
+97	affiliation	University of Edinburgh
+112	affiliation	University of Edinburgh
+113	affiliation	University of Edinburgh
+114	affiliation	University of Edinburgh
+116	affiliation	University of Sheffield
+135	email	mlap@inf.ed.ac.uk
+135	occupation	Guest Editors
+144	affiliation	Sheffield
+145	affiliation	ICCS
+145	affiliation	University of Edinburgh
+145	location	Edinburgh, UK
+146	affiliation	School of Informatics University of Edinburgh
+146	othername	Lapata Mirella
+147	affiliation	U. Edinburgh

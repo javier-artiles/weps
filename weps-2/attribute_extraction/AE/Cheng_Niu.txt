@@ -1,0 +1,69 @@
+4	occupation	Senior Software Develop Engineer
+11	othername	Ze-cheng Niu
+16	affiliation	Microsoft Research China
+16	email	cniu@microsoft.com
+16	location	5/F, Beijing Sigma Center, No. 49, Zhichun Road, Haidian District, Beijing 100080, P.R.C.
+20	affiliation	Cymfony Inc
+23	affiliation	Microsoft Research China
+23	email	cniu@microsoft.com
+23	location	5/F, Beijing Sigma Center, No. 49, Zhichun Road, Haidian District, Beijing 100080, P.R.C.
+28	affiliation	UB
+30	affiliation	Microsoft Research Asia
+30	location	49 Zhichun Road Beijing 100080, P.R. China
+31	degree	M.D
+31	email	rene.liebenthal@sinectis.com.ar
+31	location	Argentina
+31	location	Liebenthal, America 677, 1642 San Isidro Argentina
+31	occupation	M.D
+31	othername	NIU Pao Cheng
+31	othername	Pao Cheng Niu
+38	affiliation	Fu Foundation School of Engineering and Applied Science
+38	occupation	graduate student
+41	affiliation	CU
+41	affiliation	Columbia University
+41	affiliation	Fu Foundation School of Engineering and Applied Science
+41	occupation	graduate student
+45	affiliation	Microsoft Research Asia
+63	occupation	Students
+66	affiliation	Cymfony Inc
+68	affiliation	Cymfony Corp
+69	affiliation	Cymfony
+69	affiliation	Cymfony Inc
+69	location	5500 Main Street WilliamsvilleNY 14221USA
+69	location	New York State
+69	location	USA
+69	location	suburban Buffalo, New York State, USA
+70	affiliation	genSpace Project
+70	occupation	Graduate Students
+73	location	USA
+84	affiliation	Cymfony
+84	location	USA
+86	affiliation	Cymfony
+87	affiliation	Microsoft Research Asia
+89	occupation	Inventors
+89	work	Dynamic generation of advertisement text
+93	affiliation	Cymfony Inc
+93	affiliation	FLAIRS 2004 Organizing Committee
+93	location	USA 
+94	affiliation	Cymfony Inc
+96	affiliation	Cymfony Inc
+96	affiliation	FLAIRS 2004 Organizing Committee
+96	location	USA 
+101	affiliation	Cymfony
+111	degree	Dr
+121	affiliation	SUNY-Buffalo
+131	affiliation	CU
+131	affiliation	Columbia
+131	affiliation	Columbia University
+131	affiliation	Fu Foundation School of Engineering and Applied Science
+131	occupation	graduate student
+143	othername	Hai-Cheng Niu
+145	affiliation	CU
+145	affiliation	Columbia
+145	affiliation	Columbia University
+145	affiliation	Fu Foundation School of Engineering and Applied Science
+145	occupation	graduate student
+147	affiliation	Microsoft Research Asia
+147	location	China
+147	occupation	Tutorial chair
+150	othername	Tse-Cheng Niu

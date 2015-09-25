@@ -1,0 +1,338 @@
+1	occupation	Actress
+1	work	Rosa Was Here
+2	affiliation	Emergency Communications
+2	affiliation	Wake Forest University Baptist Medical Center
+2	award	North Carolina Young Author Award
+2	email	alentz@wfubmc.edu
+2	location	North Carolina
+2	location	Stony Point, North Carolina, United States
+4	othername	Amanda Lentz Burton
+4	relatives	Lentz, Gabriel
+5	affiliation	Biological Sciences Program at Virginia Tech
+5	degree	BS
+5	degree	MS 
+5	major	Art History
+5	major	Biology
+5	occupation	4th year Ph.D. candidate
+5	school	Virginia Commonwealth University
+5	school	Virginia Tech
+8	affiliation	Talent Plus
+8	affiliation	United States Power Tumbling Team
+8	location	Lubbock
+8	nationality	US
+9	affiliation	PENN STATE
+9	affiliation	PENNST
+9	affiliation	Penn State
+9	occupation	D
+9	occupation	Player
+10	affiliation	PENN STATE
+10	affiliation	PENNST
+10	affiliation	Penn State
+10	occupation	D
+10	occupation	Player
+11	affiliation	Marilyn Upside Downers
+11	affiliation	South Plains College
+11	birthplace	Seminole
+11	mentor	Marilyn Downing
+11	occupation	gymnast
+11	occupation	student
+11	occupation	tumbler
+12	affiliation	Nittany Lions
+12	affiliation	PSU
+12	affiliation	Penn State
+12	affiliation	the Lions
+12	occupation	midfielder
+14	affiliation	Santa Clara
+15	birthplace	PA
+15	dateofbirth	1810
+15	othername	Amanda G Lentz
+15	relatives	Daniel Rice Boon
+15	relatives	JOHN ANDREW FLORA
+15	relatives	John Andrew
+15	relatives	John Andrew FLORA
+15	relatives	John FLORA
+15	relatives	Josephine F
+15	relatives	Margaret Ann
+15	relatives	Maryetta Isebell
+15	relatives	Sarah Catharine
+15	relatives	Volney Pulaski
+16	occupation	Actress
+16	work	Rosa Was Here
+17	affiliation	Huron
+17	affiliation	Huron High School
+17	affiliation	Huron debate team
+17	mentor	Mitch Gaffer
+18	affiliation	Penn State University
+18	occupation	College Students
+18	occupation	Junior
+19	birthplace	Connecticut
+19	dateofbirth	1808
+19	othername	Amanda (Lentz) Flora
+19	relatives	Catherine (Muth)
+19	relatives	Daniel
+19	relatives	JOHN A. FLORA
+19	relatives	John
+19	relatives	John A.
+19	relatives	John A. Flora
+19	relatives	John Flora
+19	relatives	Josephine (Beauchamp)
+19	relatives	Margaret (Beauchamp)
+19	relatives	Volney
+22	affiliation	UW-Washington County
+22	affiliation	University of Wisconsin-Washington County
+22	location	West Bend
+22	occupation	Full time students
+22	occupation	Students
+23	affiliation	Lions
+23	affiliation	Nittany Lion
+23	affiliation	PSU
+23	affiliation	Penn State
+23	affiliation	Penn State's women's soccer team
+23	mentor	Paula Wilkins
+23	mentor	Wilkins
+24	affiliation	Nittany Lions
+24	affiliation	Penn State
+25	affiliation	Lehigh Carbon Community College
+25	location	Alburtis
+26	affiliation	MN State University
+26	affiliation	MN State University, Mankato
+26	affiliation	MSU
+27	affiliation	Comstock
+27	affiliation	Comstock (A)
+28	affiliation	Lions
+28	affiliation	Nittany Lions
+28	affiliation	Penn State
+28	affiliation	Penn State women's soccer team
+28	mentor	Wilkins
+28	occupation	midfielder
+28	occupation	senior
+29	degree	 two-year associate degrees
+29	degree	Associate Degrees
+29	occupation	STUDENTS
+29	occupation	Students
+29	school	UW-WC
+29	school	UW-Washington County
+29	school	University of Wisconsin - Washington County
+33	nationality	usa
+35	affiliation	PC
+35	affiliation	Plymouth Canton
+36	occupation	FACULTY
+37	degree	Dr.
+37	occupation	Faculty
+38	affiliation	Longwood University
+38	degree	PhD
+38	occupation	Graduate Students
+38	occupation	instructor
+38	school	Virginia Tech
+39	nationality	USA
+41	occupation	tumbler
+42	affiliation	SHAKOPEE JR. HIGH
+42	occupation	Teacher
+43	school	Jefferson School
+44	affiliation	Kalamazoo Comstock High School
+47	affiliation	Lions
+47	affiliation	Penn State
+47	affiliation	State
+47	affiliation	The Lady Lions
+47	occupation	senior
+49	email	alentz@wfubmc.edu
+51	occupation	Student workers
+52	location	Kalamazoo
+52	relatives	Lance Jewell
+53	occupation	national team member
+56	affiliation	Silvia's Gymnastics
+57	affiliation	Benjamin Franklin Middle School
+58	affiliation	USAIGC
+58	occupation	Gymnast
+60	email	alentz@wfubmc.edu
+60	location	Statesville, NC
+61	affiliation	PENN
+61	affiliation	Penn State
+61	occupation	Player
+62	affiliation	Lions
+62	affiliation	Penn State
+63	location	Conway
+64	affiliation	NEW HAMPSHIRE TECHNICAL INSTITUTE
+64	affiliation	New Hampshire Technical Institute
+64	location	Nashua
+64	occupation	students
+66	mentor	Mitch Gaffer
+67	affiliation	Comstock High School
+68	affiliation	Lions
+68	affiliation	Nittany Lions
+68	affiliation	PSU
+68	affiliation	Penn State
+68	mentor	Paula Wilkins
+68	occupation	sophomore
+70	affiliation	Penn State
+71	affiliation	Lions
+71	affiliation	Nittany Lions
+71	affiliation	Penn State
+71	affiliation	Penn State squad
+71	occupation	midfielder
+71	occupation	senior
+72	affiliation	Plum Spring Sports
+72	occupation	Senior
+73	affiliation	HHS
+73	affiliation	Huron High School
+73	mentor	Larry Petersen
+73	mentor	Laura
+73	mentor	Petersen
+75	affiliation	Plymouth Canton
+75	occupation	PLAYER
+76	affiliation	Huron HS
+76	fax	(605) 353-7807
+76	location	Huron, SD 57350-0949
+76	mentor	Betty Kopischke
+76	mentor	Marge Hansen
+76	mentor	Mitch Gaffer
+76	mentor	Mitch Gaffer - Forensic
+76	mentor	Pam Hollibaugh
+76	occupation	Students
+76	phone	(605) 353-7800
+78	affiliation	Nittany Lions
+78	affiliation	Penn State
+78	mentor	Paula Wilkins
+78	occupation	D
+78	occupation	Soph
+78	occupation	players
+79	affiliation	Lady Lions
+79	affiliation	Penn State
+79	affiliation	State
+79	affiliation	The Nittany Lions
+80	location	Seminole
+81	affiliation	M
+81	affiliation	Michigan Hawks
+81	location	Livonia
+82	affiliation	Silvia's
+84	affiliation	Silvia's Gymnastics
+85	location	Juneau
+87	affiliation	Philanthropy and VP of Public Relations
+87	birthplace	Pittsburgh, PA
+87	dateofbirth	February 24th
+87	email	Rum5288@cup.edu
+87	major	Social Work
+87	mentor	Sue Shuemaker
+87	occupation	Freshman
+87	othername	Cupcake
+88	othername	Amanda (Lentz) Folk
+88	relatives	Savanna
+88	relatives	Savanna FOLK
+88	relatives	Urias FOLK
+89	affiliation	Department of Biology, Virginia Commonwealth University
+89	location	Richmond, VA 23284 USA
+90	affiliation	NEW HAMPSHIRE TECHNICAL INSTITUTE
+90	affiliation	New Hampshire Technical Institute
+90	location	Concord
+90	location	NASHUA
+90	major	Dental Assisting
+90	occupation	students
+91	affiliation	Silvia's
+92	location	Canton  MI
+96	affiliation	PSU
+96	affiliation	Penn State
+96	affiliation	the Lions
+96	affiliation	the Nittany Lions
+96	mentor	Melissa Mitchell
+96	mentor	Paul Wilkins
+96	mentor	Tim Rosenfeld
+96	occupation	Defenders
+96	occupation	sophomore
+102	affiliation	Advance Auto Parts
+102	email	heartbr8kronfire@aol.com
+102	location	Florida
+102	location	Orlando, Fl
+102	occupation	Inventory Specialist
+102	othername	Miller, Amanda Lentz
+102	relatives	Shelby
+102	school	YCST
+103	relatives	FRANK LENTZ
+103	relatives	Frank Lentz
+107	location	Columbus  OH
+108	affiliation	Advance Auto Parts
+108	email	heartbr8kronfire@aol.com
+108	location	Florida
+108	location	Orlando, Fl
+108	occupation	Inventory Specialist
+108	othername	Miller, Amanda Lentz
+108	relatives	Shelby
+108	school	YCST
+109	nationality	USA
+112	birthplace	Connecticut
+112	dateofbirth	1808
+112	othername	Amanda (Lentz) Flora
+112	relatives	Catherine (Muth)
+112	relatives	Daniel
+112	relatives	Flora
+112	relatives	JOHN A. FLORA
+112	relatives	JOHN ANDREW FLORA
+112	relatives	John
+112	relatives	John A.
+112	relatives	John A. Flora
+112	relatives	John Andrew
+112	relatives	John Andrew FLORA
+112	relatives	John Andrew Flora
+112	relatives	John FLORA
+112	relatives	John Flora
+112	relatives	Josephine (Beauchamp)
+112	relatives	Margaret (Beauchamp)
+112	relatives	Volney
+113	nationality	USA
+114	nationality	USA
+114	occupation	athletes
+116	nationality	USA
+120	birthplace	PA
+120	dateofbirth	1810
+120	relatives	BEAUCHAMP(Flora), Josephine
+120	relatives	JOSEPHINE (Flora) BEAUCHAMP
+120	relatives	John Flora
+120	relatives	Josephine
+120	relatives	Margaret Ann (Flora) Beauchamp,
+127	birthplace	New Bern, NC
+127	location	Statesville, NC
+130	affiliation	Plum
+130	occupation	Sr
+131	affiliation	Plum
+131	occupation	Jr
+136	birthplace	PA
+136	dateofbirth	1810
+136	othername	Amanda G Lentz
+136	relatives	Daniel Rice Boon
+136	relatives	FLORA, John Andrew
+136	relatives	JOHN ANDREW FLORA
+136	relatives	John
+136	relatives	John Andrew
+136	relatives	John Andrew FLORA
+136	relatives	John FLORA
+136	relatives	Josephine F
+136	relatives	Margaret Ann
+136	relatives	Maryetta Isebell
+136	relatives	Sarah Catharine
+136	relatives	Wolney Pulaski
+138	relatives	ARTHUR H LENTZ
+138	relatives	CHARLES LENTZ
+138	relatives	CHARLES1 LENTZ
+138	relatives	Charles Lentz
+138	relatives	LINA RUELING
+138	relatives	OTTO LENTZ
+138	relatives	WILLIAM CHARLES2 LENTZ
+139	affiliation	Comstock High School
+144	othername	Amanda Lentz Reames
+148	birthplace	Rowan Co., NC
+148	dateofbirth	30 Jan 1850
+148	othername	Nancy Amanda LENTZ
+148	relatives	Alexander (Lentz)
+148	relatives	John P.
+148	relatives	John Peter LENTZ
+148	relatives	Lentz, Wilson
+148	relatives	Luther A.
+148	relatives	Luther Augustus LENTZ
+148	relatives	Martha R.
+148	relatives	Martha Rebecca LENTZ
+148	relatives	Mary ("Polly") EDDLEMAN
+148	relatives	Wilson Alexander LENTZ
+149	email	ajlentz@vt.edu
+149	location	3020 Derring
+149	mentor	Duncan M. Porter
+149	occupation	Teaching Assistants
+149	phone	231-8882

@@ -1,0 +1,31 @@
+1	No Value
+4	No Name
+5	Non Person	Michael Howard Homes	
+9	Non Person	Michael Howard Fencing	
+11	Multiple Targets
+12	No Value
+17	No Name	No Text	
+21	Search Results	amazon.ca	
+22	Multiple Targets
+23	Non Person	Michael Howard Homes	
+25	No Value
+31	Search Results	amazon.com	
+32	No Name	"Howard, Michael"	
+35	No Name	mthoward91	
+41	Search Results	amazon.co.uk	
+46	No Name	Michael G. Howard
+48	No Name	James Michael Howard Interiors
+49	Search Results	Foreign Affairs
+53	Search Results	alibris
+55	Search Results	amazon.co.uk
+59	Search Results	NETFLIX
+70	No Value	
+71	No Name	Page Not Found
+74	Search Results	The NewYork Sun
+77	No Value	
+79	Search Results	AOL Search
+82	No Name	
+85	No Name	"""Michael Howard"" appears only in the titile of the page."
+87	No Name	Michael & Amelia Howard
+94	No Value	
+98	No Name	

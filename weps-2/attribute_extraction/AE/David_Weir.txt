@@ -1,0 +1,1001 @@
+2	affiliation	Royal LePage ProAlliance Realty Brokerage
+2	affiliation	Team David Weir
+2	email	david@davidweir.com
+2	location	253 Dundas Street East, Trenton, ON K8V 1M1
+2	phone	1.613.848.0615
+2	phone	1.800.263.2177
+3	affiliation	7x7
+3	affiliation	BNET
+3	affiliation	California
+3	affiliation	Excite@Home
+3	affiliation	KQED
+3	affiliation	Keep Media
+3	affiliation	Mor Jones
+3	affiliation	MyWire
+3	affiliation	Osher Lifelong Learning Institute
+3	affiliation	Rolling Stone
+3	affiliation	SF State
+3	affiliation	Salon
+3	affiliation	Stanford
+3	affiliation	Stanford Social Innovation Review
+3	affiliation	U-C Berkeley
+3	affiliation	Wired Digital
+3	location	San Francisco, CA, United States
+3	occupation	Media Consultant
+3	occupation	author
+3	occupation	blogger
+3	occupation	content executive
+3	occupation	editor
+3	occupation	photographer
+3	occupation	radio producer
+3	occupation	screenwriter
+3	occupation	writer
+4	affiliation	Population Studies Center
+4	affiliation	Survey Research Center
+4	degree	Dr
+4	degree	Ph.D
+4	occupation	Research Affiliate
+4	occupation	Research Professor
+4	othername	Weir David
+4	phone	734-936-0314
+4	school	Stanford University
+6	affiliation	Celtic
+6	affiliation	Everton
+6	affiliation	Everton F.C
+6	affiliation	Falkirk
+6	affiliation	Falkirk F.C
+6	affiliation	Heart of Midlothian
+6	affiliation	Heart of Midlothian F.C
+6	affiliation	Hearts
+6	affiliation	Rangers
+6	affiliation	Rangers F.C
+6	affiliation	Scotland
+6	affiliation	Scotland national football team
+6	affiliation	Toffees
+6	affiliation	University of Evansville
+6	award	NCAA All-American
+6	birthplace	Falkirk
+6	birthplace	Falkirk Scotland
+6	dateofbirth	1970
+6	dateofbirth	May 10 1970
+6	mentor	Berti Vogts
+6	mentor	David Moyes
+6	mentor	Walter Smith
+6	nationality	Scottish
+6	occupation	Centre back
+6	occupation	Football (soccer) defenders
+6	occupation	Footballer
+6	occupation	club captain
+6	occupation	football player
+6	occupation	footballer
+6	occupation	footballers
+6	occupation	players
+6	occupation	professional football player
+6	othername	David Gillespie Weir
+6	othername	Weir David
+6	school	University of Evansville
+7	affiliation	KQED Inc
+7	affiliation	Mor Jones
+7	affiliation	Rolling Stone
+7	affiliation	University of California's Graduate School of Journalism
+7	affiliation	salon.com
+7	occupation	Investigative Editor
+7	occupation	Senior Vice President for Editorial Operations
+7	occupation	journalist
+9	affiliation	Salon Media Group Inc
+11	affiliation	Lucerna
+11	dateofbirth	September 2
+11	occupation	bartenders
+11	othername	David Allen Weir
+11	relatives	Carmen
+11	relatives	Lawrence
+11	relatives	Lawrence Weir
+12	affiliation	.NET People
+12	affiliation	Auto Data Networks
+12	affiliation	Big Food Group
+12	affiliation	Capoeira society
+12	affiliation	Carlsberg
+12	affiliation	Euro RSCG
+12	affiliation	Fowles Australia
+12	affiliation	Freedom Group
+12	affiliation	Halifax
+12	affiliation	ICR
+12	affiliation	International Association of Software Architects
+12	affiliation	Kah Systems
+12	affiliation	Manheim
+12	affiliation	NCS Pearson
+12	affiliation	SoftwareEngineering
+12	affiliation	Spice Group plc
+12	affiliation	Vehicle Data System
+12	affiliation	Weirsweb UK Limited
+12	affiliation	William Hill
+12	degree	HND
+12	location	Leeds, United Kingdom
+12	major	Business Information Technology
+12	occupation	Database Co-ordinator
+12	occupation	Developer Manager
+12	occupation	Development Manager
+12	occupation	Director
+12	occupation	IT professional
+12	occupation	IVR
+12	occupation	Lead Developer
+12	occupation	Senior Developer
+12	occupation	Senior E-Commerce Developer
+12	occupation	Solution Architect
+12	occupation	Systems Tester Operator
+12	occupation	Technical Architect
+12	occupation	Technical Lead
+12	occupation	Technical Lead / Architect
+12	occupation	Technical UML Consultant Architect
+12	occupation	technical/solution architect
+12	occupation	treasurer
+12	school	University of Leeds
+13	occupation	English adaptor
+13	occupation	Writer
+13	occupation	floor manager
+13	occupation	writer
+13	work	A Dedicated Man
+13	work	A Dirty Old Man and a Rare Bird
+13	work	A Family at War
+13	work	A Girl to Warm Your Feet On
+13	work	A Lesson for Corbett
+13	work	A Little Black and White Lie
+13	work	All for Love: A Dedicated Man
+13	work	Assault on the Ritz
+13	work	Black Sun
+13	work	Bloody Week
+13	work	Brett
+13	work	Confession
+13	work	Crown Court
+13	work	Danger Man
+13	work	First You Eat: Later We Ruin You
+13	work	For the Duration
+13	work	Happy Returns
+13	work	How Do You Vote?
+13	work	Intrigue
+13	work	Journey Through the Black Sun
+13	work	Lady Luck's No Gentleman
+13	work	Mogul
+13	work	Monkey
+13	work	Monkey Magic
+13	work	My Old Man's a Dustman
+13	work	Only a Few Millions
+13	work	Orlando
+13	work	Orlando Tells a Story
+13	work	Play of the Month
+13	work	Quiller
+13	work	Riviera Police
+13	work	Robin and Juliet
+13	work	Rollover
+13	work	Saiy?ki
+13	work	Sauce for the Goose
+13	work	Secret Agent
+13	work	Space: 1999
+13	work	Spazio: 1999
+13	work	Spread a Little Happiness
+13	work	Thanks for Nothing
+13	work	The Colonel's Daughter
+13	work	The Dashing Young Officer
+13	work	The Devil's Eggshell
+13	work	The Gold Robbers
+13	work	The Homecoming
+13	work	The Lady Who Went Too Far
+13	work	The Long Haired Leftie
+13	work	The Lotus Eaters
+13	work	The Mad, Mad Man
+13	work	The Main Chance
+13	work	The Man in Room 17
+13	work	The Minister of the Crown... and the Very Compromising Photograph
+13	work	The Onedin Line
+13	work	The Plane Makers
+13	work	The Rich Lunch
+13	work	The Troubleshooters
+13	work	The Venturers
+13	work	There's a Nasty Word - Love
+13	work	Thirty-Minute Theatre
+14	affiliation	Everton
+14	affiliation	Falkirk
+14	affiliation	Glasgow Rangers
+14	affiliation	Heart of Midlothian
+14	birthplace	Falkirk
+14	dateofbirth	10/05/1970
+14	nationality	Scotland
+14	occupation	Defender
+15	affiliation	Board of Directors of CIR
+15	affiliation	CIR
+15	affiliation	Center for Investigative Reporting
+15	affiliation	Excite@Home
+15	affiliation	KQED
+15	affiliation	Stanford University
+15	affiliation	University of California Graduate School of Journalism
+15	affiliation	editorial board of  Nation
+15	email	dweir@stanford.edu
+15	location	Rm.322 McClatchy Hall
+15	occupation	Acting Radio News Director
+15	occupation	Editor in Chief
+15	occupation	Executive Director
+15	occupation	Executive Vice-President
+15	occupation	Managing Director of Programming
+15	occupation	Managing Editor
+15	occupation	Senior Vice-President for Editorial Operations
+15	occupation	Vice President of Content
+15	occupation	Vice-President of Network Programming and Product Design
+15	occupation	Visiting Professor
+15	occupation	co-founder
+15	occupation	editorial writer
+15	occupation	investigative reporter
+15	occupation	senior editor
+15	occupation	veteran journalist
+15	phone	(650) 725-2239
+15	website	www.stanford.edu/~dweir
+15	work	Raising Hell: How the Center for Investigative Reporting Gets the Story
+18	affiliation	Alfred Hitchcock's Mystery Magazine
+18	affiliation	FAA
+18	affiliation	Federal Aviation Administration
+18	affiliation	WPTV
+18	affiliation	WTVX
+18	birthplace	Indianapolis Indiana
+18	location	North Palm Beach, FL
+18	location	WPEC 1100 Fairfield Drive West Palm Beach, FL 33407
+18	occupation	Air Traffic Controller
+18	occupation	Anchor
+18	occupation	Executive Producer
+18	occupation	General Sales Manager
+18	occupation	account executive
+18	occupation	freelance writer
+18	occupation	local sales manager
+18	phone	(561) 841-4811
+18	work	Polo Highlights
+18	work	South Florida Business Report
+20	affiliation	Everton
+20	affiliation	Falkirk
+20	affiliation	Glasgow Rangers
+20	affiliation	Hearts
+20	affiliation	Scotland
+20	birthplace	England
+20	dateofbirth	10 May 1970
+20	location	Scotland
+20	occupation	Defense
+20	occupation	Player
+21	affiliation	Department of Informatics University of Sussex
+21	email	davidw@sussex.ac.uk
+21	fax	+44 (0)1273 877873
+21	location	Chichester-1 106
+21	location	Department of Informatics University of Sussex Brighton, BN1 9QJ E. Sussex UK 
+21	phone	+44 (0)1273 678294
+22	affiliation	7x7
+22	affiliation	Business 2.0
+22	affiliation	California
+22	affiliation	Center for Investigative Reporting
+22	affiliation	Mor Jones
+22	affiliation	MyWire
+22	affiliation	Rolling Stone
+22	affiliation	Stanford Social Innovation Review
+22	affiliation	SunDance
+22	occupation	veteran journalist
+23	affiliation	Harris School of Public Policy at  University of Chicago
+23	affiliation	Survey Research Center Institute for Social Research (ISR) at  University of Michigan
+23	affiliation	University of Michigan
+23	affiliation	Yale University
+23	degree	A.B
+23	degree	Ph.D
+23	major	Economics
+23	major	History
+23	occupation	Associate Director
+23	occupation	Associate Professor of Economics
+23	occupation	Director of  Health and Retirement Study (HRS)
+23	occupation	Research Associate
+23	occupation	Research Professor
+23	occupation	Researcher
+23	occupation	researcher
+23	occupation	researchers
+23	othername	David R. Weir
+23	school	Stanford University
+24	affiliation	Bates College
+24	affiliation	Engineering Sciences and Applied Mamatics department
+24	affiliation	Immersion Corporation
+24	affiliation	Laboratory for Intelligent Mechanical Systems
+24	affiliation	Laboratory for Intelligent Mechanical Systems (LIMS) research group
+24	affiliation	Northwestern
+24	affiliation	Northwestern IGERT
+24	affiliation	Northwestern University
+24	affiliation	Sandia National Laboratories
+24	affiliation	U.S. Naval Research Laboratory
+24	birthplace	Albuquerque New Mexico
+24	degree	B.S
+24	degree	Masters
+24	location	Tech B230 (LIMS)
+24	major	Mechanical Engineering
+24	major	Physics
+24	occupation	Ph.D. Candidate
+24	occupation	mechanical engineer
+24	occupation	research scientist
+24	othername	David W. Weir
+24	phone	(650) 488-4525
+24	school	Bates
+24	school	Bates College
+24	school	Northwestern
+24	school	Northwestern University
+26	affiliation	7x7
+26	affiliation	Business 2.0
+26	affiliation	California
+26	affiliation	Center for Investigative Reporting
+26	affiliation	Mor Jones
+26	affiliation	MyWire
+26	affiliation	Rolling Stone
+26	affiliation	Stanford Social Innovation Review
+26	affiliation	SunDance
+26	occupation	Author
+26	occupation	journalist
+29	affiliation	Disability Management Services
+29	affiliation	EAP Solutions Inc
+29	affiliation	Network Development & Claim Services for  University of Pittsburgh Medical Center
+29	affiliation	Sedgwick James
+29	affiliation	UPMC
+29	affiliation	UPMC Health Plan
+29	affiliation	UPMC Health Plan Health Promotion
+29	affiliation	UPMC Health Plan Inc
+29	affiliation	UPMC Insurance Services Division
+29	affiliation	UPMC Work Partners
+29	degree	B.S
+29	major	Health and Safety
+29	occupation	ARM
+29	occupation	ASP
+29	occupation	Associate Risk Management
+29	occupation	Associate Safety Professional
+29	occupation	CSP
+29	occupation	Certified Safety Professional
+29	occupation	Executive
+29	occupation	assistant vice president
+29	occupation	president
+29	occupation	vice president
+29	school	Indiana University
+32	occupation	Editor
+32	occupation	Editors
+32	occupation	Eds
+32	othername	Weir David
+32	work	Social Problems of Modern Britain
+32	work	Social problems of modern Britain
+33	affiliation	Rangers
+33	affiliation	Scotland
+33	mentor	Walter Smith
+33	occupation	CB
+33	occupation	captain
+33	occupation	defender
+33	occupation	player
+33	othername	Davie Weir
+34	affiliation	Cooper Union for  Advancement of Science and Art
+34	occupation	associate professor
+34	occupation	director of foreign language programs
+34	work	Anarchy and Culture The Aesthetic Politics of Modernism
+35	affiliation	Everton
+35	affiliation	Hearts
+35	birthplace	Falkirk Scotland
+35	dateofbirth	9th May 1970
+35	nationality	Scottish
+35	occupation	Defender
+35	occupation	Footballers
+35	occupation	club captain
+35	occupation	defender
+35	othername	Weir David
+36	affiliation	Blues
+36	affiliation	Everton
+36	affiliation	Falkirk
+36	affiliation	Hearts
+36	affiliation	Merseyside
+36	birthplace	Falkirk
+36	dateofbirth	5/10/70
+36	location	Merseyside
+36	occupation	centre of defence
+36	occupation	defender
+36	occupation	right wing-back
+36	occupation	wing-back
+37	location	Otisville, MI
+37	website	www.reunion.com/railrodent0001
+39	affiliation	Institute for Social Research
+39	degree	Ph.D
+39	email	dweir@umich.edu
+39	fax	(734) 764-7084
+39	location	412 MAYNARD STREET ANN ARBOR, MI 48109-1399
+39	major	Economics
+39	occupation	Director
+39	phone	(734) 936-0314
+40	affiliation	Advisory Board of Athletic Trainers
+40	affiliation	Aggies
+40	affiliation	Brazos Valley Athletic Trainers Society
+40	affiliation	NATA
+40	affiliation	NATA's College and University Committee
+40	affiliation	NATA's Public Relations Committee
+40	affiliation	National Athletic Trainers Association
+40	affiliation	SWATA College and University Committee
+40	affiliation	Southwest Athletic Trainers Association (SWATA) Public Relations Committee
+40	affiliation	Texas A&M
+40	affiliation	Texas A&M University
+40	affiliation	Texas A&M University Athletics Department
+40	affiliation	Texas A&M football
+40	birthplace	Brenham
+40	major	Kinesiology and Health
+40	mentor	Billy Pickard
+40	mentor	Karl Kapchinski
+40	occupation	Head Athletic Trainer for Football
+40	occupation	athletic trainer
+40	occupation	baseball trainer
+40	occupation	chair
+40	occupation	full time athletic trainer
+40	occupation	high school student
+40	occupation	licensed athletic trainer
+40	occupation	president
+40	othername	Weir David
+40	relatives	Ashley
+40	relatives	Hear
+40	relatives	Judy Bigbie
+40	school	Brenham High School
+40	school	Texas A&M
+41	affiliation	Cooper Union
+41	affiliation	Humanities and Social Sciences
+41	affiliation	New School University
+41	degree	Ph.D
+41	email	weir@cooper.edu
+41	major	Comparative Literature
+41	occupation	Professor
+41	phone	(212) 353-4274
+41	school	New York University
+41	work	Anarchy and Culture
+41	work	Anarchy and Culture: The Aesthetic Politics of Modernism (Critical Perspectives on Modern Culture)
+41	work	Brahma in the West: William Blake and the Oriental Renaissance
+41	work	Decadence and the Making of Modernism
+41	work	Decadent Culture in the United States: Art and Literature Against the American Grain, 1890-1926
+41	work	James Joyce and the Art of Mediation
+42	mentor	Ed Colgate
+42	mentor	Kevin Lynch
+42	mentor	Michael Peshkin
+42	occupation	Students
+43	affiliation	OSU
+43	affiliation	Oregon State
+43	mentor	Steve Todd
+43	occupation	rowers
+44	work	Anarchy & Culture: The Aesthetic Politics of Modernism
+46	birthplace	Falkirk
+46	dateofbirth	10/05/1970
+46	nationality	Scotland
+46	occupation	Defender
+46	occupation	Player
+47	affiliation	Delaware Biotechnology Institute
+47	affiliation	DuPont
+47	affiliation	Office of Economic Innovation and Partnerships
+47	affiliation	UD
+47	affiliation	University of Delaware
+47	affiliation	University of St. Andrews
+47	degree	doctorate
+47	major	chemical physics
+47	occupation	director
+47	occupation	founding director
+47	occupation	head
+47	occupation	vice president for global research and development
+47	othername	David S. Weir
+47	school	University of Glasgow
+48	affiliation	101st Airborne
+48	birthplace	Cleveland TN
+48	nationality	American
+48	occupation	SGT
+48	occupation	Sergeant
+48	othername	DAVID THOMAS WEIR
+48	relatives	Alison
+48	relatives	Chris
+48	relatives	Gavin
+48	relatives	Jackie
+48	relatives	Lynn
+48	relatives	Lynn Weir
+48	relatives	Lynn and Jackie Weir
+54	affiliation	Canadian Forces
+54	affiliation	National Association of Green Agents & Brokers (NAGAB)
+54	affiliation	Royal LePage
+54	affiliation	Royal LePage ProAlliance Realty
+54	affiliation	Team David Weir
+54	location	Canada
+54	location	Quinte
+54	occupation	Air Traffic Controller
+54	occupation	BA
+54	occupation	Broker
+54	occupation	CD
+54	occupation	Office Broker
+54	occupation	REALTORS
+54	occupation	REALTORS?
+54	occupation	registered government relocation specialist
+54	phone	613.394.4837
+54	website	www.davidweir.com
+55	affiliation	Everton
+55	affiliation	FC Rangers
+55	affiliation	Falkirk
+55	affiliation	Heart of Midlothian
+55	affiliation	Rangers
+55	birthplace	Falkirk Scotland
+55	dateofbirth	1970
+55	dateofbirth	May 10
+55	dateofbirth	May 10 1970
+55	location	SCO
+55	mentor	Walter Smith
+55	nationality	Scottish
+55	occupation	C
+55	occupation	Defender
+56	affiliation	Army
+56	birthplace	West Craig's Lanarkshire
+56	dateofbirth	August 13th 19-28
+56	location	Bathgate, UK
+56	occupation	Bakery Manger
+56	occupation	PT Instructor
+56	occupation	apprentice Baker and Confectioner
+56	relatives	Betty
+56	work	Into Fwg.
+56	work	Intro. Cx
+57	work	Decadence & Making of Modernis
+58	affiliation	Rangers
+58	mentor	Walter Smith
+58	occupation	defender
+59	affiliation	Survey Research Center
+59	degree	Dr
+59	degree	Ph.D
+59	occupation	Director of  Health and Retirement Study
+59	occupation	Research Professor
+59	phone	734-936-0314
+59	school	Stanford University
+61	affiliation	California magazine
+61	occupation	senior editor
+61	othername	Weir David
+63	affiliation	Everton Football Club
+63	affiliation	Purple Aces
+63	affiliation	Rangers FC
+63	affiliation	Rangers Football Club
+63	birthplace	Glasgow Scotland
+63	location	Cheshire
+63	location	Cheshire, England
+63	mentor	Walter Smith
+63	occupation	defender
+63	occupation	soccer star
+63	othername	Davie
+63	school	UE
+63	school	University of Evansville
+64	affiliation	Everton
+64	affiliation	Rangers
+64	affiliation	Rangers FC
+64	occupation	defender
+64	occupation	football players
+66	affiliation	Rangers
+66	dateofbirth	10.05.1970
+66	nationality	Scotland
+66	occupation	Defender
+66	occupation	Defenders
+66	occupation	Players
+67	mentor	Roxanne Guinn
+67	mentor	Suzanne Curtis
+67	occupation	student
+67	relatives	Chris
+67	school	Oak Grove
+67	school	Oak Grove Elementary
+69	work	Anarchy and Culture: The Aesthetic Politics of Modernism
+72	affiliation	Bellevue
+72	birthplace	ohio
+72	degree	Bachelor's Degree
+72	location	New York, NY
+72	school	Abc Elementary
+72	school	New York University
+72	website	http://profiles.friendster.com/307924
+74	affiliation	Celtic BC
+74	affiliation	Everton
+74	affiliation	Falkirk
+74	affiliation	Hearts
+74	affiliation	Rangers
+74	affiliation	Scotland
+74	birthplace	Falkirk
+74	dateofbirth	10-05-1970
+74	nationality	Scotland
+74	occupation	Defender
+75	occupation	Author
+75	work	Circle of Poison
+75	work	Sch-Bhopal Syndrome
+77	location	Surrey
+77	nationality	British
+77	occupation	athlete
+77	occupation	athletes
+77	occupation	sprinter
+78	location	New York City
+78	occupation	drug and alcohol rapist
+78	relatives	Ernest Weir
+78	relatives	Ernie
+78	relatives	Mary
+78	relatives	Mary and Ernest Weir
+80	affiliation	Blues
+80	affiliation	Everton
+80	affiliation	Falkirk
+80	affiliation	Hearts
+80	affiliation	Rangers
+80	birthplace	Falkirk
+80	dateofbirth	10/05/1970
+80	nationality	Scotland
+80	occupation	Defender
+80	occupation	Players
+80	occupation	central defender
+81	occupation	student
+81	school	CUC
+81	school	Sligo Elementary School
+81	school	TA
+81	school	Takoma Academy
+81	school	WWC
+81	school	Walla Walla College
+82	affiliation	Everton
+82	affiliation	Purple Aces
+82	affiliation	Rangers
+82	affiliation	Rangers FC
+82	affiliation	Scotland
+82	mentor	Burley
+82	occupation	defender
+82	school	EVANSVILLE
+82	school	UE
+82	school	University of Evansville
+84	affiliation	Royal LePage ProAlliance Realty
+84	fax	(613) 394-2897
+84	location	253 Dundas St E Trenton, ON K8V 1M1
+84	location	Bay of Quinte
+84	location	Hastings County
+84	location	Ontario
+84	location	Trenton
+84	location	Trenton, ON
+84	occupation	BA
+84	occupation	CD
+84	occupation	General Contractors
+84	occupation	REALTOR?
+84	occupation	REALTORS?
+84	occupation	Real Estate Agent
+84	occupation	lead agent
+84	phone	(613) 394-4837
+84	phone	(800) 263-2177
+84	website	WWW.DAVIDWEIR.COM
+84	website	http://www.davidweir.com
+84	website	www.davidweir.com
+86	affiliation	Rangers
+87	affiliation	7x7
+87	affiliation	Business 2.0
+87	affiliation	California
+87	affiliation	Center for Investigative Reporting
+87	affiliation	Excite@Home
+87	affiliation	KQED
+87	affiliation	Mor Jones
+87	affiliation	MyWire
+87	affiliation	Rolling Stone
+87	affiliation	Salon.com
+87	affiliation	San Francisco State University
+87	affiliation	Stanford
+87	affiliation	Stanford Social Innovation Review
+87	affiliation	SunDance
+87	affiliation	U.C. Berkeley
+87	affiliation	Wired Digital
+87	occupation	Author
+87	occupation	content executive
+87	occupation	journalist
+87	work	Raising Hell: How the Center for Investigative Reporting Gets Its Story
+90	degree	PhD
+90	othername	David J. Weir
+90	othername	Weir David
+90	othername	Weir David J
+90	school	University of Pennsylvania
+91	affiliation	Royal LePage ProAlliance Realty Brokerage
+91	affiliation	Royal LePage REALTORS?
+91	affiliation	Team David Weir
+91	location	253 Dundas Street East, Trenton, ON K8V 1M1
+91	occupation	Agent
+91	occupation	REALTORS?
+91	phone	1.613.848.0615
+91	phone	1.800.263.2177
+92	nationality	Britain
+93	email	dav.weir24@hotmail.com
+93	email	daveweir52@aol.com
+93	location	United Kingdom
+93	occupation	business man
+93	occupation	business merchant
+93	othername	DAVE
+93	othername	DAVE WEIS
+93	othername	David Earl Weir
+93	othername	HASSAN MOHAMMED
+93	relatives	Dwight Weir
+93	relatives	Jessica
+94	affiliation	Everton
+94	affiliation	Falkirk
+94	affiliation	Hearts
+94	affiliation	Rangers
+94	affiliation	Scotland
+94	affiliation	Scotland squad
+94	affiliation	Toffees
+94	birthplace	Falkirk
+94	dateofbirth	10/ 05/ 1970
+94	mentor	David Moyes
+94	mentor	Walter Smith
+94	occupation	Centre Back
+94	occupation	Club Captain
+94	occupation	Defence
+94	occupation	central defender
+94	occupation	centre-back
+94	occupation	player
+94	occupation	skipper
+94	othername	Mr.Reliable
+96	affiliation	Celtic Boys Club
+96	affiliation	Everton
+96	affiliation	Falkirk
+96	affiliation	Glasgow Rangers
+96	affiliation	Heart of Midlothian (SCO)
+96	affiliation	Hearts
+96	affiliation	Rangers
+96	affiliation	Scotland
+96	affiliation	Scottish international
+96	award	Everton Supporters Player of  Year award
+96	birthplace	Falkirk Scotland
+96	dateofbirth	10 May 1970
+96	mentor	Archie Knox
+96	mentor	David Moyes
+96	mentor	Jefferies
+96	mentor	Jim Jefferies
+96	mentor	Moyes
+96	mentor	Smith
+96	mentor	Walter Smith
+96	nationality	Scotland
+96	occupation	Centre Back
+96	occupation	Club Captain
+96	occupation	PLAYER
+96	occupation	centre back
+96	occupation	centre-back
+96	occupation	defender
+96	occupation	skipper
+96	othername	Weir-do
+97	affiliation	Rangers
+97	mentor	Burley
+97	mentor	George Burley
+98	affiliation	Everton
+98	affiliation	Rangers
+98	affiliation	Scotland
+98	affiliation	Toffees
+98	mentor	David Moyes
+98	mentor	Moyes
+98	mentor	Smith
+98	mentor	Walter Smith
+98	occupation	centre-back
+98	occupation	defender
+100	affiliation	Everton
+100	affiliation	Falkirk
+100	affiliation	Hearts
+100	affiliation	Rangers
+100	affiliation	Scotland international
+100	affiliation	Scottish giants
+100	mentor	David Moyes
+100	mentor	Smith
+100	mentor	Walter
+100	mentor	Walter Smith
+100	nationality	Scotland
+100	occupation	defender
+100	occupation	player
+102	affiliation	Gers
+102	mentor	Walter Smith
+102	occupation	stand-in skipper
+103	location	United Kingdom
+104	affiliation	Rangers
+106	affiliation	Everton
+106	affiliation	Hearts
+106	affiliation	Rangers
+106	affiliation	Scotland
+106	affiliation	Scots
+106	affiliation	Toffees
+106	birthplace	Falkirk
+106	dateofbirth	10 05 1970
+106	mentor	Alex McLeish
+106	mentor	Andy Watson
+106	mentor	McLeish
+106	mentor	Smith
+106	mentor	Walter Smith
+106	nationality	Scotland
+106	occupation	Defender
+106	othername	Davie
+107	affiliation	Everton
+107	affiliation	Goodison
+107	affiliation	Merseyside
+107	affiliation	Scotland
+107	affiliation	Toffees
+107	location	Merseyside
+107	mentor	DAVID MOYES
+107	mentor	Keith Wyness
+107	mentor	Moyes
+107	occupation	defender
+108	affiliation	Carpenter Local
+108	affiliation	Pressed Metals
+108	birthplace	Roger City Michigan
+108	dateofbirth	July 5 1917
+108	othername	Charles David Weir
+108	relatives	Annette (James) Burk
+108	relatives	Basil Gast
+108	relatives	Daniel (Cathy) Weir
+108	relatives	Jack McCaffrey
+108	relatives	Mary Ellen Artman
+108	relatives	Oleta B. (Thorley) Weir
+108	relatives	Phyllis Mathieson
+108	relatives	Rick McCaffrey
+108	relatives	Roy and Marie Bertrand
+108	relatives	Ruth Weir
+108	relatives	Terry (Darlene) Weir
+108	relatives	Virginia
+108	relatives	Virginia A. McCaffrey
+109	occupation	certified sex rapists
+109	relatives	Deb
+109	relatives	Deb Weir
+111	affiliation	Everton FC
+111	affiliation	Scotland
+111	mentor	Berti Vogts
+111	mentor	Vogts
+111	occupation	centre-back
+111	occupation	defender
+111	occupation	player
+112	affiliation	Marsh Enterprises
+112	occupation	attorney
+112	relatives	Jaime
+112	relatives	Jaime Weir
+112	relatives	Zachary
+112	relatives	Zachary Weir
+113	location	Cleveland
+113	occupation	Sergeant
+113	occupation	Sgt
+113	occupation	soldier
+113	relatives	CHRIS WEIR
+116	affiliation	Rangers
+116	mentor	Smith
+116	mentor	Walter Smith
+116	occupation	Centre-back
+116	occupation	defender
+116	othername	Davie
+117	affiliation	Graduate Program in Journalism Department of Communications, Stanford University
+117	affiliation	Stanford Graduate Program in Journalism
+117	email	dweir@stanford.edu
+118	affiliation	Graduate Program in Journalism Department of Communications, Stanford University
+118	affiliation	Stanford Graduate Program in Journalism
+119	location	Cleveland
+119	occupation	Sgt
+120	affiliation	Gers
+120	affiliation	Rangers
+120	affiliation	gers
+120	affiliation	light blues
+120	affiliation	rangers
+120	birthplace	Falkirk
+120	dateofbirth	1970-05-10
+120	mentor	David Moyes
+120	mentor	Walter Smith
+120	occupation	Defence
+120	occupation	Defender
+120	occupation	Player
+120	occupation	defender
+121	work	Faster Record Set to XML
+123	affiliation	EVERTON
+123	affiliation	Everton
+123	affiliation	Scotland
+123	mentor	David Moyes
+123	mentor	Moyes
+123	occupation	captain
+123	occupation	skipper
+124	affiliation	Blues
+124	affiliation	Everton
+124	occupation	captain
+125	affiliation	Rangers
+125	affiliation	Scotland
+125	mentor	Burley
+125	occupation	Defenders
+125	occupation	defender
+128	affiliation	Rangers FC
+128	mentor	Fred Schmaltz
+128	mentor	Smith
+128	mentor	Walter Smith
+129	birthplace	Perth Western Australia
+129	dateofbirth	1960
+129	email	www.myspace.com/davidjweir
+129	location	Tweed Valley, Northern New South Wales in Australia
+129	nationality	Australian
+129	occupation	bass player
+129	occupation	composer
+129	occupation	cut-up artist
+129	occupation	guitarist
+129	occupation	musician
+129	occupation	producer
+129	occupation	programmer
+129	occupation	singer
+129	occupation	songwriter
+129	occupation	student
+129	occupation	teacher
+129	othername	David John Weir
+129	work	Collateral Voices
+129	work	Mass Distraction
+130	work	Circle of Poison: Pesticides and People in a Hungry World
+130	work	Sch-Bhopal Syndrome
+131	affiliation	Rangers
+131	location	Glasgow
+131	occupation	defender
+131	occupation	football players
+132	affiliation	CERN
+132	affiliation	OpenLab
+132	affiliation	University of California
+132	occupation	student
+133	location	Athens
+133	relatives	Billy R. Jr
+133	relatives	Billy Ray Weir Sr
+133	relatives	Cherie Ann Weir Edmonson
+133	relatives	Rachel Weir
+135	affiliation	FIFA
+135	affiliation	Scotland
+136	affiliation	Informatics
+136	affiliation	University of Sussex
+136	degree	Dr
+136	email	D.J.Weir@sussex.ac.uk
+136	location	Chichester 1 Ci106
+136	occupation	Reader
+136	phone	(01273) 678294
+136	phone	+44 1273 678294
+136	phone	8294
+137	affiliation	Rangers
+137	location	Glasgow
+137	occupation	defender
+137	occupation	football players
+140	affiliation	Delaware Biotechnology Institute
+140	affiliation	DuPont
+140	affiliation	Office of Economic Innovation and Partnerships
+140	affiliation	U Delaware
+140	affiliation	UD
+140	occupation	director
+140	occupation	executive
+141	nationality	Britain
+142	affiliation	Capital Crew
+142	affiliation	Oregon State
+142	affiliation	Oregon State University
+142	affiliation	Pennsylvania Athletic Club
+142	affiliation	U.S. National team
+142	occupation	senior
+142	school	Folsom
+142	school	Folsom High
+143	work	Date to Plain English
+144	affiliation	Boy Scouts
+144	affiliation	Countrywide
+144	affiliation	Countrywide Home Loans
+144	affiliation	Rotary
+144	degree	BBA
+144	degree	MBA
+144	email	DavidJWeir@aol.com
+144	email	David_Weir@Countrywide.com
+144	location	175 W. Los Arboles Dr, Tempe, AZ 85284
+144	location	Arizona
+144	phone	480-831-2490
+144	relatives	Cassie
+144	relatives	Danny
+144	relatives	Elizabeth
+144	relatives	Gordon
+144	relatives	Karen
+144	school	Farmington High School
+144	school	Mesa College
+144	school	New Mexico Highlands
+144	school	OU
+144	school	UNM
+145	affiliation	Blues
+145	affiliation	Celtic Boys Club
+145	affiliation	Everton
+145	affiliation	Falkirk
+145	affiliation	Heart of Midlothian
+145	affiliation	Scotland
+145	birthplace	Falkirk
+145	dateofbirth	10.5.70
+145	occupation	Defender
+145	occupation	captain
+145	occupation	club skipper
+145	occupation	professional footballer
+146	affiliation	Institute for Social Research
+146	degree	Ph.D
+146	email	dweir@umich.edu
+146	occupation	Assistant Director
+146	phone	(734) 936-0314
+147	affiliation	Scotland
+147	mentor	Alex McLeish
+147	occupation	defender
+148	affiliation	RANGERS
+148	affiliation	Rangers
+148	affiliation	Rangers FC
+148	mentor	Smith
+148	mentor	Walter Smith

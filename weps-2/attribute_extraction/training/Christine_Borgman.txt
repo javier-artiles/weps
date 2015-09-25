@@ -1,0 +1,224 @@
+1	Other name	Borgman, Christine L.
+1	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+2	Other name	Christine L. Borgman
+2	Occupation	Professor	Presidential Chair	Visiting Professor
+2	Affiliation	University of California, Los Angeles	UCLA	Information Studies	Department of Information Science at Loughborough University
+2	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+2	School	Michigan State University	University of Pittsburgh	Stanford University
+2	Major	mathematics	communication
+2	Degree	Ph.D.	Dr.	B.A.	M.L.S.
+2	Location	England
+3	Occupation	Presidential Chair	system analyst	lead investigator
+3	Affiliation	Information Studies at UCLA	UCLA	Dallas Public Library	Alexandria Digital Earth ProtoType project	ADEPT
+3	School	University of Pittsburgh	Pitt	Stanford University
+3	Major	library and information sciences
+3	Degree	master's	doctoral
+4	Occupation	Professor	Presidential Chair
+4	Affiliation	Information Studies
+4	Work	Scholarship in the Digital Age: Information, Infrastructure, and the Internet	Signposts in Cyberspace: The Domain Name System and Internet Navigation	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+4	Award	Best Information Science Book of the Year Award
+4	School	Michigan State University	University of Pittsburgh	Stanford University
+4	Major	Mathematics	Communication
+4	Degree	BA	MLS	Ph.D.
+4	Location	235 GSE&IS
+4	Phone	(310) 825 6164
+4	Email	borgman@gseis.ucla.edu
+5	Other name	Christine L. Borgman
+5	Occupation	Professor	Presidential Chair	Prof.	co-principal investigator	Visiting Professor	Scholar-in-Residence	Chair
+5	Affiliation	Information Studies	Graduate School of Education and Information Studies University of California, Los Angeles	Information Studies at UCLA	Department of Information Studies	Department of Information Science at Loughborough University	University of Economic Sciences	E?tv?s Lor?nd University	Rockefeller Foundation Study and Conference Center	Department of Library and Information Science	Center for Embedded Networked Systems	CENS	Alexandria Digital Earth Prototype (ADEPT) project
+8	Other name	Christine L. Borgman
+8	Occupation	Professor	Presidential Chair	Visiting Professor	Chair	Prof. 	co-principal investigator	Scholar-in-Residence	Chair-Elect	Fellow
+8	Affiliation	Information Studies	Department of Information Studies and the Communication Studies Program, University of California, Los Angeles	Information Studies at UCLA	Department of Information Studies	Communication Studies Program at UCLA	Department of Information Science at Loughborough University	Department of Library and Information Science	Center for Embedded Networked Systems	CENS	Alexandria Digital Earth Prototype (ADEPT) project	University of Economic Sciences	Eotvos Lorand University	Rockefeller Foundation Study and Conference Center	Study Committee on Internet Navigation and the Domain Name System: Technical Alternatives and Policy Implications	Computer Science and Telecommunications Board, National Academies	Advisory Board to the Electronic Privacy Information Center	Association for Computing Machinery Public Policy Committee	Advisory Committee to the Computer, Information Sciences, and Engineering Directorate of the National Science Foundation	Board of Directors of the Council on Library and Information Resources	International Advisory Board to the Soros Foundation Open Society Institute Regional Library Program	editorial boards of Journal of the American Society for Information Science & Technology, Journal of Computer-Mediated Communication, The Information Society, and the Journal of Digital Information	editorial boards of the Journal of Communication Research (1986-1999) and the Journal of Documentation
+8	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+8	Award	Distinguished Lectureship Award	Best Information Science book of the year award
+10	Occupation	Professor
+10	Degree	Dr.
+12	Other name	Christine L. Borgman
+12	Affiliation	Graduate School of Education and Information Studies
+13	Occupation	PROFESSOR	Professor	PRESIDENTIAL CHAIR	Presidential Chair	chair 	Visiting Professor	systems analyst	faculty	Fellow
+13	Affiliation	UCLA	UC	INFORMATION STUDIES	University of California	Information Studies	Department of Information Studies in the Graduate School of Education & Information Studies	Department of Information and Library Studies at Loughborough University	American Association for the Advancement of Science	Board of Directors of the Council on Library and Information Resources	Advisory Board to the Soros Foundation Open Society Institute Regional Library Program	Advisory Board to the Electronic Privacy Information Center	Association for Computing Machinery Public Policy Committee	Graduate School of Education & Information Studies
+13	School	Stanford University	University of Pittsburgh	Michigan State University
+13	Major	communication	mathematics
+13	Degree	Ph.D.	master's of library science	B.A.
+14	Other name	Christine L. Borgman
+14	Occupation	Professor	Presidential Chair	Visiting Professor	Chair	Prof. 	co-principal investigator	Scholar-in-Residence	Chair-Elect	Fellow
+14	Affiliation	Information Studies	Department of Information Studies and the Communication Studies Program, University of California, Los Angeles	Information Studies at UCLA	Department of Information Studies	Communication Studies Program at UCLA	Department of Information Science at Loughborough University	Department of Library and Information Science	Center for Embedded Networked Systems	CENS	Alexandria Digital Earth Prototype (ADEPT) project	University of Economic Sciences	Eotvos Lorand University	Rockefeller Foundation Study and Conference Center	Study Committee on Internet Navigation and the Domain Name System: Technical Alternatives and Policy Implications	Computer Science and Telecommunications Board, National Academies	Advisory Board to the Electronic Privacy Information Center	Association for Computing Machinery Public Policy Committee	Advisory Committee to the Computer, Information Sciences, and Engineering Directorate of the National Science Foundation	Board of Directors of the Council on Library and Information Resources	International Advisory Board to the Soros Foundation Open Society Institute Regional Library Program	editorial boards of Journal of the American Society for Information Science & Technology, Journal of Computer-Mediated Communication, The Information Society, and the Journal of Digital Information	the editorial boards of the Journal of Communication Research (1986-1999) and the Journal of Documentation
+14	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+14	Award	Distinguished Lectureship Award	Best Information Science book of the year award
+15	Other name	Christine L. Borgman
+15	Occupation	academic visitor	Professor	Presidential Chair	co-principal investigator	Chair	Fellow
+15	Affiliation	University of California	Oxford Internet Institute	Information Studies at the University of California, Los Angeles	UCLA	Center for Embedded Networked Sensing	CENS	Alexandria Digital Earth Prototype (ADEPT) project	Study Committee on Internet Navigation	Domain Name System	Computer Science and Telecommunications Board	National Academies	Advisory Board to the Electronic Privacy Information Center	Association for Computing Machinery Public Policy Committee	Section T, Information, Computing, and Communication, of the American Association for the Advancement of Science	AAAS
+15	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+15	Award	Best Information Science Book of the Year Award
+17	Other name	Christine L. Borgman
+17	Occupation	Professor	Visiting Fellow	Presidential Chair	co-principal investigator	Chair	Fellow	Prof.
+17	Affiliation	Oxford Internet Institute University of Oxford	Information Studies at the University of California, Los Angeles	UCLA	Center for Embedded Networked Sensing	CENS	Alexandria Digital Earth Prototype (ADEPT) project	Study Committee on Internet Navigation	Domain Name System	Computer Science and Telecommunications Board	National Academies	Advisory Board to the Electronic Privacy Information Center	Association for Computing Machinery Public Policy Committee	Section T, Information, Computing, and Communication, of the American Association for the Advancement of Science	AAAS
+17	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+17	Award	Best Information Science book of the year award
+20	Other name	Christine L. Borgman
+20	Occupation	Professor	Presidential Chair	Visiting Professor	Prof.
+20	Affiliation	Information Studies at the University of California	Department of Information Science at Loughborough University
+20	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+20	School	Michigan State University	University of Pittsburgh	Stanford University
+20	Major	Mathematics	Communication
+20	Degree	B.A.	M.L.S.	Ph.D.
+22	Occupation	Visiting Academic	Presidential Chair
+22	Affiliation	OII	Information Studies, UCLA
+23	Other name	Borgman, Christine L.
+23	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+24	Occupation	professor	presidential chair	co-principal investigator	visiting scholar	visiting professor	Visiting Professor	Scholar-in-Residence
+24	Affiliation	information studies at the University of California Los AngelesCenter for Embedded Networked Sensing	CENS	CENSEI	Women@CENS	education and evaluation team of the Alexandria Digital Earth Prototype Project	ADEPT	Oxford Internet Institute at the University of Oxford	Department of Information Science at Loughborough University	University of Economic Sciences and at E?tv?s Lor?nd University	Rockefeller Foundation Study and Conference Center
+24	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+24	Award	Best Information Science Book of the Year Award
+24	School	Stanford University	University of Pittsburgh	Michigan State University
+24	Major	communication
+24	Degree	doctorate	master's degree	bachelor's degree
+24	Web site	http://is.gseis.ucla.edu/cborgman
+25	Other name	Christine L. Borgman
+25	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+26	Other name	Christine L. Borgman
+27	Other name	Christine L. Borgman
+27	Occupation	Author	author
+27	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+30	Other name	Christine L. Borgman
+30	Work	From Gutenberg to the global information infrastructure	From Gutenberg to the global information infrastructure: access to information in the networked world
+31	Affiliation	UCLA
+32	Other name	Christine L. Borgman	Borgman, C.L.
+32	Occupation	Principal Investigator	Professor	Presidential Chair
+32	Affiliation	Information Studies Graduate School of Education & Information Studies University of California, Los Angeles	UCLA
+32	Location	Graduate School of Education & Information Studies University of California, Los Angeles Los Angeles, CA 90095-1520
+32	Email	cborgman@ucla.edu
+33	Other name	Christine L. Borgman
+33	Occupation	Professor	Presidential Chair
+33	Affiliation	Information Studies in the Graduate School of Education and Information Studies at the University of California, Los Angeles	Digital Government research project, Columbia University	Collection Management Strategies in a Digital Environment, University of California
+33	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+33	Web site	http://skipper.gseis.ucla.edu/faculty/cborgman/html/index.html
+34	Occupation	Jury
+34	Affiliation	ASIST National Committees
+35	Occupation	Jury
+35	Affiliation	ASIST National Committees
+36	Award	Contribution to Information Science Award	LACASIS Chapter Awards	ASIST Award	Best Information Science Book	National ASIST Awards	Best JASIST Paper Award	Best Student Paper Award
+36	School	Stanford
+39	Occupation	professor	presidential chair	co-principal investigator	visiting scholar	visiting professor	Visiting Professor	Scholar-in-Residence
+39	Affiliation	information studies at the University of California Los AngelesCenter for Embedded Networked Sensing	CENS	CENSEI	Women@CENS	education and evaluation team of the Alexandria Digital Earth Prototype Project	ADEPT	Oxford Internet Institute at the University of Oxford	Department of Information Science at Loughborough University	University of Economic Sciences and at E?tv?s Lor?nd University	Rockefeller Foundation Study and Conference Center
+39	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+39	Award	Best Information Science Book of the Year Award
+39	School	Stanford University	University of Pittsburgh	Michigan State University
+39	Major	communication
+39	Degree	doctorate	master's degree	bachelor's degree
+39	Web site	http://is.gseis.ucla.edu/cborgman
+40	Other name	Christine L. Borgman
+40	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+41	Occupation	professor	presidential chair	co-principal investigator	visiting scholar	visiting professor	Visiting Professor	Scholar-in-Residence
+41	Affiliation	information studies at the University of California Los AngelesCenter for Embedded Networked Sensing	CENS	CENSEI	Women@CENS	education and evaluation team of the Alexandria Digital Earth Prototype Project	ADEPT	Oxford Internet Institute at the University of Oxford	Department of Information Science at Loughborough University	University of Economic Sciences and at E?tv?s Lor?nd University	Rockefeller Foundation Study and Conference Center
+41	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+41	Award	Best Information Science Book of the Year Award
+41	School	Stanford University	University of Pittsburgh	Michigan State University
+41	Major	communication
+41	Degree	doctorate	master's degree	bachelor's degree
+41	Web site	http://is.gseis.ucla.edu/cborgman
+42	Other name	Christine L. Borgman
+42	Occupation	Prof.
+42	Affiliation	UCLA Department of Information Studies	UCLA	Stanford	Loughborough University	Budapest University of Economic Sciences	EPIC Advisory Board
+42	Work	Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World	Effective Online Searching: A Basic Text
+42	School	Stanford University	University of Pittsburgh	Michigan State University
+42	Major	Communication	Mathematics
+42	Degree	Ph.D.	Master of Library Science	B.A.
+43	Other name	Christine L. Borgman
+43	Occupation	Professor	Presidential Chair	Visiting Professor	author
+43	Affiliation	Univ. of California, Los Angeles	Information Studies at UCLA	Department of Information Science at Loughborough University
+43	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+43	Award	Best Information Science Book of the Year Award, 2000
+43	School	Michigan State University	University of Pittsburgh	Stanford University
+43	Major	Mathematics	Communication
+43	Degree	B.A.	M.L.S.	Ph.D.
+43	Location	USA
+44	Affiliation	University of California
+45	Other name	Christine L. Borgman	Borgman, Christine L.	Borgman, C.L.
+45	Occupation	Professor	Prof.
+45	Affiliation	Department of Information Studies
+45	Degree	Dr.
+45	Location	GSEIS 235
+45	Phone	310-825-6164
+45	FAX	310-206-4460
+45	Email	cborgman@ucla.edu
+46	Occupation	Prof.
+46	Affiliation	Department of Information Studies
+47	Occupation	Professor	chair	functional sponsor	functional sponsors
+47	Affiliation	Information Studies	search committee	The ORION2 Oversight Committee
+49	Other name	Christine L. Borgman
+49	Work	From Gutenberg to the global information infrastructure	From Gutenberg to the global information infrastructure: access to information in the networked world
+50	Affiliation	UCLA ITPB and IT Governance Effectiveness Subgroup	Scholarly Interaction Subgroup
+53	Other name	Christine L. Borgman
+53	Occupation	Prof.	Presidential Chair
+53	Affiliation	Information Studies, UCLA	UCLA
+54	Other name	Borgman, Christine L.
+54	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in the Networked World
+56	Affiliation	CENS
+57	Occupation	VICE CHAIR	Professor
+57	Affiliation	ITPB	Information Studies
+57	Email	borgman@gseis.ucla.edu
+58	Affiliation	Univ. of California, Los Angeles	UCLA
+58	Location	USA
+59	Other name	Christine L. Borgman
+59	Occupation	Prof.	Presidential Chair
+59	Affiliation	Information Studies, UCLA	UCLA
+60	Location	235 GSE&IS Building
+60	Phone	(310) 825-6164
+60	Email	borgman@gseis.ucla.edu
+60	Web site	http://polaris.gseis.ucla.edu/cborgman/
+62	Affiliation	UCLA
+63	Work	From Gutenberg to the Global Information Infrastructure
+64	Affiliation	Univ. of California, Los Angeles
+64	Location	USA
+65	Affiliation	UCLA Graduate School of Library & Information Science
+66	Occupation	Presidential Chair	Professor
+66	Affiliation	UC	IS	UCLA	University of California	Information Studies
+67	Work	Scholarly Communication and Bibliometrics
+69	Occupation	professor	presidential chair
+69	Affiliation	UCLA
+70	Other name	Christine L. Borgman
+70	Occupation	Editor
+70	Affiliation	communications and library/information science departments at UCLA
+70	Work	Scholarly Communication and Bibliometrics
+71	Affiliation	UCLA
+73	Affiliation	Information Studies, UCLA
+73	Web site	http://is.gseis.ucla.edu/cborgman/
+74	Other name	Christine L. Borgman
+74	Occupation	Professor	Presidential Chair	co-principal investigator	author	Prof.	Retiring Chair	AAAS
+74	Affiliation	Information Studies	University of California	Information Studies at the University of California, Los Angeles	UCLA	Center for Embedded Networked Sensing	CENS	Alexandria Digital Earth Prototype (ADEPT) project	Oxford Internet Institute	U.S. National Committee on Data for Science and Technology	CODATA	Advisory Board to the Electronic Privacy Information Center	Information, Computing, and Communication Section of the American Association for the Advancement of Science	AAAS
+74	Work	From Gutenberg to the Global Information Infrastructure: Access to Information in a Networked World
+74	Award	Best Information Science Book of the Year Award
+75	Occupation	Professor	Faculty Advisors
+75	Affiliation	Information Studies
+77	Other name	Christine L. Borgman	Borgman, C.L.
+77	Occupation	Principal Investigator	Professor	Presidential Chair
+77	Affiliation	Information Studies Graduate School of Education & Information Studies University of California, Los Angeles	UCLA
+77	Location	Graduate School of Education & Information Studies University of California, Los Angeles Los Angeles, CA 90095-1520
+77	Email	cborgman@ucla.edu
+78	Occupation	professor
+78	Affiliation	Department of Information Studie
+79	Other name	Christine L. Borgman
+82	Occupation	professor	Presidential Chair
+82	Affiliation	Information Studies, University of California-Los Angeles
+84	Affiliation	IEEE Technical Committee on Digital Libraries
+84	Email	borgman@gseis.ucla.edu
+85	Occupation	Professor
+85	Affiliation	Information Studies University of California, Los Angeles	Dept of IS
+85	Location	University of California, Los Angeles 235 GSE&IS Bldg Mail code 152003 Los Angeles, CA 90095
+85	Phone	310.825.6164
+85	FAX	310.206.4460
+85	Email	cborgman@ucla.edu
+91	Occupation	academic co-chair
+91	Affiliation	University of California, Los Angeles
+91	Location	USA
+92	Occupation	professor
+92	Affiliation	UCLA's Department of Information Studies
+93	Affiliation	Stanford University
+93	Location	Stanford, CA
+95	Occupation	Professor	Presidential Chair
+95	Affiliation	Information Studies University of California, Los Angeles
+97	Affiliation	Research Advisory Committee
+98	Affiliation	UCLA
+99	Occupation	Professor
+99	Affiliation	Information Studies

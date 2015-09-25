@@ -1,0 +1,232 @@
+0	Date of birth	May 29, 1917
+0	Birthplace	Brookline, Massachusetts
+0	Other name	John F. Kennedy	John Fitzgerald Kennedy
+0	Occupation	President	Presidents	Congressman
+0	Affiliation	Navy	Democratic
+0	Work	Profiles in Courage
+0	Award	Pulitzer Prize in history
+0	School	Harvard
+0	Relatives	Jacqueline Lee Bouvier Kennedy	Jacqueline Bouvier
+1	Date of birth	May 29, 1917
+1	Birthplace	Brookline, Massachusetts	Brookline, Massachusetts, United States of America
+1	Other name	John F. Kennedy	JFK	John Fitzgerald Kennedy	Jack Kennedy	Kennedy, John Fitzgerald	Kennedy, Jack
+1	Occupation	President	Senator	president	ensign	lieutenant	Lt.	Capt.	politician	congressman	Presidents
+1	Affiliation	United States House of Representatives	Democratic	U.S. House of Representatives	U.S. Senate	U.S. Navy 	Peace Corps
+1	Work	Why England Slept	Profiles in Courage
+1	Award	Navy and Marine Corps Medal	Purple Heart	Asiatic-Pacific Campaign Medal	World War II Victory Medal	1957 Pulitzer Prize for Biography	Presidential Medal of Freedom
+1	School	Edward Devotion School	Riverdale Country School	Dexter School	Canterbury School	Choate School	London School of Economics 	Princeton University	Harvard College	Stanford UniversityÅfs business school	Harvard	Naval Reserve Officers Training School	Motor Torpedo Boat Squadron Training Center
+1	Major	international affairs
+1	Mentor	Harold Laski
+1	Location	Arlington National Cemetery	Arlington
+1	Relatives	Jacqueline Lee Bouvier Kennedy	Joseph P. Kennedy, Sr	Rose Fitzgerald	Rose	Kathleen	Joseph P. Kennedy, Jr.	Jacqueline Lee Bouvier	Jackie Kennedy	Jackie	Jacqueline	Caroline	John Jr.	Patrick Bouvier Kennedy	Robert F. Kennedy	Robert
+3	Occupation	Treasurer
+3	Affiliation	Louisiana Department of the Treasury	John Kennedy Campaign Committee, Inc.
+3	Phone	1-888-540-4555
+3	Email	info@johnkennedy.com
+3	Web site	www.LATreasury.com
+4	Other name	JFK	John F. Kennedy
+6	Date of birth	May 29, 1917
+6	Birthplace	Brookline, Massachusetts
+6	Other name	John F. Kennedy
+6	Occupation	president
+7	Date of birth	May 29, 1917
+7	Birthplace	Brookline, Massachusetts, U.S.
+7	Other name	John F. Kennedy	John Fitzgerald Kennedy	Kennedy, John F	John F Kennedy
+7	Occupation	president	President
+7	Relatives	Kennedy, Robert F.
+8	Date of birth	29th May, 1917
+8	Birthplace	Brookline, Massachusetts
+8	Other name	John F. Kennedy	John Fitzgerald Kennedy
+8	Occupation	intelligence officer	lieutenant	instructor	journalist	president	president
+8	Affiliation	United States Navy	Motor Torpedo Boat Squadron	Democratic Party	House of Representatives	Senate	Peace Corps
+8	Work	Why England Slept	Profiles in Courage
+8	Award	Pulitzer Prize
+8	School	Harvard University
+8	Major	science
+8	Relatives	Joseph Patrick Kennedy	Rose Fitzgerald	Jacqueline Bouvier	Caroline	John	Jacqueline Kennedy
+11	Other name	JOHN F. KENNEDY
+11	Occupation	commander	lieutenant	senator	President
+11	Affiliation	U.S. Navy
+13	Other name	John Kennedy Jr.
+13	Relatives	John F. Kennedy	JFK
+14	Date of birth	1917	May 29, 1917
+14	Birthplace	Brookline, Massachusetts
+14	Occupation	President	congressman
+14	Affiliation	U.S. Navy	U.S. House of Representatives	Senate	U.S. Peace Corps
+14	Work	Profiles in Courage
+14	Award	Pulitzer Prize for biography
+14	School	Harvard University
+14	Relatives	Joseph Kennedy
+15	Date of birth	1917	May 29, 1917
+15	Birthplace	Brookline, Massachusetts
+15	Other name	John F. Kennedy	John Fitzgerald Kennedy
+15	Occupation	president	commander
+15	Affiliation	U.S. Navy
+15	Work	Why England Slept
+15	Award	U.S. Navy and Marine Corps Medal
+15	School	Canterbury School	Choate Preparatory School	Princeton University	Harvard University	Harvard	Stanford UniversityÅfs business school
+15	Relatives	Joseph Patrick Kennedy	Rose Fitzgerald Kennedy	Joseph	Rosemary	Kathleen	Eunice	Patricia	Robert	Jean	Edward	Robert and Edward Kennedy	Joseph Kennedy	Rose Kennedy
+18	Other name	John Fitzgerald Kennedy	John F. Kennedy	JFK
+18	Occupation	Naval Officer	President	junior naval officer
+18	Affiliation	United States House of Representatives	United States Senate
+18	Location	Arlington National Cemetery	Arlington
+18	Relatives	Jacqueline Kennedy Onassis	Patrick Bouvier Kennedy	Robert Kennedy	John	Robert	Edward	Jacqueline
+19	Other name	John Kennedy Jr.	John F. Kennedy Jr.	JFK Jr.
+21	Occupation	State Treasurer	Treasurer
+21	Affiliation	Department of the Treasury
+25	Date of birth	May 29, 1917
+25	Birthplace	Boston
+25	Occupation	presidents	senator	president
+25	Affiliation	Navy	House of Representatives	Senate
+25	Work	Why England Slept
+25	School	Harvard	Choate Preparatory School
+25	Relatives	Joseph P. Kennedy	Joe
+26	Date of birth	1917
+26	Other name	Jack	JFK	John F. Kennedy	John Fitzgerald Kennedy	Jack Kennedy
+26	Occupation	Presidents	President	Senator	private	commander-in-chief
+26	Relatives	Joe	Eunice Kennedy Shriver	Rosemary
+27	Other name	John F. Kennedy	JFK
+27	Occupation	President
+29	Date of birth	May 29, 1917
+29	Birthplace	Brookline, Massachusetts
+29	Other name	John F. Kennedy	Jack
+29	Occupation	President	student	ensign	lieutenant (junior grade)	president
+29	Affiliation	Navy	U.S. House of Representatives	U.S. Senate	Peace Corps
+29	Work	Why England Slept
+29	Award	Navy and Marine Corps Medal
+29	School	Choate School	Princeton University	Choate	Princeton	London School of Economics	Harvard	business school at Stanford University
+29	Relatives	Joseph P. Kennedy	Rose Fitzgerald Kennedy	Joseph, Jr.	Joe	Robert	Edward	Joseph, Sr.	Jacqueline Lee Bouvier	Caroline	John, Jr.	Patrick
+30	Occupation	composer	conductor	performer	educator
+31	Date of birth	1917
+31	Other name	John F. Kennedy	JFK	Kennedy, John F.
+31	Occupation	politician	President
+31	Work	Profiles in Courage	PROFILES IN COURAGE
+31	Award	Pulitzer Prize	Pulitzer
+31	School	Choate
+31	Relatives	Jacqueline Kennedy
+32	Other name	JOHN F. KENNEDY	John F. Kennedy
+32	Occupation	president	President
+32	Affiliation	Peace Corps
+32	Relatives	Jacqueline	Caroline	John Jr.
+37	Date of birth	1917
+37	Other name	John F. Kennedy
+37	Occupation	President
+40	Other name	John F. Kennedy
+40	Occupation	Senator	Senators	President	President-elect	Presidents	Lieutenant
+40	Affiliation	USNR
+40	Relatives	Robert Kennedy	Jacqueline	Joseph	Bobby Kennedy	Robert
+41	Occupation	State Treasurer	adjunct professor	Secretary	Special Counsel
+41	Affiliation	LSU Law School	Louisiana Department of Revenue	North Cross United Methodist Church
+41	School	Vanderbilt University	University of Virginia	Oxford
+41	Major	political science	philosophy	economics	law
+41	Location	Madisonville , Louisiana
+41	Relatives	Becky	Preston
+42	Other name	John F. Kennedy	JFK
+42	Relatives	Robert Kennedy	Bobby	ROBERT F. KENNEDY
+44	Date of birth	May 29, 1917
+44	Birthplace	Brookline, Norfolk County, Mass.
+44	Other name	KENNEDY, John Fitzgerald
+44	Occupation	Representative	Senator	President	lieutenant	commander	author	newspaper correspondent	Democrat	chairman
+44	Affiliation	Senate	Democrat	United States Navy	Eightieth, Eighty-first, and Eighty-second Congresses	United States Senate	Special Committee on the Senate Reception Room
+44	Award	Presidential Medal of Freedom
+44	School	Choate School	London School of Economics	Princeton University	Harvard University	Stanford University School of Business
+44	Location	Arlington National Cemetery, Arlington, Va.
+44	Relatives	Edward M. Kennedy	Robert F. Kennedy
+45	Date of birth	25 November 1960	November 25, 1960
+45	Birthplace	Washington, District of Columbia, USA	Washington D.C.
+45	Other name	John Kennedy Jr.	John Fitzgerald Kennedy	JFK Jr.	John F. Kennedy Jr.	Jfk jr
+45	Occupation	Actor
+45	Work	A Matter of Degrees	The Rosie O'Donnell Show	Taking on the Kennedys	Murphy Brown	Altered States	Biography	Jacqueline Kennedy Onassis: In a Class of Her Own	John F. Kennedy Jr.: Child of a Dream	Scenes from the Life of Andy Warhol: Friendships and Intersections
+47	Other name	john f. kennedy
+47	Occupation	political leaders	presidents
+49	Date of birth	1917
+49	Other name	JOHN FITZGERALD KENNEDY	JFK	John F. Kennedy	John Fitzgerald Kennedy	KENNEDY, John Fitzgerald	Kennedy, John Fitzgerald	Kennedy, John F.
+49	Occupation	President	writer	reporter	Democrat	President	Lt.	Lieutenant
+49	Affiliation	USN
+49	School	Harvard
+50	Other name	John F. Kennedy	JFK	Kennedy, John F.
+50	Work	Profiles in Courage	Why England Slept
+59	Occupation	President
+59	Relatives	Kennedy, Robert F.	Robert Kennedy
+60	Date of birth	May 29, 1917
+60	Birthplace	Brookline, Massachusetts
+60	Other name	John Fitzgerald Kennedy
+60	Occupation	President	Writer	Ens.	Lt. (jg)	lt.	Congressman	Senator
+60	Affiliation	U.S. Naval Reserve
+60	School	Choate School	London School of Economics	Princeton University	Harvard University
+60	Degree	B.S.
+60	Location	Arlington National Cemetery, Arlington, Virginia
+60	Relatives	Joseph Patrick Kennedy	Rose Fitzgerald Kennedy	Joseph Patrick Kennedy	Robert Francis Kennedy	Edward Moore Kennedy	Rosemary Kennedy	Kathleen Kennedy	Eunice Mary Kennedy	Patricia Kennedy	Jean Ann Kennedy	Jacqueline Lee Bouvier	Caroline Bouvier Kennedy	John Fitzgerald Kennedy	Patrick Bouvier Kennedy
+62	Other name	joHn Kennedy Jr.
+62	Occupation	songwriter	multi-instrumentalist	singer	producer	promoter	leader
+62	Affiliation	Kennedy's Kitchen	Seamaisin	Kennedy's Kitchen
+62	Work	I'll Learn To Fly	Joseph Harvey's Fiddle was Left in the Rain	Seamaisin: Live at The Tin Shop	Araby	All My Life	Down By The River in The Early Morning	No Wonder Like You	I Know That You Know	Old Jacob	In The Deep Midwinter	Everyday Heroes	Neighborhood Laundrymatte Blues	Saved	Wedding Song	I Want To Ride on A Sailing Ship	Flying	Remembering The Day	Indiana Springtime
+69	Other name	John W. Kennedy
+69	Occupation	MD	Doctor
+69	School	Jefferson Med College
+69	Degree	Dr.	MD
+69	Location	Trenton, New Jersey	NJ	1235 Whitehorse Mercerville Road Trenton, New Jersey (NJ)
+71	Other name	John F. Kennedy	John Fitzgerald Kennedy
+71	Occupation	President	junior Senator	author	president
+71	Affiliation	House of Representatives	U.S. Senate	Senate Select Committee on Improper Activities in the Labor and Management Field
+71	Work	Profiles in Courage
+71	Award	Pulitzer Prize
+74	Other name	Francis	J.F.K.
+74	Occupation	musician	writer	singer
+74	Affiliation	J.F.K. and the Cuban Crisis	The Crisis	John Kennedy's Love Gone Wrong	John Kennedy and the Honeymooners	The Honeymooners
+74	Work	Kennedy Town	Uncharted Songs From the Wilderness Years	The Ghost of Newtown	No Place To Go Home To	Liverpool Lullaby	Ich Bin Ein Berliner	Union Town	Brisbane '82	I Like Hong Kong	Take Me Now	On a Ferry	She Asks Me Why	Champagne Charlie	Jack of All Emotions	Goodbye Regret	By the Light o Day	Looking for Signs
+75	Date of birth	1959
+75	Birthplace	Minnesota
+75	Occupation	composer	conductor	performer	educator	Director of the Music	Associate Conductor	President
+75	Affiliation	Spoleto Festival Orchestra	Essential Music	SFNM	Santa Fe New Music	Board of the American Music Center
+75	Work	One Body	The Language of Birds	The Faraway Nearby
+75	School	Oberlin Conservatory	Northwestern University
+75	Degree	B.M.	M.M.
+76	Other name	John Kennedy Toole
+76	Work	A confederacy of Dunces
+78	Other name	John F. Kennedy
+79	Other name	John F. Kennedy
+79	Occupation	President
+81	Other name	J. D. Kennedy
+81	Phone	+44 (0)113 3436414
+81	Email	J.D.Kennedy@leeds.ac.uk
+83	Other name	John Kennedy, Jr.	John, Jr.
+83	Relatives	John F. Kennedy
+84	Other name	JFK	John F. Kennedy
+84	Relatives	John F. Kennedy Jr.	JFK Jr	JFK Jr.	John F. Kennedy Jr
+88	Date of birth	May 29, 1941
+88	Birthplace	Chicago, IL
+88	Other name	John Edward Kennedy
+88	Occupation	Players
+88	Affiliation	Washington Senators	Los Angeles Dodgers	New York Yankees 	Seattle Pilots	Boston Red Sox 	Milwaukee Brewers. 	WSA	LAD	NYY	SEP	MIL	BOS
+90	Date of birth	1948
+90	Birthplace	Plymouth, Indiana
+90	Occupation	independent consultant	software developer
+90	Affiliation	SMC	Mathematics Department Santa Monica College	Santa Monica College
+90	School	HHS	Lincoln High	UC Santa Barbara	UCLA
+90	Major	Mathematics
+90	Degree	B.A. degree	M.A. degree
+90	Location	Mathematics Department Santa Monica College 1900 Pico Blvd. Santa Monica, CA 90405	MC 34
+90	Phone	(310) 434-4721	4721
+90	Email	rkennedy@ix.netcom.com
+90	Web site	http://homepage.smc.edu/kennedy_john
+91	Other name	JFK	John F. Kennedy
+91	Occupation	president	President
+92	Date of birth	May 29, 1917
+92	Birthplace	Brookline, Massachusetts
+92	Other name	John Fitzgerald Kennedy	John F. Kennedy
+92	Occupation	president	commander	Lieutenant	President
+92	Affiliation	Democratic	Peace Corps	Senate
+92	Work	Profiles in Courage
+92	Award	Purple Heart	Navy and Marine Corps Medal	Pulitzer Prize
+92	School	Choate School	London School of Economics	Harvard University	Stanford University Graduate School of Business
+92	Relatives	Jacqueline Bouvier Kennedy	Joseph Patrick Kennedy	Rose Fitzgerald Kennedy	Jacqueline Bouvier	Caroline	John, Jr.	Patrick Bouvier	Patrick	Onassis, Jacqueline Kennedy
+95	Occupation	Actor
+95	Work	Muppets from Space	Jack's Big Music Show	King of Swing	The Music Monster	The Grumpy Squirrel	Grow Daddio	Mel's Super Swell Dance Party	The Muppets' Wizard of Oz	Muppets Party Cruise	Animal Jam	It's a Very Merry Muppet Christmas Movie	Kermit's Swamp Years: The Real Story Behind Kermit the Frog's Early Years	Kermit's Swamp Years	Telling Stories with Tomie DePaola	Muppet Race Mania	B.R.A.T.S. of the Lost Nebula	B.R.A.T.S. of the Dark Nebula	Sesame Street 'A Is for Asthma'	The Wubbulous World of Dr. Seuss	Aliens in the Family	Sesame Street	Open Sesame	The New Sesame Street
+95	School	Plainfield High School
+96	Date of birth	1917
+96	Other name	John Fitzgerald Kennedy	John F. Kennedy	JFK	Kennedy, John	Jack
+96	Occupation	President	politicians
+96	Work	Prelude to Leadership: The European Diary of John F. Kennedy, Summer 1945	Prelude to Leadership
+96	Relatives	Joe Kennedy, Jr.	Jacqueline
+97	Other name	John F. Kennedy	JFK

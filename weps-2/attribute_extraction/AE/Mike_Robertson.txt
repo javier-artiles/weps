@@ -1,0 +1,769 @@
+1	affiliation	Realty World - DFW
+1	email	mikewrobertson@aol.com
+1	fax	817.424.4008
+1	location	Realty World - DFW 2615 E. Southlake Blvd. #160 Southlake, TX 76092
+1	occupation	licensed Broker
+1	othername	Mike W Robertson
+1	phone	817.424.3459
+1	website	www.mikewrobertson.com
+3	occupation	GRI
+3	occupation	REALTOR&#174;
+3	occupation	REALTOR?
+3	phone	228-275-7500
+4	affiliation	ARI
+4	affiliation	Arizona Diamondbacks
+4	affiliation	CHW
+4	affiliation	Chicago White Sox
+4	affiliation	PHI
+4	affiliation	Philadelphia Phillies
+4	birthplace	Norwich, CT
+4	dateofbirth	October 9, 1970
+4	occupation	1B
+4	occupation	DH
+4	occupation	LF
+4	occupation	OF
+4	occupation	Player
+4	occupation	RF
+4	othername	Michael Francis Robertson
+4	school	University of Southern California
+6	affiliation	U.S.A.W
+6	degree	M.S.
+6	occupation	C.S.C.S.
+6	occupation	Coaches
+7	affiliation	CHATELAIN REALTY
+7	affiliation	Chatelain Realty
+7	email	mikere@bellsouth.net
+7	location	AVOYELLES PARISH
+7	occupation	Agent
+7	occupation	Associate Broker
+7	phone	318-305-3613
+8	affiliation	Arizona Diamondbacks
+8	affiliation	Chicago White Sox
+8	affiliation	Philadelphia Phillies
+8	birthplace	Norwich, Connecticut
+8	dateofbirth	October 9, 1970
+8	occupation	baseball player
+8	occupation	pastor
+8	occupation	player
+8	othername	Michael Francis Robertson
+8	school	University of Southern California
+9	occupation	Strength Coach
+10	affiliation	Custom Athletics
+10	affiliation	Robertson Training Systems
+10	affiliation	U.S.A.W.
+10	affiliation	USA Powerlifting
+10	degree	M.S.
+10	degree	Masters
+10	email	mike@robertsontrainingsystems.com
+10	location	Indianapolis, Indiana
+10	major	Sports Biomechanics
+10	occupation	C.S.C.S.
+10	occupation	Director
+10	occupation	President
+10	occupation	State Chair
+10	occupation	competitive powerlifter
+10	school	Human Performance Lab at Ball State University
+12	email	mike@marvinjdesign.com
+12	occupation	graphic designer
+12	phone	814.335.0010
+13	affiliation	Ball State athletic weight room
+13	affiliation	Robertson Training Systems
+13	affiliation	T-Nation
+13	location	Indianapolis
+13	occupation	President
+13	occupation	competitive powerlifter
+13	occupation	senior
+13	occupation	strength coach
+13	othername	Mobility Guy
+13	website	www.RobertsonTrainingSystems.com
+13	work	Building The Efficient Athlete
+13	work	Inside Out
+13	work	Inside-Out
+13	work	Magnificent Mobility
+14	affiliation	Athletic Performance
+14	affiliation	Custom Athletics
+14	affiliation	Robertson Training Systems
+14	affiliation	Westside
+14	degree	Masters
+14	email	mike@robertsontrainingsystems.com
+14	location	Indianapolis, Indiana.
+14	major	Sports Biomechanics
+14	mentor	Dave
+14	mentor	Dave Tate
+14	mentor	Eric Cressey
+14	mentor	Louie Simmons
+14	occupation	President
+14	occupation	director
+14	occupation	powerlifter
+14	occupation	strength and conditioning coach
+14	occupation	strength coach
+14	occupation	trainer
+14	othername	M.R.
+14	school	Human Performance Lab at Ball State University
+14	website	www.robertsontrainingsystems.com
+14	work	Magnificent Mobility
+16	affiliation	ATC
+16	affiliation	American Television & Communications
+16	affiliation	BHN
+16	affiliation	BHNÅfs Tampa Bay Division
+16	affiliation	BKN
+16	affiliation	Board of Directors for Big Brothers and Big Sisters and Junior Achievement
+16	affiliation	Bright House Networks
+16	affiliation	Bright House Networks (BHN) Tampa Bay Division
+16	affiliation	Bright House Networks Tampa Bay Division
+16	affiliation	Bright Kids Network
+16	affiliation	FCTA
+16	affiliation	Operations
+16	affiliation	Paragon
+16	affiliation	Tampa Bay division
+16	affiliation	Time Warner Cable
+16	affiliation	board of the Florida Cable and Telecommunications Association
+16	degree	MBA
+16	location	Florida
+16	occupation	Division President
+16	occupation	Senior Vice President
+16	occupation	executive
+16	school	University of Colorado
+16	school	University of Tampa
+17	website	www.RobertsonTrainingSystems.com
+17	work	Building The Efficient Athlete
+17	work	Bulletproof Knees
+17	work	Inside-Out: The Ultimate Upper Body Warm-up
+17	work	Magnificent Mobility
+19	website	www.RobertsonTrainingSystems.com
+19	work	Building The Efficient Athlete
+19	work	Bulletproof Knees
+19	work	Bulletproof Knees manual
+19	work	Inside-Out: The Ultimate Upper Body Warm-up
+19	work	Magnificent Mobility
+22	award	Banff award
+22	nationality	British
+22	occupation	deep water soloist
+22	occupation	photographer
+22	work	Deep Water
+23	affiliation	ARI
+23	affiliation	CWS
+23	affiliation	PHI
+23	birthplace	Norwich, Connecticut
+23	dateofbirth	Oct 9, 1970
+24	affiliation	Robertson Training Systems
+24	affiliation	U.S.A.W.
+24	degree	M.S.
+24	degree	Masters
+24	location	Indianapolis, Indiana
+24	major	Sports Biomechanics
+24	occupation	C.S.C.S.
+24	occupation	President
+24	occupation	competitive powerlifter
+24	school	Human Performance Lab at Ball State University
+24	website	http://www.RobertsonTrainingSystems.com
+24	website	www.robertsontrainingsystems.com
+25	affiliation	Chatelain Realty
+25	phone	(318) 305-3613
+27	affiliation	Canadian Snowboard team
+27	location	CANMORE, AB CAN
+27	nationality	CAN
+27	nationality	Canadian
+28	affiliation	Hospital Corps
+28	affiliation	U.S. Navy
+28	birthplace	Kansas City Missouri
+28	dateofbirth	1945
+28	location	Easley River Road, south of Columbia, MO
+28	major	20th Century Homesteading
+28	major	Creative Writing
+28	major	English Lit
+28	major	Humanistic Environmental Design
+28	major	pre-med
+28	major	radio
+28	occupation	Retired computer professional
+28	othername	Michael G. Robertson
+28	relatives	Alicia Isdes
+28	relatives	Carla Robinson
+28	relatives	Cedars
+28	relatives	Denise Bowmaker
+28	relatives	Henry Doy
+28	relatives	John Anthony Robertson
+28	relatives	Joni Zellig
+28	relatives	Patricia Ann
+28	relatives	Zane Gregory Robertson
+28	school	Lee's Summit Senior High
+28	school	Rockford College
+28	school	Sangamon State University
+28	school	University of Missouri
+29	affiliation	Ball State athletic weight room
+29	affiliation	Robertson Training Systems
+29	affiliation	T-Nation
+29	location	Indianapolis
+29	occupation	President
+29	occupation	competitive powerlifter
+29	occupation	senior
+29	occupation	strength coach
+29	othername	MR
+29	othername	Mobility Guy
+29	website	www.RobertsonTrainingSystems.com
+29	work	Building The Efficient Athlete
+29	work	Inside Out
+29	work	Inside-Out
+29	work	Magnificent Mobility
+30	affiliation	280 Group
+30	affiliation	Bell Canada
+30	affiliation	Commport Aerospace
+30	affiliation	Commport Aerospace Systems Limited
+30	affiliation	Commport Communications
+30	affiliation	IATA
+30	affiliation	ITT Courier
+30	affiliation	Ice Hockey Referees Network Group
+30	affiliation	NCR
+30	affiliation	Product Development
+30	affiliation	Product Development at Commport Aerospace
+30	affiliation	Product Development at Commport Aerospace Systems Limited
+30	affiliation	Product Development at Commport Communications
+30	location	Toronto, Canada Area
+30	occupation	Customer Systems Engineer
+30	occupation	Director
+30	occupation	Field Engineer
+30	occupation	Manager
+30	occupation	Product Manager
+30	occupation	Telecommunications Consultant and Professional
+30	school	Radio College of Canada
+30	school	Sir Sanford Fleming
+31	occupation	kick return specialist
+31	occupation	offensive and defensive back
+31	occupation	punter
+31	occupation	second baseman
+31	occupation	wing
+31	school	Boston College
+32	affiliation	Robertson Training Systems
+32	affiliation	USAW
+32	degree	MS
+32	degree	Master's Degree
+32	location	Indianapolis, Indiana
+32	major	sports biomechanics
+32	occupation	CSCS
+32	occupation	president
+32	school	Human Performance Lab at Ball State University
+32	website	www.RobertsonTrainingSystems.com
+33	othername	michael g robertson
+34	affiliation	Cal Poly State University
+34	affiliation	CalPoly
+34	affiliation	Mathematics Department
+34	affiliation	Mathematics department
+34	email	jroberts@calpoly.edu
+34	email	math-0221-01-004@calpoly.edu
+34	email	math-0221-02-004@calpoly.edu
+34	email	math-0328-01-004@calpoly.edu
+34	email	math-0328-02-004@calpoly.edu
+36	occupation	Coach
+36	occupation	Powerlifter
+36	occupation	performance coaches
+36	occupation	powerlifter
+36	work	Building the Efficient Athlete
+36	work	Inside Out - The Ultimate Upper Body Warm-Up
+36	work	Inside Out: The Ultimate Upper Body Warm-up
+36	work	Magnificent Mobility
+37	affiliation	Mike Robertson Construction Company
+37	affiliation	Smooth Country
+37	work	Brown County Blues
+37	work	Neutered Cat Blues
+38	email	mike@robertsontrainingsystems.com
+38	mentor	Alwyn Cosgrove
+38	mentor	Bill Hartman
+38	mentor	Dave Tate
+38	mentor	EC
+38	mentor	Eric Cressey
+38	mentor	Ian King
+38	mentor	Jim Wendler
+38	mentor	Joe DeFranco
+38	mentor	John Berardi
+38	mentor	Mike Boyle
+38	mentor	Shirley Sahrmann
+38	mentor	Stuart McGill
+38	othername	MR
+38	website	www.robertsontrainingsystems.com
+38	work	Magnificent Mobility
+39	birthplace	Ashland, OR
+39	othername	cooldogface
+39	website	http://www.flixster.com/user/cooldogface
+40	affiliation	MP3.com
+40	affiliation	MP3tunes
+40	affiliation	MP3tunes LLC
+40	occupation	online music industry executive
+40	othername	Michael Robertson
+40	work	Beam-It
+40	work	Instant Listening
+41	affiliation	Universal Equity Bank Plc
+41	fax	+234-1-7594175
+41	location	Lagos Nigeria
+41	location	Universal Equity Bank Plc,RC 2305 UEB Head Office
+41	occupation	Honourable
+41	othername	Mikey
+41	phone	234-804-3367301
+42	occupation	Author
+42	work	Casting Shadows
+43	affiliation	Oklahoma Film Critic's Circle
+43	affiliation	oklahoma Gazette
+43	website	www.ofccircle.org
+43	website	www.okgazette.com
+44	affiliation	Custom Athletics
+44	affiliation	Robertson Training Systems
+44	affiliation	USAW
+44	degree	MS
+44	degree	masters
+44	location	Indianapolis, Indiana
+44	major	sports biomechanics
+44	occupation	CSCS
+44	occupation	competitive powerlifter
+44	occupation	director
+44	occupation	president
+44	school	Human Performance Lab at Ball State University
+44	website	http://www.RobertsonTrainingSystems.com
+44	work	Inside-Out
+44	work	Magnificent Mobility
+45	affiliation	Custom Athletics
+45	affiliation	Robertson Training Systems
+45	birthplace	Indianapolis, Indiana
+45	mentor	Alwyn Cosgrove
+45	mentor	Bill Hartman
+45	mentor	Charlie Francis
+45	mentor	Dave Tate
+45	mentor	Eric Cressey
+45	mentor	Ian King
+45	mentor	Jim Wendler
+45	mentor	John Berardi
+45	mentor	Kelly Baggett
+45	mentor	Mel Siff
+45	mentor	Mike Boyle
+45	mentor	Robert Newton
+45	occupation	Director
+45	occupation	President
+45	occupation	author
+45	occupation	performance coach
+45	occupation	powerlifter
+45	othername	Mike R
+45	website	www.robertsontrainingsystems.com
+46	affiliation	WebGuy
+46	email	mike@webguycomo.com
+46	location	11505 S. Easley Road Columbia, Missouri 65203
+46	phone	(573) 443-8925
+51	email	mrob@u.washington.edu
+51	occupation	Site Manager
+52	affiliation	2004 USA World Bench Press Team
+52	affiliation	Ball State
+52	affiliation	Biomechanics Lab
+52	affiliation	Custom Athletics
+52	affiliation	Human Performance Lab
+52	affiliation	Robertson Training Systems
+52	degree	Masters degree
+52	location	Indianapolis, Indiana
+52	major	Sports Biomechanics
+52	occupation	Director
+52	occupation	President
+52	occupation	assistant coach
+52	occupation	assistant strength and conditioning coach
+52	occupation	athlete
+52	occupation	coach
+52	occupation	corrective exercise specialists
+52	occupation	fitness professionals
+52	occupation	performance coaches
+52	occupation	strength coach
+52	occupation	strength coaches
+52	school	Ball State University
+54	birthplace	Los Angeles, California, USA
+54	dateofbirth	22 February 1955
+54	occupation	Actor
+54	othername	Scott Robertson
+54	work	A Brief Encounter
+54	work	Blackmail
+54	work	Bob Hope Presents the Chrysler Theatre
+54	work	Brace Yourself
+54	work	Children Are People
+54	work	Ghosts, Goblins & Kids
+54	work	Guess Who's Not Coming to Dinner
+54	work	Period of Adjustment
+54	work	Steve Canyon
+54	work	The Brady Bunch
+54	work	The Children Show
+54	work	The Chrysler Theater
+54	work	The Dinah Shore Chevy Show
+54	work	The Dinah Shore Show
+54	work	The Eighth Day
+54	work	The Headmaster
+54	work	Universal Star Time
+55	email	mike@robertsontrainingsystems.com
+55	mentor	Alwyn Cosgrove
+55	mentor	Bill Hartman
+55	mentor	Dave Tate
+55	mentor	EC
+55	mentor	Eric Cressey
+55	mentor	Ian King
+55	mentor	Jim Wendler
+55	mentor	Joe DeFranco
+55	mentor	John Berardi
+55	mentor	Mike Boyle
+55	mentor	Shirley Sahrmann
+55	mentor	Stuart McGill
+55	othername	MR
+55	website	www.robertsontrainingsystems.com
+55	work	Magnificent Mobility
+57	affiliation	Citibank
+57	affiliation	Standard Chartered
+57	affiliation	Year 2000 programme
+57	affiliation	cash and trade
+57	affiliation	cash management and trade
+57	affiliation	product management for corporate and institutional banking
+57	location	London
+57	nationality	American
+57	occupation	chief operating officer
+57	occupation	director
+57	occupation	e-business head
+57	occupation	head
+57	occupation	regional head
+60	award	Mountain Exposition Prize
+60	occupation	author
+60	work	Deep Water
+61	affiliation	American Television & Communications
+61	affiliation	BHN
+61	affiliation	Bright House
+61	affiliation	Bright House Networks
+61	affiliation	Bright Kids Network
+61	affiliation	Paragon
+61	affiliation	Tampa Bay division
+61	affiliation	Tampa Unit
+61	affiliation	Tampa cluster
+61	affiliation	Time Warner Cable
+61	affiliation	board of directors for Junior Achievement and Big Brothers and Big Sisters
+61	affiliation	board of the Florida Cable and Telecommunications Association
+61	affiliation	operations
+61	affiliation	operations for the Tampa Bay division
+61	occupation	executive vice president
+61	occupation	president
+61	occupation	senior vice president
+62	award	Mountain Exposition Award
+62	work	Deep Water
+68	affiliation	Himmerhaul Services
+69	affiliation	CHATELAIN REALTY
+69	email	mikere@bellsouth.net
+69	fax	346-1016
+69	occupation	AGENTS
+69	occupation	Associate Broker
+69	phone	318- 305-3613
+70	occupation	Author
+70	work	Casting Shadows: Short Stories
+72	occupation	debt management expert
+73	affiliation	Cary
+73	affiliation	Cary HS
+73	award	Senior of the Year
+73	occupation	Senior
+73	occupation	wrestlers
+73	othername	Robertson, Mike
+76	birthplace	Norwich, CT
+76	dateofbirth	10/9/70
+76	relatives	Tanya
+77	affiliation	Custom Athletics
+77	affiliation	Robertson Training Systems
+77	affiliation	U.S.A.W.
+77	degree	M.S.
+77	degree	Masters
+77	location	Indianapolis, Indiana
+77	major	Sports Biomechanics
+77	occupation	C.S.C.S.
+77	occupation	Director
+77	occupation	President
+77	school	Human Performance Lab at Ball State University
+77	website	www.robertsontrainingsystems.com
+78	affiliation	Lighting Plan
+78	award	2007 Olivier Award
+78	email	mike@lightingplan.co.uk
+78	location	Lighting Plan BAC Lavender Hill Battersea London SW11 5TN 
+78	occupation	Designers
+78	phone	020 7978 6718
+78	phone	07930 398 407
+78	school	Guildhall School of Music and Drama
+78	website	www.lightingplan.co.uk
+78	work	5 Guys Named Moe
+78	work	Havana Rakatan
+78	work	Othello
+78	work	Sit and Shiver
+78	work	Sunday In The Park With George
+78	work	The Fireworkmakers Daughter
+80	occupation	hosts
+80	work	Inside-Out
+82	email	www.mroberts@mc.edu
+83	affiliation	Smooth Country Band
+83	affiliation	Smooth Country band
+87	location	8263 Glade Bank Dr. Manassas VA 20111
+87	phone	703-530-7937
+89	affiliation	Aviation Flight
+89	email	mike17@siu.edu
+89	location	OBYoung 3B
+89	occupation	Assistant Chief Flight Instructor
+89	occupation	Safety Officer
+89	phone	(618) 453-9264
+91	affiliation	Cavaliers
+91	affiliation	UVa
+91	affiliation	Virginia
+91	birthplace	Southwestern Virginia
+91	location	Blacksburg
+91	mentor	Al Groh
+91	occupation	back-up wide receiver
+91	occupation	third-year sophomores
+91	occupation	wide receiver
+91	relatives	Heather
+91	relatives	Jack
+91	relatives	Vicky
+91	school	Blacksburg High School
+92	affiliation	MP3.com
+92	othername	Michael Robertson
+92	work	Linspire
+93	affiliation	APC
+93	affiliation	Athletic Performance Center
+93	affiliation	USAPL Indiana State
+93	degree	M.S.
+93	degree	Masters
+93	email	mikerob022@yahoo.com
+93	location	Fort Wayne, Indiana
+93	major	Sports Biomechanics
+93	occupation	C.S.C.S.
+93	occupation	Chair
+93	occupation	Director
+93	occupation	competitive powerlifter
+93	school	Human Performance Lab at Ball State University
+100	affiliation	Mt. Diablo Audubon
+101	location	Newburyport
+102	email	mikerobertson@kkountry.com
+102	email	news@kkountry.com
+102	occupation	Air Staff
+103	affiliation	SGIA
+103	affiliation	Specialty Graphic Imaging Assn.
+103	occupation	CEO
+103	occupation	president
+107	affiliation	I-FAST
+107	location	Indianapolis
+107	work	Inside/out
+107	work	Inside/out Manual
+107	work	Magnificent Mobility
+108	work	BIG MORNING SHOW
+108	work	Ole Country Newscaster
+110	affiliation	OR
+110	affiliation	Odinic Rite
+110	location	Odinic Rite, BCM Runic, London WC1N 3XX, England
+110	work	The Way of the Rite A Handbook for Members and Friends of the Odinic Rite
+110	work	The Way of the Rite: A Handbook for Members and Friends
+111	affiliation	Brookhaven National Laboratory
+111	affiliation	Reactor Services and Consulting businesses of AEA Technology
+111	affiliation	Risk Solutions
+111	affiliation	Safety & Reliability
+111	affiliation	UKAEA
+111	degree	MBA
+111	major	Natural Philosophy
+111	occupation	Directorate
+111	occupation	Managing Partner
+111	school	Aberdeen University
+111	school	Warwick University
+112	location	United States
+113	affiliation	Bloomsburg Univ.
+113	occupation	Player
+113	othername	ROBERTSON, M
+115	occupation	Player
+116	affiliation	B-Men
+116	occupation	Co-Captain
+116	occupation	Handler
+116	occupation	Junior
+116	othername	Eunuch
+116	othername	Mike 
+117	affiliation	Risk Management Services
+117	location	Wilmington, North Carolina Area
+117	occupation	CFE
+117	occupation	Director
+117	occupation	PPS
+119	affiliation	NEW ORLEANS
+119	affiliation	NRL
+119	affiliation	New Orleans
+119	affiliation	New Orleans Zephyrs
+119	affiliation	Zephyrs
+119	occupation	1B
+119	othername	M Robertson
+120	affiliation	Eagles
+120	affiliation	Hokes Bluff
+120	occupation	coach
+122	affiliation	Bright House
+122	affiliation	Bright House Networks
+122	affiliation	operations
+122	location	Tampa Bay, Fla.
+122	occupation	division president
+122	occupation	senior VP
+123	occupation	music industry executive
+123	othername	Michael Robertson
+124	affiliation	Warehouse Furniture
+124	occupation	mayor
+124	relatives	W. L. Robertson
+125	affiliation	Bloomsburg Univ.
+125	occupation	Player
+125	othername	ROBERTSON, M
+126	affiliation	Biomechanics Lab
+126	affiliation	Custom Athletics
+126	affiliation	Human Performance Lab
+126	affiliation	Robertson Training Systems
+126	degree	Masters degree
+126	location	Indianapolis, Indiana
+126	major	Sports Biomechanics
+126	occupation	Director
+126	occupation	President
+126	occupation	performance coaches
+126	othername	Mike R.
+126	school	Ball State University
+127	affiliation	Citibank
+127	affiliation	Standard Chartered
+127	affiliation	cash and trade
+127	affiliation	cash management and trade
+127	location	London
+127	occupation	chief operating officer
+127	occupation	e-business head
+127	occupation	regional head
+130	affiliation	Custom Athletics
+130	affiliation	President of Robertson Training Systems
+130	affiliation	U.S.A.W.
+130	affiliation	USA Powerlifting
+130	degree	M.S.
+130	degree	Masters
+130	email	mikerob022@yahoo.com
+130	location	Indianapolis, Indiana
+130	major	Sports Biomechanics
+130	occupation	C.S.C.S.
+130	occupation	Director
+130	occupation	State Chair
+130	occupation	competitive powerlifter
+130	school	Human Performance Lab at Ball State University
+130	website	www.robertsontrainingsystems.com
+131	affiliation	Eagles
+131	affiliation	Hokes Bluff
+131	occupation	coach
+135	birthplace	UK
+135	location	Norway
+135	occupation	computer programmer
+136	affiliation	B.B. Robertson
+136	affiliation	B.B. Robertson Company
+136	affiliation	Southern Pride
+136	relatives	B.B. Robertson
+137	affiliation	Robertson Training Systems, LLC
+137	email	Info@RobertsonTrainingSystems.com
+137	occupation	performance enhancement specialists
+137	occupation	powerlifters
+137	occupation	published authors
+137	occupation	strength coaches
+137	website	www.RobertsonTrainingSystems.com
+137	work	Magnificent Mobility
+138	affiliation	Maxwell Baptist Church
+138	affiliation	Maxwell Church
+138	affiliation	PCFR
+138	affiliation	Professional CowboyÅfs Final Rodeo
+138	affiliation	Stewart Chapel
+138	affiliation	Wal Highway
+138	award	Pick up Man of the Year
+138	award	Team Roping
+138	birthplace	Huntland
+138	location	Franklin County
+138	occupation	Bro.
+138	occupation	Cowboy Evangelist
+138	occupation	Pick up Man
+138	occupation	Rev.
+138	occupation	bodyguard
+138	occupation	chaplain
+138	occupation	cowboy preacher
+138	occupation	ordained minister
+138	occupation	pastor
+138	occupation	pickup man
+138	occupation	preacher
+138	occupation	prison chaplain
+138	occupation	youth pastor
+138	relatives	Daniel
+138	relatives	Julie
+138	relatives	Patti
+138	school	Huntland High School
+138	school	Liberty Baptist College
+139	affiliation	WNMB-FM
+139	affiliation	WTMA
+139	affiliation	WYKZ
+140	location	Glen Carbon
+140	relatives	Britt
+140	relatives	Greg and Judy Robertson
+140	relatives	Grich
+140	relatives	Jill
+140	relatives	Jill Wrubel
+140	relatives	Judy Blacklock
+140	relatives	Scott
+140	relatives	Wendy
+140	relatives	Wrubel
+141	affiliation	Ball State
+141	affiliation	USAW
+141	degree	MS
+141	degree	MasterÅfs Degree
+141	major	Sports Biomechanics
+141	occupation	CSCS
+141	occupation	assistant strength and conditioning coach
+141	occupation	co-producer
+141	occupation	competitive powerlifter
+141	occupation	researcher
+141	school	Human Performance Lab at Ball State University
+141	work	Bulletproof Knees
+141	work	Inside-Out
+141	work	Magnificent Mobility
+142	affiliation	Ball State University
+142	affiliation	Biomechanics Lab
+142	affiliation	Human Performance Lab at Ball State University
+142	degree	Masters degree
+142	major	Sports Biomechanics
+142	occupation	assistant strength and conditioning coach
+142	occupation	powerlifter
+142	school	Ball State University
+144	affiliation	Lions
+144	affiliation	Longwood
+144	occupation	running back
+145	affiliation	Braves
+145	affiliation	RIC
+145	affiliation	RICHMOND
+145	affiliation	Richmond Braves
+145	occupation	1B
+146	email	miketr74@yahoo.co.uk
+146	othername	michael robertson
+147	affiliation	SpiderWeb Marketing
+148	affiliation	Robertson Investigations
+148	affiliation	U.S. Secret Service
+148	affiliation	United States Secret Service, Department of the Treasury
+148	affiliation	electionfrauds.com
+148	email	emailme@cannet.com
+148	fax	330.499.1116
+148	occupation	Court Qualified Expert Witness
+148	occupation	Expert Questioned Document Examiner
+148	occupation	Fraud Examiners
+148	occupation	Private Investigators
+148	occupation	Special Agent
+148	occupation	expert
+148	occupation	retired Special Agent
+148	othername	Michael L. Robertson
+148	phone	1-800-499-1287
+148	phone	330.499.1287
+148	phone	800.499.1287
+149	affiliation	Ball State
+149	affiliation	Custom Athletics
+149	affiliation	Robertson Training Systems
+149	affiliation	USAW
+149	degree	MS
+149	degree	MasterÅfs Degree
+149	email	Info@RobertsonTrainingSystems.com
+149	location	Indianapolis, Indiana
+149	major	Sports Biomechanics
+149	occupation	CSCS
+149	occupation	Director
+149	occupation	assistant strength and conditioning coach
+149	occupation	co-producer
+149	occupation	competitive powerlifter
+149	occupation	performance coaches
+149	occupation	president
+149	occupation	researcher
+149	school	Human Performance Lab at Ball State University
+149	website	www.MagnificentMobility.com
+149	website	www.RobertsonTrainingSystems.com
+149	work	Building the Efficient Athlete
+149	work	Inside-Out
+149	work	Magnificent Mobility

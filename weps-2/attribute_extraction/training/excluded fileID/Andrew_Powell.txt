@@ -1,0 +1,37 @@
+7	Search Results	amazon
+8	No Name	
+10	Search Results	amazon
+11	Search Results	alibris
+13	No Name	"Powell And Pressburger by Moor, Andrew "
+14	Search Results	alibris
+15	No Name	Andrew A. Powell
+17	Search Results	NETFLIX
+18	No Value	
+20	Search Results	Yahoo Shopping
+22	Fictional Character	
+28	Fictional Character	
+32	No Name	
+35	No Name	Page Not Found
+38	No Name	Page Not Found
+39	No Value	
+41	Inaccessible	
+45	No Name	Page Not Found
+46	No Value	
+49	No Name	Page Not Found
+50	No Value	
+56	No Name	
+57	No Name	
+58	No Name	Page Not Found
+64	No Name	
+65	No Value	
+72	Multiple Targets	
+73	No Value	
+74	Fictional Character	
+78	No Value	
+79	Fictional Character	
+81	No Name	
+86	Multiple Targets	
+90	No Name	Andrew M. Powell
+91	No Name	
+96	No Value	
+97	No Name	Page Not Found

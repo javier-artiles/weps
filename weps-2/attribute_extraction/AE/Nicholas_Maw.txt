@@ -1,0 +1,812 @@
+1	affiliation	Peabody Conservatory of Music at The Johns Hopkins University
+1	affiliation	composition
+1	birthplace	Grantham, Lincolnshire, England
+1	dateofbirth	November 5, 1935
+1	mentor	Max Deutsch
+1	mentor	Nadia Boulanger
+1	nationality	British
+1	occupation	composer
+1	occupation	faculty
+1	othername	John Nicholas Maw
+1	relatives	Clarence Frederick Maw
+1	relatives	Hilda Ellen Chambers
+1	relatives	Karen Graham
+1	school	Royal Academy of Music
+1	school	Wennington School
+1	work	Music of Memory
+1	work	Odyssey
+1	work	Person?
+1	work	Sophie's Choice
+1	work	The World in the Evening
+2	affiliation	Composition
+2	affiliation	Peabody Institute of the Johns Hopkins University
+2	occupation	composer
+2	work	Ghost Dances
+2	work	Nicholas Maw: Violin Concerto
+3	affiliation	Bard College
+3	affiliation	Boston University
+3	affiliation	Exeter University
+3	affiliation	Peabody Institute of the Johns Hopkins University
+3	affiliation	Trinity College, Cambridge
+3	affiliation	Yale University
+3	award	Lil Boulanger Prize
+3	award	Midsummer Prize of the City of London
+3	award	Stoeger Prize
+3	award	Sudler International Wind Band Composition Competition Prize
+3	location	Peabody Institute of the Johns Hopkins University 1 East Mount Vernon Place, Baltimore, MD 21202
+3	mentor	Lennox Berkeley
+3	mentor	Max Deutsch
+3	mentor	Nadia Boulanger
+3	mentor	Paul Steinitz
+3	occupation	Faculty
+3	phone	410-659-8100
+3	school	Royal Academy of Music
+4	affiliation	Bard College
+4	affiliation	Exeter University
+4	affiliation	Peabody Conservatory of Music at The Johns Hopkins University
+4	affiliation	Trinity College, Cambridge
+4	affiliation	Yale University
+4	affiliation	composition
+4	award	Lili Boulanger Prize
+4	birthplace	Grantham
+4	birthplace	Grantham, Lincolnshire, England
+4	dateofbirth	1935
+4	dateofbirth	5 Nov 1935
+4	dateofbirth	November 05, 1935
+4	dateofbirth	November 5, 1935
+4	mentor	Berkeley
+4	mentor	Boulanger
+4	mentor	Deutsch
+4	mentor	Lennox Berkeley
+4	mentor	Max Deutsch
+4	mentor	Nadia Boulanger
+4	mentor	Paul Steinitz
+4	nationality	British
+4	nationality	England
+4	occupation	Artist
+4	occupation	composer
+4	occupation	composers
+4	occupation	faculty
+4	occupation	resident composer
+4	occupation	visiting lecturer
+4	othername	(John) Nicholas Maw
+4	school	RAM
+4	school	Royal Academy of Music
+4	work	Life Studies
+4	work	Music of Memory
+4	work	Odyssey
+4	work	One Man Show
+4	work	Person?
+4	work	Personae IV, V, VI
+4	work	Scenes and Arias
+4	work	Shahnama
+4	work	Sophie's Choice
+4	work	Spring Music
+4	work	The Rising of the Moon
+4	work	The World in the Evening
+4	work	Violin Concerto
+4	work	string quartets
+4	work	violin concerto
+6	affiliation	Composition at the Peabody Conservatory
+6	affiliation	Exeter University
+6	affiliation	Trinity College Cambridge
+6	affiliation	Yale University
+6	award	1959 Lili Boulanger Prize
+6	award	1980 Midsummer Prize of the City of London
+6	award	1993 Stoeger Prize
+6	birthplace	Grantham
+6	birthplace	Grantham, Lincolnshire
+6	dateofbirth	1935
+6	dateofbirth	5 November 1935
+6	location	Baltimore
+6	mentor	Lennox Berkeley
+6	mentor	Max Deutsch
+6	mentor	Nadia Boulanger
+6	mentor	Paul Steinitz
+6	nationality	Britain
+6	nationality	English
+6	occupation	Composer
+6	occupation	Professor
+6	occupation	composer
+6	occupation	composers
+6	occupation	teacher
+6	school	Royal Academy of Music
+6	work	American Games
+6	work	Dance Scenes
+6	work	Flute Quartet
+6	work	Ghost Dances
+6	work	Hymnus/ Little Concert/ Shahnama
+6	work	La Vita Nuova
+6	work	Odyssey
+6	work	One Man Show
+6	work	Piano Trio
+6	work	Roman Canticle
+6	work	Scenes and Arias
+6	work	Sonata Notturna/ Life Studies
+6	work	Sophie's Choice
+6	work	Spring Music
+6	work	The Rising of the Moon
+6	work	The World in the Evening
+6	work	Violin Concerto
+8	affiliation	Peabody Institute of Johns Hopkins University
+8	birthplace	Grantham, England
+8	dateofbirth	1935
+8	location	Baltimore
+8	mentor	Lennox Berkeley
+8	mentor	Max Deutsch
+8	mentor	Nadia Boulanger
+8	mentor	Paul Steinitz
+8	occupation	Composers
+8	occupation	faculty
+8	school	Royal Academy of Music
+8	work	American Games
+9	dateofbirth	1935
+9	location	Washington DC
+9	mentor	Lennox Berkeley
+9	mentor	Max Deutsch
+9	mentor	Nadia Boulanger
+9	mentor	Paul Steinitz
+9	nationality	British
+9	nationality	English
+9	school	Royal Academy of Music
+9	work	Life Studies
+9	work	Odyssey
+9	work	One Man Show
+9	work	Personae
+9	work	Scenes and Arias
+9	work	Sophie's Choice
+9	work	The Rising of the Moon
+9	work	Violin Concerto
+10	occupation	composer
+10	work	Sophie's Choice
+11	occupation	composer
+11	work	Concerto for Violin and Orchestra/I. Prelude: Moderato tranquillo - Andante moderato
+11	work	Concerto for Violin and Orchestra/II. Scherzo: Vivace assai - Recitando
+11	work	Concerto for Violin and Orchestra/III. Romanza: Lento e calmo
+11	work	Concerto for Violin and Orchestra/IV. Finale: Allegro moderato e grazioso
+11	work	Ghost Dances
+11	work	Nicholas Maw: Odyssey; Dance Scenes
+11	work	Nicholas Maw: Violin Concerto
+11	work	Odyssey
+11	work	Sophie's Choice
+11	work	Violin Concerto
+12	birthplace	Grantham
+12	dateofbirth	1935
+12	mentor	Lennox Berkeley
+12	mentor	Max Deutsch
+12	mentor	Nadia Boulanger
+12	mentor	Paul Steinitz
+12	occupation	Composer
+12	occupation	composers
+12	occupation	contemporary composers
+12	othername	Maw, Nicholas
+12	school	Royal Academy of Music
+14	birthplace	England
+14	dateofbirth	1935
+14	location	Washington, D.C., area
+14	occupation	composer
+14	work	Odyssey
+14	work	One-Man Show
+14	work	Sophie
+14	work	Sophie's Choice
+14	work	The Rising of the Moon.
+14	work	Violin Concerto
+15	affiliation	Composition at the Peabody Conservatory
+15	affiliation	Exeter University
+15	affiliation	Trinity College Cambridge
+15	affiliation	Yale University
+15	award	1959 Lili Boulanger Prize
+15	award	1980 Midsummer Prize of the City of London
+15	award	1993 Stoeger Prize
+15	birthplace	Grantham, Lincolnshire
+15	dateofbirth	1935
+15	location	Baltimore
+15	mentor	Lennox Berkeley
+15	mentor	Max Deutsch
+15	mentor	Nadia Boulanger
+15	mentor	Paul Steinitz
+15	nationality	Britain
+15	occupation	Artists
+15	occupation	Composer
+15	occupation	Professor
+15	occupation	composers
+15	occupation	teacher
+15	school	Royal Academy of Music
+15	work	American Games
+15	work	Odyssey
+15	work	Sophie's Choice
+16	affiliation	Composition at the Peabody Conservatory
+16	affiliation	Exeter University
+16	affiliation	Trinity College Cambridge
+16	affiliation	Yale University
+16	award	1959 Lili Boulanger Prize
+16	award	1980 Midsummer Prize of the City of London
+16	award	1993 Stoeger Prize
+16	birthplace	Grantham, Lincolnshire
+16	dateofbirth	1935
+16	location	Baltimore
+16	mentor	Lennox Berkeley
+16	mentor	Max Deutsch
+16	mentor	Nadia Boulanger
+16	mentor	Paul Steinitz
+16	nationality	Britain
+16	occupation	Professor
+16	occupation	composers
+16	occupation	teacher
+16	school	Royal Academy of Music
+16	work	American Games
+16	work	Odyssey
+16	work	Sophie's Choice
+18	dateofbirth	1935
+18	occupation	Composer
+18	work	At tea
+18	work	I look into my glass
+18	work	Il sogno
+18	work	In Tenebris
+18	work	Inscriptions for a peal of eight bells
+18	work	La vita nuova
+18	work	Madrigale
+18	work	Neutral tones
+18	work	On a Lady Famed for her Caprice
+18	work	Sonetto
+18	work	Tacciono i boschi
+18	work	To Life
+18	work	no. 1. Sonetto
+18	work	no. 2. Madrigale
+18	work	no. 3. Tacciono i boschi
+18	work	no. 4. Madrigale
+18	work	no. 5. Il sogno
+20	othername	N. MAW
+20	work	Concerto For Violin And Orchestra: I. Prelude: Moderato tranquillo - Andante moderato
+20	work	Concerto For Violin And Orchestra: II. Scherzo: Vivace assai - Recitando
+20	work	Concerto For Violin And Orchestra: III. Romanza: Lento e calmo
+20	work	Concerto For Violin And Orchestra: IV. Finale: Allegro moderato e grazioso
+20	work	Nicholas Maw: Violin Concerto
+21	dateofbirth	1935
+21	nationality	English
+21	occupation	composer
+21	occupation	composers
+21	work	Violin Concerto
+24	affiliation	Composition at the Peabody Conservatory
+24	affiliation	Exeter University
+24	affiliation	Trinity College Cambridge
+24	affiliation	Yale University
+24	award	1959 Lili Boulanger Prize
+24	award	1980 Midsummer Prize of the City of London
+24	award	1993 Stoeger Prize
+24	birthplace	Grantham, Lincolnshire
+24	dateofbirth	1935
+24	mentor	Lennox Berkeley
+24	mentor	Max Deutsch
+24	mentor	Nadia Boulanger
+24	mentor	Paul Steinitz
+24	nationality	Britain
+24	occupation	Professor
+24	occupation	composer
+24	occupation	composers
+24	occupation	teacher
+24	school	Royal Academy of Music
+24	work	American Games
+24	work	Dance Scenes
+24	work	Flute Quartet
+24	work	Ghost Dances
+24	work	Hymnus/ Little Concert/ Shahnama
+24	work	La Vita Nuova
+24	work	Odyssey
+24	work	One Man Show
+24	work	Piano Trio
+24	work	Roman Canticle
+24	work	Scenes and Arias
+24	work	Sonata Notturna/ Life Studies
+24	work	Sophie's Choice
+24	work	Spring Music
+24	work	The Rising of the Moon
+24	work	The World in the Evening
+24	work	Violin Concerto
+25	work	Maw: Hymnus/Little Concert/Shahnama
+25	work	Nicholas Maw: Odyssey; Dance Scenes
+25	work	Nicholas Maw: Violin Concerto
+26	occupation	Composer
+26	occupation	contemporary neo-Romantic composer
+26	work	Nicholas Maw: Violin Concerto
+26	work	Violin Concerto
+27	work	Aur?ole Trio Plays Nicholas Maw & Richard Rodney Bennett
+27	work	Flute Quartet: For Flute, Violin, Viola, And Cello: Lento
+27	work	Flute Quartet: For Flute, Violin, Viola, And Cello: Moderato con moto
+27	work	Night Thoughts: For Solo Flute
+27	work	Roman Canticle: For Fulte, Viola, Harp, And Mezzo-Soprano
+27	work	Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Canary-Bird
+27	work	Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The East India Nightingale
+27	work	Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Garden Bull-Finch
+27	work	Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Starling
+27	work	Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Woodlark
+27	work	Sonata After Syrinx: For Flute, Viola, And Harp
+29	work	Richard Rodney Bennett: Spells; Nicholas Maw: Life Studies
+30	occupation	composer
+30	work	Flight
+30	work	March Burlesque
+30	work	Scena
+30	work	Sonata for Unaccompanied Violin
+30	work	Tombeau
+31	othername	Maw, Nicholas
+31	work	Scenes and arias : for soprano, mezzo-soprano, contralto and orchestra
+32	nationality	British
+32	occupation	composer
+33	affiliation	composition at the Peabody Conservatory
+33	location	Baltimore, USA
+33	occupation	professor
+33	work	?Concert Music for Orchestra
+33	work	?Five Irish Songs choral
+33	work	?La Vita Nuova
+33	work	?Life Studies (Complete)
+33	work	?Little Suite Guitar,
+33	work	?Reverdie (Five Songs) (Ttbarbb*) Large Choral choral
+33	work	?Round Piano, choral
+33	work	?Ruin Vocal Score Large Choral Vocal, choral
+33	work	?Scenes & Arias Voice/Keyboard Piano, Vocal, Organ,
+33	work	?Scenes and Arias
+33	work	?Sinfonia
+33	work	?Sonata for Strings and Two Horns 
+33	work	?String Quartet
+33	work	?The Voice of Love Vocal,
+33	work	Alun Hoddinott, Don Banks: Horn Concertos; Humphrey Searle: Aubade; Nicholas Maw: Sonata for strings & 2 HornsClassique
+33	work	Aur?ole Trio Plays Nicholas Maw & Richard Rodney BennettClassique
+33	work	Five Irish Songs  choral
+33	work	GershwinÅfs Rhapsody in Blue (Original Version) and Other American WorksClassique
+33	work	Nicholas Maw: Life Studies; Richard Rodney Bennett: Spells
+33	work	Nicholas Maw: Piano Trio/Flute QuartetClassique
+33	work	Nicholas Maw: Sonata Notturna; Life Studies
+35	work	English Horn Concerto
+36	nationality	English
+36	occupation	composer
+36	work	Andrew Turner
+36	work	Balulalow
+36	work	Five Epigrams
+36	work	Five Irish Songs
+36	work	Odyssey
+36	work	Pastoral Hymn
+36	work	Ringleted youth of my love
+36	work	SophieÅfs Choice
+36	work	Swete Jesu
+36	work	The Three Hymns
+36	work	violin concerto
+36	work	ÅgOne Foot in Eden Still, I StandÅh Choral Music by Nicholas Maw
+36	work	ÅgOne Foot in Eden Still, I StandÅh: Choral Music by Nicholas Maw
+38	affiliation	Cambridge and Yale universities
+38	affiliation	music at Milton Avery Graduate School of Arts, Bard College
+38	birthplace	Grantham, Lincolnshire, EC England, UK
+38	occupation	Composer
+38	occupation	professor
+38	othername	(John) Nicholas Maw
+38	work	Music of Memory
+38	work	Odyssey
+38	work	One Man Show
+38	work	Sophie's Choice
+38	work	Spring Music
+38	work	The Rising of the Moon
+38	work	Violin Concerto
+38	work	string quartets
+38	work	violin concerto
+39	work	Concert Music for Orchestra
+40	dateofbirth	1935
+40	othername	Maw Nicholas
+42	work	Five Irish Songs
+43	affiliation	Peabody
+43	occupation	faculty
+43	work	Sophie's Choice
+44	occupation	Composers
+44	occupation	composers
+44	work	String Quartet
+45	othername	Maw, Nicholas
+45	work	Melodies From Drama
+45	work	Sextet
+45	work	Sextet for Two Violins, Two Violas and Two Cellos
+45	work	Sophie???s Choice
+46	work	Sophie's Choice
+47	occupation	composers
+47	work	Night Thoughts
+47	work	Odyssey
+48	affiliation	Composition at the Peabody Conservatory
+48	affiliation	Exeter University
+48	affiliation	Trinity College Cambridge
+48	affiliation	Yale University
+48	award	1959 Lili Boulanger Prize
+48	award	1980 Midsummer Prize of the City of London
+48	award	1993 Stoeger Prize
+48	birthplace	Grantham
+48	dateofbirth	1935
+48	location	Baltimore
+48	mentor	Lennox Berkeley
+48	mentor	Max Deutsch
+48	mentor	Nadia Boulanger
+48	mentor	Paul Steinitz
+48	nationality	Britain
+48	occupation	Professor
+48	occupation	composer
+48	occupation	composers
+48	school	Royal Academy of Music
+48	work	Ghost Dances
+48	work	Odyssey
+48	work	Scenes and Arias
+48	work	Spring Music
+48	work	The World in the Evening
+48	work	Violin Concerto
+51	work	Concertante Variations on a Theme of Nicholas Maw
+52	affiliation	Peabody Institute of Music
+52	nationality	British
+52	occupation	composer
+52	work	Sophie's Choice
+54	dateofbirth	1935
+54	work	Music of Memory
+54	work	Six Interiors
+54	work	Songs for Tenor and Guitar
+56	affiliation	Composition at the Peabody Conservatory
+56	affiliation	Exeter University
+56	affiliation	Trinity College Cambridge
+56	affiliation	Yale University
+56	birthplace	Grantham, Lincolnshire
+56	location	Baltimore
+56	mentor	Lennox Berkeley
+56	mentor	Max Deutsch
+56	mentor	Nadia Boulanger
+56	mentor	Paul Steinitz
+56	nationality	British
+56	occupation	Composer
+56	occupation	Professor
+56	occupation	composer
+56	occupation	teacher
+56	school	Royal Academy of Music
+56	work	One Man Show
+56	work	Scenes and Arias
+56	work	Sophie's Choice
+56	work	The Rising of the Moon
+56	work	Violin Concerto
+57	work	SophieÅfs Choice
+58	work	odyssey
+59	location	America
+59	occupation	composer
+59	work	Sophie's Choice
+60	dateofbirth	1935
+60	work	Allegretto tranquillo
+60	work	Andante pesante
+60	work	Dance Scenes
+60	work	Finale
+60	work	Flight
+60	work	March-Burlesque
+60	work	Molto allegro
+60	work	Molto animato e brillante
+60	work	Prelude
+60	work	Romanza
+60	work	Scena
+60	work	Scherzo
+60	work	Sonata for Solo Violin
+60	work	Tombeau
+60	work	Violin Concerto
+61	occupation	composer
+61	work	Sophie's Choice
+61	work	The Rising of the Moon
+62	occupation	contemporary composer
+62	work	Odyssey
+62	work	Scenes and Arias
+63	location	America
+63	location	States
+63	occupation	composer
+63	work	Odyssey
+63	work	Sophie's Choice
+66	location	Washington area
+66	nationality	Englishman
+66	work	Sophie's Choice
+68	work	La Vita Nuova
+68	work	Personae
+68	work	Personae IV & V
+68	work	Scenes and Arias
+69	location	Washington, DC
+69	occupation	composer
+69	work	The World in the Evening
+70	occupation	Composers
+70	work	Nicholas Maw/ Richard Rodney Bennett: Ancora
+71	work	Music of Memory
+71	work	Six Interiors
+71	work	Six Interiors for Tenor and Guitar
+71	work	Songs For Tenor and Guitar
+71	work	Sophie's Choice
+71	work	Tango from Sophie's Choice
+72	location	Washington region
+72	occupation	composer
+72	occupation	librettist
+72	work	SophieÅfs Choice
+74	nationality	British
+74	occupation	composer
+74	work	Sophie's Choice
+75	affiliation	Composition
+75	affiliation	Composition Department
+75	affiliation	Composition Department at Peabody
+75	affiliation	Composition at the Peabody Conservatory
+75	affiliation	Peabody Composition Department
+75	occupation	Faculty
+75	occupation	faculty
+77	work	Sophie's Choice
+78	occupation	composer
+78	work	Maw: Violin Concerto
+78	work	Violin Concerto
+81	affiliation	Composition at the Peabody Conservatory
+81	affiliation	Exeter University
+81	affiliation	Trinity College Cambridge
+81	affiliation	Yale University
+81	award	1959 Lili Boulanger Prize
+81	award	1993 Stoeger Prize
+81	birthplace	Grantham, Lincolnshire
+81	dateofbirth	1935
+81	dateofbirth	5 November 1935
+81	location	Baltimore
+81	mentor	Lennox Berkeley
+81	mentor	Max Deutsch
+81	mentor	Nadia Boulanger
+81	mentor	Paul Steinitz
+81	nationality	Britain
+81	nationality	United Kingdom
+81	occupation	Professor
+81	occupation	composers
+81	occupation	teacher
+81	school	Royal Academy of Music
+81	work	American Games
+81	work	Andrew Turner
+81	work	As father Adam first was fool'd
+81	work	Balulalow
+81	work	Below thir stanes lie Jamie's banes
+81	work	Corpus Christi Carol
+81	work	Dear dark head
+81	work	Down in yon forest there stands a hall
+81	work	Evening Hymn
+81	work	Five Epigrams
+81	work	Five Irish Songs
+81	work	For thee I shall not die
+81	work	Happy choristers of air
+81	work	Here lies, now a prey to insulting neglect
+81	work	I shall not die for thee
+81	work	In seventeen hunder' and forty nine
+81	work	Jesu, swete sone dere!
+81	work	Jig
+81	work	Maw: One foot in Eden still, I stand
+81	work	Morning Hymn
+81	work	Now Robin likes in his last lair
+81	work	O my deir heart, young Jesus sweit
+81	work	On a henpecked country squire
+81	work	On a lady famed for her caprice
+81	work	On a noisy polemic
+81	work	On the death of Robert Ruisseaux
+81	work	One foot in Eden still, I stand
+81	work	Our Lady's song
+81	work	Pastoral Hymn
+81	work	Popular song
+81	work	Put your head, darling
+81	work	Ringleted youth of my love
+81	work	Swete Jesu
+81	work	That winter love spoke and we raise no objection, at
+81	work	The angel Gabriel
+81	work	The night is come like to the day
+81	work	Three Hymns
+81	work	Were I at the Moss House where the birds do increase
+81	work	What's this morn's bright eye to me
+82	affiliation	composition at the Peabody Conservatory
+82	location	Baltimore
+82	mentor	Max Deutsch
+82	mentor	Nadia Boulanger
+82	nationality	British
+82	occupation	composer
+82	occupation	composers
+82	occupation	professor
+82	school	Royal Academy of Music
+82	work	Odyssey
+82	work	Trio
+82	work	concerto for English horn
+83	work	Sophie's Choice
+84	work	Sophie's Choice
+85	affiliation	Peabody Conservatory
+85	affiliation	Royal Academy
+85	affiliation	Royal Academy of Music
+85	affiliation	Trinity College, Cambridge
+85	affiliation	composition, Peabody Conservatory of Music
+85	affiliation	composition, Yale University
+85	affiliation	music, Milton Avery School of Arts
+85	affiliation	university of Exeter
+85	award	1959 Lili Boulanger prize
+85	award	90 Koussevitsky Foundation Award
+85	award	93 Stoeger Prize for Chamber Music
+85	birthplace	Grantham, Lincolnshire
+85	birthplace	Grantham, Lincs
+85	dateofbirth	1935
+85	dateofbirth	November 5 1935
+85	location	America
+85	location	Baltimore
+85	mentor	Lennox Berkeley
+85	mentor	Max Deutsch
+85	mentor	Nadia Boulanger
+85	mentor	Paul Steinitz
+85	nationality	Britain
+85	occupation	composer
+85	occupation	fellow commoner
+85	occupation	first artist in residence
+85	occupation	prof.
+85	occupation	professor
+85	occupation	visiting professor
+85	othername	John Nicholas Maw
+85	othername	Nick Maw
+85	relatives	Adrian Lindsey
+85	relatives	Carol Graham
+85	relatives	Janet
+85	relatives	Karen Graham
+85	relatives	Lou
+85	relatives	Natasha
+85	school	Royal Academy
+85	school	Royal Academy of Music
+85	school	Wennington School
+85	work	Ghost Dances
+85	work	Hymnus.
+85	work	Life Studies
+85	work	Nocturne
+85	work	Odyssey
+85	work	One Man Show
+85	work	Piano Trio
+85	work	Scenes and Arias
+85	work	Sinfonia
+85	work	Sophie's Choice
+85	work	Spring Music
+85	work	The Rising of the Moon
+85	work	Violin Concerto
+85	work	violin concerto
+87	nationality	British
+87	occupation	composer
+87	work	violin concerto
+88	occupation	composer
+88	work	Sophie's Choice
+90	nationality	British
+90	occupation	composer
+90	work	Sophie's Choice
+91	affiliation	Peabody Conservatory
+91	location	Baltimore
+91	location	Takoma Park
+91	nationality	Britain
+91	nationality	British
+91	occupation	composer
+91	occupation	composers
+91	work	Sophie's Choice
+92	dateofbirth	1935
+92	location	America
+92	location	United States
+92	nationality	British
+92	occupation	composer
+92	work	Maw Sextet
+92	work	Melodies from Drama
+92	work	Sophie's Choice
+92	work	string sextet: for two violins, two violas, and two cellos
+93	occupation	composer
+93	work	English Horn Concerto
+93	work	Sophie's Choice
+94	occupation	COMPOSERS
+94	work	SophieÅfs Choice
+95	occupation	Composer
+95	occupation	composer
+95	work	 Nicholas Maw/ Richard Rodney Bennett Ancora: Life Studies/ Spells
+95	work	 Themes & Variations BBC Symphony Orchestra/ Jac van Steen, conductor
+95	work	Corrado Canonici, double bass A roaring flame
+96	affiliation	composition at the Peabody Conservatory
+96	location	Baltimore
+96	mentor	Max Deutsch
+96	mentor	Nadia Boulanger
+96	nationality	British
+96	occupation	composer
+96	occupation	composers
+96	occupation	professor
+96	school	LondonÅfs Royal Academy of Music
+96	school	Royal Academy of Music
+96	work	Odyssey
+96	work	Trio
+96	work	concerto for English horn
+97	affiliation	Composition at the Peabody Institute
+97	birthplace	U.K.
+97	location	Baltimore, MD
+97	location	Washington, D.C.
+97	occupation	Professor
+97	occupation	composer
+97	work	Flute Quartet
+97	work	Odyssey
+97	work	Piano Trio
+97	work	Scenes and Arias
+97	work	Sophie's Choice
+97	work	Violin Concerto
+98	occupation	Composers
+98	work	Nicholas Maw Odyssey . Dance Scenes
+99	dateofbirth	1935
+99	occupation	composer
+99	occupation	composers
+99	work	Lullaby for Orchestra
+99	work	The World in the Evening
+100	nationality	British
+100	occupation	composer
+100	work	Maw: Violin Concerto
+100	work	VIOLIN CONCERTO
+100	work	Violin Concerto
+100	work	violin concerto
+101	affiliation	Peabody Conservatory
+101	nationality	Englishman
+101	occupation	composer
+101	occupation	faculty
+101	occupation	orchestrator
+101	work	Odyssey
+101	work	Sophie's Choice
+102	dateofbirth	1935
+102	occupation	Composers
+102	othername	Maw, Nicholas
+102	work	Sweet Jesu
+103	occupation	Composer(s)
+103	work	Curtis Macomber: Casting Ecstatic - Solo Works for Violin
+103	work	Sonata
+105	occupation	Composer
+105	work	Sophie's Choice
+106	work	Violin Concerto
+107	work	Nicholas Maw: Violin Concerto
+108	occupation	director
+108	work	Sophie's Choice
+110	work	SophieÅfs Choice
+112	work	SophieÅfs Choice
+113	occupation	composers
+113	work	Sextet
+113	work	String Quartet No. 3
+115	nationality	British
+115	occupation	composer
+115	work	Nicholas Maw Piano Trio
+116	work	Odyssey
+116	work	Sophie's Choice
+117	occupation	Artist
+119	work	Life Studies
+120	occupation	composer
+120	occupation	composers
+120	work	Sophie's Choice
+123	work	Sophie's Choice
+124	affiliation	Peabody
+124	occupation	composer
+124	occupation	faculty member
+124	work	Sophie's Choice
+125	nationality	English
+125	occupation	composer
+125	work	Maw violin concerto
+125	work	violin concerto
+126	othername	MAW, NICHOLAS
+126	work	Sextet for Two Violins, Two Violas and Two Cellos
+128	dateofbirth	1935
+128	dateofbirth	November 5
+128	occupation	Composer
+131	occupation	Composer
+131	work	Sophie's Choice
+132	work	Sophie's Choice
+133	work	Music of Memory
+133	work	Sophie's Choice
+133	work	Tango
+134	occupation	Musicians
+135	birthplace	England
+135	location	United States
+135	occupation	composer
+135	work	Sophie's Choice
+136	work	The Rising of the Moon
+137	occupation	Composers
+138	occupation	Composer
+138	occupation	song composer
+138	work	Quartet for Flute, Violin, Viola and Cello
+138	work	Six Interiors
+138	work	Sophie's Choice
+138	work	Third String Quartet
+139	work	English Horn Concerto
+141	work	Sophie's Choice
+142	work	Night Thoughts
+143	nationality	English
+143	occupation	composer
+143	work	Odyssey
+143	work	SophieÅfs Choice
+143	work	violin concerto
+143	work	ÅgOne Foot in Eden Still, I StandÅh: Choral Music by Nicholas Maw
+146	affiliation	Yale School of Music
+147	work	Sophie's Choice
+149	work	Sophie's Choice
+150	work	Sophie's Choice 
+150	work	Tango

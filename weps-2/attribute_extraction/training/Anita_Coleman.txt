@@ -1,0 +1,189 @@
+1	Occupation	Assistant Professor
+1	Affiliation	School of Information Resources & Library Science	University of Arizona
+1	Location	School of Information Resources & Library Science 1515 E. First St. University of Arizona Tucson, AZ 85719
+1	Phone	+1 (520) 621-3565
+1	FAX	+1 (520) 621-3279
+2	Other name	Anita S. Coleman
+2	Occupation	Editor
+2	School	University of Illinois at Urbana-Champaign
+2	Degree	Ph.D
+3	Other name	Anita Sundaram Coleman
+3	Occupation	Assistant Professor	Editor
+3	Affiliation	University of Arizona	School of Information Resources & Library Science at the University of Arizona	Alexandria Digital Library ADEPT ProjectUniversity of Illinois at Urbana-Champaign	University of California at Los Angeles	Steering Committee of the Digital Library for Earth Systems Education
+3	School	University of Madras	Southern Illinois University in Carbondale	University of Illinois at Urbana-Champaign
+3	Major	English Literature	Library & Information Science	Curriculum & Instruction	Library and Information Science
+3	Degree	Bachelor of Arts degree	MasterÅfs degree	Ph.D.
+3	Location	Tucson	Arizona
+4	Occupation	Authors
+9	Occupation	Program Counselor
+9	Affiliation	Clark-Bourbon Day Treatment Program
+9	Location	Winchester
+10	Web site	http://www.u.arizona.edu/~asc
+11	Occupation	Assistant Professor
+11	Affiliation	University of Arizona
+12	Web site	http://www.u.arizona.edu/~asc
+13	Location	Nevada
+14	Occupation	Asst. Professor	Editor
+14	Affiliation	School of Library and Information Resources - University of Arizona
+14	Location	Tucson
+15	Other name	Anita Sundaram Coleman
+15	Occupation	Editor	editor	faculty
+15	Affiliation	University of Arizona	School of Information Resources and Library Science, University of Arizona
+15	Location	Tucson
+16	Other name	Anita Sundaram Coleman
+16	Occupation	faculty
+16	Affiliation	School of Information Resources and Library Science, University of Arizona
+16	Location	Tucson
+17	Affiliation	School of Information Resources and Library Science, University of Arizona
+17	Location	Tucson, AZ, USA
+17	Email	asc@u.arizona.edu
+22	Occupation	Assistant Professor	Systems Librarian
+22	Affiliation	Santa Ana College
+22	Degree	Dr.
+23	Other name	Coleman, Anita Sundaram	Coleman, A.
+23	Occupation	Editor	editor
+23	Affiliation	University of Arizona
+24	Occupation	Asst. Prof.
+24	Affiliation	School of Information Resources & Library Science, University of Arizona
+24	Location	Tucson
+25	Occupation	Assistant Professor
+25	Affiliation	School of Information Resources & Library Science, University of Arizona
+29	Other name	COLEMAN, Iris Anita
+30	Affiliation	University of Arizona
+30	Email	asc@u.arizona.edu
+31	Other name	Coleman, A.
+31	Affiliation	School of Information Resources and Library Science University of Arizona
+31	Email	asc@u.arizona.edu
+32	Occupation	Assistant Professor
+32	Affiliation	University of Arizona
+32	Phone	(520) 621-4026
+32	Email	asc@u.arizona.edu
+32	Web site	http://www.sir.arizona.edu/faculty/coleman/coleman.html
+34	Other name	Coleman, Anita Sundaram	Coleman, A.
+34	Affiliation	School of Information Resources and Library Science, University of Arizona
+34	Location	Tucson
+35	Other name	Anita Coleman Wynn
+35	Occupation	Area Development Director
+35	Affiliation	UNCF	United Negro College Fund, Inc.
+35	Location	Richmond	1500 Lombardy Street CD King Building, 2nd Floor Richmond, Virginia 23220
+35	Phone	(804) 359-1581
+35	FAX	(804) 359-1582
+35	Email	anita.wynn@uncf.org
+36	Birthplace	Manhattan
+36	Other name	ANITA C. MANSHEL	Anita Coleman Manshel
+36	Occupation	founding director
+36	Affiliation	Hansa Gallery	board of the Nordjyllands Kunstmuseum
+36	School	Fieldston School	Sarah Lawrence College
+36	Mentor	Hans Hofmann
+36	Relatives	Warren	Liane	Michael
+37	Other name	Coleman, A.
+37	Occupation	Special issue editors
+37	Affiliation	School of Information Resources & Library Science, University of Arizona
+37	Location	Tucson, AZ, USA
+37	Email	asc@u.arizona.edu
+39	Occupation	Assistant Professor	co-editor	PI
+39	Affiliation	University of Arizona School of Information Resources and Library Science
+39	School	University of Madras	University of Illinois at Urbana-Champaign
+39	Major	LIS
+39	Degree	Drs.	M.L.I.S.	Ph.D.
+40	Occupation	Director of Administration Services	Receptionist	Administrative Assistant	CEO	Assistant Director of Administration	Director of Administration	Office Manager for the Psychological & Behavioral Services
+40	Affiliation	Keystone Service Systems, Inc.	Keystone	KC&FS Cultural Competence Committee	Medical, Safety and Risk Management Policy and Procedure Committee
+40	School	Keystone College	Marywood College
+40	Major	Early Childhood Education	Elementary Education
+40	Degree	Associates degree
+40	Email	acoleman @ kss.org
+41	Occupation	Owner
+41	Affiliation	Ace Pawn Shop
+41	Location	10343 Regina Belcher Highway Elkhorn City, KY 41522 Pike County	10343 Regina Belcher Highway, Elkhorn City, KY 41522, Pike County
+41	Phone	(606) 754-0503
+45	Other name	Coleman, Anita	Anita S. Coleman
+48	Date of birth	March 7, 1952
+48	Birthplace	Morton, Texas
+48	Other name	Kathleen ÅeKathyÅfAnita Coleman	Kathleen ÅgKathyÅh Anita Coleman
+48	Occupation	Loan Workout Specialist	President
+48	Affiliation	Beta Sigma Phi	Federal Deposit Insurance Corporation
+48	School	Odessa High School	Texas Tech University	Odessa Junior College
+48	Major	psychology	sociology
+48	Relatives	Kaitlin Melka	Cole Melka	Anita Wood	Nancy Hall	Daniel Yarbro
+54	Affiliation	School of Information Resources & Library Science	University of Arizona
+55	Occupation	Instructor	Assistant Professor
+55	Email	asc@u.arizona.edu
+57	Occupation	Principal
+57	Location	4134 Hixson Pike, Chattanooga, TN 37415
+57	Phone	(423) 870-0615
+57	FAX	(423) 870-0631
+59	Other name	Anita S. Coleman
+59	Occupation	Asst. Prof.
+59	Affiliation	University of Arizona
+59	Location	Tucson
+60	Other name	Anita S. Coleman
+60	Occupation	Research Associate
+60	Affiliation	Alexandria Digital Earth Project University of California
+60	Location	Santa Barbara, CA 93601
+61	Email	asc@acm.org
+62	Other name	Anita Coleman Wynn
+62	Occupation	special assistant	Area Development Director for the State of Virginia
+62	Affiliation	UNCF	St. PaulÅfs College	United Negro College Fund, Inc.
+62	School	Bennett College for Women	University of Virginia
+62	Major	political science	bank management
+62	Degree	bachelor of arts
+63	Affiliation	University of Arizona
+64	Affiliation	University of Arizona School of Information Resources & Library Science
+64	Web site	http://www.u.arizona.edu/~asc/
+65	Other name	Manshel, Anita Coleman
+67	Other name	Coleman, A.
+67	Affiliation	School of Information Resources and Library Science, University of Arizona
+67	Location	Tucson, AZ, USA
+67	Email	asc@u.arizona.edu
+68	Occupation	Editors
+69	Other name	Anita S. Coleman
+69	Affiliation	University of Arizona
+69	Location	Tucson
+69	Web site	http://www.u.arizona.edu/~asc
+71	Occupation	Assistant Professor
+71	Affiliation	College of Social and Behavioral Sciences School of Information Resources & Library Science	University of Arizona
+71	School	University of Illinois
+71	Major	Library and Information Science
+71	Degree	Ph.D.
+71	Location	College of Social and Behavioral Sciences School of Information Resources & Library Science 1515 E. First St., University of Arizona, Tucson, AZ 85719
+71	Phone	520.621.4026
+71	FAX	520.621.3279
+71	Email	asc@u.arizona.edu
+71	Web site	http://www.u.arizona.edu/~asc/	http://www.u.arizona.edu/~asc/pubs.html
+72	Occupation	Principal
+72	Affiliation	East Lake Elementary
+73	Other name	Anita Coleman Wynn
+73	Occupation	vice president	manager of community affairs	assistant vice president	community development officer
+73	Affiliation	Wachovia Corp.
+74	Affiliation	Santa Ana College
+78	Occupation	stripper
+78	Affiliation	StiffyÅfs
+78	Location	Bethel Park	McKees Rocks
+81	Occupation	Principal
+81	Affiliation	Dupont Elementary
+81	Location	Hamilton County	Hamilton	4134 Hixson Pike Chattanooga, TN 37415	South East Tennessee
+81	Phone	(423) 870-0615
+81	FAX	(423) 870-0615
+82	Affiliation	SIRLS	School of Information Resources & Library Science, University of Arizona
+82	Location	Tucson
+83	Occupation	president
+83	Affiliation	Kappa Alpha Chapter at Northwest Missouri State University
+83	Major	Dietetics	Food Service Management
+85	Date of birth	1920
+85	Other name	Doris Anita Coleman Mcdowell
+85	Relatives	Lawrence Edward	Betty Sue Coleman	William Carl COLEMAN	Elva Limbaugh COLEMAN
+86	Affiliation	Osborne Fellows Principals Consulting Committee	East Lake Elementary School
+91	Other name	Anita S. Coleman
+93	Other name	Anita Sundaram Coleman
+93	Occupation	Editor	editor
+93	Affiliation	University of Arizona
+95	Degree	Dr.
+96	Occupation	Asst. Prof.
+96	Affiliation	University of Arizona
+96	Location	Tucson
+98	Occupation	Principal
+98	Affiliation	Dupont Elementary
+98	Location	Hamilton County	Hamilton	4134 Hixson Pike Chattanooga, TN 37415	South East Tennessee
+98	Phone	(423) 870-0615
+98	FAX	(423) 870-0615
+99	Occupation	editor

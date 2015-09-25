@@ -1,0 +1,28 @@
+1	Search Results	alibris	
+4	Search Results	CiteSeer (DB)	
+11	No Name
+12	No Value
+16	No Name	"Hunter, Jane Theibaud, Maud"	
+22	No Value
+23	No Value
+33	Search Results	dblp (DB)	
+35	No Name
+39	No Name	Mary & Jane - Hunter PvP Movie	
+41	No Name
+44	Multiple Targets
+46	No Name
+48	No Name
+58	No Name
+66	Multiple Targets	
+69	Search Results	AddALL.com
+71	Multiple Targets	
+72	Multiple Targets	
+73	Multiple Targets	
+78	No Name	Jane Catherine  Hunter
+79	Search Results	CiteSeer (DB)
+86	No Value	Bibliography
+89	No Value	
+91	No Name	Jane (Hunter)
+93	Multiple Targets	
+94	Search Results	amazon.ca
+96	Multiple Targets	

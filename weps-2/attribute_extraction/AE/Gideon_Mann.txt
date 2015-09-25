@@ -1,0 +1,286 @@
+1	affiliation	BLlIP
+1	affiliation	Hopkins
+1	affiliation	Johns Hopkins University
+1	affiliation	MITRE in the Information Technology Center
+1	degree	Master's
+1	degree	Sc.B.
+1	location	New Engineering Building, room 329
+1	major	 Computer Science
+1	major	Science Engineering
+1	occupation	Ph.D. student
+1	occupation	teaching assistant
+1	othername	Gideon S. Mann
+1	othername	gideon s. mann
+1	school	Brown
+1	school	Brown University
+3	affiliation	CLSP
+3	affiliation	MITRE
+3	affiliation	University of Massachusetts/Amherst
+3	degree	Masters' degree
+3	degree	Ph.D
+3	degree	Sc.B
+3	location	Computer Science Building, room 264
+3	occupation	post-doctoral fellow
+3	occupation	undergraduate
+3	othername	Gideon S. Mann
+3	school	Brown University
+3	school	Johns Hopkins
+5	work	The unstable ankle
+6	occupation	Editors
+6	occupation	orthopedic surgeons
+6	work	The Unstable Ankle
+8	affiliation	BLIIP
+8	affiliation	U. Mass
+8	affiliation	University of Massachusetts/Amherst
+8	degree	Masters' degree
+8	degree	Ph.D
+8	degree	Sc.B
+8	occupation	post-doctoral fellow
+8	occupation	undergraduate
+8	school	Brown University
+8	school	Johns Hopkins
+8	school	Johns Hopkins University
+9	degree	MD
+9	occupation	MD
+9	occupation	orthopedic surgeons
+9	work	The Unstable Ankle
+11	affiliation	Hadassah University Hospital
+11	affiliation	International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine Committee
+11	affiliation	Israel Society of Sport Medicine
+11	affiliation	Sports Injuries Unit at Meir Hospital
+11	affiliation	Wingate Institute
+11	degree	Dr.
+11	degree	MD
+11	location	Kfar Saba, Israel
+11	major	medical
+11	occupation	Dr.
+11	occupation	Editors
+11	occupation	MD
+11	occupation	chair
+11	occupation	director
+11	occupation	orthopedic surgeons
+11	occupation	president
+11	occupation	senior orthopedic surgeon
+11	school	Hebrew University Hadassah Medical School
+11	work	The Unstable Ankle
+12	degree	Dr
+12	occupation	Dr
+14	affiliation	Hadassah University Hospital
+14	affiliation	International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine Committee
+14	affiliation	Israel Society of Sport Medicine
+14	affiliation	Sports Injuries Unit at Meir Hospital
+14	affiliation	Wingate Institute
+14	degree	Dr.
+14	degree	MD
+14	location	Kfar Saba, Israel
+14	major	medical
+14	occupation	Dr.
+14	occupation	Editors
+14	occupation	MD
+14	occupation	chair
+14	occupation	director
+14	occupation	orthopedic surgeons
+14	occupation	president
+14	occupation	senior orthopedic surgeon
+14	occupation	specialists
+14	school	Hebrew University Hadassah Medical School
+14	work	The Unstable Ankle
+15	affiliation	Executive Committee ? Israel Society of Knee Surgery and Arthroscopy
+15	affiliation	ISAKOS
+15	affiliation	ISAKOS Scientific Commiittee
+15	affiliation	Israel Society of Sports Medicine
+15	affiliation	Program Committee, International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine
+15	affiliation	Ribstein Center of Sports Sciences, Wingate Institute
+15	affiliation	Sackler Tel Aviv University Medical School
+15	affiliation	Scientific Committee - FIMS
+15	affiliation	Sports Medicine Committee, International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine
+15	affiliation	Strategic Planning Committee - International Society of Arthroscopy, Knee Surgery and Orthopaedic Sports Medicine
+15	affiliation	Unit of Sports Injuries and Arthroscopic Surgery, Meir Hospital, Sapir Medical Center
+15	birthplace	London, England
+15	dateofbirth	February 1947
+15	degree	MD
+15	location	12 Shoham Street, Mevasseret Zion
+15	occupation	Chairman
+15	occupation	Ed
+15	occupation	Eds
+15	occupation	Head
+15	occupation	MD
+15	occupation	Secretary
+15	occupation	Senior Lecturer
+15	occupation	Senior Orthopaedic Surgeon
+15	othername	G Mann
+15	othername	G. Mann
+15	phone	972 (0) 2 5341217
+15	phone	972 (0) 52 2514608
+15	school	Hebrew University Hadassah Medical School
+15	work	Sports Injuries I
+15	work	Sports Injuries II
+15	work	Sports Injuries III
+15	work	The Unstable Ankle
+17	affiliation	Department of Orthopedic Surgery, Sapir Medical Center
+17	affiliation	Dept of Orthopedic Surgery, Sapir Medical Center
+17	degree	Drs
+17	degree	MD
+17	location	Kfar-Saba, Israel
+17	occupation	Drs
+17	occupation	MD
+18	affiliation	Meir Hospital Sapir Medical Center
+18	affiliation	Ribstein Center for Research & Sports Medicine at the Wingate Institute
+18	affiliation	Sackler Faculty of Medicine at Tel Aviv University
+18	degree	Dr
+18	degree	MD
+18	location	Israel
+18	location	Kfar Saba, Israel
+18	occupation	Dr
+18	occupation	MD
+18	occupation	orthopedic consultant
+18	occupation	orthopedic surgeons
+20	degree	M.D.
+20	occupation	M.D.
+20	othername	G. Mann
+20	othername	Mann, G
+20	work	Sports Injuries: Proceedings of the third Jerusalem Symposium
+22	occupation	Editor
+22	othername	Mann, Gideon
+22	work	The Unstable Ankle
+23	degree	M.D.
+23	occupation	M.D.
+23	othername	G. Mann
+23	othername	Mann G
+23	work	Sports Injuries: Proceedings of the third Jerusalem Symposium
+27	occupation	Editors
+27	occupation	orthopedic surgeons
+27	occupation	specialists
+27	work	The Unstable Ankle
+31	occupation	Editor
+31	work	The Unstable Ankle
+34	affiliation	Scientific Committee
+34	degree	MD
+34	email	drmann@regin-med.co.il
+34	occupation	Chairman
+34	occupation	MD
+34	phone	+972-52-2514608
+35	othername	Mann, Gideon S.
+36	affiliation	Israel Society of Knee Surgery & Arthroscopy
+36	affiliation	Meir Hospital
+36	degree	Dr.
+36	degree	MD
+36	occupation	Dr.
+36	occupation	MD
+36	othername	Mann G
+41	affiliation	Johns Hopkins University
+43	affiliation	Johns Hopkins University
+43	affiliation	Natural Language Processing Lab
+43	occupation	Graduate Students
+45	affiliation	Regin Medical Center
+45	affiliation	Unit of Knee Surgery &  Arthroscopy Meir Hospital
+45	degree	MD
+45	email	gmann@sportsmedicine.co.il
+45	fax	972-2-6528231
+45	location	Kfar Saba, Israel
+45	occupation	MD
+46	degree	Dr
+46	location	Israel
+46	location	JERUSALEM
+46	occupation	Dr
+46	occupation	Knee Surgeons
+53	affiliation	Johns Hopkins University
+53	location	Baltimore, MD
+54	work	Metallica
+55	degree	MD
+55	occupation	MD
+57	affiliation	Hadassah University Hospital
+57	affiliation	Hebrew University Medical School
+57	degree	MD
+57	email	gmann@sportsmedicine.co.il
+57	location	Israel
+57	occupation	MD
+58	affiliation	Johns Hopkins University
+58	occupation	students
+59	degree	Dr
+59	degree	MD
+59	location	Tel Aviv, Israel
+59	occupation	Dr
+59	occupation	Editor
+59	occupation	MD
+59	othername	Mann G
+61	affiliation	Board of Directors and Committees
+61	occupation	Emeritus Members
+66	affiliation	Hadassah University Medical Center
+66	affiliation	Zinman College of Physical Education at the Wingate Institute
+66	degree	MD
+66	location	Jerusalem, Israel
+66	occupation	MD
+67	degree	Dr.
+67	location	Israel
+67	occupation	Dr.
+69	affiliation	Johns Hopkins University
+69	location	Baltimore, Maryland, USA
+71	work	The Unstable Ankle
+77	degree	Dr.
+77	location	Israel
+77	occupation	Dr.
+81	affiliation	UMass
+81	affiliation	University of Massachusetts, Amherst
+82	affiliation	UMass
+82	affiliation	University of Massachusetts Amherst
+83	affiliation	Google
+84	degree	MD
+84	occupation	MD
+87	affiliation	Google
+88	degree	Dr
+88	occupation	Dr
+92	work	Unstable Ankle, The
+93	affiliation	Israeli Sports Medicine Society
+93	degree	MD
+93	occupation	MD
+93	occupation	President
+96	othername	Gideon S. Mann
+98	affiliation	Google
+102	affiliation	Google
+102	affiliation	Google New York
+102	affiliation	Johns Hopkins University
+102	affiliation	University of Massachusetts, Amherst
+102	degree	M.S.
+102	degree	Ph.D.
+102	degree	Sc.B.
+102	major	Computer Science
+102	occupation	post-doctoral researcher
+102	occupation	researcher
+102	school	Brown University
+102	school	Johns Hopkins University
+104	affiliation	Hopkins
+104	major	computer science
+106	affiliation	UMass
+106	affiliation	Univ. of Massachusetts
+108	affiliation	Department of Computer Science The Johns Hopkins University
+108	email	gsm@cs.jhu.edu
+108	fax	+1 410 516 6134
+108	location	3400 North Charles Street Baltimore, MD 21218, USA
+108	phone	+1 410 516 7052
+111	affiliation	Johns Hopkins University
+112	affiliation	Information Extraction and Synthesis Laboratory, UMass Amherst
+112	occupation	Senior Postdoctoral Research Associate
+112	occupation	Undergraduates
+115	email	gsm@cs.jhu.edu
+115	school	Brown
+121	affiliation	UMass
+121	affiliation	UMass Amherst
+122	affiliation	University of Massachusetts
+125	affiliation	University of Massachusetts
+127	affiliation	UMass
+127	affiliation	University of Massachusetts, Amherst
+130	affiliation	Google
+132	affiliation	University of Massachusetts
+135	degree	MD
+135	occupation	MD
+135	occupation	orthopedic surgeons
+135	occupation	specialists
+135	work	The Unstable Ankle
+136	affiliation	Brown University
+136	mentor	THOMAS DEAN
+136	occupation	students
+137	affiliation	Johns Hopkins University
+140	work	The Unstable Ankle
+143	affiliation	University of Massachusetts
+144	work	The Unstable Ankle

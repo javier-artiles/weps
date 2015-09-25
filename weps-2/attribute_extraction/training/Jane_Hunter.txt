@@ -1,0 +1,226 @@
+0	Occupation	painter in watercolour
+0	Affiliation	Canadian Society of Painters in Water Colour
+0	School	Ontario College of Art
+0	Location	Sarnia, ON
+2	Date of birth	December 13	1882
+2	Birthplace	South Carolina
+2	Other name	Jane E. Hunter	Jane Edna Hunter
+2	Occupation	activist	reformer	domestic servant	officer
+2	Affiliation	Working GirlsÅf Home Association	Phyllis Wheatley Association	PWA	National Association of Colored Women
+2	School	Hampton Institute
+2	Major	nursing
+2	Nationality	African-American
+3	Occupation	owner	viticulturist	managing director
+3	Affiliation	HunterÅfs Wines
+3	Work	2001 Sauvignon Blanc	1999 Chardonnay
+3	Award	Marquis de Goulaine Trophy for Best Sauvignon Blanc in the World at the 1992 International Wine & Spirit Competition	gold medals at both the Hotel Grand Chancellor Royal Hobart Wine Show and at the 2002 Sydney International Wine competition
+3	Relatives	Ernie
+5	Occupation	Professor	Associate Dean
+5	Affiliation	College of Arts and Sciences	Department of History	History	Gender Studies Program	History Department	Colby College	Lewis & Clark College
+5	Work	Gospel of Gentility: American Women Missionaries in Turn-of-the-Century China	How Young Ladies Became Girls: The Victorian Origins of Girlhood in the United States
+5	School	Yale University
+5	Major	American Studies
+5	Degree	Ph.D.	M.A.	B.A.
+5	Location	346 Howard Hall	Northeast Portland	0615 S.W. Palatine Hill Rd Portland Oregon 97219
+5	Phone	503-768-7446
+5	Email	hunter@lclark.edu
+6	Occupation	Managing Director
+6	Location	United Kingdom
+7	Date of birth	May 1, 1857
+7	Birthplace	Georgia
+7	Other name	Eliza Jane (Jenny) Allbritton
+7	Location	Melbourne City Cemetery, Melbourne Florida
+7	Relatives	David Crocket Hunter	Dave	Andrew J. Allbritton	Nancy Jones	James (Bud) Hunter	Mary Ann Hunter	Josephine (Jo) Hunter	Orvella (Orve) Hunter	Georgia Ann Hunter	Hampton (Hamp) Hunter	Kate Hunter	Essie Hunter	Bethel Hunter	Nancy (Sug) Hunter	Herald Edward Hunter
+8	Occupation	Professorial Research Fellow
+8	Affiliation	School of ITEE	University of Queensland	eResearch group
+8	Location	School of ITEE Level 7, GP South, Staff House Rd, The University of Queensland QLD, 4072, AUSTRALIA	Brisbane, Australia
+8	Phone	+61 7 3365 1092
+8	FAX	+61 7 3365 4999
+8	Email	jane@itee.uq.edu.au
+9	Affiliation	Distributed Systems Technology Centre University of Queensland
+9	Email	jane@dstc.edu.au
+10	Other name	Jane Hunter-Cox	Cox Jane Hunter
+10	Work	Ocean Pictures: The Golden Age of Transatlantic Travel, 1936 to 1959
+13	Other name	Jane E. Hunter
+13	Occupation	Dr.	MD
+13	Degree	Dr.	MD
+13	Location	2320 Woolsey Street, Berkeley, California (CA)
+14	Date of birth	26 April 1792	April 26, 1792
+14	Birthplace	Wheeling, Virginia	Virginia
+14	Other name	Jane Hunter Ewing	JANE H. LATIMER	Ewing
+14	Relatives	George Ewing	Rachel Harris	Elisha Latimer	Thomas Ewing
+15	Occupation	Lecturer	Advisor	marketing representative	manager	adjunct
+15	Affiliation	Engineering Management Program	IBM	Anequest	Software Tutor	Pima Community College	UA	UA Department of Electrical and Computer Engineering	University of Arizona
+15	School	University of Arizona	National Technological University	NTU
+15	Major	Mechanical Engineering	Engineering Management	EMG	Education
+15	Degree	BS	Masters of Engineering Management	MS
+17	Affiliation	University of Queensland
+17	Location	Brisbane, Australia
+18	Occupation	editor	publisher
+18	Work	Israeli Foreign Affairs
+19	Date of birth	1844
+20	Nationality	Scotland
+21	Birthplace	Simpson County
+21	Other name	Davis, Sara Jane Hunter	Sara Jane Hunter Davis
+21	Occupation	homemaker
+21	Relatives	Monroe Hunter	Ida May Hunter	Jimmy Davis	Bonnie Davis Thompson	Lisa Davis Chandler	Mildred Summers	Mattie Farmer	Ruby Isabell	Rue Hunter
+24	Date of birth	12 Apr 1807
+24	Birthplace	Earsdon, Northumberland
+24	Other name	Jane Burnett	Jane (Burnett) Hunter
+24	Relatives	William Burnett	Margaret Short	William and Margaret Burnett	John	William	Jane	Matthew	John Burnett	William Burnett	Jane Burnett	Matthew Hunter	Foster Hunter	Foster
+25	Relatives	Poland Hunter	Jane Simpson	Harriet Hunter	John Hunter	Moses Hunter	Ellen Hunter	George Hunter	David Hunter	Andrew Hunter	William Hunter	James Hunter
+26	Birthplace	Toronto
+26	Occupation	vice-president
+26	Affiliation	Ontario Society of Artists
+26	Award	Awards of Excellence from Canadian Society of Painters in Watercolor	The Canadian Society of Painters in Watercolor
+26	School	Ontario College of Art
+26	Location	Toronto
+27	Occupation	co-directors
+28	Phone	07796 212056
+28	Email	jane@janehunter.co.uk
+29	Other name	C. Jane Hunter
+29	Occupation	pseudonym
+30	Relatives	Hugh Hunter
+31	Occupation	Author
+31	Work	The Gospel of Gentility	American Women Missionaries in Turn Of The Century China
+32	Other name	Jane Hunter Weston
+32	Relatives	Gould Weston	Aylmer Hunter- Weston
+34	Occupation	Senior Research Scientist
+34	Affiliation	Distributed Systems Technology CRC	DSTC
+34	Degree	Dr
+34	Email	jane@dstc.edu.au
+34	Web site	http://archive.dstc.edu.au/RDU/staff/jane-hunter.html
+36	Other name	Hunter J.
+36	Occupation	Senior Research Scientist
+36	Affiliation	CITEC	Resource Discovery Unit at DSTC
+36	School	University of Cambridge
+36	Major	Computer Animation
+36	Degree	PhD
+36	Location	CITEC, 317 Edward St Brisbane, Qld, 4001, Australia
+36	Phone	+617 33654310
+36	FAX	+617 33654311
+36	Email	jane@dstc.edu.au
+37	Relatives	Maskell EWING Jr.
+38	Occupation	editor
+40	Other name	Martha Jane Hunter	Martha J. Hunter
+40	Relatives	James and Margaret Scott Hunter	George Ashman Hunter	George	David McClelland	George A.	Margaret	Rebecca	J. Scott	Finley	Henrietta	Eleanor
+42	Occupation	Senior Research Fellow	Project Leader	editor
+42	Affiliation	Distributed Systems Technology (DSTC) Cooperative Research Centre, at the University of Queensland	DSTC's MAENAD project	Dublin Core Advisory Board	editorial board of the Elsevier Journal of Web Semantics	Distributed Systems Technology Centre	DSTC
+42	Award	Queensland Smithsonian Fellowship
+42	School	University of Cambridge
+42	Major	computer animation
+42	Degree	Dr	PhD
+43	Occupation	owner	viticulturist	managing director	national viticulturist
+43	Affiliation	Hunter's Wines	Montana
+43	Award	OBE	Honorary Doctorate of Science from Massey University	O.B.E
+43	School	University of Adelaide
+43	Major	Agricultural Science
+45	Other name	Hunter, J.
+45	Affiliation	DSTC Pty Ltd, University of Queensland
+45	Location	Australia
+47	Other name	STONE, JANE HUNTER	STONE-Jane Hunter
+47	Relatives	Lauson H. Stone	Harlan Fiske Stone II	Peter H. Stone
+49	Birthplace	Toronto
+49	Occupation	vice-president
+49	Affiliation	Ontario Society of Artists
+49	Award	Awards of Excellence from Canadian Society of Painters in Watercolor	The Canadian Society of Painters in Watercolor
+49	School	Ontario College of Art
+49	Location	Toronto
+50	Other name	HUNTER JANE
+51	Other name	J. Hunter	Hunter, J.
+51	Affiliation	DSTC Pty, Ltd
+51	Location	Brisbane, Australia
+51	Email	jane@dstc.edu.au
+52	Birthplace	Hopewell township
+52	School	Buffalo Academy
+52	Relatives	Joseph C.	Joseph C. Hunter	J. R. Kelley
+53	Relatives	David DAVIS
+54	Occupation	Winemaker
+54	Affiliation	Hunter's Wines
+54	Work	1999 Sauvignon Blanc
+54	Location	Epic Wines, Importer City: Santa Cruz, CA
+54	Phone	800-322-EPIC
+54	Email	hunters@voyager.co.nz
+54	Web site	www.hunters.co.nz
+55	Other name	Hannah Jane Hunter
+55	Relatives	Edgar Theodore Hunter Jr	Linda Lou Hunter	Edgar Theodore Hunter	Edgar	Lila Mae James
+56	Date of birth	1800
+56	Birthplace	Newberry Co, SC
+56	Relatives	Mark Hawkins	Joseph Hunter	Elizabeth Abernathy	Hawkins	E Presley Hawkins	Pierce H Hawkins	Miles Hawkins	Harriet Prudence Hawkins	Rebecca Hawkins	Minta Hawkins	Anna Hawkins	Mary Hawkins	Rhoda Araminta Hawkins	Drayton Pickney Hawkins	Pierce M Hawkins
+57	Birthplace	Goshen, Elkhart Co., Indiana
+57	Relatives	Thomas HUNTER	Francis
+59	Other name	Hannah Jane Hunter
+59	Relatives	Tommy McCallister	Lessea McCallister	Jerrell McCallister
+60	Date of birth	2 Jan 1871
+60	Birthplace	Linden, Cumberland, NS, Can
+60	Other name	Rebecca JANE Hunter
+60	Location	Springhill, Cumberland, NS, Can
+60	Relatives	Amos Hunter	Nancy Willis Giles	Helen Elizabeth Hunter	Eudora Mae Hunter	Hance Hunter	Lillian Fowler Hunter
+61	Work	The Iran-Contra Connection: Secret Teams and Covert Operations in the Reagan Era
+62	Birthplace	Goshen, Elkhart Co., Indiana
+62	Relatives	Thomas HUNTER	Francis
+63	Work	CSAM Audio Collection Archive : LP Recordings	Row Michael Row	Johnny Cuckoo	Old Lady Come From Booster	Shoo Turkey	Mr. Postman Die	Water The Flowers	The Rabbit And The Partridge	Jack And Mary And The Devil
+64	Other name	Amanda Jane HUNTER-MAYFIELD	Amanda Jane HUNTER	Amanda Jane HUNTER-EDWARDS
+64	Relatives	Sarah Jane MAYFIELD-EDWARDS	Martha Ellen MAYFIELD	Mary MAYFIELD
+65	Other name	Almeda Jane Hunter
+65	Relatives	John C Hunter	George T Hunter
+67	Date of birth	1804
+67	Other name	Jane Swann Hunter
+67	Relatives	Robert M. T. Hunter	R. M. T. Hunter
+68	Other name	Hunter, J.
+68	Affiliation	DSTC Pty Ltd
+70	Date of birth	Nov 25 1836	twenty fifth day of november in the year one thousand eight hundred and thirty six
+70	Birthplace	St. Armand, Que.
+70	Other name	Nancy Jane Hunter	Nancy Jane
+70	Occupation	Bootmaker
+70	Relatives	John Hunter	Nancy Anderson	George Thirsk	George	Sarah J. Thirsk	Mary Thirsk	William J. Thirsk	John and Nancy Hunter	Samuel James Hunter	Mary Catherine Hunter	Robert B. Hunter	Thomas Anderson Hunter	William John Hunter	Samuel James Hunter	Mary Catherine Hunter	Hamilton D. Hunter	Margaret J. Hunter	Elizabeth Maryann Hunter	Louise Mariah Hunter
+74	Date of birth	11 AUG 1827
+74	Birthplace	MECKLENBURG CO., N.C.
+74	Other name	ELIZABETH JANE HUNTER
+74	Relatives	THOMAS HUNTER	MARGARET WALKER
+75	Date of birth	1851
+75	Birthplace	Derry Northern Ireland
+75	Other name	Mary Jane Hunter
+76	Date of birth	1864
+76	Birthplace	Preston, Lancashire, England, United Kingdom
+76	Occupation	Cotton Weaver
+76	Relatives	John Hunter	Elizabeth Brown
+77	Date of birth	6 DEC 1910
+77	Birthplace	Petersburg,Menard,Illinois
+77	Other name	Sarah Jane HUNTER
+77	Relatives	Ben HOLLAND	Leslie H. HUNTER	Sally ALLEN	James STAMPER	Sharon HOLLAND
+80	Work	Israeli Foreign Policy: South Aftica and Central America
+81	Phone	(660) 385- 2173
+81	Email	hunterej@missouri.edu
+82	Date of birth	6 DEC 1910
+82	Birthplace	Petersburg,Menard,Illinois
+82	Other name	Sarah Jane HUNTER
+82	Relatives	James STAMPER	Leslie H. HUNTER	Sally ALLEN	Ben HOLLAND
+83	Phone	(660) 385- 2173
+83	Email	hunterej@missouri.edu
+84	Other name	Jane Hunter-Weston
+84	Occupation	Laird
+84	Relatives	Gould Hunter-Weston
+85	Date of birth	1844
+85	Relatives	Joseph HUNTER	Jean FYFE
+88	Date of birth	21 Feb 1828
+88	Birthplace	York Co., Upper Canada
+88	Relatives	Andrew MACKLEM
+90	Date of birth	1758
+90	Birthplace	Louisa County, Virginia
+90	Relatives	William Hunter	Charity Loftus
+92	Affiliation	Hunters Wines
+92	Award	O.B.E
+95	Other name	Jane Hunter Hodgson
+95	Location	Tucson, Arizona
+95	Web site	http://208.199.40.215/genealogy/index.html
+97	Occupation	RN
+97	Location	Rocks, Pennsylvania
+98	Date of birth	8-15-1895
+98	Birthplace	Hurdland MO
+98	Other name	Pansy Jane Hunter
+98	Relatives	Lena Idessa Nichols	Martin Luther Hunter
+99	Date of birth	1828
+99	Birthplace	Davidson County, Tennessee
+99	Other name	Margaret Jane Hunter
+99	Relatives	Isaac Hunter	Mary Marshall	Mary Adaline Hunter	John Gilbert Hunter	James Hunter	Elizabeth Hunter

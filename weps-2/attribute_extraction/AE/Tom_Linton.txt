@@ -1,0 +1,721 @@
+1	affiliation	Jimmy Eat World
+1	birthplace	Mesa, Arizona
+1	birthplace	Mesa, Arizona, U.S.
+1	dateofbirth	August 8, 1975
+1	occupation	guitarist
+1	relatives	Ed
+1	relatives	Jim
+1	relatives	Joy Morgan
+1	work	Bleed American
+1	work	Chase This Light
+1	work	Clarity
+1	work	Futures
+1	work	Jimmy Eat World
+1	work	Static Prevails
+2	affiliation	Central College
+2	affiliation	Moravian College
+2	email	lintont@central.edu
+2	fax	(641) 628-5316
+2	phone	(641) 628-5264
+3	affiliation	Jimmy Eat World
+3	birthplace	Mesa, Arizona
+3	dateofbirth	August 8, 1975
+3	work	Clarity
+4	affiliation	Jimmy Eat World
+4	birthplace	Mesa, Arizona, USA
+4	dateofbirth	8 August 1975
+4	occupation	writer
+4	work	A Cinderella Story
+4	work	American Pie Presents Band Camp
+4	work	Cameron Diaz/Jimmy Eat World
+4	work	Get It Faster
+4	work	Global Frequency
+4	work	Goodbye Sky Harbor
+4	work	Hear You Me
+4	work	Karaoke Revolution Party
+4	work	Life or Something Like It
+4	work	My Sundown
+4	work	NBC's Saturday Night
+4	work	Orange County
+4	work	Pain
+4	work	Riding in Vans with Boys
+4	work	SNL
+4	work	SNL 25
+4	work	Sarah Kuttner - Die Show
+4	work	Saturday Night
+4	work	Saturday Night Live
+4	work	Saturday Night Live '80
+4	work	The Authority Song
+4	work	The Best of Saturday Night Live
+4	work	The Butterfly Effect
+4	work	The First $20 Million Is Always the Hardest
+4	work	The Hot Chick
+4	work	The Middle
+4	work	Une aventure de Cendrillon
+4	work	Zoom
+4	work	Zoom: Academy for Superheroes
+5	affiliation	American Shark Association
+5	affiliation	Board of Directors of CBYRA
+5	affiliation	CCMA
+5	affiliation	Chesapeake Cruising Multihull Association
+5	affiliation	Michigan Shark Fleet
+5	affiliation	Midwest Multihull Association
+5	affiliation	Viking Multihull Club
+5	occupation	Commodore
+5	occupation	Fleet Captain
+5	occupation	Newsletter Editor
+5	occupation	President
+5	occupation	Treasurer
+5	occupation	crew
+5	occupation	sailor
+5	occupation	skipper
+7	affiliation	Jimmy Eat World
+7	occupation	Guitarist
+8	affiliation	Jimmy Eat World
+8	birthplace	Mesa, AZ
+8	dateofbirth	1975
+9	occupation	artist
+10	work	A Cinderella Story
+10	work	American Pie Presents Band Camp
+10	work	Global Frequency
+10	work	Karaoke Revolution Party
+10	work	Life or Something Like It
+10	work	Orange County
+10	work	Riding in Vans with Boys
+10	work	Saturday Night Live: Cameron Diaz/Jimmy Eat World (#27.16)
+10	work	The Butterfly Effect
+10	work	The First $20 Million Is Always the Hardest
+10	work	The Hot Chick
+10	work	Zoom
+11	affiliation	IEEE
+11	affiliation	Numerical Device Modeling at Intel Corporation
+11	location	San Francisco Bay Area
+11	occupation	Manager
+11	occupation	architect
+11	occupation	developer
+11	school	Stanford University
+11	school	The University of Texas at Austin
+11	school	University of Michigan
+13	othername	stringchaser
+13	othername	tomlin
+14	affiliation	Jimmy Eat World
+14	occupation	artists
+14	othername	Thomas Linton
+14	work	Bleed American
+14	work	Chase This Light
+14	work	Hear Y...
+14	work	Jimmy Eat World
+14	work	Opener
+14	work	Static Prevails
+14	work	The Emo Diaries Chapter 1: What's Mine Is Yours
+15	affiliation	Jimmy Eat World
+15	work	Bleed American
+15	work	Futures
+15	work	Get It Faster
+15	work	Pain
+15	work	The Middle
+15	work	Work
+17	affiliation	Jimmy Eat World
+17	othername	tomlinton
+17	work	Chase This Light
+18	affiliation	Freescale Semiconductor Inc
+18	occupation	Chief Procurement Officer
+18	occupation	Vice President
+20	affiliation	Jimmy Eat World
+20	occupation	guitarist
+20	work	Futures
+21	affiliation	Jimmy Eat World
+21	occupation	Guitarist
+21	occupation	guitarist
+21	occupation	musician
+21	relatives	Ed
+21	relatives	Jimmy
+23	birthplace	Boston, MA
+23	dateofbirth	1929
+23	degree	BS
+23	degree	MFA
+23	major	Education
+23	othername	T. Linton
+23	school	Boston University
+23	school	Mass Art
+23	work	Calligraphy Squared
+23	work	Dancer At Rest
+23	work	Music At Sea
+23	work	Nude Figure
+23	work	Two Keys Nested
+24	affiliation	Jimmy Eat World
+27	affiliation	Jimmy Eat World
+28	email	lintont@central.edu
+28	location	312 B Central Hall
+28	occupation	Professor
+28	phone	(641) 628-5264
+31	affiliation	Friends of Galveston Island State Park
+31	affiliation	Texas A&M
+31	occupation	president
+32	affiliation	Jimmy Eat World
+32	occupation	guitarist
+32	occupation	vocalist
+32	work	Futures
+32	work	Jimmy Eat World
+32	work	Sweetness
+32	work	The Middle
+33	affiliation	Jimmy Eat World
+33	dateofbirth	August 8, 1975
+35	relatives	John Linton
+36	affiliation	Jimmy Eat World
+36	occupation	Guitarist
+36	occupation	guitarist
+36	work	Saturday Night Live
+37	affiliation	Agere
+37	affiliation	Freescale Semiconductor
+37	affiliation	IBM
+37	location	Singapore
+37	occupation	chief procurement officer
+37	occupation	vice president
+39	affiliation	Jimmy Eat World
+39	occupation	guitarist
+39	occupation	singer
+39	occupation	vocalist
+40	affiliation	Jimmy Eat World
+41	affiliation	Friends of Galveston Island State Park
+41	birthplace	East Texas
+41	occupation	president
+42	affiliation	Jimmy Eat World
+42	occupation	guitarist
+43	location	Niagara Falls, Canada
+43	othername	Balayage
+44	affiliation	Agere
+44	affiliation	E2open
+44	affiliation	Freescale
+44	affiliation	Freescale Semiconductor
+44	affiliation	IBM
+44	location	Singapore
+44	occupation	chief procurement officer
+44	occupation	general manager
+44	occupation	vice president
+45	affiliation	Freescale
+45	affiliation	Freescale Semiconductor
+45	occupation	CPO
+47	affiliation	Jimmy Eat World
+47	work	Always Be
+48	affiliation	Jimmy Eat World
+55	affiliation	Jimmy Eat World
+55	occupation	guitarists
+55	occupation	vocalists
+55	work	Clarity
+55	work	Jimmy Eat World
+55	work	Static Prevails
+55	work	Table for Glasses
+55	work	Ten
+55	work	Your New Aesthetic
+56	affiliation	Jimmy Eat World
+56	work	Static Prevails
+57	affiliation	Jimmy Eat World
+57	work	Futures
+58	affiliation	Jimmy Eat World
+58	occupation	producers
+58	work	Be Sensible
+58	work	Beautiful Is
+58	work	Carry You
+58	work	Chase This Light
+58	work	Distraction
+58	work	Dizzy
+58	work	Open Bar Reception
+58	work	Take Em As They Come
+59	relatives	Charles
+59	relatives	Ed
+59	relatives	ElmaLee Kerk
+59	relatives	Jim
+59	relatives	John
+59	relatives	Mila
+59	relatives	Sarah Sherwood
+60	affiliation	Jimmy Eat World
+60	work	Always Be
+61	affiliation	Jimmy
+61	affiliation	Jimmy Eat World
+61	location	Arizona
+61	occupation	guitarist
+61	occupation	vocalist
+61	work	Late Night with David Letterman
+61	work	Saturday Night Live
+63	affiliation	Jimmy Eat World
+63	dateofbirth	1976
+63	nationality	American
+63	occupation	musician
+63	othername	Linton, Tom
+63	work	Jimmy Eat World
+65	affiliation	Jimmy Eat World
+65	occupation	musicians
+65	relatives	Ed
+65	relatives	Jimmy
+65	website	http://www.jimmyeatworld.com/
+65	work	A Praise Chorus
+65	work	Back from the Dead Mother Fucker
+65	work	Big Casino
+65	work	Bleed American
+65	work	Chase This Light
+65	work	Clarity
+65	work	Futures
+65	work	Jimmy Eat World
+65	work	Lucky Denver Mint
+65	work	Never Been Kissed
+65	work	One, Two, Three, Four
+65	work	Pain
+65	work	Singles
+65	work	Stay on My Side Tonight EP
+65	work	Sweetness
+65	work	The Middle
+66	affiliation	Friends of Galveston Island State Park
+66	occupation	president
+67	affiliation	Jimmy Eat World
+68	affiliation	Jimmy Eat World
+68	occupation	guitarist
+68	work	Futures
+68	work	Get It Faster
+68	work	Nothing Wrong
+68	work	The Middle
+69	affiliation	Jimmy Eat World
+69	mentor	Scott Staley
+71	affiliation	Jimmy Eat World
+71	dateofbirth	8 August 1975
+71	work	A Praise Chorus
+71	work	Big Casino
+71	work	Bleed American
+71	work	Chase This Light
+71	work	Cheating Gets It Faster
+71	work	Clarity
+71	work	Clarity [Bonus Track]
+71	work	Futures
+71	work	Futures [Bonus Track]
+71	work	Get It Faster
+71	work	Good To Go EP
+71	work	Jimmy Eat World
+71	work	Jimmy Eat World [E.P.] / Good To Go
+71	work	Lucky Denver Mint
+71	work	My Sundown
+71	work	New Aesthetic
+71	work	Pain
+71	work	Static Prevails
+71	work	Sweetness
+71	work	Sweetness pt. 1
+71	work	The Middle
+71	work	The Most Beautiful Things
+71	work	Work
+73	affiliation	Agere
+73	affiliation	E2open
+73	affiliation	Freescale
+73	affiliation	Freescale Semiconductor
+73	affiliation	IBM
+73	location	Singapore
+73	occupation	chief procurement officer
+73	occupation	general manager
+73	occupation	vice president
+74	affiliation	Jimmy Eat World
+74	birthplace	Mesa, AZ
+74	birthplace	Mesa, Arizona
+74	occupation	guitarist
+74	relatives	Ed
+74	relatives	Jimmy
+74	work	12.23.95
+74	work	A Praise Chorus
+74	work	Back From the Dead Mother Fucker
+74	work	Big Casino
+74	work	Bleed American
+74	work	Bleed American [Japan Bonus CD]
+74	work	Blister
+74	work	Carry You
+74	work	Chase This Light
+74	work	Clarity
+74	work	Clarity, 1999 Crapitol
+74	work	Futures
+74	work	Futures [Bonus CD]
+74	work	Futures [Germany Deluxe Version]
+74	work	Futures [Import Bonus Tracks]
+74	work	Futures [LP Bonus Track]
+74	work	Futures [UK Bonus CD]
+74	work	Hear You Me
+74	work	Jimmy Eat World
+74	work	Lucky Denver Mint
+74	work	Maximum Jimmy Eat World
+74	work	My Sundown
+74	work	Never Been Kissed
+74	work	One, Two, Three, Four
+74	work	Pain
+74	work	Seventeen
+74	work	Singles
+74	work	Singles/Jebediah & Jimmy Eat World [Split EP]
+74	work	Static Prevails
+74	work	Stay on My Side Tonight
+74	work	Stay on My Side Tonight EP
+74	work	Sweetness
+74	work	The Authority Song
+74	work	The Middle
+74	work	Work
+75	affiliation	Friends Of Galveston Island State Park Board of Directors
+75	affiliation	Friends of Galveston Island State Park, Inc.
+75	email	FoGISP@aol.com
+75	email	sapeloga@msn.com
+75	location	1722 Capstan Rd.
+75	location	Houston, TX 77062-2245
+75	occupation	Director
+75	occupation	PRESIDENT
+75	occupation	President
+75	othername	LINTON, Tom
+75	phone	281-286-5649
+75	phone	409-939-3800
+77	affiliation	Jimmy Eat World
+77	occupation	guitarist
+78	affiliation	Jimmy Eat World
+78	occupation	guitarist
+78	relatives	Ed
+78	relatives	Jimmy
+78	website	www.jimmyeatworld.net
+78	work	Bleed American
+78	work	Clarity
+78	work	Futures
+78	work	Jimmy Eat World
+78	work	Saturday Night Live
+78	work	Static Prevails
+78	work	The Middle
+78	work	Work
+79	occupation	Counselor
+80	occupation	Crew
+80	occupation	Skipper
+81	affiliation	Jimmy Eat World
+83	affiliation	Jimmy Eat World
+83	occupation	guitarist
+83	work	Drugs or Me
+83	work	Futures
+83	work	Jimmy Eat World
+83	work	Kill
+83	work	Night Drive
+83	work	Pain
+83	work	TRL
+83	work	The Middle
+85	relatives	John Linton
+87	affiliation	Jimmy Eat World
+87	occupation	guitarist
+88	affiliation	Jimmy Eat World
+88	location	Arizona
+88	occupation	guitarist
+88	occupation	vocalist
+88	work	Bleed American
+88	work	Chase This Light
+88	work	Clarity
+88	work	Jimmy Eat World
+88	work	Saturday Night Live
+88	work	The Middle
+89	affiliation	Jimmy Eat World
+91	affiliation	Jimmy Eat World
+91	relatives	Jimmy
+92	affiliation	Jimmy Eat World
+92	occupation	guitarist
+92	work	A Praise Chorus
+92	work	Big Casino
+92	work	Bleed American
+92	work	Chase This Light
+92	work	Clarity
+92	work	Futures
+92	work	Jimmy Eat World
+92	work	Sweetness
+92	work	The Middle
+93	affiliation	Jimmy Eat World
+93	occupation	guitarist
+93	occupation	singer
+93	relatives	Ed
+93	relatives	Jim
+93	relatives	Jimmy
+93	work	23
+93	work	Always Be
+93	work	Big Casino
+93	work	Bleed American
+93	work	Bleed American Deluxe Edition
+93	work	Blister
+93	work	Chase This Light
+93	work	Clarity
+93	work	Futures
+93	work	Jimmy Eat World
+93	work	Lucky Denver Mint
+93	work	Never Been Kissed.
+93	work	Pain
+93	work	Polaris
+93	work	Salt Sweat Sugar
+93	work	Singles
+93	work	Static Prevails
+93	work	The Middle
+93	work	Total Request Live
+93	work	Work
+98	affiliation	Jimmy Eat World
+98	occupation	guitarist
+98	relatives	Ed
+98	relatives	Jimmy
+98	work	A Praise Chorus
+98	work	Bleed American
+98	work	Blister
+98	work	Clarity
+98	work	Firestarter EP
+98	work	Futures
+98	work	Good to Go EP
+98	work	Jimmy Eat World
+98	work	Jimmy Eat World EP
+98	work	Lucky Denver Mint
+98	work	Never Been Kissed
+98	work	One, Two, Three, Four'
+98	work	Singles
+98	work	Split EP
+98	work	Static Prevails
+98	work	Stay On My Side Tonight
+98	work	The Authority Song
+98	work	The Middle
+98	work	Work
+99	affiliation	Jimmy Eat World
+100	affiliation	Jimmy Eat World
+100	occupation	guitarist
+100	work	Big Casino
+100	work	Bleed America
+100	work	Chase This Light
+100	work	Dizzy
+100	work	Electable (Give It Up)
+100	work	Feeling Lucky
+100	work	Gotta Be SomebodyÅfs Blues
+102	affiliation	Jimmy Eat World
+102	occupation	Second guitarist
+102	work	Last Christmas
+105	affiliation	Jimmy Eat World
+105	work	 Stay On My Side Tonight
+105	work	23
+105	work	Always Be
+105	work	Authority Song, The
+105	work	Big Casino
+105	work	Bleed American
+105	work	Carry You
+105	work	Cautioners
+105	work	Chase This Light
+105	work	Clarity
+105	work	Drugs or Me
+105	work	Futures
+105	work	Get It Faster
+105	work	Hear You Me
+105	work	If You Don't, Don't
+105	work	Jimmy Eat World - Believe In What You Want
+105	work	Kill
+105	work	Middle, The
+105	work	Most Beautiful Things, The
+105	work	My Sundown
+105	work	Night Drive
+105	work	No Sensitivity
+105	work	Pain
+105	work	Polaris
+105	work	Praise Chorus, A
+105	work	Singles/Split
+105	work	Static Prevails
+105	work	Sweetness
+105	work	Work
+105	work	Your House
+107	affiliation	Jimmy Eat World
+107	relatives	Ed
+107	relatives	Jimmy
+107	work	Back From the Dead Mother Fucker
+107	work	Bleed American
+107	work	Clarity
+107	work	Jimmy Eat World
+107	work	Lucky Denver Mint
+107	work	Never Been Kissed
+107	work	One, Two, Three, Four
+107	work	Singles
+107	work	Static Prevails
+107	work	Sweetness
+107	work	TRL
+107	work	The Middle
+109	affiliation	Jimmy Eat World
+109	work	A Praise Chorus
+109	work	Cautioners
+109	work	Get It Faster
+109	work	Hear You Me
+109	work	If You Don't, Don't
+109	work	Jimmy Eat World
+109	work	My Sundown
+109	work	Sweetness
+109	work	The Authority Song
+109	work	The Middle
+109	work	Your House
+110	occupation	attorney
+110	occupation	school teacher
+110	occupation	semi-retired atty
+110	othername	TAL
+111	affiliation	Jimmy Eat World
+111	occupation	guitarist
+111	work	Bleed American
+111	work	Clarity
+111	work	Lucky Denver Mint
+111	work	Never Been Kissed
+111	work	Static Prevails
+111	work	The Middle
+112	affiliation	Jimmy Eat World
+114	affiliation	Jimmy Eat World
+114	occupation	guitarist
+114	work	Bleed American
+114	work	Clarity
+114	work	Jimmy Eat World
+114	work	The Middle
+115	affiliation	Jimmy Eat World
+115	occupation	guitarist
+115	work	Bleed American
+115	work	Pain
+115	work	The Middle
+115	work	Work
+116	affiliation	WELLAND CAMERA CLUB
+116	affiliation	Welland Camera Club
+116	occupation	Officers
+116	occupation	Vice President
+117	occupation	driver
+118	affiliation	Jimmy Eat World
+118	dateofbirth	8 August 1975
+119	affiliation	Jimmy Eat World
+119	work	Breed America
+119	work	Clarity
+119	work	Futures
+119	work	Jimmy Eat World
+119	work	The Middle
+121	affiliation	Agere
+121	affiliation	E2open
+121	affiliation	Freescale
+121	affiliation	Freescale Semiconductor
+121	affiliation	IBM
+121	affiliation	business operations
+121	location	Austin, Texas
+121	occupation	Chief Procurement Officer
+121	occupation	VP
+121	occupation	chief procurement officer
+121	occupation	general manager
+121	occupation	senior VP
+122	affiliation	Jimmy Eat World
+122	occupation	Guitarist
+122	work	Bleed American
+122	work	Clarity
+122	work	Futures
+122	work	Jimmy Eat World
+123	affiliation	FreeScale Semiconductor Inc.
+123	affiliation	Freescale
+123	affiliation	Freescale Semiconductor
+123	occupation	chief procurement officer
+124	affiliation	Jimmy Eat World
+124	work	 A Prasie Chorus
+124	work	Bleed American
+124	work	Get it faster
+124	work	Hear you me
+124	work	If you don't, don't
+124	work	My Sundown
+124	work	Sweetness
+124	work	The Middle
+124	work	The authority song
+124	work	cautioners
+125	affiliation	Freescale Semiconductor
+126	affiliation	Jimmy Eat World
+126	work	Always Be
+127	affiliation	Jimmy Eat World
+127	occupation	guitarist
+127	relatives	Jimmy
+127	work	Clarity
+127	work	Jimmy Eat World
+127	work	Singles
+127	work	Static Prevails
+127	work	Sweetness
+127	work	The Middle
+129	nationality	Welsh
+129	occupation	wheelman
+132	affiliation	Jimmy Eat World
+132	occupation	guitarist
+132	work	Clarity
+133	affiliation	Agere
+133	affiliation	E2open
+133	affiliation	FSL
+133	affiliation	FSL.B
+133	affiliation	Freescale Semiconductor
+133	affiliation	IBM
+133	occupation	Chief Procurement Officer
+133	occupation	chief procurement officer
+133	occupation	general manager
+133	occupation	vice president
+136	affiliation	Jimmy Eat World
+136	dateofbirth	Aug. 8
+136	dateofbirth	August 8
+136	occupation	Rock musician
+137	affiliation	Jimmy Eat World
+137	occupation	musicians
+137	relatives	Ed
+137	relatives	Jimmy
+137	work	Chase This Light
+137	work	Clarity
+137	work	Futures
+137	work	The Middle
+138	affiliation	Agere
+138	affiliation	FSL
+138	affiliation	FSL.B
+138	affiliation	Freescale
+138	affiliation	Freescale Semiconductor
+138	affiliation	IBM
+138	occupation	chief procurement officer
+138	occupation	vice president
+140	affiliation	Jimmy Eat World
+140	occupation	guitarist
+140	relatives	Ed
+140	relatives	Jim
+140	relatives	Jimmy
+140	work	23
+140	work	Always Be
+140	work	Big Casino
+140	work	Bleed American
+140	work	Bleed American - Deluxe Edition
+140	work	Blister
+140	work	Chase This Light
+140	work	Clarity
+140	work	Futures
+140	work	Jimmy Eat World
+140	work	Lucky Denver Mint
+140	work	Never Been Kissed
+140	work	Pain
+140	work	Polaris
+140	work	Static Prevails
+140	work	Stay On My Side Tonight EP
+140	work	The Middle
+140	work	Total Request Live
+140	work	Work
+141	affiliation	Jimmy Eat World
+142	affiliation	TES
+142	affiliation	Teaching Environmental Sciences
+142	affiliation	Texas A&M University at Galveston
+142	degree	Dr.
+142	email	t-linton@neo.tamu.edu
+142	phone	409.939.3800
+143	affiliation	Jimmy Eat World
+143	dateofbirth	8 August 1975
+143	location	Mesa, Arizona, USA
+143	occupation	Artist
+143	occupation	artist
+143	work	Bleed American
+143	work	Bleed American (Deluxe Edition) 
+143	work	Clarity
+143	work	Futures
+143	work	Jimmy Eat World
+143	work	One, Two, Three, Four EP
+143	work	Static Prevails
+143	work	The Middle
+144	affiliation	Jimmy Eat World
+145	affiliation	Jimmy Eat World
+145	location	Arizona
+145	occupation	guitarist
+145	work	Futures
+145	work	Jimmy Eat World
+145	work	Middle
+146	affiliation	Jimmy Eat World
+148	affiliation	Legislative Council
+148	affiliation	RICHLAND COUNTY RECREATION COMMISSION
+148	affiliation	Richland County Recreation Commission
+148	location	COLUMBIA
+148	occupation	Code Commissioner
+148	occupation	Director
+148	othername	THOMAS S. LINTON
+148	othername	Thomas S. Linton
+149	affiliation	Jimmy Eat World
+149	mentor	Scott Staley

@@ -1,0 +1,463 @@
+1	affiliation	Career Change Resumes
+1	occupation	Certified Professional Resume Writer
+3	othername	Rita Fisher-Carroll
+3	work	Mortuary Behavior at Upper Nodena
+5	affiliation	Metcalf
+5	affiliation	Metcalf Elementary School
+5	degree	MSE
+5	major	Elementary Education
+5	occupation	Science Teacher
+5	occupation	science educator
+5	school	ISU
+5	school	Illinois State
+5	school	Illinois State University
+6	othername	Rita Fisher-Carroll
+6	work	Mortuary Behavior at Upper Nodena
+7	affiliation	GIS Technology Mgmt
+7	location	Greater Chicago Area
+7	occupation	Director
+8	affiliation	Coachville
+8	affiliation	Columbus Toastmasters Club
+8	affiliation	Fisher Career Group
+8	affiliation	MedeliaMonitor, The Voice of Women in America
+8	affiliation	National Council on Asian American Business Associations
+8	affiliation	Seton Hill University National Education Center for Women in Business
+8	affiliation	WorldWIT (Women, Insights, Technology)
+8	location	state of Indiana
+8	occupation	CEO
+8	occupation	CPRW
+8	occupation	Certified Professional Resume Writer
+8	occupation	President
+8	occupation	resume writer
+8	occupation	writer
+8	work	How To Create a Career Change Resume
+8	work	Military-to-Civilian Resumes and Letters: How to Best Communicate Your Strengths to Civilian Employers
+8	work	The Job Hunt Manual
+10	birthplace	Lewiston
+10	othername	Rita E. (Pouliot) Fisher
+10	relatives	Debbie
+10	relatives	Donald
+10	relatives	Donald 
+10	relatives	John
+10	relatives	Michael
+10	relatives	Roland, Robert and Roger Pouliot
+10	relatives	Yvonne and Antonio Pouliot
+11	othername	Rita Fisher-Carroll
+11	work	Mortuary Behavior at Upper Nodena
+13	location	Antelope, CA United States 
+13	othername	ritafisher
+14	affiliation	Fisher Career Group
+14	location	Columbus, Indiana
+14	occupation	Career Advancement Strategist
+14	occupation	Certified Professional Resume Writer
+14	occupation	President
+15	affiliation	Career Change Resumes
+15	email	resumes@reliable-net.net
+15	location	Indiana
+15	occupation	Certified Professional Resume Writer
+15	occupation	Mom & Popreneurs
+15	phone	(812) 375-6190
+15	website	http://www.careerchangeresumes.com
+16	affiliation	Fisher Career Group
+16	occupation	CEO
+16	occupation	CPRW
+17	affiliation	Best Career Change Resumes
+17	location	Columbus, IN (United States)
+17	occupation	President
+18	location	Columbus, IN, USA
+18	website	http://www.SmileMailer.com
+21	location	Columbus, IN, USA
+21	website	http://www.SmileMailer.com
+22	affiliation	Career Change Resumes
+22	location	Columbus, IN USA
+22	occupation	Executive Director
+28	affiliation	Fisher Engineering, Inc
+28	location	10050 Medlock Ste 100, Duluth, GA 30097, United States
+28	location	Duluth, GA
+28	occupation	President
+28	phone	(770) 495-7770
+29	occupation	Author
+29	occupation	Certified Professional Resume Writer
+29	website	http://www.executivecareerpro.com/index.htm
+30	affiliation	Career Change Resumes
+30	occupation	Author
+30	occupation	CPRW
+30	occupation	Certified Professional Resume Writer
+30	website	http://www.CareerChangeResumes.com
+31	email	resumes@reliable-net.net
+31	occupation	Certified Professional Resume Writer
+31	website	http://www.CareerChangeResumes.com
+34	affiliation	ISU
+34	affiliation	Metcalf
+34	affiliation	Metcalf Lab School
+34	occupation	assistant coach
+34	school	ISU
+35	affiliation	Fisher Career Group
+35	affiliation	FisherCareerGroup.com
+35	location	Columbus, Indiana
+35	location	Indianapolis, Indiana Area
+35	occupation	CEO
+35	occupation	CPRW
+35	occupation	Certified Professional Resume Writer
+35	school	Professional Association of Resume Writers and Career Coaches
+38	affiliation	PFLAG (Parents, Families and Friends of Lesbian & Gays) NYC
+38	birthplace	Brooklyn
+38	othername	Fischer
+38	othername	Rita Fischer
+38	website	www.aidswalk.net/newyork/
+39	occupation	Certified Professional Resume Writer
+39	website	http://www.executivecareerpro.com/index.htm
+40	occupation	Certified Professional Resume Writer
+40	phone	866-645-6350
+40	website	http://www.CareerChangeResumes.com
+43	location	Antelope, CA United States
+44	affiliation	FREEDOM OF INFORMATION ACT
+44	affiliation	U.S. Army Corps of Engineers
+44	email	foia-nan@usace.army.mil
+44	fax	212-264-8171
+44	location	U.S. Army Corps of Engineers 26 Federal Plaza Office of Counsel, Room 1837 New York , NY 10278-0090
+44	occupation	Assistant Freedom of information Act Officer
+44	phone	917-790-8060
+44	website	http://www.hq.usace.army.mil/CECI/FOIA/index.htm
+48	affiliation	ResumesForMoms.com
+48	email	almas@reliable-net.net
+48	location	ResumesForMoms.com 2826 Hawcreek Blvd. Columbus, IN 47203
+48	occupation	Mompreneur
+48	phone	888-587-0064
+48	website	http://www.ResumesForMoms.com
+49	affiliation	Career Change Resumes
+49	occupation	career expert
+49	occupation	certified professional resum? writer
+49	occupation	owner
+51	affiliation	Career Change Resumes
+51	email	RitaFisher55@comcast.net
+51	fax	928-569-5114
+51	location	Career Change Resumes 2928 Cross Creek Drive, Columbus, IN 47201
+51	occupation	CPRW
+51	occupation	Certified Professional Resume Writer
+51	occupation	Owner
+51	phone	812-342-7978
+51	website	http://www.CareerChangeResumes.com
+51	website	http://www.careerchangeresumes.com
+52	occupation	Certified Professional Resume Writer
+52	phone	866-645-6350
+52	website	http://www.CareerChangeResumes.com
+53	affiliation	Best Career Change Resumes
+53	affiliation	Mom Resumes
+53	affiliation	Resume Writing For Pros
+53	fax	928-569-5114
+53	location	2928 Cross Creek Drive, Columbus, IN 47201
+53	location	Columbus
+53	occupation	Certified Professional Resume Writer
+53	occupation	President
+53	occupation	entrepreneur
+53	phone	812-342-7978
+53	school	Professional Association of Resume Writers and Career Coaches
+53	website	http://www.MomResumes.com
+54	affiliation	Best Career Change Resumes
+54	affiliation	Mom Resumes
+54	affiliation	Resume Writing For Pros
+54	occupation	Certified Professional Resume Writer
+54	occupation	Entrepreneur
+54	phone	812-342-7978
+54	school	Professional Association of Resume Writers and Career Coaches
+54	website	http://www.MomResumes.com
+56	affiliation	MOMENTS
+56	affiliation	Moments
+56	affiliation	Moments B&B
+56	location	86 Fletcher St Wentworth Falls 2782 Australia
+56	location	86 Fletcher St, Wentworth Falls, Blue Mountains, Sydney
+56	location	Wentworth Falls
+56	occupation	hostess
+57	relatives	Georgia
+57	relatives	Georgia Fisher
+57	relatives	Mary Utley
+57	relatives	Rose
+57	relatives	Rose Mary Fisher
+57	relatives	Utley
+58	affiliation	Fisher Career Group
+58	location	USA
+58	occupation	CEO
+58	occupation	Certified Professional Resume Writer
+58	occupation	Resume Preparation Counsellor
+58	occupation	author
+58	website	http://www.fishercareergroup.com/
+58	work	How To Create a Career Change Resume
+58	work	The Job Hunt Manual
+59	affiliation	ResumeWritingForPros.com
+59	email	RitaFisher33@comcast.net
+59	fax	928-569-5114
+59	location	2928 Cross Creek Drive, Columbus, IN 47201
+59	occupation	Certified Professional Resume Writer
+59	occupation	Owner
+59	occupation	Resume Writer
+59	phone	812-342-7978
+59	website	http://www.ResumeWritingForPros.com
+59	work	Job Hunt Manual
+60	affiliation	Career Change Resumes
+60	occupation	Certified Professional Resume Writer
+60	occupation	Entrepreneurial Parent
+60	occupation	Owner
+60	occupation	Resume Expert
+60	occupation	business people
+60	occupation	entrepreneurial parents
+60	phone	(812) 375-6190
+60	website	http://www.careerchangeresumes.com
+61	affiliation	Career Change Resumes
+62	affiliation	Metcalf Lab School
+62	affiliation	Office of Clinical Experiences and Certification Processes at Illinois State University
+62	degree	B.S.
+62	degree	M.S.
+62	major	Ed
+62	major	Music
+62	school	DePaul University
+62	school	Illinois State University
+63	affiliation	FitEmployee.com
+63	email	RitaFisher33@comcast.net
+63	occupation	professional instructor
+63	phone	812-342-7978
+63	phone	812.342.7978
+65	affiliation	PFLAG (Parents, Families and Friends of Lesbian & Gays) NYC
+65	birthplace	Brooklyn
+65	othername	Fischer
+65	othername	Rita Fischer
+65	website	www.aidswalk.net/newyork/
+68	occupation	Meter Maid
+69	affiliation	Atlantic Tall Club
+69	affiliation	Hartford Heights Tall Club
+69	affiliation	New Jersey Moonrakers
+69	affiliation	Publisher Committee for Tall Topix
+69	affiliation	TCI
+69	affiliation	TCI Alternate Executive Board and Scholarship Committee
+69	affiliation	TCI Convention Committee
+69	affiliation	TCI Executive Board
+69	affiliation	Tall Clubs International
+69	affiliation	Tri County Talls of NY & CT
+69	award	TCI Merit Award
+69	award	TCI's Woman of the Year
+69	occupation	National Finance Officer
+69	occupation	organizer
+70	location	NE
+70	relatives	Laurie
+71	email	resumes@reliable-net.net
+71	occupation	Certified Professional Resume Writer
+71	website	http://www.CareerChangeResumes.com
+72	degree	Dr.
+72	occupation	Assistant Superintendent
+73	othername	Rita Fisher-Walsh
+74	affiliation	SmileMailer.com
+74	email	SmileMailer@comcast.net
+74	location	2928 Cross Creek Drive, Columbus, IN 47201
+74	phone	812-342-7978
+74	website	http://www.SmileMailer.com
+75	affiliation	Career Change Resumes
+75	email	resumes@reliable-net.net
+75	occupation	CPRW
+75	occupation	Certified Professional Resume Writer
+75	website	http://www.CareerChangeResumes.com
+76	affiliation	Career Change Resumes
+76	occupation	CPRW
+76	occupation	Certified Professional Resume Writer
+76	website	http://www.careerchangeresumes.com/
+77	affiliation	Career Change Resumes
+77	email	resumes@reliable-net.net
+77	occupation	CPRW
+77	occupation	Career Expert
+77	occupation	Certified Professional Resume Writer
+77	occupation	owner
+77	website	http://www.CareerChangeResumes.com
+78	relatives	Mary Utley
+78	relatives	Utley
+79	location	Columbus, Indiana
+79	occupation	Entrepreneur
+79	occupation	professional resume writer
+79	website	www.resumesformoms.com
+80	affiliation	Blue Mountains Tourism Limited
+80	affiliation	Leura Village Association
+80	affiliation	Stacks/Blue Mountains
+80	affiliation	regional Chamber of Commerce, BIZNET
+80	location	Blue Mountains
+80	location	Mountains
+80	occupation	President
+80	occupation	principal solicitor
+80	relatives	Robert
+80	relatives	Robert Fisher
+81	affiliation	USAIN
+81	affiliation	United States Agricultural Information Network
+81	affiliation	User Access and Retrieval
+81	occupation	President
+83	affiliation	Career Change Resumes
+83	email	RitaFisher55@comcast.net
+83	occupation	CPRW
+83	occupation	Certified Professional Resume Writer
+83	website	http://www.CareerChangeResumes.com
+87	affiliation	Coachville.com
+87	affiliation	Medelia Monitor, The Voice of Women in America
+87	affiliation	National Council on Asian American Business Associations
+87	affiliation	Seton Hill University's National Education Center for Women in Business
+87	affiliation	WorldWIT, Women. Insights. Technology
+87	occupation	CPRW
+87	occupation	Certified Professional Resume Writer
+87	occupation	author
+87	occupation	expert
+89	occupation	career advocate
+89	website	http://www.MomResumes.com
+91	affiliation	Career Change Resumes
+91	occupation	Author
+91	occupation	CPRW
+91	occupation	Certified Professional Resume Writer
+91	occupation	Expert Author
+91	website	http://www.CareerChangeResumes.com
+92	affiliation	Career Change Resumes
+92	occupation	owner
+92	occupation	professional resume writer
+92	website	http://www.CareerChangeResumes.com
+93	affiliation	Career Change Resumes
+93	email	resumes@reliable-net.net
+93	occupation	Career Expert
+93	occupation	Certified Professional Resume Writer
+93	occupation	owner
+93	phone	812-375-6190
+93	website	http://www.careerchangeresumes.com
+94	affiliation	Career Change Resumes
+94	occupation	owner
+94	occupation	professional resume writer
+94	website	http://www.CareerChangeResumes.com
+95	occupation	CPRW
+95	website	http://www.ResumeWritingForPros.com
+96	email	RitaFisher33@comcast.net
+96	occupation	CPRW
+96	occupation	Certified Professional Resume Writer
+96	occupation	Owner
+96	website	http://www.ResumeWritingForPros.com
+97	relatives	Ernest Bolden Fisher
+101	occupation	CPRW
+101	occupation	Certified Professional Resume Writer
+101	website	http://www.CareerChangeResumes.com
+105	affiliation	Career Change Resumes
+105	email	RitaFisher55@comcast.net
+105	fax	928-569-5114
+105	location	2928 Cross Creek Drive,Columbus, IN 47201
+105	occupation	CPRW
+105	occupation	Certified Professional Resume Writer
+105	occupation	Owner
+105	phone	812-342-7978
+105	website	CareerChangeResumes.com
+106	affiliation	Best Career Change Resumes
+106	affiliation	Mom Resumes
+106	affiliation	Resume Writing For Pros
+106	email	RitaFisher@comcast.net
+106	fax	928-569-5114
+106	location	2928 Cross Creek Drive, Columbus, IN 47201
+106	location	Columbus
+106	occupation	Certified Professional Resume Writer
+106	occupation	President
+106	occupation	entrepreneur
+106	phone	812-342-7978
+106	school	Professional Association of Resume Writers and Career Coaches
+106	website	http://www.MomResumes.com
+107	email	rgfisher@earthlink.net
+107	location	Los Gatos, California
+108	affiliation	Career Change Resumes
+108	occupation	Career Expert
+108	occupation	Certified Professional Resume Writer
+108	occupation	owner
+108	website	http://www.careerchangeresumes.com
+109	email	rgfisher@earthlink.net
+109	location	Los Gatos, California
+110	affiliation	Career Change Resumes
+110	occupation	CPRW
+110	occupation	Certified Professional Resume Writer
+110	website	http://www.CareerChangeResumes.com
+111	occupation	CPRW
+111	occupation	Certified Professional Resume Writer
+111	website	http://www.CareerChangeResumes.com
+112	occupation	Certified Professional Resume Writer
+112	website	http://www.CareerChangeResumes.com
+113	relatives	Ernest Bolden Fisher
+113	relatives	Gaynelle
+113	relatives	Lynn D Fisher
+113	relatives	Ray A Fisher
+113	relatives	Sandra Fisher
+113	relatives	Terry K Fisher
+114	occupation	CPRW
+114	occupation	Certified Professional Resume Writer
+114	website	http://www.CareerChangeResumes.com
+115	occupation	Certified Professional Resume Writer
+115	occupation	Owner
+115	website	http://www.ResumeWritingForPros.com
+117	email	rfisher@velma-alma.k12.ok.us
+117	occupation	Superintendent's Secretary
+119	affiliation	YMCA Camp Flaming Arrow
+119	email	ritaf@ymcatx.org
+119	phone	(830) 238-4631
+121	affiliation	2007 Board of Directors
+121	email	rfisher@st-marys.org
+121	occupation	President
+121	othername	Rita Fisher Carroll
+121	phone	304-526-1259
+123	affiliation	St. Mary's Medical Center School for Medical Imaging
+123	degree	Ph.D.
+123	email	rfisher@st-marys.org
+123	location	2900 First Avenue Huntington WV 25702
+123	occupation	Program Director
+123	occupation	R.T.
+123	othername	Rita Fisher-Carroll
+123	phone	304.526.1259
+127	affiliation	Jackson R-2 School District
+127	occupation	assistant superintendent
+129	affiliation	SmileMailer.com
+129	email	SmileMailer@comcast.net
+129	location	2928 Cross Creek Drive, Columbus, IN 47201
+129	phone	812-342-7978
+129	website	http://www.SmileMailer.com
+132	occupation	CPRW
+132	website	http://www.ResumeWritingForPros.com
+133	occupation	CPRW
+133	occupation	Certified Professional Resume Writer
+133	website	http://www.CareerChangeResumes.com
+134	affiliation	2004-2005 Board of Directors
+134	occupation	Secretary
+135	affiliation	Career Change Resumes
+135	location	state of Indiana
+135	occupation	Certified Professional Resume Writers
+135	phone	866-645-6350
+135	website	http://www.CareerChangeResumes.com
+136	affiliation	Rita Fish Resumes
+139	affiliation	Stacks//Blue Mountains
+139	affiliation	Stacks/Blue Mountains
+139	affiliation	Stacks/Blue Mountains Pty Ltd
+139	fax	(02) 4784 2422
+139	location	Blue Mountains
+139	location	Suite 11, 166-168 The Mall Leura NSW 2780
+139	location	mountains
+139	occupation	principal solicitor
+139	phone	(02) 4784 2200
+139	phone	0404 834 591
+139	relatives	Robert Fisher
+140	affiliation	ResumeWritingForPros.com
+140	email	RitaFisher33@comcast.net
+140	fax	928-569-5114
+140	location	2928 Cross Creek Drive, Columbus, IN 47201
+140	occupation	Certified Professional Resume Writer
+140	occupation	Owner
+140	phone	812-342-7978
+140	website	http://www.ResumeWritingForPros.com
+141	affiliation	Fisher Career Group
+141	email	RitaFisher33@comcast.net
+141	location	Columbus, Indiana
+141	location	Fisher Career Group 2928 Cross Creek Drive, Columbus, Indiana 47201
+141	occupation	Certified Professional Resume Writer
+141	occupation	Professional Resume Writer
+141	phone	812.342.7978
+141	website	http://www.FisherCareerGroup.com
+144	birthplace	Brooklyn
+146	affiliation	PFLAG (Parents, Families and Friends of Lesbian & Gays) NYC
+146	birthplace	Brooklyn
+148	affiliation	Career Change Resumes
+148	occupation	CPRW
+148	website	http://www.CareerChangeResumes.com
+149	affiliation	USAIN Council
+149	affiliation	USAIN Executive Council
+149	affiliation	United States Agricultural Information Network
+149	occupation	President-Elect

@@ -1,0 +1,988 @@
+2	affiliation	Elle
+2	affiliation	GQ
+2	affiliation	Harper's Bazaar
+2	affiliation	Interview
+2	affiliation	Rolling Stone
+2	affiliation	Vanity Fair
+2	affiliation	Vogue
+2	award	MTV Video Awards
+2	birthplace	Los Angeles, California
+2	dateofbirth	August 13, 1952
+2	location	East Coast
+2	major	art history
+2	major	economics
+2	nationality	American
+2	occupation	Actor
+2	occupation	Celebrity/Fashion Photographer
+2	occupation	Photographer
+2	occupation	celebrity photographer
+2	occupation	fashion photographer
+2	othername	Herbert Ritts
+2	school	Bard College
+2	work	Africa
+2	work	Behind The Music, episode 6: Imagemakers, as himself
+2	work	Diary, episode 8: Diary Of Britney Spears, as himself
+2	work	Duo
+2	work	Herb Ritts
+2	work	Intimate Portrait, episode: Cindy Crawford, as himself
+2	work	Making The Video, episode 86: Underneath Your Clothes, as himself
+2	work	Men/Women
+2	work	Murder In The First, as Mike Kelly
+2	work	Notorious
+2	work	Pictures
+2	work	The Ellen Show, episode 4: Vanity Hair, as the photographer
+2	work	Work
+3	work	Alek Wek
+3	work	Backflip
+3	work	Djimon with Octopus
+3	work	Male Nude with Bubble
+3	work	Nude with Tumbleweed
+3	work	Stephanie with Flower
+3	work	Versace Dress
+4	work	Africa
+4	work	Duo
+4	work	Herb Ritts
+4	work	Kazu
+4	work	Men/Women
+4	work	Notorious
+4	work	Pictures
+4	work	Work
+5	dateofbirth	1952
+5	nationality	American
+5	occupation	Photographer
+5	work	 Female Nude
+5	work	Africa
+5	work	Alek Wek
+5	work	Amy Van Dyken, American Athlete
+5	work	Amy Von Dyken
+5	work	Back Flip
+5	work	Cindy Crawford
+5	work	Cindy and Company
+5	work	Dale Chihuly, Seated
+5	work	Dan O'Brien
+5	work	Dan and Fred
+5	work	Dance
+5	work	Darati
+5	work	Denzel Washington
+5	work	Dizzy Gillespie
+5	work	Djimon
+5	work	Djimon with Octopus
+5	work	Duo
+5	work	Duo IV
+5	work	Dustin Hoffman
+5	work	Female Nude with Black Sand
+5	work	Female Nude with Tumbleweed
+5	work	Female Nude with Veil
+5	work	Female Torso with Veil
+5	work	Four Works
+5	work	Fred With Tires
+5	work	Fred with Tires
+5	work	Fred with Tires I
+5	work	Fred with Tires II
+5	work	Fred with Tyres
+5	work	Fred with tires
+5	work	George Wallace I
+5	work	George Wallace II
+5	work	Jack Nicholson
+5	work	Jackie Joyner-Kersee
+5	work	Jacqui Agyepong, English Athlete
+5	work	Jump
+5	work	Louise Bourgeois
+5	work	Maasai Woman and Child
+5	work	Madonna
+5	work	Male Nude
+5	work	Male Nude on Log
+5	work	Male Nudes
+5	work	Man on top of a Ttree Trunk
+5	work	Marie- Jo Prec
+5	work	Mask
+5	work	Men with Kelp
+5	work	Merce Cunningham, Detail
+5	work	Merce Cunningham, Standing
+5	work	Michael Jordon
+5	work	Nandoye and Nangini, Hands Joined
+5	work	Nangini
+5	work	Naomi
+5	work	Naomi Campbell
+5	work	Neith with Shadows, Font View
+5	work	Neith with Shadows, Rear View
+5	work	Neith with Tumbleweed
+5	work	Nude with Tumbleweed
+5	work	Pictures
+5	work	Richard Gere
+5	work	Roy Lichtenstein
+5	work	Sandra Bernhardt
+5	work	Sinead O'Connor
+5	work	Stephanie
+5	work	Stephanie with Flower
+5	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+5	work	Tatjana Veiled Head, Tight View
+5	work	Tina Turner
+5	work	Tony with Black Face, Profile
+5	work	Touch Me
+5	work	Two Male Nudes
+5	work	Untitled
+5	work	Versace Dress
+5	work	Versace Dress, Back View
+5	work	Versace Veiled Dress
+5	work	Waterfall IV
+5	work	William S. Burroughs with Basket
+5	work	William S. Burroughs with Glasses
+5	work	Woman in Sea
+5	work	Woman in Sea Hawaii
+5	work	Wrapped Torso
+5	work	Wrestling Torsos
+5	work	k.d. Lang and Cindy Crawford
+6	affiliation	Rolling Stone
+6	affiliation	Vanity Fair
+6	affiliation	Vogue
+6	occupation	photographer
+6	occupation	photographers
+6	work	Africa
+6	work	Duo
+6	work	Kazu
+6	work	Men/Women
+6	work	Notorious
+6	work	Pictures
+6	work	Work
+7	birthplace	Los Angeles
+7	birthplace	Los Angeles, California, USA
+7	dateofbirth	13 August 1952
+7	dateofbirth	1952
+7	major	economics
+7	occupation	Actor
+7	occupation	Director
+7	occupation	still photographer
+7	work	... aka Meurtre  Alcatraz (France) 
+7	work	50 Sexiest Video Moments (2003) (TV) .... Himself 
+7	work	Behind the Music .... Himself (1 episode, 1997)... aka VH1's Behind the Music (USA)    - Imagemakers (1997) TV episode .... Himself
+7	work	Intimate Portrait .... Himself (1 episode)
+7	work	Murder in the First (1995) .... Mike Kelly 
+7	work	No Doubt: Rock Steady Live (2003) (V) (uncredited) .... Himself 
+7	work	The Ellen Show .... The Photographer (1 episode, 2001)  - Vanity Hair (2001) TV episode .... The Photographer
+9	dateofbirth	August 13, 1952
+9	major	economics
+9	mentor	Steve McQueen
+9	nationality	American
+9	occupation	Photographer
+9	occupation	photographer
+9	occupation	salesman
+10	award	MTV awards for best male video
+10	award	best female video
+10	dateofbirth	1952
+10	nationality	American
+10	occupation	Photographer
+10	work	Cindy and Company
+10	work	Duo
+10	work	Jim with Tyres
+10	work	Men with Kelp
+10	work	Work
+11	affiliation	Board of Directors for The Elton John Aids Foundation
+11	affiliation	Interview
+11	affiliation	Rolling Stone
+11	affiliation	Vanity Fair
+11	affiliation	Vogue
+11	occupation	celebrity photographer
+11	occupation	charter member
+11	occupation	photographer
+12	affiliation	Rolling Stone
+12	affiliation	Vanity Fair
+12	affiliation	Vogue
+12	birthplace	Southern California
+12	dateofbirth	1952
+12	occupation	image maker
+12	occupation	photographer
+12	work	Africa
+12	work	Backflip
+12	work	Duo
+12	work	Jack Nicholson
+12	work	Jackie Joyner-Kersee
+12	work	Jim Carrey
+12	work	Jump
+12	work	Madonna
+12	work	Men/Women
+12	work	Naomi
+12	work	Nelson Mandela
+12	work	Richard Gere
+12	work	Sean Connery
+12	work	Stephanie
+12	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+12	work	Tina Turner
+12	work	Woman in Sea
+13	occupation	Artist
+13	othername	Ritts Herb
+13	work	Duo
+13	work	Duo IV
+13	work	Female Nude Detail
+13	work	Fred with Tires
+13	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+14	occupation	   Author
+14	work	Work
+15	occupation	image maker
+15	occupation	photographer
+16	affiliation	Armani
+16	affiliation	Harper's Bazaar
+16	affiliation	Rolling Stone
+16	affiliation	Vanity Fair
+16	affiliation	Versace
+16	affiliation	Vogue
+16	birthplace	Los Angeles
+16	birthplace	Los Angeles, California
+16	dateofbirth	1952
+16	dateofbirth	August 13, 1952
+16	location	New York
+16	major	economics
+16	nationality	American
+16	occupation	Director
+16	occupation	fashion and celebrity photographer
+16	occupation	fashion photographer
+16	occupation	sales representative
+16	othername	Ritts, Herb
+16	school	Bard College
+16	work	Djimon
+16	work	Work
+19	affiliation	Esquire
+19	dateofbirth	1952
+19	dateofbirth	August 13, 1952
+19	location	 California
+19	location	Beverly Hills
+19	location	New York
+19	location	Santa Catalina Island
+19	major	economics
+19	nationality	American
+19	occupation	photographer
+19	occupation	sales representative
+19	othername	Herbert Ritts, Jr.
+19	othername	Ritts, Herb
+19	school	Bard College
+19	work	'August 13, 1952
+19	work	Africa
+19	work	Duo
+19	work	Fred with Tires
+19	work	Notorious
+19	work	Pictures
+19	work	Work
+21	othername	Ritts, Herb
+21	work	Amy Van Dyken, American Athlete
+21	work	Cindy Crawford
+21	work	Cindy and Company
+21	work	Djimon
+21	work	Duo
+21	work	Duo IV
+21	work	Female Nude
+21	work	Female Torso with Veil
+21	work	Fred
+21	work	Fred with Tyres
+21	work	Jacqui Agyepong, English Athlete
+21	work	Man on top of a Tree
+21	work	Marie-Jo P.*rec, French Athlete
+21	work	Marie-Jo Perec, French Athlete
+21	work	Men with Kelp
+21	work	Nude with Tumbleweed
+21	work	Stephanie
+21	work	Untitled
+21	work	Work
+23	affiliation	Elle
+23	affiliation	Harper's Bazaar
+23	affiliation	Interview
+23	affiliation	Ritts Co.
+23	affiliation	Rolling Stone
+23	affiliation	Vanity Fair
+23	affiliation	Vogue
+23	award	MTV Video Music Awards
+23	birthplace	Los Angeles
+23	dateofbirth	1952
+23	location	Los Angeles
+23	location	New York
+23	major	economics
+23	occupation	artist
+23	occupation	celebrity and fashion photographer
+23	occupation	photographer
+23	occupation	sales representative
+23	relatives	Christy Thrasher
+23	relatives	Rory
+23	relatives	Shirley Ritts
+23	school	Bard College
+23	work	Duo
+24	affiliation	elle
+24	affiliation	harper's bazaar
+24	affiliation	interview
+24	affiliation	rolling stone
+24	affiliation	vanity fair
+24	affiliation	vogue
+24	birthplace	los angeles
+24	dateofbirth	1952
+24	location	 california
+24	location	los angeles
+24	location	new york
+24	major	economics
+24	occupation	celebrity portraitist
+24	occupation	commercial directors
+24	occupation	commercial photographer
+24	occupation	photographers
+24	occupation	sales representative
+24	school	bard college
+24	work	 duo 
+24	work	 herb ritts
+24	work	africa
+24	work	dizzy gillespie
+24	work	jack nicholson
+24	work	madonna
+24	work	men \/ women
+24	work	naomi
+24	work	notorious
+24	work	pictures
+24	work	richard gere
+24	work	sandra bernhard
+24	work	stephanie
+24	work	stephanie, cindy, christy, tatjana, naomi
+24	work	work
+25	affiliation	Board of Directors for The Elton John Aids Foundation
+25	affiliation	Interview
+25	affiliation	Rolling Stone
+25	affiliation	Vanity Fair
+25	affiliation	Vogue
+25	birthplace	California, US
+25	dateofbirth	1952
+25	location	 California
+25	location	Beverly Hills
+25	location	Los Angeles
+25	location	New York
+25	occupation	charter member
+25	website	www.herbritts.com
+25	work	Africa
+25	work	Bill T. Jones
+25	work	Bill T. Jones (Ascent of Man)
+25	work	Boris Becker IV
+25	work	Dan & tom
+25	work	Djimon
+25	work	Djimon \(Three Quarter Nude\)
+25	work	Djimon with Octopus
+25	work	Duo
+25	work	Duo IV
+25	work	Duo VII
+25	work	Fred
+25	work	Fred with Tyres
+25	work	Jump
+25	work	Kazu
+25	work	Male Nude
+25	work	Male Nude with Bubble
+25	work	Male Nude with Shell II
+25	work	Male Nude with Tumbleweed
+25	work	Male Nudes
+25	work	Male Torso With Veil
+25	work	Man With Chain
+25	work	Man on top of a Tree
+25	work	Man on top of a Tree Trunk
+25	work	Mask
+25	work	Mel Gibson
+25	work	Men with Kelp
+25	work	Notorious
+25	work	Nude with Tumbleweed
+25	work	Paul, Torso
+25	work	Pictures
+25	work	Pierre and Yuri
+25	work	Richard Gere
+25	work	Stephanie
+25	work	Tony with Blackface
+25	work	Untitled
+25	work	Untitled Nude II
+25	work	Waterfall IV
+25	work	Work
+27	affiliation	Vanity Fair
+27	affiliation	Vogue
+27	location	Los Angeles
+27	location	New York
+27	occupation	celebrity photographers
+27	occupation	fashion photographer
+27	occupation	imagemaker
+27	occupation	photographers
+27	work	Africa
+27	work	Dizzy Gillespie
+27	work	Duo
+27	work	Fred
+27	work	Fred With Tires
+27	work	Tina Turner
+27	work	notorious
+29	affiliation	Interview
+29	location	 California
+29	location	New York
+29	occupation	contributing photographer
+29	occupation	photographer
+32	occupation	photographer
+32	website	www.herbritts.com
+32	work	Paul - Torso
+32	work	herb ritts
+33	work	Men with Kelp
+34	work	Africa
+34	work	Jump
+34	work	Notorious
+35	work	Jump
+36	work	 Female Nude
+36	work	Duo IV
+36	work	Female Nude
+36	work	Fred
+36	work	Fred with Tyres
+36	work	Men with Kelp
+36	work	Woman in Sea
+37	work	 Female Nude
+37	work	Cindy and Company
+37	work	Duo
+37	work	Duo IV
+37	work	Female Nude
+37	work	Fred
+37	work	Men with Kelp
+38	dateofbirth	1952
+38	location	Los Angeles
+38	nationality	American
+38	occupation	celebrity photographer
+38	occupation	photographer
+38	relatives	Shirley
+38	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+38	work	Work
+39	affiliation	Vanity Fair
+39	location	 California
+39	location	Beverly Hills
+39	location	Los Angeles
+39	location	New York
+39	occupation	Photographer
+39	work	Fred
+39	work	Fred With Tires
+42	location	Los Angeles
+42	work	Bob Paris
+42	work	Boot
+42	work	Clay Face
+42	work	Clay Nude on Mantle
+42	work	Clay \(Detail\)
+42	work	Curved Torso
+42	work	David with Lampshade
+42	work	Djimon
+42	work	Djimon - Censored
+44	award	MTV awards
+44	award	best female and best male video
+44	birthplace	Los Angeles
+44	dateofbirth	1952
+44	location	 California
+44	location	Los Angeles
+44	location	New York
+44	major	economics
+44	occupation	Celebrity photographer
+44	occupation	Photographer
+44	occupation	sales rep
+44	relatives	Christy
+44	relatives	Rory
+44	relatives	Shirley
+44	school	Bard College
+45	occupation	Photographer
+45	location	Los Angeles
+46	location	California
+47	affiliation	Esquire
+47	award	MTV Award
+47	dateofbirth	1952
+47	dateofbirth	August 13, 1952
+47	location	 California
+47	location	'August 13, 1952
+47	location	Beverly Hills
+47	location	Los Angeles
+47	location	Santa Catalina Island
+47	nationality	USA
+47	occupation	photographer
+47	othername	Herbert Ritts, Jr.
+47	othername	RITTS, HERB
+47	work	Africa
+47	work	Bob Paris
+47	work	Duo
+47	work	Fred
+47	work	Fred with Tires
+47	work	Notorious
+47	work	Pictures
+47	work	Work
+48	affiliation	Harper's Bazaar
+48	affiliation	Rolling Stone
+48	affiliation	Vanity Fair
+48	affiliation	Vogue
+48	award	MTV Video Music Awards
+48	birthplace	Los Angeles, California
+48	dateofbirth	August 13, 1952
+48	location	 California
+48	location	'August 13, 1952
+48	location	Los Angeles
+48	location	New York
+48	major	economics
+48	nationality	American
+48	occupation	fashion photographer
+48	occupation	sales representative
+48	school	Bard College
+48	work	 herb ritts
+48	work	Naomi
+49	occupation	fashion photographers
+49	occupation	image maker
+49	occupation	photographer
+49	work	Work
+51	work	Duo
+51	work	Duo IV
+51	work	Fred
+51	work	Fred with Tires
+51	work	Fred with Tires I
+51	work	Fred with Tires II
+51	work	Men with Kelp
+51	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+51	work	Woman in Sea
+52	occupation	photographers
+52	othername	Herb Ritt
+52	work	Madonna
+54	dateofbirth	1952
+54	location	Los Angeles
+54	nationality	American
+54	occupation	Celebrity photographer
+54	occupation	celebrity photographer
+54	occupation	photographer
+54	relatives	Christy
+54	relatives	Rory
+54	relatives	Shirley
+55	dateofbirth	1952
+55	location	 California
+55	location	Beverly Hills
+55	location	Los Angeles
+55	occupation	celebrity photographers
+55	occupation	photographer
+55	work	Africa
+55	work	Djimon with Octopus
+55	work	Notorious
+56	birthplace	Brentwood, USA
+56	dateofbirth	1952
+56	nationality	American
+56	work	Fred
+56	work	Fred with Tires II
+56	work	Matthew McConaughey
+56	work	Prince
+56	work	Rupaul III
+56	work	Sandra Bernhard
+56	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+56	work	Untitled
+56	work	Versace dress, back view
+58	affiliation	Vanity Fair
+58	affiliation	Vogue
+58	occupation	Celebrity photographer
+58	occupation	Photographer
+58	occupation	celebrity photographer
+58	relatives	Shirley Ritts
+58	work	Dance
+59	affiliation	French Vogue
+59	affiliation	L'Uomo Vogue
+59	award	Best Video
+59	award	Infinity Award for Applied Photography
+59	location	 California
+59	location	Los Angeles
+59	location	New York
+59	occupation	commercial directors
+59	occupation	director
+59	occupation	fashion/personality and fine arts photographer
+59	occupation	photographer
+59	occupation	photographers
+59	work	Darati
+59	work	Work
+60	award	Best Male Video and Best Female Video at the 1991 MTV Video Music Awards
+60	birthplace	Los Angeles
+60	dateofbirth	1952
+60	location	Beverly Hills
+60	location	Los Angeles
+60	location	New York
+60	major	economics
+60	occupation	Celebrity photographer
+60	occupation	Photographer
+60	occupation	Video Director
+60	relatives	Christy Thrasher
+60	relatives	Rory
+60	relatives	Shirley Ritts
+60	school	Bard College
+60	work	Madonna
+60	work	Richard Gere
+61	affiliation	Elle
+61	affiliation	Harper's Bazaar
+61	affiliation	Interview
+61	affiliation	Rolling Stone
+61	affiliation	Vogue
+61	birthplace	southern California
+61	location	 California
+61	location	Los Angeles
+61	location	New York
+61	location	Shirley and Herb Ritts
+61	occupation	Celebrity photographer
+61	occupation	Photographer
+61	occupation	celebrity and fashion photographers
+61	occupation	photographer
+61	occupation	video director
+61	relatives	Christy Thrasher
+61	relatives	Rory
+61	relatives	Shirley Ritts
+61	school	Bard College
+61	work	Africa
+61	work	Bill T. Jones
+61	work	Cindy Crawford
+61	work	Men/Women
+66	affiliation	Elle
+66	affiliation	Harper's Bazaar
+66	affiliation	Interview
+66	affiliation	Vogue
+66	award	Best Male Video
+66	award	MTV awards for Best Female Video
+66	birthplace	Los Angeles
+66	dateofbirth	1952
+66	location	 California
+66	location	Los Angeles
+66	major	economics
+66	occupation	Celebrity Photographer
+66	occupation	Photographer
+66	occupation	celebrity portraitist
+66	occupation	commercial photographer
+66	occupation	photographer
+66	occupation	sales representative
+66	school	Bard College
+66	work	Africa
+66	work	Duo
+66	work	Jump
+66	work	Madonna
+66	work	Men/Women
+66	work	Notorious
+66	work	Richard Gere
+67	affiliation	Vanity Fair
+67	affiliation	Vogue
+67	location	Los Angeles
+67	occupation	imagemaker
+67	occupation	photographers
+68	award	MTV's video music awards
+68	award	best video
+68	birthplace	Los Angeles
+68	dateofbirth	1952
+68	degree	economics
+68	occupation	commercial photographer
+68	occupation	photographer
+68	occupation	salesman
+68	relatives	Christy
+68	relatives	Rory
+68	relatives	Shirley Ritts
+68	school	Bard College
+69	occupation	photographer
+69	othername	Ritts, Herb
+70	work	Loriki with Spear
+71	location	Los Angeles
+72	award	1991 MTV awards
+72	award	best female and best male video
+72	occupation	photographer
+72	work	herb ritts
+73	birthplace	Los Angeles
+73	dateofbirth	1952
+73	location	 California
+73	major	economics
+73	occupation	Celeb Photographer
+73	occupation	celebrity photographer
+73	occupation	fashion and celebrity photographers
+73	occupation	sales representative
+73	relatives	Christy
+73	relatives	Rory
+73	relatives	Shirley Ritts
+73	school	Bard College
+75	birthplace	Los Angeles
+75	dateofbirth	1952
+75	location	East Coast
+75	location	New York
+75	major	economics
+75	occupation	photographer
+75	occupation	photographers
+75	school	Bard College
+76	affiliation	Elle
+76	affiliation	Harpers Bazaar
+76	affiliation	Vogue
+76	birthplace	Los Angeles
+76	dateofbirth	1952
+76	location	Los Angeles
+76	major	economics
+76	occupation	fashion photographer
+76	school	Bard College
+76	work	Duo IV
+76	work	Men with Kelp
+76	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+76	work	herb ritts
+78	occupation	celebrity photographer
+79	occupation	Author
+79	work	Africa
+79	work	Duo
+79	work	Kazu
+79	work	Madonna
+79	work	Men/Women
+79	work	Notorious
+79	work	Pictures
+79	work	Work
+82	birthplace	Los Angeles,  USA
+82	dateofbirth	1952
+82	location	Los Angeles
+82	work	Africa
+83	affiliation	Harper's Bazaar
+83	affiliation	Rolling Stone
+83	affiliation	Vanity Fair
+83	affiliation	Vogue
+83	award	MTV Video Music Awards
+83	award	MTV awards
+83	birthplace	Los Angeles, CA
+83	birthplace	Los Angeles, CA (USA)
+83	dateofbirth	1952
+83	dateofbirth	August 13, 1952
+83	location	 California
+83	location	Los Angeles
+83	location	New York
+83	major	economics
+83	mentor	Steve McQueen
+83	nationality	American
+83	occupation	fashion photographer
+83	occupation	photographer
+83	occupation	sales representative
+83	occupation	salesman
+83	school	Bard College
+83	work	13-Aug-52
+83	work	Africa
+83	work	Backflip
+83	work	Madonna
+83	work	Notorious
+83	work	Work
+83	work	madonna
+87	affiliation	Elle
+87	affiliation	Harper's Bazaar
+87	affiliation	Interview
+87	affiliation	Vanity Fair
+87	affiliation	Vogue
+87	birthplace	Los Angeles
+87	dateofbirth	1952
+87	location	 California
+87	location	East Coast
+87	location	Los Angeles
+87	location	New York
+87	major	economics
+87	occupation	Celebrity photographer
+87	occupation	Photographer
+87	occupation	sales representative
+87	relatives	Christy
+87	relatives	Rory
+87	relatives	Shirley Ritts
+87	school	Bard College
+88	work	Fred with Tires
+88	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+91	occupation	Director
+92	award	Best Male Video and Best Female Video at the 1991 MTV Video Music Awards
+92	award	MTV Video Music Awards
+92	birthplace	Los Angeles
+92	dateofbirth	1952
+92	location	Beverly Hills
+92	location	Los Angeles
+92	location	New York
+92	major	economics
+92	occupation	Celebrity photographer
+92	occupation	Photographer
+92	occupation	Video Director
+92	relatives	Christy Thrasher
+92	relatives	Rory
+92	relatives	Shirley Ritts
+92	school	Bard College
+92	work	Dance
+92	work	Richard Gere
+92	work	madonna
+93	location	Los Angeles
+94	occupation	Photographer
+94	occupation	photographers
+95	work	Africa
+95	work	Notorious
+95	work	Work
+97	affiliation	Vanity Fair
+97	birthplace	Los Angeles
+97	location	New York
+97	occupation	Celebrity Lensman
+97	occupation	Celebrity photographer
+97	occupation	official in-house photographer
+97	occupation	photographer
+97	relatives	Christy
+97	relatives	Rory
+97	relatives	Shirley Ritts
+98	occupation	celebrity photographer
+99	work	Africa
+99	work	Duo
+99	work	Kazu
+99	work	Madonna
+99	work	Male Nude
+99	work	Men/Women
+99	work	Pictures
+99	work	Work
+101	location	New York
+101	nationality	American
+101	occupation	international photographer
+101	occupation	photographer
+101	work	Africa
+101	work	Duo
+101	work	Fred
+101	work	Fred With Tires
+101	work	Men/Women
+102	award	Best Male Video and Best Female Video at the 1991 MTV Video Music Awards
+102	birthplace	Los Angeles
+102	dateofbirth	1952
+102	location	New York
+102	major	economics
+102	occupation	Celebrity photographer
+102	occupation	Photographer
+102	occupation	Video Director
+102	relatives	Christy Thrasher
+102	relatives	Rory
+102	relatives	Shirley Ritts
+102	school	Bard College
+102	work	Boot
+102	work	Richard Gere
+102	work	Work
+105	work	Duo IV
+105	work	Herb Ritts
+105	work	Men with Kelp
+105	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+106	nationality	American
+106	occupation	photographer
+106	work	Dizzy Gillespie
+106	work	Duo
+106	work	Jack Nicholson
+106	work	Versace Dress Backview
+106	work	Versace Veiled Dress
+106	work	Waterfall IV
+107	occupation	celebrity photographer
+107	occupation	photographer
+107	relatives	Shirley
+107	relatives	Shirley Ritts
+107	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+108	work	Wrapped Torso
+109	work	Murder in the First (1995), Mike Kelly
+111	award	Best Male Video and Best Female Video at the 1991 MTV Video Music Awards
+111	birthplace	Los Angeles
+111	dateofbirth	1952
+111	location	New York
+111	major	economics
+111	occupation	Celebrity photographer
+111	occupation	Photographer
+111	occupation	Video Director
+111	relatives	Christy Thrasher
+111	relatives	Rory
+111	relatives	Shirley Ritts
+111	school	Bard College
+114	affiliation	Vogue
+114	birthplace	Los Angeles
+114	dateofbirth	1952
+114	location	Los Angeles
+114	location	New York
+114	major	economics
+114	occupation	Photographer Of Celebrities
+114	occupation	commercial photographers
+114	occupation	photographer
+114	occupation	portraitist
+114	relatives	Christy Thrasher
+114	relatives	Rory
+114	relatives	Shirley Ritts
+114	school	Bard College
+117	affiliation	Rolling Stone
+117	affiliation	Vanity Fair
+117	affiliation	Vogue
+117	dateofbirth	1952
+117	location	 Californian
+117	location	Los Angeles
+117	nationality	American
+117	occupation	artist
+117	occupation	photographer
+117	work	Wrestling Torsos
+118	location	Los Angeles
+118	occupation	fashion photographers
+118	occupation	image maker
+118	occupation	photographer
+119	birthplace	Los Angeles
+119	dateofbirth	1952
+119	major	economics
+119	school	Bard College
+119	work	Africa
+119	work	Bob Paris & Rod Jackson
+119	work	Duo
+119	work	Herb Ritts
+119	work	Men/Women
+119	work	Notorious
+119	work	Pictures
+119	work	Work
+123	occupation	celebrity photographer
+124	occupation	photographer
+126	othername	RITTS, HERB
+126	work	Men/Women
+128	location	 California
+128	occupation	photographer
+128	occupation	photographers
+128	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+128	work	herb ritts
+130	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+131	work	Africa
+131	work	Duo
+131	work	Kazu
+131	work	Men/Women
+131	work	Notorious
+131	work	Pictures
+131	work	Work
+132	dateofbirth	1952
+132	occupation	iconic photographer
+132	work	Jack Nicholson
+134	dateofbirth	1952
+134	location	Los Angeles
+134	occupation	celebrity photographer
+134	occupation	photographer
+134	occupation	photographers
+135	work	Greg Louganis
+136	award	Best Male Video and Best Female Video at the 1991 MTV Video Music Awards
+136	dateofbirth	1952
+136	location	New York
+136	major	economics
+136	occupation	Celebrity photographer
+136	occupation	Photographer
+136	occupation	Video Director
+136	othername	Herb Ritts Jr.
+136	relatives	Christy Thrasher
+136	relatives	Rory
+136	relatives	Shirley Ritts
+136	school	Bard College
+136	work	Dance
+137	award	Pioneer Award
+138	location	 California
+138	location	Los Angeles
+138	nationality	American
+138	occupation	fashion photographer
+138	website	www.herbritts.com
+139	dateofbirth	1952
+139	occupation	Celebrity Photographer
+140	occupation	celebrity photographer
+144	location	Hollywood Hills
+144	location	Malibu
+144	occupation	Celebrity photographer
+145	birthplace	Los Angeles, California
+145	dateofbirth	1952
+145	location	New York
+145	major	economics
+145	occupation	Photographers
+145	occupation	photographers
+145	occupation	sales representative
+145	school	Bard College
+145	work	Africa
+145	work	Men/Women
+145	work	Notorious
+145	work	Pictures
+145	work	Work
+146	location	Santa Fe
+146	occupation	photographer
+147	work	Fred with Tires
+147	work	Stephanie, Cindy, Christy, Tatjana, Naomi
+149	work	Ellen_Show/5198177"" >The Ellen Show ( 2001 / Released ): Actor
+149	work	Intimate Portrait: Cindy Crawford ( 1998 / Released ): Actor
+149	work	Murder in the First - ( Mike Kelly / 1995 / Released / )
+149	work	The 19th Annual GLAAD Media Awards ( 2008 / Released ): Actor
+149	work	The Fine Art of Separating People From Their Money ( 1999 / Released ): Actor
+149	work	The Gay '90s: Sex, Power & Influence ( 1993 / Released ): Actor
+149	work	The VH1 Fashion Awards ( 1996 / Released ): Actor
+149	work	Tina Turner: ""What's Love?"" Live ( 1993 / Released ): Photography
+150	work	Brigette nielson
+150	work	Djimon with Octopus
+150	work	Greg Louganis
+150	work	Triptych

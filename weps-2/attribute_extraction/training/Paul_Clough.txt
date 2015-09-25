@@ -1,0 +1,114 @@
+0	Occupation	Lecturer
+0	Affiliation	Information Retrieval Group (Department of Information Studies) at the University of Sheffield	Dept. of Information Studies, University of Sheffield
+0	Location	Dept. of Information Studies, University of Sheffield, Room 226, Regent Court, 211 Portobello Street, Sheffield, S1 4DP UK
+0	Phone	+44 (0) 114 2222664
+0	FAX	+44 (0) 114 2780300
+0	Email	p.d.clough@sheffield.ac.uk
+1	Date of birth	September 27, 1987
+1	Birthplace	St Helens, England
+1	Occupation	Second Row	rugby league footballer
+1	Affiliation	St Helens	Blackbrook	St Helens RLFC	Saints Academy
+1	Nationality	English
+4	Occupation	Chief Engineer
+4	Location	United Kingdom
+5	Occupation	Editor
+5	Work	Powers of Good and Evil: Social Transfromation and Popular Belief
+9	Occupation	Certified Trainer	Master Practitioner	C.M.H.	C.Hyp.
+9	School	NLP University
+9	Email	paul@paulclough.co.uk
+10	Occupation	player
+10	Affiliation	St Helens
+12	Occupation	Author
+12	Work	Powers of Good and Evil
+13	Location	Ashington Northumberland England
+13	Relatives	Anne Clough	David Clough
+13	Email	pl_clough@yahoo.com
+15	Date of birth	08/19/1982
+15	Other name	Janis' retarded little brother	Bjorkfan1977
+15	Location	Davenport, IA	USA
+15	Email	otgardener1930@msn.com
+16	Affiliation	Cambridge Hypnotherapy
+16	Phone	01223 720120
+16	FAX	01223 711226
+17	Occupation	Certified Trainer	Master Practitioner	C.M.H.	C.Hyp.
+17	School	NLP University
+17	Location	13 Brierley Walk Cambridge CB4 3NHUnited Kingdom	United Kingdom
+17	Phone	(+44) 01223 720 120
+17	Email	paul@cambridgehypnotherapy.co.uk
+17	Web site	www.paulclough.co.uk
+20	Occupation	C.M.H.	C.Hyp.	Certified Trainer	Master Practioner	Hypnotherapist	therapist	Certified Trainer and Consultant	Certified Master Hypnotist and Hypnotherapist	Certified Master Practitioner
+20	Affiliation	Cambridge Hypnotherapy
+20	School	NLP University	Proudfoot School of Clinical Hypnosis & Psychotherapy
+20	Major	performance coaching (Business)
+20	Phone	01223 720120
+20	FAX	01223 711226
+21	Occupation	hardware/software technician	co-leader
+21	Affiliation	BT Labs	Adastral Park	the University of Sheffield	Departments of Computer Science and Information Studies	Church Youth Fellowship Association	CYFA	the Sunday School
+21	School	the University of York
+21	Major	Computer Science
+21	Location	South Yorkshire
+21	Relatives	Amanda	Jacob	JP
+22	Other name	Edward Paul Clough
+23	Date of birth	4 Sep 1887
+23	Other name	Benjamin Paul Clough
+23	Relatives	Signe M. Danberg	Stephen Sawyer Clough	Fred Leslie Clough	Grace Floy Clough	Violet Gladys Clough	Archie Glen Clough	Nina Davis Clough	Ralph Warren Clough	Lloyd Stephen Clough
+26	Other name	Edward Paul Clough
+26	Relatives	Catherine Mary Kelly	Harry Pascel Clough	Sharon Kay Clough Harry Bernard Clough	Patrick Kelly Clough	Kathleen Karen Clough 	Leon Michael Clough
+30	Occupation	Senior Vice President	vice president	general manager	leading provider
+30	Affiliation	Strategic Marketing, Planning and Analysis of ICTGroup	ICT	Internet Support Services	ICT Group	Strategic Marketing, Planning and Analysis
+30	School	Harvard Graduate School of Business Administration	Bucknell University
+30	Degree	MBA	BS
+30	Phone	(800) 201-1085
+30	Email	pclough@ictgroup.com
+32	Relatives	Karen Clough	Ben Clough
+33	Occupation	Rev	Minister	ordained minister	Single Point Ministries
+33	Affiliation	Ward Evangelical Presbyterian Church	Ward Presbyterian Church
+33	School	Bob Jones Univ	Eastern Michigan Univ
+33	Major	Education	counseling
+33	Degree	B.A. degree	M.A.
+33	Location	Northville, MI
+33	Phone	(248) 374-5920
+36	Affiliation	Sheffield University	ImageCLEF
+36	Location	UK	Sheffield, England"
+36	Email	p.d.clough@sheffield.ac.uk
+36	Web site	http://ir.shef.ac.uk/cloughie/
+41	Affiliation	University of Sheffield
+41	Location	Western Bank, Sheffield, UK
+42	Occupation	Chief Operating Officer	CEO	Chairman 	principal shareholder	Director
+42	Affiliation	DTI	DTI Dental Technologies Inc.	Imperial Parking Canada Corporation	Robbins Parking Services	Queen Charlotte Fishing Lodge	National Parking Association	Advisory Board of the Faculty of Commerce and Business administration at the University of British Columbia	The Okanagan Skeena Group	DTI's Board of Directors
+43	Other name	Paul W. Clough
+43	Occupation	VP	GM	Vice President	General Manager 	Senior Vice President	Director
+43	Affiliation	ICT GROUP	Internet Support Services Division	ICT GROUP, Inc.	ICTG	ICT Internet Support Services	Consumer Marketing 	Commercial Business for Music Choice	Business Development 	General Instrument Corporation
+43	School	Bucknell University	the Harvard Graduate School of Business Administration
+43	Degree	BS degree	MBA
+46	Affiliation	Ushaw Moor Community / Historical Forum
+47	Affiliation	Ushaw Moor Community / Historical SiteUshaw Moor Community & Historical FORUM
+48	Affiliation	University of Sheffield
+48	Work	Multilingual Information Access for Text, Speech and Images: 5th Workshop of the Cross-Language Evaluation Forum, CLEF 2004, Bath, UK, September 15-17, ... Papers (Lecture Notes in Computer Science)
+48	Location	UK
+49	Affiliation	Ushaw Moor Community / Historical Site
+52	Affiliation	Duquesn	D
+60	Occupation	Lecturer
+60	Affiliation	Anthropology at the University of Malta
+60	Work	POWERS OF GOOD AND EVIL Social Transformation and Popular Belief
+62	Occupation	Chairpersons
+62	Affiliation	Acton-Boxborough Special Education Parent Advisory Council
+63	Affiliation	University of Malta
+63	Work	POWERS OF GOOD AND EVIL: Moralities, Commodities, and Popular Belief
+67	Affiliation	St Helens Squad
+69	Affiliation	Ushaw Moor Community
+73	Affiliation	Ushaw Moor Community / Historical Forum
+73	Email	paul.clough@ushawmoor.org.uk
+74	Affiliation	Duquesn
+79	Affiliation	Duquesn	DUQ
+82	Affiliation	Duquesn	DUQ
+83	Affiliation	Duquesn
+87	Affiliation	Dept. Information Studies, University of Sheffield
+87	Degree	Dr.
+87	Location	UK
+88	Affiliation	Ushaw Moor Community
+91	Affiliation	DU	Duquesne
+92	Affiliation	Duquesne
+93	Affiliation	Duquesne University
+95	Affiliation	DU	Duquesne
+96	Relatives	Susan WOOD	Bruce Stanley CLOUGH	Kane Bruce CLOUGH

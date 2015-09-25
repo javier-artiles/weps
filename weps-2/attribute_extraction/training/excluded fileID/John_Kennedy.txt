@@ -1,0 +1,49 @@
+2	No Name	John F. Kennedy Presidential Library and Museum	
+5	No Name	John Fitzgerald Kennedy	
+9	Multiple Targets	Sr & Jr	
+10	No Name
+12	Non Person	John Kennedy Magic	
+16	Multiple Targets	Sr & Jr	
+17	No Value
+20	No Name
+22	Search Results	Shopping.com	
+23	No Name	John Fitzgerald Kennedy	
+24	No Name	John Fitzgerald Kennedy	
+28	No Name	John Joseph Kennedy	
+33	No Name	"KENNEDY, John Fitzgerald"	
+34	Search Results	NexTag	
+35	No Name	John F. Kennedy	
+36	Non Person	John Kennedy Dealerships
+38	Search Results	eBay
+39	No Name	John F. Kennedy
+43	No Name	John Fitzgerald Kennedy
+46	No Name	John F. Kennedy
+48	No Name	John F. Kennedy
+51	Non Person	John Kennedy (Civil Engineering) Limited
+52	No Value	
+53	Multiple Targets	
+54	Non Person	John Kennedy Ford
+55	No Name	"Kennedy, John Fitzgerald "
+56	No Name	John Fitzgerald Kennedy 
+57	No Name	
+58	No Name	John F. Kennedy
+61	No Name	John F. Kennedy School of Government
+63	No Name	"John F. Kennedy, Jr."
+64	Search Results	alibris	
+65	No Name	JOHN F. KENNEDY HIGH SCHOOL	
+66	No Name	John F Kennedy	
+67	No Name	"Kennedy, John Fitzgerald"	
+68	No Name	John F. Kennedy	
+70	Search Results	NETFLIX	
+72	No Name	John F. Kennedy	
+73	No Name	Kennedy Airport	
+77	No Name	John F. Kennedy 	
+80	No Name	John Fitzgerald Kennedy	
+82	Multiple Targets	Sr & Jr	
+85	No Name
+86	Multiple Targets
+87	No Name	Kennedy Sales and Service	
+89	No Name	John F. Kennedy	
+93	No Name	John F. Kennedy	
+94	No Name	John F. Kennedy 
+99	No Name	John Fitzgerald Kennedy

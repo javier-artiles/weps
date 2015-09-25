@@ -1,0 +1,583 @@
+2	affiliation	 Governor?s Council for Planning of Inclusion Education
+2	affiliation	Central State Prison
+2	affiliation	Danville Elementary
+2	affiliation	Georgia Prison System
+2	affiliation	Georgia Public Education
+2	affiliation	Governor???s Council for Planning of Inclusion Education
+2	affiliation	Special Education Advisory Panel of the Georgia Department of Education
+2	affiliation	Testing Unit Review Panel
+2	occupation	administrator
+2	occupation	instructor
+2	occupation	teacher
+2	occupation	test administrator
+5	affiliation	1932 Olympic team in the running broad jump
+5	affiliation	AME Zion Senior Basketball Team
+5	affiliation	Hollywood Inn Club
+5	affiliation	Milrose A.A
+5	affiliation	St. Paul College
+5	affiliation	Yonkers Police Athletic League
+5	award	Tom Keane Award
+5	birthplace	Yonkers
+5	dateofbirth	March 23, 1905
+5	occupation	director
+5	occupation	track team captain
+5	othername	Ted
+5	othername	Tedo
+5	othername	Theodore H. Smith
+5	school	Gorton High School
+5	school	Syracuse
+5	school	Syracuse University
+5	school	Yonkers High School
+8	work	Scandalous Behavior
+8	work	Singapore Sling 
+8	occupation	Actor
+9	degree	M.D.
+9	othername	Smith T
+9	othername	Smith TR
+12	occupation	attorney
+12	occupation	lawyer
+12	occupation	licensed attorney
+12	othername	THEODORE M. SMITH
+12	othername	Theodore M. Smith
+13	affiliation	Army
+13	affiliation	Conway Corp. Board of Directors
+13	affiliation	Conway Development Corporation
+13	affiliation	Conway Rotary Club
+13	affiliation	First United Methodist Church
+13	affiliation	Smith automobile business
+13	affiliation	Warrior football team
+13	affiliation	the Conway Development Corporation
+13	birthplace	Conway
+13	dateofbirth	1894
+13	occupation	alderman
+13	occupation	businessman
+13	occupation	chairman
+13	occupation	charter member
+13	occupation	civic leader
+13	occupation	community activist
+13	occupation	mayor
+13	occupation	representatives
+13	occupation	second lieutenant
+13	othername	S. Theodore Smith
+13	relatives	Ellen Smith
+13	relatives	Kathrine Hayes
+13	relatives	Ros Smith
+13	relatives	S. G. Smith
+13	school	Hendrix College
+13	school	University of Illinois
+13	school	the University of Illinois
+15	birthplace	wales
+15	othername	jocelyn jason theodore smith
+16	location	Charlotte, North Carolina Area 
+16	affiliation	CMD Systems
+16	affiliation	Deloitte Consulting
+16	affiliation	Lowes
+16	affiliation	Mohawk Industries
+16	affiliation	Perry Manufacturing
+16	occupation	Application Project Manager
+16	occupation	Applications Manager
+16	occupation	Director Informatoin Technology
+16	occupation	Project Manager
+16	occupation	Sr Business Analyst
+16	school	King's College
+17	othername	R Theodore Smith
+18	work	Little Nicky
+18	affiliation	EFX Group Inc
+18	occupation	lab technician
+20	affiliation	5th Air Force
+20	affiliation	Air Force
+20	birthplace	CT
+20	birthplace	Putnam, CT
+20	dateofbirth	1935
+20	occupation	Technical Sergeant
+20	occupation	Veteran
+20	occupation	jet aircraft mechanic
+20	othername	Smith, Theodore
+21	affiliation	Mancing & Associates
+21	birthplace	Murraysville, Westmoreland Co., PA
+21	occupation	Bill Collection Agency Owner
+21	othername	James Theodore Smith Jr.
+21	relatives	Cheryl Lynne Smith
+21	relatives	Cynthia Louise Smith
+21	relatives	Elizabeth Isabella Hardy Donaldson Peacock
+21	relatives	James Duane Smith
+21	relatives	Kathleen Leah Smith
+21	relatives	Marjorie Anne Smith
+21	relatives	Marlene Marie Sahayda
+21	relatives	Mary Ellen Bacon
+21	relatives	Michael James Smith
+21	relatives	Nova Marie Smith
+23	degree	M.D.
+23	degree	Ph.D.
+23	occupation	Associate Clinical Professor of Ophthalmology
+23	othername	R. Theodore Smith
+23	phone	(212) 283-5222
+23	school	Rice University
+26	work	Little Nicky
+26	work	UFOs Uncovered 
+26	occupation	Line Producer
+26	occupation	lab technician
+27	affiliation	Beacon School
+27	affiliation	Central Broadcasting
+27	affiliation	Chelsea High School
+27	affiliation	Department of Education
+27	affiliation	High School of Art & Design
+27	affiliation	The Museum School
+27	affiliation	United Nations After-school Program
+27	affiliation	WGHT
+27	affiliation	WPAT Multi-cultural Broadcasting
+27	affiliation	WTBQ AM/FM
+27	affiliation	the Department of Education
+27	affiliation	the New York Museum School
+27	birthplace	Suffern, New York
+27	degree	BA degree
+27	degree	BS degree
+27	degree	MA
+27	mentor	Lindley Uehling
+27	mentor	Uehling
+27	occupation	account manager
+27	occupation	on-air personality
+27	occupation	physical education and health teacher
+27	occupation	public school teacher
+27	occupation	teacher
+27	othername	Teddy
+27	othername	Teddy Smith
+27	othername	Theodore 
+27	othername	Theodore (Teddy) Smith
+27	school	Empire State College
+27	school	Fordham University
+27	school	Goddard College
+27	school	Hampshire College
+27	school	Sarah Lawrence
+29	othername	SHEFRIN THEODORE SMITH
+32	othername	odore L. Smith
+35	affiliation	186th Infantry
+35	affiliation	Army
+35	affiliation	Greenwood Baptist Church
+35	affiliation	Greenwood Grange
+35	affiliation	Greenwood Township
+35	affiliation	Mid-America Dairyman's Association
+35	affiliation	Post No. 5901 of the Veterans of Foreign Wars
+35	affiliation	the Mid-America Dairyman's Association
+35	birthplace	Williamsburg
+35	dateofbirth	Nov. 10, 1918
+35	occupation	trustee
+35	othername	Theodore K. 
+35	relatives	Betty Heinlein
+35	relatives	Billy Smith
+35	relatives	Cleda Rea
+35	relatives	Debra Croucher
+35	relatives	Larry Smith
+35	relatives	Linda Reed
+35	relatives	Lois E. Thorsland
+35	relatives	Mary B. Kirkman Smith
+35	relatives	Nancy Mitchell
+35	relatives	Shirley Gilges
+35	relatives	Silas J. Smith
+35	school	Pomona High School
+39	affiliation	Dalia's Pizza
+39	occupation	deliveryman
+39	occupation	deliverymen
+39	othername	Theodore Othellis Smith
+39	relatives	Larry Smith
+40	affiliation	AF&AM
+40	affiliation	Christian Church
+40	affiliation	Gideons International
+40	affiliation	Hamilton Lodge No. 301
+40	birthplace	Emporia
+40	dateofbirth	Aug. 29, 1936
+40	occupation	manager
+40	occupation	master
+40	occupation	pastor
+40	othername	Oscar T. Smith Jr.
+40	othername	Oscar Theodore Smith Jr.
+40	relatives	Alan 
+40	relatives	Carol Marie Lyder Carlisle
+40	relatives	Coie Devore McCloud Smith
+40	relatives	Dianne Boles
+40	relatives	Leta Sherrill
+40	relatives	Margie Gregory
+40	relatives	Mary Jo Cowan
+40	relatives	Monty Smith
+40	relatives	Oma Weston
+40	relatives	Oscar Theodore
+40	relatives	Randy Smith
+40	relatives	Tedi Simpson
+40	relatives	William Smith
+41	relatives	Eric
+41	relatives	Eric A. Smith
+41	relatives	Eric Allan Smith
+41	relatives	Eric Smith
+41	relatives	SMITH, ERIC ALLAN
+41	relatives	Smith
+43	affiliation	Board of Commissioners
+43	affiliation	Board of Directors of Horry Production Credit Association
+43	affiliation	Murrells Inlet Baptist Church
+43	affiliation	Murrells Inlet Lodge 368 AFM
+43	affiliation	the Murrells Inlet Baptist Church
+43	affiliation	the Murrells Inlet Lodge 368 AFM
+43	birthplace	Horry County
+43	dateofbirth	September 4, 1888
+43	occupation	retired farmer
+43	othername	Jesse Theodore
+43	othername	Jesse Theodore Smith
+43	relatives	Addie McNair
+43	relatives	Ella Anderson Smith
+43	relatives	Helen Allen Smith
+43	relatives	John T.
+43	relatives	T. A. Rheuark Jr
+49	birthplace	Fleckney, Leics
+49	dateofbirth	1889
+51	affiliation	13th District Court
+51	occupation	13th District Court Judge
+51	occupation	Hon.
+51	occupation	Honorable
+51	occupation	Judge
+51	occupation	municipal judge
+52	dateofbirth	1853
+53	work	Alfred
+53	affiliation	Ebury Chapel
+53	dateofbirth	1740
+53	nationality	English
+53	nationality	Ferman
+53	occupation	composer
+53	occupation	organist
+56	relatives	Alexander SMITH
+56	relatives	Elizabeth REESE
+56	relatives	Ella BRADFORD
+57	othername	Theodore A. Smith
+57	relatives	Cecelia Smith Burnett
+57	relatives	David Theodore Smith
+57	relatives	Janice Smith Smith
+57	relatives	Loretta
+57	relatives	Loretta Dorval Smith
+57	relatives	Richard
+60	relatives	Eric Smith
+63	degree	Dr.
+63	occupation	Dr.
+66	location	Birmingham, AL USA
+66	othername	ted smith
+66	othername	tedsmi
+68	othername	ted smith
+69	othername	Gerald Theodore Smith
+71	affiliation	New York City Museum School
+71	affiliation	United Federation of Teachers
+71	affiliation	the United Federation of Teachers
+71	occupation	Teacher
+73	affiliation	Central Broadcasting
+73	affiliation	Department of Education
+73	affiliation	New York City Museum School
+73	affiliation	The Museum School
+73	affiliation	United Nations After-school Program
+73	affiliation	WGHT
+73	affiliation	WPAT Multi-cultural Broadcasting
+73	affiliation	WTBQ AM/FM
+73	affiliation	the Department of Education
+73	affiliation	the United Nations After-school Program
+73	birthplace	Suffern, New York
+73	degree	BA degree
+73	degree	BS degree
+73	degree	MA
+73	occupation	account manager
+73	occupation	on-air personality
+73	occupation	physical education and health teacher
+73	occupation	physical education and martial arts teacher
+73	occupation	public school teacher
+73	occupation	special student
+73	occupation	teacher
+73	othername	Teddy
+73	othername	Teddy Smith
+73	othername	Theodore 
+73	othername	Theodore (Teddy) Smith
+73	school	Empire State College
+73	school	Fordham University
+73	school	Goddard College
+73	school	Hampshire College
+73	school	Sarah Lawrence
+75	affiliation	Eye Institute
+75	affiliation	the Eye Institute
+75	degree	MD
+75	degree	PhD
+75	fax	212-342-3187
+75	occupation	Associate Clinical Professor of Ophthalmology
+75	occupation	MD
+75	occupation	PI
+75	occupation	medical retinal specialist
+75	othername	R Theodore Smith
+75	phone	212-283-5222
+76	birthplace	Chatham, Barnstable, MA
+76	dateofbirth	18 Aug 1751
+76	relatives	Alice Smith
+76	relatives	Ann Smith
+76	relatives	David Kirby Smith
+76	relatives	Grace Smith
+76	relatives	Hannah Smith
+76	relatives	Martha Smith
+76	relatives	Mercy Smith
+76	relatives	Patience Crowell
+76	relatives	Reliance Smith
+76	relatives	Richard Smith
+76	relatives	Tabitha Smith
+76	relatives	Thomas Smith
+78	othername	Theodore J. Smith
+78	relatives	Schuyler
+78	relatives	Thomas
+78	relatives	Thomas Smith
+78	relatives	William H. Smith
+78	school	Hobart College
+79	birthplace	Barrington, Nova Scotia, Canada
+79	dateofbirth	14 Mar 1772
+79	othername	Theodore Smith Harding
+80	work	The Fourth
+80	degree	M.S.
+80	othername	Ted Smith
+81	dateofbirth	05/23/1986
+81	othername	SHEFRIN THEODORE SMITH
+86	location	49 East Lancaster Avenue
+86	location	Malvern, PA 19355
+86	fax	(610)648-0201
+86	occupation	Agent
+86	phone	(610)647-2600
+90	location	UCSD area
+90	affiliation	La Jolla real estate
+90	affiliation	Team De Jourday
+90	affiliation	Windansea Surf Club
+90	affiliation	the Windansea Surf Club
+90	occupation	Real Estate Agents
+90	othername	Theodore Kenneth Smith
+90	phone	858-583-2271
+90	relatives	Robin, Theodore
+90	school	La Jolla High
+90	school	Maui Community College
+90	school	San Diego State University
+91	othername	John Theodore Smith
+91	relatives	Amanda
+91	relatives	Amanda Smith
+91	relatives	Charles Bascom Smith
+91	relatives	J Leland Smith
+91	relatives	John
+91	relatives	John Collingsworth Smith
+91	relatives	Madison Earl Smith
+91	relatives	Mary Lucretia Smith
+91	relatives	Warren Manning Smith
+92	affiliation	45th Infantry Division, 180th Infantry, Company I
+92	birthplace	Yavapai Indian reservation, Camp Verde, Arizona
+92	major	Business
+92	major	Economics
+92	occupation	tribal chairman
+92	occupation	tribal council member
+92	othername	THEODORE SMITH, SR.
+92	othername	Ted
+92	school	Bacone Indian University
+93	affiliation	William Snow/Joseph Young Company
+93	dateofbirth	6 Aug. 1840
+93	occupation	Noble
+93	occupation	pioneer Noble
+95	affiliation	Henry P. Kendall Foundation
+95	occupation	Executive Director
+96	othername	Henry Theodore Smith
+102	affiliation	Central Broadcasting
+102	affiliation	Department of Education
+102	affiliation	The Museum School
+102	affiliation	United Nations After-school Program
+102	affiliation	WGHT
+102	affiliation	WPAT Multi-cultural Broadcasting
+102	affiliation	WTBQ AM/FM
+102	affiliation	the Department of Education
+102	affiliation	the United Nations After-school Program
+102	birthplace	Suffern, New York
+102	degree	BA degree
+102	degree	BS degree
+102	degree	MA
+102	occupation	account manager
+102	occupation	on-air personality
+102	occupation	physical education and health teacher
+102	occupation	physical education and martial arts teacher
+102	occupation	public school teacher
+102	occupation	special student
+102	occupation	teacher
+102	othername	Teddy
+102	othername	Teddy Smith
+102	othername	Theodore 
+102	othername	Theodore (Teddy) Smith
+102	school	Empire State College
+102	school	Fordham University
+102	school	Goddard College
+102	school	Hampshire College
+102	school	Sarah Lawrence
+104	othername	Milton odore Smith
+104	relatives	Helen Gross
+104	relatives	Lana Merra ""Lonnie""2 Smith
+104	relatives	Tina Gale Smith
+105	dateofbirth	1879
+105	othername	Albia Theodore Smith
+107	dateofbirth	September 7 1879
+107	othername	Albia odore Smith
+107	relatives	Nora Arminda Reaves Smith
+110	affiliation	Knights of Columbus
+110	affiliation	S.S. Peter and Paul Catholic Church
+110	affiliation	the Knights of Columbus
+110	affiliation	the S.S. Peter and Paul Catholic Church
+110	birthplace	Columbia
+110	dateofbirth	Sept. 26, 1984
+110	occupation	3rd degree member
+110	occupation	angler
+110	occupation	hunter
+110	occupation	mechanic
+110	othername	Brian T. Smith
+110	othername	Brian Theodore Smith
+110	relatives	Amy Fredrick
+110	relatives	Martha Rustemeyer Smith
+110	relatives	Ted
+110	school	Boonville High School
+111	affiliation	Garden State Racetrack
+111	affiliation	the Garden State Racetrack
+111	occupation	mutual clerk
+111	othername	Smith, Theodore
+111	othername	Theodore 
+111	school	Gloucester Catholic Schools
+112	affiliation	Lincoln Police Department
+112	affiliation	NH Association of Chiefs of Police
+112	affiliation	New Hampshire Association of Chiefs of Police
+112	occupation	Chief
+112	occupation	President
+112	othername	Theodore P Smith
+115	relatives	Chester V. Smith
+116	award	Boy of the Year
+116	othername	Teddy
+116	othername	Teddy Bear
+116	othername	Theodore 
+116	relatives	Maita Smith
+119	affiliation	First National Bank
+119	affiliation	First National Bank of River Falls-Prescott
+119	affiliation	the First National
+119	affiliation	the First National Bank
+119	affiliation	the First National Bank of River Falls-Prescott
+119	occupation	Directors
+119	occupation	President
+119	occupation	bank president
+119	occupation	businessman
+119	occupation	mayor
+119	occupation	owner
+119	othername	G.T.
+119	othername	G.T. Smith
+119	othername	George Theo. Smith
+119	othername	George Theodore Smith
+119	relatives	Jeff
+119	relatives	Jeff Smith
+119	relatives	Jefferson Franklin Smith
+121	affiliation	Rouse Polymerics International Inc.
+121	occupation	purchasing director
+121	othername	C. Theodore Smith
+121	othername	C. Theodore ``Teddy'' Smith
+122	affiliation	SUNY College of Environmental Science and Forestry
+122	affiliation	SUNY-ESF
+122	email	tsmith03@syr.edu
+122	mentor	Neil Ringler
+122	mentor	Steven Coghlan
+122	occupation	seniors
+123	relatives	Emerald Smith
+123	relatives	Emerald Topaz Smith
+123	relatives	Linda
+125	othername	Allan
+125	othername	Allan Theodore Smith
+125	relatives	Catherine Smith
+125	relatives	Cynthia Jeffries
+125	relatives	Eleanor E. Smith
+125	relatives	Susan Bauer
+127	birthplace	New Orleans, LA
+127	dateofbirth	4/19/1845
+127	othername	William Theodore SMITH
+127	relatives	Regina Francis CHILDS
+131	affiliation	OWMC
+131	affiliation	One World Media Center
+131	affiliation	One World Media Center, Inc.
+131	affiliation	The Discovery Communications
+131	occupation	B.O.D. member
+131	occupation	documentary producer
+131	occupation	staff
+131	work	2nd Language Advantage
+131	work	Building Your Future-Math in the Public Schools
+131	work	History of DOO-WOP
+131	work	Life Without Art
+131	work	Nefertiti: Egypt's Mysterious Queen
+131	work	Slaveship
+131	work	World War II: True Colors
+133	dateofbirth	June 18
+133	school	Word of Life Bible Institute
+135	affiliation	United States Committee for the United Nations
+135	occupation	Executive Director
+136	othername	R. Theodore Smith
+136	relatives	Jeffrey Smith
+136	relatives	Kevin M. Smith
+136	relatives	Patricia A Smith
+137	degree	Dr.
+137	othername	Roland Smith
+137	othername	Roland Theodore Smith
+137	relatives	Paula Judith Smith
+137	relatives	Paula Smith
+137	relatives	Roland Smith
+138	affiliation	Higher Education Services
+138	award	Jamestown Community College Faculty Award for Excellence in Teaching
+138	award	John D. Hamilton Society Award
+138	award	Outstanding Educator in America
+138	award	SUNY Chancellor's Award for Excellence in Teaching
+138	email	ted@management-strategies.org
+138	occupation	Associate
+138	occupation	Dean of Academic Affairs
+138	occupation	adjunct faculty member
+138	occupation	associate
+138	occupation	founding Dean
+138	occupation	professor
+138	occupation	seasoned administrator
+138	othername	R. Theodore (Ted) Smith
+138	othername	R. Theodore Smith
+138	othername	Ted
+140	occupation	automobile dealer
+141	dateofbirth	1871
+141	othername	J. Theodore Smith
+143	affiliation	TRUCTCO
+143	email	info@trustco.com
+143	location	,EC2V 7EX
+143	location	100 WOOD STREET
+143	location	GB 
+143	location	LONDON
+143	phone	+44.2070601198
+143	website	http://www.trustcofin.com
+144	relatives	Dixon P. Smith
+144	relatives	James H. Smith
+144	relatives	John Smith
+144	relatives	Julia
+144	relatives	Julia E.
+144	relatives	Julia E. Riley
+144	relatives	Marion D. Smith
+144	relatives	Martha A. Smith
+144	relatives	Martha A.. Smith
+144	relatives	Mary Lizzie Minnick
+144	relatives	Nancy J. Kingery
+144	relatives	Philip R. Smith
+144	relatives	Rebecca P. Smith
+145	dateofbirth	Feb 15, 1817
+145	relatives	Caroline Smith
+145	relatives	Charles Smith
+145	relatives	Elizabeth Marsh
+145	relatives	Elizabeth Marsh Smith
+145	relatives	Ethelinda Smith
+145	relatives	Julia Smith
+145	relatives	Sarah Ann Smith
+145	relatives	William Dickinson Smith
+145	relatives	William Smith
+146	award	Theodore W. Minah Award
+146	award	Theodore W. Minah Distinguished Service Award
+147	affiliation	The Syncopators
+147	occupation	baritone
+147	occupation	bass
+147	occupation	second lead
+147	work	River Stay Away From My Door
+147	work	These Are Things I Want To Share With You
+148	dateofbirth	1984
+148	othername	Brian Smith
+148	othername	Brian Theodore Smith
+148	relatives	Amy Fredrick
+148	relatives	Martha Smith
+148	relatives	Ted

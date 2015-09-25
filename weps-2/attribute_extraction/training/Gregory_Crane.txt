@@ -1,0 +1,164 @@
+3	Other name	Greg Crane
+3	Affiliation	Tufts University
+3	Email	gregory.crane@tufts.edu
+4	Occupation	Faculty	Professor
+4	Affiliation	Tufts University Arts, Sciences and Engineering	Classics Department
+4	Award	Tufts Distinguished Faculty	Christopher Columbus Achievement Award
+4	School	Harvard Univeristy	Harvard College
+4	Degree	PhD	B.A.
+4	Email	Gregory.Crane@tufts.edu
+4	Web site	http://www.perseus.tufts.edu/About/grc.html
+6	Birthplace	Bremerton, Washington
+6	Work	Blimps and Balloons (A Memorial)	Italian Hillside	Study for Western Land with Ruins	Western Lands
+6	Location	Brooklyn, New York
+6	Web site	WWW.GREGORYACRANE.COM
+7	Date of birth	21 March 1977
+7	Birthplace	Los Angeles, California, USA
+7	Work	Navy NCIS: Naval Criminal Investigative Service	NCIS	NCIS: Naval Criminal Investigative Service	Bloodbath	Undressed	MTV's Undressed	Boston Public	Chapter Twenty-Two	Chapter Four	A Pig's Tale	Summer Camp
+9	Occupation	professor
+9	Affiliation	Tufts University
+9	Work	The Blinded Eye
+15	Other name	Crane, G.	Gregory R. Crane
+15	Affiliation	Tufts Univ.
+15	Location	Medford, MA
+16	Work	Stack, Boat, Train
+18	Date of birth	Bremerton, WA
+18	Birthplace	1951
+18	Occupation	Instructor
+18	Affiliation	School of Visual Arts
+18	Award	The MacDowell Colony Fellowship
+18	School	University of Utah	The Art Students League
+18	Degree	BFA
+18	Location	New York, NY
+19	Work	Thucydides and the Ancient Simplicity
+20	Date of birth	1951
+20	Nationality	American
+21	Work	Thucydides and the Ancient Simplicity
+22	Other name	Gregory R. Crane
+22	Affiliation	The Perseus Project, Tufts University
+22	Location	Medford, MA
+23	Birthplace	Pacific Northwest
+23	Occupation	painter	craftsman
+24	Work	Thucydides and the Ancient Simplicity: The Limits of Political Realism
+25	Other name	Gregory R. Crane
+26	Other name	Gregory R. Crane
+26	Occupation	Editor-in-Chief
+29	Occupation	Author
+29	Work	Thucydides and the Ancient Simplicity (The Limits of Political Realism)
+31	Occupation	Chair	Director	Professor
+31	Affiliation	Technology and Entrepreneurship	Perseus Project	Tufts University	Winnick Family
+31	Email	Gregory.Crane@tufts.edu
+33	Other name	GREGORY B. CRANE	Gregory B. Crane
+33	Occupation	Director of Operations
+33	Affiliation	Board of Directors of YP.NET
+34	Occupation	AUTHOR	Associate Professor	author
+34	Affiliation	Classics at Tufts University
+34	Work	Thucydides and the Ancient Simplicity The Limits of Political Realism	The Blinded Eye: Thucydides and the New Written Word
+35	Other name	G. Crane	G. R. Crane
+35	Affiliation	Tufts University, Perseus Project
+35	Location	Medford, MA
+36	Work	Cityscape with Ruins	Orchard with water tank and path	Field of Pumpkins	Italian Hillside	Columbia River (Looking East)	Road to the Lake (Janet and Toms)	Ruins W/Grove and Canal	Blimps and Ballons (A Memorial)
+38	Other name	Greg Crane
+38	Occupation	student	cantor
+38	Affiliation	Church of St. Andrew
+38	School	Elk River
+38	Relatives	Curtis and Debra Crane	Matthew	Collin	Emma
+39	Occupation	founder	director	Executive Vice President
+39	Affiliation	YP	M&M's	Greg Crane Trust
+41	Other name	GC
+41	Occupation	editor-in-chief	third year graduate student	assistant professor	faculty member	Editor-in-Chief
+41	Affiliation	Perseus Project
+41	Degree	Ph.D.
+43	Occupation	Associate Professor	Editor-in-Chief	graduate student
+43	Affiliation	Tufts Univerity	Perseus Project
+43	Work	The Blinded Eye: Thucydides and the New Written Word	The Ancient Simplicity: Thucydides and the Limits of Political Realism
+43	School	Harvard
+43	Email	gcrane@emerald.tufts.edu
+45	Work	Thucydides and the Ancient Simplicity: The Limits of Political Realism
+47	Other name	G. Crane
+48	Other name	Crane, G.
+49	Other name	Crane, G.
+50	Other name	Gregory R. Crane	Crane, Gregory	Crane, G.
+50	Occupation	Professor	Chair
+50	Affiliation	Technology and Entrepreneurship	Perseus Project Tufts University	Winnick Family
+50	Email	gcrane@perseus.tufts.edu
+50	Web site	www.perseus.tufts.edu
+51	Affiliation	Tufts University
+51	Email	Gregory.Crane@Tufts.edu
+53	Work	Thucydides and the Ancient Simplicity: the limits of political realism
+54	Work	The Blinded Eye: Thucydides and the New Written Word
+55	Email	crane@ikaros.harvard.edu
+56	Occupation	Mechanical Services Manager	Operations Officer	Supervisor of Basic Training	Drill Sergeants	Sales Representative	District Manager
+56	Affiliation	OPERATORS & CONSULTING SERVICES INC	U.S. Army	Airborne and Ranger School	Energy Industries, Inc.	Operators and Consulting Services, Inc.
+56	School	Texas A&M
+56	Major	Agricultural Economics
+56	Web site	www.getocs.com/mechprofile.html
+57	Occupation	Professor	Editor-in-Chief	author
+57	Affiliation	Tufts University	The Perseus Project
+57	Work	The Blinded Eye: Thucydides and the New Written Word	The Ancient Simplicity: Thucydides and the Limits of Political Realism
+58	Affiliation	Tufts University Dept of Classics
+58	Location	Tufts University Dept of Classics Eaton Hall Medford MA 02155
+59	Affiliation	National Honor Society
+59	Award	Elk River High School junior first prize
+60	Other name	Crane, Gregory	Crane, Gregory R.
+60	Occupation	Editor-in-Chief
+60	Affiliation	Perseus
+61	Occupation	professor
+61	Affiliation	Tufts
+62	Other name	Crane, Gregory
+62	Work	Thucydides and the Ancient Simplicity The Limits of Political Realism	Thucydides and the Ancient Simplicity: The Limits of Political Realism
+63	Occupation	Professor	Professor
+63	Affiliation	Perseus project	Winnick Family
+64	Occupation	Professor
+64	Affiliation	Tufts University	Classics department at Harvard University
+65	Other name	Crane, Gregory
+65	Affiliation	Tufts University
+67	Occupation	professor
+67	Affiliation	Tufts
+69	Other name	Greg Crane
+69	Occupation	student	cantor
+69	Affiliation	Church of St. Andrew
+69	School	Elk River
+69	Relatives	Curtis and Debra Crane	Matthew	Collin	Emma
+70	Other name	Gregory R. Crane
+70	Affiliation	Perseus Project
+71	Occupation	Professor	Chair	Editor-in-Chief
+71	Affiliation	Technology and Entrepreneurship	Perseus Project	Winnick Family
+72	Affiliation	Tufts University. Classics Dept.	Tufts University, Classics Department
+72	Location	Medford, MA
+73	Affiliation	Tufts University
+75	Other name	Gregory B. Crane
+76	Work	Thucydides and the Ancient Simplicity
+76	School	Harvard
+76	Major	classical philology
+76	Degree	BA	PhD
+77	Affiliation	Tufts University
+78	Affiliation	Tufts University
+79	Work	Thucydides and the ancient simplicity : the limits of political realism	Thucydides and the Ancient Simplicity
+82	Occupation	Professors
+82	Affiliation	Computer Facilities and Usage Committee	CFUC
+83	Occupation	Editor-in-Chief
+83	Work	Perseus 2.0: Interactive Sources and Studies on Ancient Greece (Concise Edition)
+84	Occupation	editor in chief
+84	Affiliation	Perseus	Perseus Digital Library at Tufts
+87	Occupation	Editor-in-Chief	Associate Professor	editor-in-chief
+87	Affiliation	Tufts University
+87	Location	Medford, Massachusetts
+87	Email	gcrane@tufts.edu
+88	Occupation	Editor in Chief
+88	Affiliation	Perseus project at Tufts University	Perseus project	Perseus
+90	Occupation	editor?in?chief	Chair	professor
+90	Affiliation	Perseus Project	Technology and Entrepreneurship	Winnick Family
+90	Work	Perseus 2.0: Interactive Sources and Studies on Ancient Greece
+91	Other name	Crane, Gregory
+91	Affiliation	Tufts University
+91	Email	gregory.crane@tufts.edu
+96	Occupation	Associate Professor of Classics
+96	Work	Perseus
+98	Occupation	Chair	Editor-in-Chief	assistant professor
+98	Affiliation	Tufts University	Department of Classics at Tufts	Technology and Entrepreneurship	Perseus Project	Winnick Family
+98	Award	Lowell Prize for Excellence in Greek	2001 Vannevar Bush Award for Best Paper at JCDL
+99	Other name	Greg Crane
+99	Occupation	Chair	assistant professor
+99	Affiliation	Perseus Project	Department of Classics at Tufts	Technology and Entrepreneuship	Winnick Family
+99	Award	Lowell Prize for Excellence in Greek	2001 Vannevar Bush Award for Best Paper at JCDL

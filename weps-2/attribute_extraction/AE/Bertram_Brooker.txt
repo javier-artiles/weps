@@ -1,0 +1,705 @@
+1	affiliation	J.J. Gibbons Advertising Agency
+1	affiliation	MacLaren Advertising Co.
+1	affiliation	Marketing magazine
+1	affiliation	Portage Review
+1	affiliation	Royal Canadian Engineers
+1	affiliation	The Regina Leader-Post
+1	affiliation	The Winnipeg Free Press
+1	affiliation	The Winnipeg Tribune
+1	award	Governor General's Award for Fiction
+1	birthplace	Croydon, England
+1	dateofbirth	March 31, 1888
+1	location	Neepawa, Manitoba
+1	location	Portage la Prairie, Manitoba
+1	location	Toronto, Ontario
+1	location	Winnipeg
+1	mentor	LeMoine Fitzgerald
+1	nationality	Canadian
+1	occupation	abstract impressionist
+1	occupation	advertising agency executive
+1	occupation	editor
+1	occupation	musician
+1	occupation	painter
+1	occupation	publisher
+1	occupation	staff
+1	occupation	writer
+1	othername	Bertram Richard Brooker
+1	othername	R. W. Surrey
+1	relatives	Mary Ann (Skinner) Brooker
+1	relatives	Mary Aurilla (ÅgRillÅh) Porter
+1	relatives	Richard Brooker
+1	work	Copy Technique in Advertising
+1	work	Layout Technique in Advertising
+1	work	Sounds Assembling: The Poetry of Bertam Brooker
+1	work	Subconscious Selling
+1	work	The Robber
+1	work	The Tangled Miracle
+1	work	Think of the Earth
+2	affiliation	J.J. Gibbons Advertising Agency
+2	affiliation	MacLaren Advertising Co.
+2	affiliation	Portage Review
+2	affiliation	Royal Canadian Engineers
+2	affiliation	Southam Press
+2	affiliation	The Regina Leader-Post
+2	affiliation	The Winnipeg Free Press
+2	affiliation	The Winnipeg Tribune
+2	award	Governor General's Award for Fiction
+2	award	Governor General's Prize for Literature
+2	birthplace	Croydon, England
+2	birthplace	Croydon, London
+2	dateofbirth	31 March 1888
+2	dateofbirth	March 31, 1888
+2	location	Canada
+2	location	Neepawa, Manitoba
+2	location	Portage la Prairie, Manitoba
+2	location	Toronto
+2	mentor	LeMoine Fitzgerald
+2	nationality	Canadian
+2	occupation	abstract impressionist
+2	occupation	advertising agency executive
+2	occupation	artist
+2	occupation	critic
+2	occupation	editor
+2	occupation	musician
+2	occupation	painter
+2	occupation	publisher
+2	occupation	writer
+2	othername	Bertram (Richard) Brooker
+2	othername	R. W. Surrey
+2	othername	Richard Surrey
+2	relatives	Mary Ann (Skinner) Brooker
+2	relatives	Mary Aurilla (???Rill??) Porter
+2	relatives	Richard Brooker
+2	work	Copy Technique in Advertising
+2	work	Layout Technique in Advertising
+2	work	Subconscious Selling
+2	work	The Robber
+2	work	The Tangled Miracle
+2	work	Think of the Earth
+3	affiliation	Arts and Letters Club
+3	affiliation	Canadian Group of Painters
+3	affiliation	Grand Trunk Pacific Railway
+3	award	Governor General's Award for fiction
+3	award	Governor General's award
+3	birthplace	Croydon, England
+3	dateofbirth	March 31st 1888
+3	location	Canada
+3	location	Neepawa
+3	location	Portage la Prairie
+3	location	Toronto
+3	location	Toronto, Ontario
+3	nationality	Canadian
+3	occupation	Artist
+3	occupation	Writer
+3	occupation	artist
+3	occupation	musician
+3	occupation	painter
+3	occupation	poet
+3	occupation	writer
+3	work	Abstract Nude
+3	work	Alleluiah
+3	work	Ascending Forms
+3	work	Bible Series No.1.
+3	work	Double Bass
+3	work	Evolution
+3	work	Fantasy
+3	work	Geometric Forms
+3	work	Green Plant
+3	work	Leaf Sonata
+3	work	Muskoka Lake
+3	work	Poulenc 
+3	work	Sound Assembling
+3	work	Sounds Assembling
+3	work	Sounds Assmebling: The Poetry of Bertram Brooker
+3	work	The Brooker Residence Toronto
+3	work	The Cloud
+3	work	The Dawn of Man
+3	work	The Ice Man
+3	work	The Robber
+3	work	The St. Lawrence
+3	work	Think of the Earth
+3	work	Title Unknown 1
+3	work	Tree Fantasy
+3	work	Triptich
+3	work	Wings and Waves
+4	birthplace	Croydon, England
+4	dateofbirth	March 31, 1888
+4	location	Portage la Prairie
+4	nationality	Canadian
+4	occupation	advertising agency executive
+4	occupation	musician
+4	occupation	painter
+4	occupation	writer
+4	othername	Bertram Richard Brooker
+4	othername	Brooker, Bertram
+4	relatives	Mary Ann (Skinner) Brooker
+4	relatives	Richard Brooker
+4	work	Wild Rhubarb, Isle of Orleans
+5	dateofbirth	1888
+5	location	Canada
+5	nationality	Canadian
+5	occupation	Artists
+6	award	Governor's Award for fiction
+6	dateofbirth	1888
+6	location	Canada
+6	nationality	Canadian
+6	occupation	artist
+6	occupation	painter
+6	occupation	writer
+6	work	Sounds Assembling
+6	work	The Robber
+6	work	Think of the Earth
+7	occupation	painter-poet
+7	work	Death of an Peacock
+7	work	Sounds Assembling
+7	work	The Ice Man
+8	affiliation	Canadian Group of Painters
+8	award	Governor General's Award for fiction
+8	birthplace	Croydon, England
+8	dateofbirth	March 31st 1888
+8	location	Portage la Prairie
+8	location	Toronto, Ontario
+8	occupation	artist
+8	occupation	musician
+8	occupation	painter
+8	occupation	poet
+8	occupation	writer
+8	work	Melee Fantasque
+9	affiliation	Canadian Group of Painters
+9	award	Governor General's Award
+9	birthplace	Croydon, England
+9	dateofbirth	1888
+9	location	Portage la Prairie
+9	location	Toronto
+9	location	Winnipeg
+9	occupation	artist
+9	occupation	musician
+9	occupation	painter
+9	occupation	poet
+9	occupation	writer
+9	work	Front Porch
+9	work	Think of the Earth
+9	work	Untitled landscape
+10	dateofbirth	1888
+10	location	Canada
+10	nationality	Canadian
+10	occupation	Painter
+10	othername	Bertram Richard Brooker
+11	dateofbirth	1888
+11	location	Canada
+11	location	Toronto
+11	work	Abstract Nude
+11	work	Sounds Assembling: the Poetry of Bertram Brooker
+11	work	The Robber
+12	affiliation	Canadian Group of Painters
+12	award	Governor General's Award for fiction
+12	birthplace	Croydon, England
+12	dateofbirth	1888
+12	location	Portage la Prairie
+12	location	Toronto
+12	location	Winnipeg
+12	nationality	Canadian
+12	occupation	artist
+12	occupation	musician
+12	occupation	painter
+12	occupation	poet
+12	occupation	writer
+12	othername	Bertram R. Brooker
+12	work	Front Porch
+12	work	Think of the Earth
+12	work	Untitled landscape
+13	work	Think of the Earth
+14	affiliation	Canadian Group of Painters
+14	award	Governor General's Award for fiction
+14	birthplace	Croydon, England
+14	birthplace	England
+14	dateofbirth	1888
+14	location	Canada
+14	location	Manitoba
+14	location	Portage la Prairie
+14	location	Toronto
+14	nationality	Canadian
+14	occupation	Artists
+14	occupation	abstract painter
+14	occupation	commercial artist
+14	occupation	editor
+14	occupation	musician
+14	occupation	novelist
+14	occupation	painter
+14	occupation	poet
+14	occupation	publisher
+14	occupation	writer
+14	work	Fantasy
+14	work	Think of the Earth
+15	dateofbirth	1888
+15	othername	Brooker, Bertram
+16	affiliation	MacLaren Advertising Co.
+16	affiliation	Portage Review
+16	dateofbirth	March 31, 1888
+16	location	Portage la Prairie, Manitoba
+16	location	Winnipeg
+16	nationality	Canadian
+16	occupation	abstract impressionist
+16	occupation	advertising agency executive
+16	occupation	editor
+16	occupation	musician
+16	occupation	painter
+16	occupation	publisher
+16	occupation	staff
+16	occupation	writer
+16	othername	Bertram Richard Brooker
+16	relatives	Mary Ann (Skinner) Brooker
+16	relatives	Richard Brooker
+17	dateofbirth	1888
+17	location	Canada
+17	occupation	Artist
+19	dateofbirth	1888
+19	occupation	Artist
+19	work	Think of the Earth
+20	birthplace	Surrey, Croydon
+20	birthplace	U.K. (England)
+20	dateofbirth	1888
+20	location	Canada
+20	location	Canada: Ontario, Toronto
+20	nationality	CANADIAN
+20	nationality	Canadian
+20	othername	Brooker, Bertram
+21	dateofbirth	1888
+21	location	Canada
+21	nationality	Canadian
+21	occupation	artists
+21	occupation	painter
+21	othername	Brooker, Bertram
+21	work	Alleluiah
+23	affiliation	Arts and Letters Club
+23	affiliation	Canadian Group of Painters
+23	affiliation	Grand Trunk Pacific Railway
+23	award	Governor General's Award for fiction
+23	birthplace	Croydon, England
+23	location	Canada
+23	location	Neepawa
+23	location	Portage la Prairie
+23	location	Toronto
+23	location	Winnipeg
+23	mentor	LeMoin FitzGerald
+23	nationality	Canadian
+23	occupation	artist
+23	occupation	charter member
+23	occupation	freelance journalist
+23	occupation	musician
+23	occupation	painter
+23	occupation	poet
+23	occupation	writer
+23	work	Think of the Earth
+24	affiliation	Arts and Letters Club
+24	affiliation	Grand Trunk Pacific Railway
+24	award	Governor Generals Award for the best fiction
+24	birthplace	Crydon, England
+24	dateofbirth	March 31st, 1888
+24	location	Canada
+24	location	Neepawa
+24	location	Portage la Prairie
+24	location	Toronto, Ontario
+24	location	Winnipeg
+24	occupation	Artist
+24	occupation	artist
+24	occupation	artists
+24	occupation	freelance journalist
+24	occupation	writer
+24	work	Alleluiah
+24	work	The Robber
+24	work	The Tangled Miracle
+24	work	Think of the Earth
+25	affiliation	A. McKim Advertising agency
+25	affiliation	Arts and Letters Club
+25	affiliation	Free Press
+25	affiliation	Globe newspaper
+25	affiliation	Grand Trunk Pacific Railway
+25	affiliation	J.J. Gibbons Advertising Agency
+25	affiliation	J.J. Gobbons Advertising Agency
+25	affiliation	MacLaren Advertising Co.
+25	affiliation	Marketing
+25	affiliation	Marketing Magazine
+25	affiliation	Marketing Publishers Limited
+25	affiliation	McKim
+25	affiliation	Mendelssohn Choir
+25	affiliation	Portage Review
+25	affiliation	Regina Leader Post
+25	affiliation	Royal Canadian Engineers
+25	affiliation	Winnipeg Free Press
+25	affiliation	Winnipeg Tribune
+25	award	Governor GeneralÅfs Award for the best fiction
+25	award	Silver Award
+25	award	governor-generalÅfs awards for the best Canadian literature
+25	birthplace	Croydon, Surrey Co., England
+25	birthplace	Croydon, Surrey, England
+25	dateofbirth	1888
+25	dateofbirth	March 31
+25	location	Canada
+25	location	Manitoba
+25	location	Neepawa
+25	location	New York
+25	location	Portage La Prairie, Manitoba
+25	location	Portage la Prairie
+25	location	Toronto
+25	location	Winnipeg
+25	nationality	Canadian
+25	occupation	Editor
+25	occupation	Publisher
+25	occupation	Vice-President
+25	occupation	advertising agency executive
+25	occupation	advertising executive
+25	occupation	amateur actor
+25	occupation	art director
+25	occupation	artist
+25	occupation	automobile editor
+25	occupation	cookÅfs help
+25	occupation	copy and art director
+25	occupation	drama editor
+25	occupation	editor
+25	occupation	music critic
+25	occupation	poet
+25	occupation	promotion manager
+25	occupation	publisher
+25	occupation	reporter
+25	occupation	writer
+25	occupation	writers
+25	othername	Bertram R. Brooker
+25	othername	Bertram Richard Brooker
+25	othername	Brooker, Bertram
+25	othername	Burke Brodie
+25	othername	Philip E. Spane
+25	othername	Richard Surrey
+25	relatives	Brooker, Richard
+25	relatives	Brooker, Rill
+25	relatives	Mary Ann (Skinner) Brooker
+25	relatives	Mary Ann Brooker
+25	relatives	Mary Aurilla (ÅgRillÅh) Porter
+25	relatives	Mary Aurilla Porter
+25	relatives	Phyllis Smith
+25	relatives	Richard Brooker
+25	relatives	Smith
+25	relatives	Victor Brooker
+25	work	Layout Technique in Advertising
+25	work	Listen For the Wings
+25	work	Mr. Windle
+25	work	Sounds Assembling
+25	work	Subconscious Selling
+25	work	Tangled Miracle
+25	work	The Ice Man
+25	work	The Poetry of Bertram Brooker
+25	work	The Robber
+25	work	The Robber - A Tale of the time of the Herods
+25	work	The Tangled Miracle
+25	work	Think of the Earth
+25	work	Year Book of the Arts in Canada - 1929
+25	work	Yearbook of the Arts
+25	work	[Y]earbook of the Arts in Canada
+26	work	A Candle in Sunshine
+27	birthplace	Croyden, England
+27	dateofbirth	1888
+27	work	Sounds Assembling: the Poetry of Bertram Brooker
+27	work	The Robber
+27	work	The Tangled Miracle
+27	work	Think of the Earth
+29	affiliation	Canadian Group of Painters
+29	award	Governor GeneralÅfs Award for fiction
+29	birthplace	Croydon, England
+29	dateofbirth	1888
+29	location	Manitoba
+29	location	Portage la Prairie
+29	location	Toronto
+29	location	Winnipeg
+29	nationality	Canadian
+29	occupation	Writer
+29	occupation	charter member
+29	occupation	musician
+29	occupation	painter
+29	occupation	poet
+29	occupation	writer
+29	work	Souls Assembling: The Poetry of Bertram Brooker
+30	dateofbirth	1888
+30	location	Toronto: The Morris Gallery
+30	occupation	artist
+30	othername	Brooker, Bertram
+30	work	Bertram Brooker 1888 - 1955
+31	affiliation	Canadian Group of Painters
+31	affiliation	OSA
+31	affiliation	RCA
+31	award	Governor General's Award for fiction
+31	birthplace	Croydon, England
+31	dateofbirth	1888
+31	location	Canada
+31	location	Portage la Prairie
+31	location	Toronto
+31	nationality	Canadian
+31	occupation	artist
+31	occupation	musician
+31	occupation	painter
+31	occupation	poet
+31	occupation	writer
+31	work	Think of the Earth
+34	affiliation	Grand Trunk Pacific Railway
+34	award	Governor General's Award for fiction
+34	birthplace	Surrey, England
+34	dateofbirth	1888
+34	location	Neepawa
+34	location	Portage la Prairie, Manitoba
+34	location	Toronto
+34	location	Winnipeg
+34	mentor	LeMoine Fitzgerald
+34	occupation	artist
+34	occupation	author
+34	work	Sounds Assembling
+34	work	Tangled Miracle
+34	work	The Robber
+34	work	Think of the Earth
+35	location	Toronto
+35	nationality	Canadian
+35	occupation	Artists
+36	dateofbirth	1888
+36	occupation	abstract painter
+36	occupation	artist
+36	occupation	musician
+36	occupation	writer
+36	work	Sounds Assembling
+37	affiliation	Grand Trunk Pacific Railway
+37	award	Governor General's Award for fiction
+37	birthplace	Croydon, Eng
+37	dateofbirth	31 Mar 1888
+37	location	Canada
+37	location	Manitoba
+37	location	Neepawa
+37	location	Neepawa, Manitoba
+37	location	Portage la Prairie
+37	location	Portage la Prairie, Manitoba
+37	location	Saskatchewan
+37	location	Toronto
+37	nationality	Canadian
+37	occupation	advertising executive
+37	occupation	artist
+37	occupation	journalist
+37	occupation	novelist
+37	occupation	poet
+37	othername	Brooker, Bertram Richard
+37	work	Alleluiah
+37	work	Sounds Assembling
+37	work	Think of the Earth
+37	work	Yearbook of the Arts 1928-1929
+37	work	[Y]earbook of the Arts in Canada
+38	affiliation	Arts and Letters Club
+38	award	Governor GeneralÅfs Prize for fiction
+38	birthplace	Croydon England
+38	dateofbirth	1888
+38	location	Canada
+38	location	Manitoba
+38	location	Toronto
+38	location	Winnipeg
+38	relatives	Mary Aurilla Porter
+38	work	The Robber
+38	work	Yearbook of the Arts
+38	work	[Y]earbook of the Arts in Canada
+41	work	Studio corner
+42	dateofbirth	1888
+43	location	Canada
+43	nationality	Canadian
+43	occupation	artist
+43	work	Leaf Sonata
+43	work	Sounds Assembling
+44	work	Wings & Waves
+45	occupation	Artists
+45	work	Sounds Assembling: The Poetry of Bertram Brooker
+47	nationality	Canadians
+47	occupation	artists
+47	work	Bertram Brooker, 1888-1955
+49	location	Canada
+49	work	Think of the Earth
+54	nationality	Canadian
+54	occupation	Artists
+56	othername	Brooker, Bertram
+56	work	Shoes
+56	work	Think of the earth
+57	nationality	Canadian
+57	occupation	Artists
+57	occupation	Painters
+60	affiliation	Arts and Letters Club
+60	affiliation	Canadian Group of Painters
+60	award	Governor GeneralÅfs Award
+60	dateofbirth	1888
+60	location	Canada
+60	location	Portage la Prairie
+60	location	Winnipeg
+60	mentor	LeMoine FitzGerald
+60	nationality	Canadian
+60	occupation	Painters
+60	occupation	charter member
+60	occupation	musician
+60	occupation	painter
+60	occupation	writer
+60	othername	Bertie
+60	work	Ascending Forms
+60	work	Fantasy
+60	work	The Cloud
+60	work	Think of the Earth
+60	work	Tree Fantasy
+61	award	Governor General's Award
+61	work	Think of the Earth
+62	location	Canada
+64	occupation	artists
+66	award	Governor General's Award for Literature
+66	dateofbirth	1888
+66	location	Canada
+66	nationality	Canada
+66	nationality	Canadian
+66	occupation	Artists
+66	occupation	abstract painter
+66	occupation	artist
+66	occupation	modernist
+66	occupation	modernist poets
+66	othername	Brooker, Bertram
+66	work	Sounds Assembling: The Poetry of Bertram Brooker
+66	work	Tangled Miracle
+66	work	The Poetry of Bertram Brooker
+66	work	The Robber: A Tale of the Time of the Herods
+66	work	Think of the Earth
+67	work	Betram Brooker: 1888-1955
+68	work	Through the Trees, Muskoka Lake
+69	work	Geometric Forms
+70	work	Think of The Earth
+73	award	Governor General's Literary Award
+74	work	Think of the Earth
+75	occupation	Painters
+78	location	Manitoba
+78	work	Alleluiah
+78	work	Green Movement
+78	work	Lake Manitoba Icehouse
+78	work	Phyllis (Piano! Piano!)
+78	work	Still Life with Lemons
+78	work	The Three Powers
+78	work	The Wrong World: Selected Stories, Essays and Manifestoes
+78	work	Two Nudes
+79	location	Toronto
+79	nationality	Canadian
+79	occupation	artists
+79	work	Torso
+81	award	1936 Governor General's Awards
+81	award	1936 Governor General's Awards for Literary Merit
+81	location	Canada
+81	work	Think of the Earth
+82	award	Governor General's Literary Award
+82	location	Canada
+82	location	Saskatchewan
+82	work	Think of the Earth
+84	nationality	Canadian
+84	othername	Brooker, Bertram
+84	work	Nude
+84	work	Wild Rhubarb, Isle of Orleans
+86	award	1936 Governor General's Awards
+86	award	The 1936 Governor General's Awards for Literary Merit
+86	location	Toronto
+86	work	Think of the Earth
+87	location	Canada
+87	nationality	Canada
+87	nationality	Canadian
+87	occupation	abstract painters
+87	occupation	artists
+87	occupation	painter
+89	occupation	Abstract painter
+89	occupation	Artist
+89	work	Muskoka Lake
+91	dateofbirth	1888
+91	dateofbirth	March 31
+91	occupation	Author
+91	occupation	author
+91	work	Alleluiah
+92	nationality	Canadian
+92	occupation	painters
+95	dateofbirth	1888
+95	nationality	Canada
+95	occupation	Artists
+96	location	Canada
+96	location	Toronto
+96	nationality	Canadian
+96	occupation	artists
+99	location	Canada
+99	location	Winnipeg
+100	occupation	artists
+100	work	Sounds Assembling
+105	award	Governor-GeneralÅfs Award
+105	occupation	abstract painter
+105	occupation	published critic
+107	occupation	artists
+108	nationality	British
+108	nationality	Canadian
+108	occupation	Artist
+108	occupation	Painter
+110	occupation	painters
+110	occupation	theosophist painter
+110	work	Think of the Earth
+111	nationality	Canada
+111	occupation	abstract painter
+113	location	Canada
+114	birthplace	Surrey, UK
+114	dateofbirth	1888
+114	location	Toronto
+114	nationality	Canadian
+114	othername	Brooker, Bertram
+114	work	Abstract Pyramids
+114	work	The Wrong World: Selected Stories, Essays and Manifestoes
+115	occupation	artist
+116	occupation	writers
+117	affiliation	Ontario Society of Artists
+117	dateofbirth	1888
+117	location	Canada
+117	occupation	artist
+119	occupation	painters
+120	location	Canada
+121	occupation	painters
+121	occupation	theosophist painter
+122	location	Toronto
+122	work	Think of the Earth
+123	dateofbirth	1888
+123	location	Canada
+123	location	Toronto
+123	occupation	Artists
+123	othername	Brooker, Bertram
+126	occupation	painters
+126	occupation	theosophist painter
+128	dateofbirth	1888
+128	occupation	Artist
+129	occupation	painters
+129	occupation	theosophist painter
+130	nationality	Canadian
+130	occupation	artist
+130	work	Sound Assembling
+130	work	Sounds Assembling
+132	award	Governor GeneralÅfs Literary Award (Fiction)
+132	work	Robber: A tale of the time of herods
+132	work	Think of the Earth
+136	work	The Governor Generals Literary Award (Fiction)
+138	occupation	Painters
+139	dateofbirth	1888
+139	location	Toronto
+139	occupation	AUTHOR
+139	othername	Brooker, Bertram
+139	work	THINK OF THE EARTH
+140	award	Governor General's Literary Awards: Fiction
+140	location	Canada
+140	location	Toronto
+140	nationality	Canadian
+140	work	Think of the Earth
+142	location	Winnipeg
+142	work	Sounds Assembling
+144	nationality	Canadian
+144	occupation	theosophist painter
+144	occupation	writers
+145	award	Governor General's Literary Awards
+145	work	Think of The Earth
+146	location	Canada
+146	othername	Brooker, Bertram
+148	dateofbirth	1888
+149	occupation	painters
+149	occupation	theosophist painter
+150	award	GOVERNOR GENERAL'S AWARD FOR FICTION
+150	location	Canada
+150	work	Think of the Earth

@@ -1,0 +1,253 @@
+2	Date of birth	13 April 1937
+2	Birthplace	Chelsea, London, England, UK
+2	Occupation	Actor
+2	Affiliation	Coldstream Guards
+2	Work	Lassie	Poirot	Agatha Christie's Poirot	The Hollow	Stage Beauty	The Republic of Love	Nicholas Nickleby	Daniel Deronda	Foyle's War	The German Woman	The Importance of Being Earnest	Importance d'?tre constant, L'	I Was a Rat	Bon petit rat, Un	All the Queen's Men	M?nner Ihrer Majest?t, Die	Lost in Space	LS	Forbidden Territory: Stanley's Search for Livingstone	A Dance to the Music of Time	Prince Valiant	Prinz Eisenherz	September	Rosamunde Pilcher's September	Gulliver's Travels	A Month by the Lake	Sherwood's Travels	Never Love a Thief	A Feast at Midnight	The Maitlands	Playhouse: The Maitlands	Chillers	Mistress of Suspense	The Cat Brought It In	The Crucifer of Blood	Robin Hood	Robin Hood - Ein Leben f?r Richard L?wenherz	The Strauss Dynasty	They Never Slept	Return from the River Kwai	A Hazard of Hearts	Quartermaine's Terms	Shaka Zulu	Anastasia: The Mystery of Anna	The Father	Wild Geese II	The Shooting Party	A Passage to India	The Bounty	The Dresser	Never Say Never Again	James Bond 007 - Sag niemals nie	Gandhi	Richard Attenborough's Film: Gandhi	The Mirror Crack'd	The Cat and the Canary	Play of the Month	The Voysey Inheritance	Loyalties	The School for Scandal	A Midsummer Night's Dream	Ross	Edward & Mrs. Simpson	Force 10 from Navarone	The Big Sleep	The Squeeze	Shooting the Chandelier	BBC2 Play of the Week: Shooting the Chandelier	Soldaat van Oranje	Soldier of Orange	Survival Run	The Duellists	A Bridge Too Far	The Black Knight	Romance: The Black Knight	Hard Times	Galileo	Galileo Galilei	A Doll's House	Maison de poup?e	The Day of the Jackal	Chacal	Shadows of Fear	The Party's Over	Thirty-Minute Theatre	Bermondsey	The Go-Between	Olive	W. Somerset Maugham: Olive	Skullduggery	The Breaking of Bumbo	Battle of Britain	The Mind of Mr. J.G. Reeder	The Strange Case	Journey to the Unknown	Out of the Unknown	Poor Butterfly	Oh! What a Lovely War	The Troubleshooters	Mogul	If He Hollers, Let Him Go	The Avengers	My Wildest Dream	Man in a Suitcase	Castle in the Clouds	The Portrait of a Lady	Public Eye	If This Is Lucky, I'd Rather Be Jonah	Journey to Midnight	I'll Never Forget What's'isname	I'll Never Forget What's 'Isname	The Long Duel	The Naked Runner	The Jokers	Theatre 625	Girl of My Dreams	Shotgun	Redcap	Rough Justice	The Frozen Dead	The Bachelor Girls	Suspense	The White Hot Coal	This Sporting Life	The Mind Benders	Breakfast	Cluedo	Clue	Politician's Funeral	The Modern World: Ten Great Writers	The Making of 'The Bounty	Wogan	The Wogan Years
+3	Date of birth	13 April 1937
+3	Birthplace	Chelsea, London
+3	Other name	Edward Charles Morrice Fox
+3	Occupation	actor	stage, film and television actor	Lieutenant
+3	Affiliation	Coldstream Guards
+3	Work	Never Say Never Again	The Day of the Jackal	Edward and Mrs Simpson	This Sporting Life	Oh! What a Lovely War	Battle of Britain	The Go-Between	A Bridge Too Far 	Force 10 From Navarone	Gandhi	The Bounty	The Importance of Being Earnest	Nicolas Nickleby	Stage Beauty	Four Quartets
+3	Award	OBE
+3	School	Harrow
+3	Nationality	English
+3	Relatives	Robin Fox	Angela Worthington	James Fox	Robert Fox	Daniel Chatto	Tracy Reed	Joanna David	Lucy, Viscountess Gormanston	Emilia Fox	Freddie Fox
+4	Other name	Edward A. Fox
+4	Affiliation	Virginia Tech	Dept. of Computer Science	Computing Center Research Dept.
+4	Email	fox@vt.edu
+5	Date of birth	April 13th 1937
+5	Birthplace	Chelsea, London
+5	Work	A Bridge Too Far	Gandhi	Edward & Mrs Simpson	Gulliver's Travels	Daniel Deronda	This Sporting Life	The Day of the Jackal	I Was A Rat	The Importance of Being Earnest	Never Say Never Again	A Dance to the Music of Time
+5	Relatives	James Fox	Emilia Fox	Angela	Tracy Reed	Emilia	Freddy	Lucy
+10	Date of birth	1496
+10	Birthplace	Dursley in Gloucestershire
+10	Other name	Edward Foxe
+10	Occupation	bishop	churchman	Bishop	secretary	Provost	prolocutor 	archdeaconry	deanery	bishopric	bishops
+10	Affiliation	King's College	convocation
+10	Work	De vera differentia regiae potestatis et ecclesiae
+10	School	Eton College	King's College, Cambridge
+10	Nationality	English
+12	Birthplace	Columbus, Ohio
+12	Other name	J. Edward Fox
+12	Occupation	Assistant Administrator	Assistant Secretary	Special Assistant to the President	President	Vice President	Managing Director	adviser	official election observer
+12	Affiliation	Legislative and Public Affairs	Bureau for Legislative and Public Affairs, U.S. Agency for International Development	USAID	Legislative and Intergovernmental Affairs	Legislative Affairs	Committee on Foreign Affairs in the House of Representatives	Fox & Associates	International Affairs of The Carmen Group	Governmental and International Affairs Group	Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C
+12	School	Ohio State University	George Washington University
+12	Major	political science	legislative affairs
+12	Degree	bachelor's degree	master's
+15	Date of birth	London, England	London
+15	Birthplace	4/13/1937
+15	Other name	Ed Fox
+15	Occupation	Actor
+15	Work	The Mind Benders	The Go-Between	The Day of the Jackal	Joy Division	Lassie	Stage Beauty	The Republic of Love	All the Queen's Men	Nicholas Nickleby	The Importance of Being Earnest	Lost in Space	Prince Valiant	True Blue	A Feast at Midnight	A Month By the Lake	They Never Slept	Return to the River Kwai	Wild Geese II	The Bounty	The Shooting Party	Never Say Never Again	The Dresser	Gandhi	Nighthawks	The Mirror Crack'd	Soldier of Orange	The Cat and the Canary	Force 10 From Navarone	The Big Sleep	A Bridge Too Far	The Duellists	The Squeeze	A Doll's House	Skullduggery	Battle of Britain	Oh! What A Lovely War	I'll Never Forget What's 'Is Name	The Naked Runner	Galileo
+15	Relatives	James
+17	Occupation	actor
+17	Work	Day of the Jackal	Never Say Never Again	The Shooting Party	Wild Geese II	Robin Hood
+17	Nationality	British
+17	Relatives	James Fox
+18	Date of birth	4-13-1937
+18	Birthplace	Chelsea, London, England
+18	Occupation	actors	officer
+18	Affiliation	Coldstream Guards	British Army
+18	Work	Poirot	The Hollow	Daniel Deronda	Edward and Mrs Simpson	Play of the Month	Cluedo	Politician's Funeral	Comedy Playhouse	The Bachelor Girls	Foyle's War	The German Woman	Journey to the Unknown	Poor Butterfly	Robert Sawyer	Man in a Suitcase	Castle in the Clouds	Masterpiece Theatre	Daniel Deronda (2)
+18	Relatives	Angela Fox	James Fox	Emilia Fox
+19	Date of birth	1937
+19	Occupation	actor
+19	Work	Lassie	Stage Beauty	The Republic of Love	Nicholas Nickleby 	The Importance of Being Earnest 	I was a Rat 	All the Queen's Men 	Lost In Space 	Gullivers Travels 	A Month By The Lake 	A Feast at Midnight 	Robin Hood 	The Crucifer of Blood 	They Never Slept 	Return from the River Kwai 	Glittering Crowns 	A Hazard of Hearts 	Anastasia: The Mystery of Anna 	The Wild Geese 2 	Passage to India. 	The Shooting Party 	The Bounty 	The Dresser 	Never Say Never Again 	Gandhi 	Nighthawks 	The Mirror Crack'd 	Edward and Mrs. Simpson 	The Big Sleep 	The Cat and the Canary 	Force 10 from Navarone 	Soldier of Orange 	The Duellists 	A Bridge Too Far 	The Squeeze 	Hard Times 	Galileo 	The Day of the Jackal 	A Doll's House 	The Go-Between 	Skullduggery 	Battle of Britain 	Journey into Midnight 	I'll Never Forget What's 'is Name 	The Frozen Dead 	The Long Duel 	The Naked Runner 	The Jokers 	Portrait of a Lady 	The Mind Benders 	Forbidden Territory: Stanley's Search for Livingstone 	Road to 1984
+19	Nationality	British
+19	Relatives	James Fox
+20	Occupation	actor
+20	Work	The Day of the Jackal
+20	Nationality	British
+20	Relatives	EMILIA
+21	Work	The Big Sleep	The Bounty	Gandhi	The Importance of Being Earnest	A Month by the Lake	Stage Beauty
+25	Date of birth	1496
+25	Birthplace	Dursley in Gloucestershire
+25	Occupation	bishop	secretary	provost	prolocutor	archdeaconry	bishopric	bishops
+25	Affiliation	King's College	convocation
+25	Work	De vera differentia regiae potestatis et ecclesiae
+25	School	Eton	King's College, Cambridge
+26	Occupation	Artist
+26	Work	Oak in Winter
+27	Occupation	actor
+27	Affiliation	Coldstream Guards
+27	Work	Edward and Mrs Simpson	The Day of the Jackal	Gandhi	Never Say Never Again	I Was a Rat	Daniel Deronda	Republic of Love	The Go-Between	A Bridge Too Far
+27	Award	OBE	TV Bafta	Bafta awards	best supporting actor
+27	School	Harrow School
+27	Relatives	Emilia	Freddy	Lucy
+28	Occupation	actors	officer
+28	Affiliation	Coldstream Guards	British Army
+28	Relatives	Angela Fox	James Fox	Emilia Fox	Joanna David	Tracy Reed	Lucy
+31	Work	Never Say Never Again
+32	Date of birth	04/13/1937
+32	Birthplace	London, England
+32	Work	A Midsummer Night's Dream	Anastasia: The Mystery of Anna	Battle of Britain	BBC Plays	Bermondsey	Big Sleep	Bounty	Bridge Too Far	Cat and the Canary	Churchill's People	Crucifer of Blood	Day of the Jackal	Doll's House	Dresser	Duellists	Edward and Mrs. Simpson	Expert	Feast at Midnight	Force 10 From Navarone	Frozen Dead	Galileo	Gandhi	Girl Of My Dreams	Go-Between	Hazard of Hearts	I'll Never Forget What's 'is Name	Importance of Being Earnest	Jokers	Journey into Midnight	Lassie	Long Duel	Lost in Space	Loyalties	Mind Benders	Mirror Crack'd	Month By the Lake	Naked Runner	Never Say Never Again	Oh! What a Lovely War	Olive	Play of the Month	Robin Hood	Ross	Shooting Party	Shooting The Chandelier	Skullduggery	Soldier of Orange	Square	Squeeze	Stage Beauty	Sunday Night Theatre	The Man on My Back	The Ragged Trousered	The School For Scandal	Thirty Minute Theatre	This Sporting Life	Wild Geese II
+33	Occupation	clothmaker
+33	Relatives	Richard	Orringe Prest	Susanna	Mary Ball	John	Naomi
+34	Work	Agatha Christie's Poirot: The Hollow	Agatha Christie's The Mirror Crack'd	All the Queen's Men	Anastasia: The Mystery of AnnaThe Avengers '68 (10-Disc Series)	Battle of Britain	The Bounty	A Bridge Too Far	The Cat and the Canary	The Day of the Jackal	The Dresser	The Duellists	Edward & Mrs. Simpson (2-Disc Series)	Forbidden Territory	Force 10 from Navarone	Galileo	Gandhi	The Go-Between	The Importance of Being Earnest	Lassie	A Month by the Lake	Nicholas Nickleby	September	Shaka Zulu (4-Disc Series)	The Shooting Party	Soldier of Orange	Soldaat van Oranje	Stage Beauty
+35	Date of birth	13-Apr-1937
+35	Birthplace	Chelsea, London, England
+35	Occupation	Actor	ACTOR
+35	Affiliation	Coldstream Guards
+35	Work	Lassie	Stage Beauty	Nicholas Nickleby	Daniel Deronda	The Importance of Being Earnest	Lost in Space	Prince Valiant	Gulliver's Travels	A Month by the Lake	A Feast at Midnight	Robin Hood	Return from the River Kwai	A Hazard of Hearts	Shaka Zulu	Anastasia: The Mystery of Anna	Shaka Zulu	Wild Geese II	The Shooting Party	The Bounty	The Dresser	Never Say Never Again	Gandhi	The Mirror Crack'd	The Cat and the Canary	Force 10 From Navarone	The Big Sleep	The Squeeze	The Duellists	A Bridge Too Far	A Doll's House	The Day of the Jackal	The Go-Between	Skullduggery	Battle of Britain	Oh! What a Lovely War	I'll Never Forget What's'isname	The Naked Runner	The Jokers
+35	Award	Officer of the British Empire 2002 Queen's New Year's Eve Honours
+35	School	Ashford School	Harrow School	Royal Academy of Dramatic Art
+35	Nationality	England
+35	Relatives	Robin Fox	Angela	James Fox	Robert Fox	Tracy Reed	Tracy Pelissier	Joanna David	Emilia Fox
+36	Location	New Zealand
+41	Date of birth	1937	April 13, 1937
+41	Birthplace	Chelsea, London, England
+41	Occupation	Associate Member
+41	Affiliation	RADA
+41	Work	THE DAY OF THE JACKAL	NEVER SAY NEVER	STAGE BEAUTY	THE IMPORTANCE OF BEING EARNEST	LOST IN SPACE	THEY NEVER SLEPT	SHAKA ZULU	GANDHI	THE SQUEEZE	THE JOKERS
+41	Award	O.B.E. (Officer of the order of the British Empire) Queen's New Year's Honours List
+41	School	RADA
+41	Relatives	James Fox
+42	Phone	620.584.6555
+43	Other name	Edward C. Fox	Edward Coley Fox
+43	Occupation	research trainee	Technical Staff	Fellow	research staff
+43	Affiliation	RCA Laboratories	IEEE	Audio Engineering Society	RCA	David Sarnoff Research Labs of the Sarnoff Corporation
+43	Award	RCA Laboratories Outstanding Achievement Awards	IEEE Audio and Electroacoustics Group Best Paper Award
+43	School	MIT
+43	Major	Electrical Engineering
+43	Degree	combined bachelors and masters degrees	BSEE	MSEE degree
+44	Birthplace	London
+44	Occupation	actor
+44	Work	The Mind Benders
+44	Relatives	James	Lassie	Stage Beauty	The Republic of Love	All the Queen's Men
+45	Occupation	Dr.	MD	Hematologists
+45	Degree	Dr.	MD
+45	Location	3801 Bellemeade Avenue, Evansville, Indiana (IN)
+46	Occupation	actor
+46	Work	Day of the Jackal	Never Say Never Again	The Shooting Party	Wild Geese II	Robin Hood
+46	Nationality	British
+46	Relatives	James Fox
+48	Date of birth	4/13/1937
+48	Birthplace	London, England	London
+48	Other name	Ed Fox
+48	Occupation	Actor	actor
+48	Work	The Mind Benders	The Go-Between	The Day of the Jackal	A Bridge Too Far	The Duellists	Soldier of Orange	Gandhi	The Shooting Party	Edward and Mrs. Simpson	Quartermaine's Terms	A Month by the Lake	Lassie	Stage Beauty	I Was A Rat	A Dance to the Music of Time	Robin Hood	Never Say Never Again	Edward and Mrs Simpson	Hard Times	Battle of Britain	Great Performances
+48	Award	BAFTA Award Best Supporting Actor	National Society of Film Critics Award Best Supporting Actor	British Film Academy Award Best Supporting Actor
+48	School	Royal Academy of Dramatic Art London
+48	Relatives	James
+49	Occupation	actor
+49	Affiliation	Coldstream Guards
+49	Work	Edward and Mrs Simpson	The Day of the Jackal	Gandhi	Never Say Never Again	I Was a Rat	Daniel Deronda	Republic of Love	The Go-Between	A Bridge Too Far
+49	Award	OBE	TV Bafta	Bafta awards	best supporting actor
+49	School	Harrow School
+49	Relatives	Emilia	Freddy	Lucy
+52	Date of birth	1496
+52	Birthplace	Dursley in Gloucestershire
+52	Occupation	Bishop	secretary	provost	prolocutor	archdeaconry	deanery	bishops
+52	Affiliation	King's College	convocation
+52	Work	De vera differentia regiae potestatis et ecclesiae
+52	School	Eton College	King's College, Cambridge
+52	Location	St. Mary Mounthaw, London, England
+53	Other name	Edward A. Fox
+53	Occupation	professor	Director
+53	Affiliation	Department of Computer Science	Digital Research Laboratory at Virginia Tech
+53	Location	660 McBryde Hall, M/C 0106, Blacksburg, VA 2406
+53	Phone	540/231-5113
+53	Email	fox@vt.edu
+53	Web site	http://fox.cs.vt.edu
+54	Work	Edward and Mrs. Simpson - Parts 1 and 2
+55	Date of birth	4/13/1937
+55	Work	The Importance of Being Earnest	The Shooting Party	The Bounty	Gandhi	The Big Sleep	The Duellists	The Day of the Jackal	A Month by the Lake	Wild Geese II	The Dresser	The Mirror Crack'd	Force 10 from Navarone	A Bridge Too Far	The Go-Between
+56	Occupation	actor
+56	Work	Never Say Never Again	Day of the Jackal 	The Dresser	Return From The River Kwai	The Shooting Party, Wild Geese II	Wild Geese II	Lost In Space	The Importance Of Being Earnest	Nicholas Nickleby
+56	Award	OBE
+56	Nationality	British
+56	Relatives	James Fox
+57	Date of birth	April 13, 1937
+57	Birthplace	London, England, UK
+57	Occupation	Actor	actor
+57	Work	Day of the Jackal	Never Say Never Again	The Shooting Party	Wild Geese II	Robin Hood	Lassie	Stage Beauty	The Republic of Love	The Importance of Being Earnest	Nicholas Nickleby	I Was a Rat	All The Queen's Men	Lost in Space	Gulliver's Travels	A Feast at Midnight	LASSIE	STAGE BEAUTY	Bridge Too Far	Go-Between
+57	Award	Best Supporting Actor	British Academy Awards
+57	Nationality	British
+57	Relatives	James Fox
+58	Other name	Henry Edward Fox	Henry Edward Vassall Fox Holland	Holland, Henry Edward Vassall Fox
+58	Occupation	Hon.	baron
+58	Work	The journal of the Hon. Henry Edward Fox (afterwards fourth and last Lord Holland) 1818-1830
+59	Date of birth	April 13, 1937
+59	Birthplace	Chelsea, London, England, United Kingdom
+59	Occupation	actors	Actor
+59	Work	THE GO-BETWEEN	A BRIDGE TOO FAR	THE DUELLISTS	GANDHI	THE BOUNTY	THE DAY OF THE JACKAL	THE SHOOTING PARTY	A MONTH BY THE LAKE	THE IMPORTANCE OF BEING EARNEST	NICHOLAS NICKLEBY	Foyle's War	Daniel Deronda	Cinderella & Me	Gulliver's Travels	Robin Hood	Quartermaine's Terms	Never Say Never Again	Lassie	Elizabeth	The Importance of Being Earnest	A Bridge Too Far	The Day of the Jackal	Battle of Britain	Daniel Deronda	Shaka Zulu	A Month by the Lake	The Winslow Boy	The Browning Version	The Rivals	A Letter of Resignation	My Fair Lady	The Admirable Chrichton	The Philanthropist	Dance of Death	The Old Master
+59	Nationality	Britain
+60	Other name	Edward Fox Bryan	E. F. (Edward Fox) BRYAN	E.F. BRYAN	Edward Fox BRYAN
+60	Occupation	private soldier
+60	Affiliation	34th Reg't of Texas Cavalry	Trans-Mississippi Department
+60	Relatives	Sarah A King Bryan	Allen Bryan	Sarah Pou	Sarah A (King) Bryan	S.A. BRYAN
+61	Date of birth	04/13/1937
+61	Birthplace	London, England
+61	Other name	Ed Fox
+61	Occupation	actor	Actor
+61	Work	The Mind Benders	The Go-Between	The Day of the Jackal	A Bridge Too Far	The Duellists	Soldier of Orange	Gandhi	The Shooting Party	Edward and Mrs. Simpson	Quartermaine's Terms	A Month by the Lake	Hard Times	Great Performances	Edward and Mrs Simpson	Never Say Never Again	I Was A Rat	Robin Hood	A Dance to the Music of Time	The Importance of Being Earnest	Stage Beauty	Lassie	Battle of Britain
+61	School	Royal Academy of Dramatic Art
+61	Relatives	James	Lucy Fox	Daniel Chatto	Freddie Fox	Emilia Fox
+63	Work	Edward and Mrs. Simpson - Parts 1 and 2
+66	Other name	Edward A. Fox
+66	Occupation	Project Director
+66	Affiliation	Virginia Tech	NCSTRL Working Group
+66	Location	Project Director
+66	Email	etd@vt.edu
+66	Web site	http://etd.vt.edu/etd/
+67	Date of birth	04/13/1937
+67	Work	The Day of the Jackal	Force 10 from Navarrone	Gandhi	The Dresser
+69	Occupation	writer
+69	School	Columbia University
+69	Major	Middle Eastern studies
+69	Degree	master's degree
+69	Location	Dhahran
+72	Other name	Edward D Fox
+72	Occupation	Director	Chairman	Chief Executive Officer	senior partner	certified public accountant
+72	Affiliation	Thomas Properties Group Inc.	Vantage Property Investors, LLC	Center Trust	CommonWealth Partners	Maguire Thomas Partners	Dean's advisory council for the USC School of Architecture	board of directors of the Orthropaedic Hospital Foundation and the Los Angeles Boy Scouts	International Council of Shopping Centers	Urban Land Institute	American Institute of Certified Public Accountants
+72	School	University of Southern California
+72	Major	accounting	business administration
+72	Degree	bachelor's degree	master's degree
+72	Location	Los Angeles, California
+75	Affiliation	Edward Fox Photography
+75	Web site	www.edwardfox.com
+76	Date of birth	1937
+76	Occupation	Actor
+80	Work	Lassie	Never Say Never Again	The Cat and the Canary
+81	Date of birth	November 17, 1928
+81	Other name	Edward Fox Kunin	Edward Kunin
+81	Occupation	Lawyer
+81	School	Antioch College	New York University School of Law
+81	Major	Business Administration
+82	Other name	J. Edward Fox
+82	Occupation	Assistant Administrator	Vice President	Assistant Secretary for Legislative and Intergovernmental Affairs	Special Assistant to the President for Legislative Affairs	advisor	official election observer
+82	Affiliation	USAID's Legislative and Public Affairs Bureau	U.S. AGENCY FOR INTERNATIONAL DEVELOPMENT	Bureau for Legislative and Public Affairs for the U.S. Agency for International Development	USAID	Legislative and Public Affairs (LPA) Bureau	Fox & Associates	International Division of The Carmen Group	Department of State	House Committee on Foreign Affairs
+82	School	Ohio State University	George Washington University
+82	Major	Political Science	Legislative Affairs
+82	Degree	B.A.	M.A.
+82	Location	WASHINGTON, DC 20523
+82	Phone	(202) 712-4320
+82	Web site	http://www.usaid.gov
+83	Phone	620-584-6555	316-2004-135
+84	Occupation	Actor
+84	Work	Lassie	Compleat Female Stage Beauty
+85	Work	Dance To The Music Of Time, A	A Dance to the Music of Time	Go-Between
+86	Occupation	Actors
+86	Work	Shaka Zulu	The Dresser	Gandhi
+89	Date of birth	November 17, 1928
+89	Other name	Edward Fox Kunin	Edward Kunin
+91	Occupation	ACTOR
+92	Date of birth	1796
+92	Birthplace	Claymont (historical?), King and Queen County, Virginia
+92	Location	King and Queen County, Virginia
+92	Relatives	Emily Pollard Campbell
+93	Other name	Fox, Edward
+93	Occupation	Instructor
+93	Affiliation	Dana-Farber Cancer Institute
+94	Date of birth	April 13, 1937
+94	Birthplace	Chelsea, London, England
+96	Relatives	James Fox	William Fox
+97	Date of birth	1496
+99	Date of birth	1937	April 13, 1937
+99	Birthplace	London, England
+99	Occupation	Actors	actor
+99	Affiliation	Coldstream Guards
+99	Work	Day of the Jackal	A Bridge Too Far	This Sporting Life	The Jokers	I'll Never Forget What's 'is Name	The Naked Runner	The Long Duel	Battle of Britain	Oh! What a Lovely War	Skullduggery	The Go-Between	A Doll's House	Galileo	Soldier of Orange	The Duellists	The Big Sleep	Force 10 From Navarone	The Cat and the Canary	The Mirror Crack'd	Gandhi	Never Say Never Again	The Shooting Party	The Bounty	Wild Geese II	Return from the River Kwai	Sherwood's Travels	A Feast at Midnight	A Month by the Lake	After Murder Park	Prince Valiant	Lost in Space	Hard Times	Edward and Mrs. Simpson	Shaka Zulu	The Strauss Dynasty	A Dance to the Music of Time	Modern World: The Ten Great Writers	The Black Knight	Anastasia: The Mystery of Anna	Quartermaine's Terms	Gulliver's Travels	The Avengers
+99	School	Royal Academy of Dramatic Art	Harrow
+99	Relatives	James	Tracy Reed	Lucy	Emilia	Freddy

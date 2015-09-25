@@ -1,0 +1,368 @@
+3	othername	Bender, Emily
+3	othername	Bender, Emily M.
+3	othername	Emily M. Bender
+5	affiliation	Hawthorn University
+5	affiliation	Solstice
+5	degree	B.A
+5	degree	M.A
+5	major	French
+5	major	Interdisciplinary Art
+5	occupation	author
+5	occupation	certified nutrition consultant
+5	occupation	expert reader
+5	occupation	faculty
+5	occupation	monthly columnist
+5	occupation	scholar
+5	relatives	Abraham
+5	school	Oberlin College
+5	school	San Francisco State University
+5	work	Our Bodies, Ourselves
+6	affiliation	Association for Computational Linguistics
+6	affiliation	California Alumni Association (UC Berkeley)
+6	affiliation	Computer Science & Engineering
+6	affiliation	Computer Science & Engineering at University of Washington
+6	affiliation	DELPH-IN
+6	affiliation	Linguistic Society of America
+6	affiliation	Linguistics
+6	affiliation	Linguistics at University of Washington
+6	affiliation	Natural Language Processing People
+6	affiliation	Professional Master's Program in Computational Linguistics
+6	affiliation	Professional Master's Program in Computational Linguistics at University of Washington
+6	affiliation	Stanford University Alumni
+6	affiliation	University of California Alumni (Berkeley)
+6	affiliation	University of Washington
+6	degree	AB
+6	degree	PhD
+6	location	Greater Seattle Area
+6	major	Linguistics
+6	occupation	Adjunct Assistant Professor
+6	occupation	Assistant Professor
+6	occupation	Director
+6	school	Stanford University
+6	school	Tohoku Daigaku
+6	school	University of California Berkeley
+7	affiliation	University of Washington
+7	occupation	Authors
+7	othername	Emily M. Bender
+7	work	Syntactic Theory
+7	work	Syntactic Theory: a formal introduction, Second Edition Instructor's Manual
+14	affiliation	Nutrition for  Whole Family
+14	affiliation	Solstice
+14	location	Fairfax
+14	major	French
+14	occupation	nutrition counselor
+14	occupation	soprano
+14	school	Oberlin College
+15	email	Emily@nutritionforwholefamily.com
+15	occupation	CHN
+15	occupation	NC
+15	phone	415-259-4471
+18	email	Benderemily@mac.com
+18	phone	612.483.4300
+21	degree	BA
+21	degree	M.A
+21	major	French
+21	major	Interdisciplinary Art
+21	occupation	NC
+21	occupation	Nutrition Consultant
+21	occupation	artist
+21	occupation	childcare provider
+21	occupation	cook
+21	occupation	fellow
+21	occupation	musician
+21	occupation	nutritionist
+21	occupation	preschool teacher
+21	school	Institute for Educational rapy
+21	school	Oberlin College
+21	school	San Francisco State University
+21	work	Our Bodies Ourselves for the New Century
+22	affiliation	Nutrition for  Whole Family
+24	othername	Bender Emily
+24	othername	Bender Emily M
+24	othername	Emily M. Bender
+27	email	emily@gourmelping.com
+27	location	Fairfax
+27	occupation	Certified Nutrition Consultant
+27	occupation	Nutritionist
+27	occupation	nutrition professional
+28	email	turing@cs.washington.edu
+28	occupation	Prof
+33	affiliation	Hawthorn Health and Nutrition Institute
+33	occupation	author
+33	occupation	certified nutrition consultant
+33	occupation	faculty
+34	relatives	James and Amy Bender
+35	affiliation	Assumption High School
+35	occupation	Juniors
+36	affiliation	Hawthorn University
+36	affiliation	Nutrition for  Whole Family
+36	birthplace	Norrn Californa
+36	email	Emily@nutritionforwholefamily.com
+36	email	emily@nutritionforwholefamily.com
+36	occupation	CHN
+36	occupation	Faculty member
+36	occupation	NC
+36	occupation	nutrition consultant
+36	phone	415-259-4471
+36	website	www.nutritionforwholefamily.com
+36	work	Our Bodies, Ourselves
+39	location	Bay Area
+39	occupation	N.C
+39	occupation	certified nutritionist
+39	occupation	nutrition consultant
+39	occupation	nutritionist
+39	website	http://www.gourmelping.com
+40	relatives	James and Amy Bender
+43	affiliation	SSCFL
+43	affiliation	South Sacramento Coalition for Future Leaders
+43	email	emily@mutualhousing.com
+43	occupation	Coordinator
+43	phone	(916) 388-9522
+47	affiliation	Linguistics
+47	affiliation	Turing Center at  University of Washington
+47	affiliation	University of Washington Department of Linguistics
+47	affiliation	Utilika Foundation
+47	occupation	Assistant Professor
+47	occupation	Director B
+47	occupation	Directors
+47	occupation	Officers
+47	occupation	Vice President
+48	affiliation	Nutrition Masters program at Hawthorn University
+48	affiliation	Nutrition for  Whole Family
+48	email	Emily@nutritionforwholefamily.com
+48	location	Fairfax
+48	occupation	C.H.N
+48	occupation	N.C
+48	occupation	Nutrition Consultant
+48	occupation	scholar
+48	phone	415-259-4471
+48	website	www.nutritionforwholefamily.com
+48	work	Our Bodies, Ourselves
+49	affiliation	Solstice
+53	othername	Emily M. Bender
+54	othername	Emily M. Bender
+54	work	Syntactic Theory Instructor's Manual 
+54	work	Syntactic Theory, 2nd Edition: A Formal Introduction
+56	othername	Emily C. Bender
+57	degree	Phd
+57	mentor	Arnold Zwicky
+57	mentor	Ivan Sag
+57	mentor	John Rickford
+57	mentor	Penny Eckert
+57	mentor	Tom Wasow
+57	othername	Bender Emily
+57	othername	Bender Emily M.
+57	school	Stanford University
+58	degree	M.A
+58	occupation	NC
+58	occupation	health advocate
+58	occupation	nutrition guide
+58	work	Our Bodies, Ourselves
+59	occupation	printmaker
+59	work	Sepia Turtle
+60	affiliation	Berry
+60	affiliation	Berry College
+60	affiliation	Vikings
+60	location	2277 Martha Berry Hwy NW ? Mount Berry, GA 30149
+60	occupation	players
+61	affiliation	Accent
+61	affiliation	Bel-Airs
+61	affiliation	Maxx
+61	affiliation	Rick and  Cutting Edge
+61	affiliation	Victory Boulevard
+61	location	Ohio
+62	occupation	Pianist
+64	affiliation	SSCFL
+64	affiliation	South Sacramento Coalition for Future Leaders
+64	occupation	Coordinator
+66	affiliation	Hawthorn Health and Nutrition Institute
+66	occupation	author
+66	occupation	certified nutrition consultant
+66	occupation	faculty
+69	othername	Emily M. Bender
+70	affiliation	Hawthorn Health and Nutrition Institute
+70	occupation	author
+70	occupation	certified nutrition consultant
+70	occupation	faculty
+71	affiliation	Berry
+71	birthplace	Duluth Ga
+71	occupation	MF
+71	occupation	SR
+72	school	Viewmont High School
+73	affiliation	Department of Linguistics UW
+73	affiliation	UW Linguistics
+73	affiliation	University of Washington
+73	email	ebender@u.washington.edu
+73	occupation	Assistant Professor
+73	occupation	Professor
+76	affiliation	Hawthorn Health and Nutrition Institute
+76	occupation	author
+76	occupation	certified nutrition consultant
+76	occupation	faculty
+77	occupation	Assistant Director
+77	othername	Emily J. Bender
+77	work	MOTHERlands
+81	affiliation	Black Sharks
+81	affiliation	South Wood County YMCA
+81	affiliation	South Wood County YMCA  'A'
+81	affiliation	Tsunami Swim Team
+84	occupation	Elementary school students
+84	work	Giant Peach
+84	work	James and the Giant Peach
+86	affiliation	Berry
+86	birthplace	Duluth Ga
+86	occupation	JR
+87	occupation	Concert Crew
+88	othername	Emily M. Bender
+88	work	Syntactic theory :a formal introduction
+89	occupation	Elementary school students
+89	work	Giant Peach
+89	work	James and the Giant Peach
+90	email	Emily@gourmelping.com
+91	affiliation	Computer Science & Engineering University of Washington
+91	affiliation	Professional Master's Program in Computational Linguistics
+91	affiliation	University of Washington
+91	location	Greater Seattle Area
+91	location	United States
+91	occupation	Adjunct Assistant Professor
+91	occupation	Assistant Professor
+91	occupation	Director
+92	occupation	SOPRANO
+93	affiliation	DVFA
+93	affiliation	Delaware Volunteer Fireman's Association
+95	affiliation	Hawthorn Health and Nutrition Institute
+95	occupation	author
+95	occupation	certified nutrition consultant
+95	occupation	faculty
+96	affiliation	Solstice
+96	location	Fairfax
+97	affiliation	Berry
+97	affiliation	BerryÅfs soccer team
+97	affiliation	Lady Vikes
+97	affiliation	Lady Vikings
+97	occupation	team captain
+98	affiliation	BYU
+98	birthplace	Cleveland Ohio
+98	relatives	Lee-Ann
+98	relatives	Robin
+98	relatives	Sarah
+99	affiliation	Solstice
+99	location	Fairfax
+101	occupation	printmaker
+102	affiliation	Athletes Bettering  Community
+102	affiliation	Berry College
+102	occupation	president
+103	affiliation	GMI
+104	othername	Emily M. Bender
+104	work	Syntactic Theory: A Formal Introduction
+106	affiliation	University of Washington
+106	othername	Emily M. Bender
+107	affiliation	University of Washington
+107	degree	Dr
+107	degree	PhD
+107	othername	Emily M. Bender
+107	school	Stanford
+108	occupation	Elementary school students
+108	work	Giant Peach
+108	work	James and the Giant Peach
+109	affiliation	MOUNT
+109	affiliation	Mount Saint Joseph Academy
+109	location	Flourtown
+109	occupation	STUDENTS
+109	occupation	juniors
+110	relatives	Danny
+110	relatives	Mary Anne
+111	affiliation	Computational Linguistics program
+111	affiliation	Computational linguistics
+111	affiliation	UW
+111	affiliation	University of Washington
+111	affiliation	linguistics
+111	occupation	assistant professor
+111	occupation	faculty
+112	affiliation	St. Paul's Episcopal School
+112	location	St. Paul's Episcopal School, Mobile, Alabama  36608
+112	occupation	Senior
+112	occupation	seniors
+112	othername	Emily Ann Bender
+113	occupation	students
+114	occupation	Prof
+114	othername	Emily M. Bender
+116	affiliation	Linguistics
+116	affiliation	University of Washington
+116	occupation	Assistant Professor
+117	relatives	Ross Bender
+117	relatives	Sarah Bender
+121	degree	Phd
+121	mentor	Arnold Zwicky
+121	mentor	Ivan Sag
+121	mentor	John Rickford
+121	mentor	Penny Eckert
+121	mentor	Tom Wasow
+121	othername	Bender Emily
+121	othername	Bender Emily M
+121	school	Stanford University
+124	affiliation	Cotton Club
+124	affiliation	pitt
+124	major	linguistics
+124	occupation	Officers
+124	occupation	Vice-President
+125	affiliation	Sacramento Mutual Housing Association
+125	email	emily@mutualhousing.com
+125	occupation	Coalition Coordinator
+125	occupation	Community Organizer
+125	phone	916.453.8400
+125	phone	916.453.8400 (ext. 42)
+127	location	Davis
+127	location	Davis City
+128	othername	Emily M. Bender
+130	affiliation	New Jerusalem
+130	location	Hellertown
+131	affiliation	Shakopee
+132	affiliation	Solstice
+132	occupation	Soprano
+132	school	Oberlin College
+133	location	Blacksburg  VA
+134	school	College of Visual Arts
+134	website	www.emilybdesigns.com
+135	affiliation	Assumption High
+135	affiliation	Assumption High School
+135	occupation	Sophomores
+136	location	Fairfax
+136	occupation	certified nutrition consultant
+136	relatives	Abraham
+137	affiliation	Assumption
+137	occupation	So
+138	affiliation	Luran University Center
+138	affiliation	PSALM
+138	email	sorc+psalm@pitt.edu
+138	occupation	Officers
+138	occupation	Vice-President
+139	affiliation	UW Computational Linguistics
+139	affiliation	University of Washington advisory boards
+139	occupation	Professor
+140	affiliation	Nutrition for  Whole Family
+140	occupation	CHN
+140	occupation	NC
+141	work	Syntactic theory: a formal introduction
+142	affiliation	Academic Team Quest
+142	affiliation	Panrs
+142	affiliation	Rembrandt Society
+142	affiliation	TEAM QUEST
+142	affiliation	Team Quest
+142	occupation	Archives
+142	occupation	Officers
+142	occupation	students
+143	affiliation	Fort Loramie
+143	location	OH 
+143	occupation	So
+144	affiliation	Christian Community Theater
+144	work	Footloose
+145	work	Syntactic Theory: A Formal Introduction. 2nd ed
+147	affiliation	Rams
+147	affiliation	West Chester
+147	affiliation	West Chester University
+147	affiliation	West Chester Women's Basketball
+148	relatives	Danny
+148	relatives	Mary Anne
+149	work	Syntactic Theory: A Formal Introduction
+150	affiliation	Solstice

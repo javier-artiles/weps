@@ -1,0 +1,335 @@
+3	affiliation	CSAIL
+3	affiliation	Computer Science and Artificial Intelligence Laboratory
+3	affiliation	MIT
+3	major	Electrical Engineering and Computer Science
+3	mentor	Regina Barzilay
+3	occupation	PhD student
+3	othername	Ben Snyder
+4	location	Boston, ma, United States
+6	affiliation	Dover Office
+6	affiliation	Dover office
+6	affiliation	Kent County Delaware State Bar Association New Lawyers
+6	award	1998-1999 Richard Reeve Baxtor Award
+6	degree	B.B.A
+6	degree	Bachelors of Business Administration
+6	degree	J.D
+6	degree	Juris Doctor
+6	email	dbsnyder@prickett.com
+6	fax	302.674.5864
+6	location	11 North State Street Dover, DE 19901
+6	major	Economics
+6	occupation	Associate
+6	occupation	Senior Editor
+6	occupation	Vice-chair
+6	occupation	associate
+6	occupation	law clerk
+6	othername	D. Benjamin Snyder
+6	phone	302.674.3841
+6	school	Dickinson School of Law of The Pennsylvania State University
+6	school	James Madison University
+6	school	Pennsylvania State University
+7	affiliation	New York State Police
+7	occupation	Investigator
+7	othername	Richard Benjamin Snyder
+9	affiliation	AUG
+9	affiliation	SLO
+9	affiliation	San Francisco Giants
+9	occupation	Pitcher
+9	occupation	Pitchers
+10	affiliation	Augusta
+10	affiliation	Giants
+10	affiliation	San Francisco Giants
+10	affiliation	San Jose
+10	dateofbirth	7/20/1985
+10	occupation	SP
+10	othername	Ben Snyder
+11	affiliation	Subcreations Productions
+11	birthplace	USA
+11	dateofbirth	17 November 1979
+11	occupation	Assistant Director
+11	occupation	Director
+11	occupation	Editor
+11	occupation	Producer
+11	occupation	Writer
+11	occupation	additional editor
+11	occupation	co-executive producer
+11	occupation	executive producer
+11	occupation	first assistant director
+11	occupation	production assistant
+11	occupation	writer
+11	othername	B.C. (Ben) Snyder
+11	othername	Ben Snyder
+11	work	15 Minuten Ruhm
+11	work	15 Minutes
+11	work	Champagne Society
+11	work	Moms on the Road: Africa
+11	work	Real Estate Road Test
+11	work	Song of the Lesbian Pirates
+11	work	Swimming to the Moon
+11	work	Watermelon Honey
+11	work	What Not to Wear
+12	othername	Peter
+12	othername	Peter Benjamin Snyder
+13	affiliation	Delaware Superior Court
+13	affiliation	Prickett Jones & Elliott, P.A
+13	award	Richard Reeve Baxtor Award
+13	birthplace	Dover Delaware
+13	dateofbirth	December 23 1974
+13	degree	B.B.A
+13	degree	J.D
+13	fax	302-674-5864
+13	location	11 North State Street, Dover, Delaware 19901, (Kent Co.)
+13	location	Dover, Delaware
+13	occupation	Associate
+13	occupation	Law Clerk to President Judge
+13	occupation	Lawyer
+13	occupation	Senior Editor
+13	othername	D. Benjamin Snyder
+13	phone	302-674-3841
+13	school	Dickinson School of Law of  Pennsylvania State University
+13	school	James Madison University
+13	website	http://www.prickett.com
+14	location	Houston, Texas
+15	affiliation	Augusta
+15	affiliation	Connecticut
+15	affiliation	Salem-Keizer
+15	affiliation	San Francisco Giants
+15	affiliation	San Jose
+15	affiliation	Waikiki
+15	dateofbirth	July 20 1985
+15	occupation	Pitcher
+16	affiliation	OU
+16	affiliation	OU Shotokan Karate Club
+16	affiliation	Ohio University
+16	major	mechanical engineering
+16	mentor	Bob Williams
+16	occupation	grad student
+16	occupation	student
+16	occupation	webmaster
+18	affiliation	Fore River Shipyard
+18	birthplace	Lunenburg Lunenburg, Nova Scotia
+18	dateofbirth	15 Jan 1880
+18	location	Blue Hill Cem., Braintree, Mass.
+18	location	Quincy. Blue Hill Cem. Braintree, Mass.
+18	occupation	motorman
+18	occupation	retired driller
+18	othername	Charles Benjamin Harold SNYDER
+18	othername	Charles Benjamin Snyder
+18	othername	Charles Snyder
+18	relatives	Charles Robert SNYDER
+18	relatives	Florence El HIRTLE
+18	relatives	Florence El SNYDER
+18	relatives	Florence Hirtle
+18	relatives	Harry Stephen SNYDER
+18	relatives	Helen Beatrice SNYDER
+18	relatives	Kathleen Marie SNYDER
+19	affiliation	NM
+19	affiliation	Northwestern Long Term Care Insurance Company
+19	affiliation	Northwestern Mutual Financial Network
+19	affiliation	Northwestern Mutual Investment Services LLC
+19	affiliation	Northwestern Mutual Life Insurance Company
+19	degree	J.D
+19	location	3805 Edwards Rd Ste 200, Cincinnati, OH 45209-1939
+19	occupation	Financial Representative
+19	occupation	Insurance Agent
+19	occupation	Investment Adviser Representative
+19	occupation	Registered Representative
+19	occupation	Representative
+19	othername	David B Snyder
+19	othername	David Benjamin Snyder
+19	phone	513-366-3600
+19	phone	513-366-3620
+21	affiliation	Augusta
+21	affiliation	Augusta GreenJackets
+21	occupation	ace
+25	location	WV, USA
+25	othername	Benjamin Snyder 
+28	occupation	Player
+30	affiliation	St. Ann's church
+30	occupation	church Wardens
+30	occupation	trustees
+33	dateofbirth	8 Aug 1894
+33	othername	Charles Benjamin Snyder
+33	relatives	Ivan Snyder
+33	relatives	Lola May Barner
+33	relatives	Norma Endora Snyder
+33	relatives	Nova Agatha Snyder
+33	relatives	Robert Ben Snyder
+38	birthplace	Gallatin,NY
+38	dateofbirth	11 NOV 1782
+38	relatives	Elizabeth GRIFFIN
+38	relatives	James SNYDER
+39	affiliation	AUG
+39	affiliation	Giants
+39	affiliation	San Francisco
+39	occupation	PITCHER
+39	occupation	Players
+40	location	Asheville, North Carolina
+40	othername	bigrnurs24
+43	relatives	Hannah Berry
+45	birthplace	Washington MD
+45	dateofbirth	19 Feb 1827
+45	relatives	Christian SNYDER
+45	relatives	Daniel G. Webster SNYDER
+45	relatives	Elizabeth GLAZE
+45	relatives	John W. SNYDER
+45	relatives	John William SNYDER
+45	relatives	Mary Ellen SNYDER
+45	relatives	Simon W. SNYDER
+45	relatives	Susannah SNYDER
+46	affiliation	DDAP
+46	affiliation	DMS
+46	affiliation	DMS Student Government
+46	affiliation	Dartmouth Diabetes Awareness Program
+46	affiliation	Dartmouth Medical School
+46	affiliation	PHPAC
+46	affiliation	Public Health Policy and Advocacy Committee
+46	fax	603 650-1202
+46	location	1 Rope Ferry Road ? Hanover, NH 03755-1404
+46	occupation	Vice President
+47	location	Chinle
+47	relatives	Charley Snyder
+47	relatives	Jerome Snyder
+47	relatives	Jesse Snyder
+47	relatives	Louise Clah
+47	relatives	Preston Snyder
+47	relatives	Roy Snyder Jr
+47	relatives	Roy Snyder Sr
+52	birthplace	Gallatin,NY
+52	dateofbirth	11 NOV 1782
+52	relatives	Adaline SNYDER
+52	relatives	Ann Jane SNYDER
+52	relatives	Elizabeth GRIFFIN
+52	relatives	Elizabeth SNYDER
+52	relatives	George SNYDER
+52	relatives	James SNYDER
+52	relatives	John SNYDER
+52	relatives	Margaret SNYDER
+52	relatives	Polly SNYDER
+52	relatives	William SNYDER
+56	affiliation	Albion
+57	affiliation	COMPANY K
+57	occupation	Privates
+57	occupation	SOLDIERS
+60	relatives	Andrew Snyder
+60	relatives	Ellen Snyder
+60	relatives	George Snyder
+60	relatives	Janet Snyder
+60	relatives	John Peter Snyder
+60	relatives	Margaret Snyder
+60	relatives	Mary Ann Snyder
+60	relatives	SNIDER John Peter (Snyder) Jr
+60	relatives	Solomon Snyder
+60	relatives	William Snyder
+65	affiliation	New York State Police
+65	occupation	Investigator
+65	othername	RICH
+65	othername	Richard Benjamin Snyder
+65	relatives	DEBBIE
+65	relatives	Dawn
+65	relatives	ED SNYDER
+65	relatives	EDDIE
+66	affiliation	Computer Science and Artificial Intelligence Laboratory at MIT
+66	affiliation	MIT
+66	occupation	third year PhD student
+69	occupation	Player
+71	affiliation	Mechanicsburg Middle School
+72	dateofbirth	January
+75	birthplace	Alleghany County Lawrence Township Pa
+75	dateofbirth	1840
+75	othername	Louis Benjamin Snyder
+75	relatives	Benjamin Franklin Snyder
+77	othername	ROY BENJAMIN SNYDER
+77	othername	roybsnyder
+81	othername	SNYDER BENJAMIN
+85	location	New Paris
+85	relatives	Angela
+85	relatives	Anthony Ray
+87	affiliation	Augusta
+87	affiliation	Giants
+87	affiliation	GreenJackets
+91	othername	David Benjamin Snyder
+92	occupation	Bro
+96	affiliation	DMS
+96	affiliation	Dartmouth Medical School
+96	affiliation	Student Government 2007-2008 Voting Members
+96	fax	603 650-1202
+96	location	1 Rope Ferry Road ? Hanover, NH 03755-1404
+96	occupation	Class Representatives
+96	occupation	President
+96	othername	Ben Snyder
+98	location	New Holland, Pa.
+98	relatives	Sue
+101	othername	ROY BENJAMIN SNYDER
+101	othername	roybsnyder
+102	affiliation	American Legion Post 16
+102	affiliation	Heritage United Methodist Church
+102	affiliation	U.S. Navy
+102	affiliation	VDOT
+102	birthplace	Lynchburg
+102	dateofbirth	Oct. 16 1925
+102	occupation	Veteran
+102	othername	Norman Benjamin Snyder
+102	relatives	Cecil Brown Snyder
+102	relatives	DeWayne Snyder
+102	relatives	Iva Ballard Snyder
+102	relatives	Norman Gay Snyder
+102	relatives	Peggy Burks
+102	relatives	Robert Reeves Snyder
+102	relatives	Sharon Allen
+105	othername	Baseball Ben
+105	othername	Ben
+106	occupation	Politicians
+120	occupation	gunmen
+121	affiliation	Augusta
+121	occupation	P
+122	location	New Paris, Ind
+122	relatives	Angela
+122	relatives	Anthony Ray Snyder
+125	affiliation	Dean for Institute Relations
+125	affiliation	MIT
+125	occupation	Psychiatrist-in-Chief
+127	birthplace	Newton
+127	dateofbirth	October 13 1850
+127	occupation	mason
+127	othername	Ben
+127	othername	Ben Wright
+127	othername	Benjamin Snyder Wright
+127	relatives	Emma Louise
+127	relatives	Hannah Jane
+127	relatives	Hannah Stiff
+127	relatives	Ivan V. Wright
+127	relatives	Ivan Wright
+127	relatives	May Belle
+127	relatives	May Belle Kymer
+127	relatives	Rosetta Queren
+127	relatives	Rosetta Queren Wright
+127	relatives	Samuel Wright
+127	relatives	Sarah Elizabeth Talmadge
+127	relatives	V. Ivan Wright
+127	relatives	Virgil Ivan
+127	relatives	Wright
+134	occupation	bartender
+135	othername	Philip Benjamin Snyder
+136	affiliation	ASDFGHJKL
+136	occupation	Captain
+136	occupation	Captain(s)
+139	affiliation	Blazer
+139	affiliation	HOOD COLLEGE
+139	award	All-Division III Academic Team honors
+139	birthplace	Baltimore Md
+139	dateofbirth	Sept. 7 1983
+139	major	business management
+139	occupation	Sr
+139	othername	Ben Snyder
+139	relatives	Joel Snyder
+139	relatives	Lisa Garten
+139	school	Goucher College
+139	school	Western Tech
+142	relatives	RABBAGE Millicent
+143	affiliation	Bellevue (Ohio) Sr HS
+143	occupation	cf
+143	occupation	lhp
+149	affiliation	MIT
+150	occupation	Attorneys
+150	othername	D. Benjamin Snyder

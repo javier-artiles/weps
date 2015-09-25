@@ -1,0 +1,29 @@
+Reasons for NO annotation
+=========================
+
+
+1) Not Found - A page you can not open or access.
+
+2) Foreign Language - A page mainly written in a foreign language.
+
+3) No Name - A page that does not have a target name string.
+
+4) No Target Person - A page whose target name string which
+is not the name of one person.
+  a) Target Name: George Scott
+  Al George Scott Ryan ("Al George" and "Scott Ryan" are the names of two persons)
+
+  b) Target Name: Hao Zhang
+  Ni Hao Zhang Yi ("Ni Hao" means "Hello." "Zhang Yi" is the name of a person)
+
+5) No Value - A page that has a target name string but does not have the values
+to be extracted.
+
+6) Multiple Target - A page that has two or more target persons.
+
+7) Search Result - A page that shows search results by a search engine, or shopping site.
+
+8) Fictional Character - A page whose target name is the name of a fictional character.
+
+9) Object Name - A page whose target name is not the name of a person.
+  For example, a page about "Benjamin Snyder School," or "boat named Benjamin Snyder."

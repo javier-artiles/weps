@@ -1,0 +1,57 @@
+0	Inaccessible
+2	Search Results	CiteSeer (DB)	
+4	Search Results	CiteSeer (DB)	
+5	No Value
+8	Search Results	dblb (DB)	
+9	Foreign Language	French	
+13	No Name	Allan &?Hanbury's	
+14	Search Results	dblb (DB)	
+18	Search Results	dblb (DB)	
+21	search result
+23	link only
+24	link only
+25	link only
+27	no name
+28	link only
+31	search result
+32	link only
+34	link only
+35	link only
+36	link only
+38	link only
+39	link only
+40	no value
+41	no name
+42	link only
+44	link only
+46	blank page
+47	link only
+48	search result
+51	no name
+52	search result
+53	link only
+54	link only
+55	search result
+58	link only
+60	link only
+63	no value
+64	search result
+65	no value
+66	search result
+68	no value
+69	no name
+72	link only
+76	link only
+78	search result
+79	link only
+81	search result
+82	search result
+84	search result
+85	search result
+86	no value
+89	no value
+90	no value
+91	link only
+94	no value
+95	no value
+99	no value

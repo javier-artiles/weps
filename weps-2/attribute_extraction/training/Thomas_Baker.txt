@@ -1,0 +1,167 @@
+0	Occupation	Dr.	M.D.
+0	Award	Aesthetic Plastic Surgery's Tiffany Award for Best Scientific Presentation	Distinguished Service Award given by Plastic Surgery Educational Foundation
+0	Degree	Dr.	M.D.
+1	Other name	Roy Thomas Baker
+1	Occupation	record producer
+1	Affiliation	Decca Records	Trident Studios
+1	Work	Bohemian Rhapsody	Gasolin' 3	Gasolin' Stakkels Jim	Poor Jim	Queen	Queen II	Sheer Heart Attack	A Night at the Opera	eponymous debut	All-American Alien Boy	It Begins Again	The Cars	Jazz	Candy-O	Panorama	Shake It Up	Oh, No! It's Devo	One on One	Bridge of Spies	T'Pau	Dangerous Toys	You Boyz Make Big Noize	10	One Way Ticket to Hell... And Back	Zeitgeist
+1	Location	Arizona
+1	Nationality	English
+2	Date of birth	September 14, 1656
+2	Birthplace	Lanchester, Durham
+2	Occupation	antiquarian
+2	Work	Reflections on Learning, showing the Insufficiency thereof in its several particulars, in order to evince the usefulness and necessity of Revelation	preface to Bishop Fisher's Funeral Sermon for Margaret, Countess of Richmond and Derby
+2	School	free school at Durham	St John's College, Cambridge
+8	Other name	Roy Thomas Baker
+8	Occupation	producer
+8	Work	Speed 2: Cruise Control	American Anthem	Classic Albums: Queen - The Making of 'A Night at the Opera'	Gasolin'	The Story of Bohemian Rhapsody	Queen: The Days of Our Lives
+9	Other name	Roy Thomas Baker	RTB
+9	Occupation	founders	senior VP of A&R	producer	race car mechanic	second engineer	engineer
+9	Affiliation	Decca Records	Trident Studios	Elektra	Decca
+9	Work	Heart and Soul	Good Times Roll	Bohemian Rhapsody	Killer Queen	Get It On (Bang A Gong)	All Right Now
+9	Mentor	Gus Dudgeon	Peter Sullivan	Tony Visconti	Ken Scott
+9	Location	U.S.	Los Angeles
+10	Birthplace	Greenfield
+10	Other name	Tom Baker
+10	Occupation	Recruitment and Retention Specialist	Recruitment Specialist	Certified Teacher K-6	Director	Career Counselor	Family Recruiter	Co-Chairs	Committeeman	Secretary	Campaign Manager
+10	Affiliation	Republican State Committee	Three Rivers Adoption Council	Board of Directors for the Pittsburgh Singles Volunteer Network	PSVN	Childhood Development Center	Greenfield Organization Board of Directors	Pittsburgh Public School Board	H. John Heinz III School of Public Policy and Management at Carnegie Mellon University	Board of Directors of the Pittsburgh Urban Magnet Project	PUMP	Board of Directors of the Pittsburgh Urban Magnet Project (PUMP), Greenfield Organization, Pittsburgh Singles Volunteers Network, and Life Span, Inc	Discover Pittsburgh	National Student Partnerships	City Theatre	Greater Pittsburgh Community Food Bank	5th Council District Republican Committee in Pittsburgh	Young Republicans of Allegheny County	State Committee
+10	School	John Minadeo Elementary School	Florence Reizenstein Middle School	Taylor Allderdice High School	Millersville University of PA	Indiana University of PA
+10	Major	Education
+10	Degree	Bachelors and Masters Degrees	Bachelors degree	Masters degree
+10	Relatives	Erin
+11	Other name	Roy Thomas Baker
+11	Occupation	record producer
+11	Nationality	English
+12	Other name	Matthew Thomas Baker
+12	Occupation	Actor
+12	Work	One on One	Where's My Yemmy
+15	Work	Reproduction of a Lascaux Cave painting
+16	Other name	Thomas J. Baker
+16	Occupation	Attorney	Attorney at Law
+16	Location	Killeen and Temple, Texas	Killeen	Temple	100 East Avenue C, Suite A Killeen, Texas 76541	616 N. Main Street, Suite 102 Temple, Texas 76501
+16	Phone	(254) 634-8600	(254) 791-5353
+16	FAX	(254) 634-8600	(254) 773-9776
+17	Other name	Roy Thomas Baker
+17	Occupation	Producer	Engineer	record producer	Pop Artists
+17	Affiliation	Decca Records	Trident Studios
+17	Work	Bohemian Rhapsody	No Rest for the Wicked	One Way Ticket to Hell... and Back	Gasolin' 3	Queen	Queen II	Sheer Heart Attack	A Night at the Opera	All-American Alien Boy	It Begins Again	The Cars	Jazz	Candy-O	Panorama	Shake It Up	Oh, No! It's Devo	10
+17	Mentor	Gus Dudgeon	Tony Visconti
+17	Location	Arizona
+17	Nationality	English
+20	Other name	Roy Thomas Baker
+20	Work	Bohemian Rhapsody
+21	Date of birth	about 1737
+21	Relatives	Ann Baker	Humphrey Baker	Jacob Baker	William Baker	Betsy Nix	Polly Bell	Sally Hubbard	Caty Baker	Mary Baker	John Baker	George Baker 	Francis Baker 	Robert Baker	Alexander Baker
+22	Date of birth	1944
+22	Birthplace	Toronto
+22	Occupation	composer	conductor	pianist	organist	performer-composer	musical director
+22	Affiliation	Second City	Uxbridge Chamber Choir	Pro Arte Singers of Kingston	Uxbridge Messiah Singers
+22	Work	The Peacock	The Flea	The Starfish	The Oyster	The Gnat	The Seagull	Invention/Perpetuum	Little Synfonietta in C	opener	Paikstracia	Passacaglia and Fugue	The Blackbird of Daricarn	In The Moment	Conception Act
+22	School	the University of Toronto
+22	Major	organ	trombone
+22	Location	Canada
+22	Phone	905 473 5640
+22	Email	Thomas41217@hotmail.com
+23	Birthplace	Ohio
+23	Occupation	Colonel	senator	assemblyman	Receiver	developer	lawyer	surveyor	statesman	entrepreneur	Clerk 	self-taught attorney	District Attorney	Legislative Assemblies	repre-sentative	Lieutenant Governor	President
+23	Affiliation	Iowa Territorial Militia	the United States Land Office	the Board of County Commissioners	Washington County	Fourth and Sixth Territorial	Fresno and Tulare counties	the State Senate	State Assembly
+23	Location	Union Cemetary
+24	Other name	Roy Thomas Baker
+24	Work	Gary Hoey "Bug Alley"	Gary Hoey "Hocus Pocus Live"
+25	Phone	858-455-9300	800-736-2921 ext 4443
+28	Other name	Roy Thomas Baker
+28	Occupation	Producer
+28	Work	Permission to Land	Queen II and Night at the Opera	Bohemian Rhapsody	One Way Ticket to HellÅcAnd Back	Blind Man
+30	Occupation	Associate
+30	Location	Dallas/Fort Worth Area
+31	Occupation	Artist
+32	Other name	Jeffrey Thomas Baker
+32	Occupation	Science Fiction Writer
+35	Other name	G Thomas Baker
+36	Occupation	Artist
+36	Work	Cubbington, Warwickshire
+37	Other name	Thomas H. Baker
+37	Occupation	Project Leader	founding head
+37	Affiliation	the Birlinghoven Library of Fraunhofer-Gesellschaft	Asian Institute of Technology 	Usage Board of the Dublin Core Metadata Initiative	DELOS Network of Excellence
+37	School	Rutgers University	Stanford University
+37	Major	anthropology
+37	Degree	Dr.	MLS	Ph.D.
+39	Affiliation	GMD -- German National Research Center for Information Technology Scientific Library and Publication Services Schloss Birlinghoven
+39	Location	Sankt Augustin, Germany
+39	Email	thomas.baker@gmd.de
+43	Date of birth	1940
+43	Other name	Baker, James Thomas	James Thomas Baker
+43	School	Florida State University	Southern Baptist Theological Seminary
+43	Major	humanities
+43	Mentor	Glenn Hinson
+43	Location	Southern Baptist Theological Seminary
+47	Other name	Roy Thomas Baker
+47	Occupation	Producer
+47	Work	Bohemian Rhapsody	Greatest Hits	Like, Omigod! The '80s Pop Culture Box 	Time 3 	Greatest Hits: We Will Rock You Edition	Classic Queen 	Essential Ozzy Osbourne 	Complete Greatest Hits	Platinum Collection, Vol. 1-3	Night at the Opera [Hollywood] (Remastered)	Mascara & Monsters: The Best of Alice Cooper 	Greatest Hits 	Infinity (Remastered)
+51	Date of birth	1957
+51	Other name	SLICK THOMAS BAKER
+53	Other name	Baker, Thomas
+53	Occupation	missionary	Rev
+53	Affiliation	London Missionary Society
+53	Nationality	British
+54	Other name	G Thomas Baker
+57	Date of birth	July 13, 1822
+57	Birthplace	Chatham, Chester Co., Pa.
+57	Other name	Baker, Thomas
+57	Occupation	farmer	surveyor	teacher	school director	scholar
+57	Affiliation	Colerain township	Lancaster county	public schools of Lancaster and Chester counties	Unionville Academy
+57	Relatives	Lewis	Diana (Jackson) Baker	Eliza	Abbie	Allison	James E.
+58	Date of birth	20 August 1962
+58	Birthplace	York, Pennsylvania
+58	Other name	Thomas W. Baker	Tom Baker	BAKER, THOMAS W
+58	Occupation	Lieutenant Colonel	veteran	PT	Major	Platoon Commander	Guard Officer 	Commanding Officer	Assistant Operations Officer	instructor	Combined Arms Section Head	Chief	Commanding Officer	Staff Secretary	G-3 Plans Officer	Second Lieutenant
+58	Affiliation	United States Marine Corps	NPS gym	1st Battalion, 1st Marines, 1st Marine Division, Camp Pendleton	Headquarters and Service Company	Guard Company	Battalion Landing Team 3/8, 2d Marine Division, Camp Lejeune	Company L.	Instructional Group	Company B	President Marine Corps University
+58	Award	Meritorious Service Medal	Navy and Marine Corps Commendation Medal with two gold stars	the Navy and Marine Corps Achievement Medal with one star
+58	School	Naval Postgraduate School	NPS	United States Naval Academy	The Basic School	Amphibious Warfare School
+58	Major	Systems Acquisition Management	Physical Science
+58	Degree	BS degree
+58	Location	SECTION 68 SITE 2453 ARLINGTON NATIONAL CEMETERY
+58	Relatives	Teresa	T.J.	Dennis	Nicholas	Sandra Baker	Dawna Baker
+63	Date of birth	April 21, 1904
+63	Birthplace	Eau Claire, Wisconsin	Eau Claire, Wisc
+63	Other name	Ira Thomas Baker	Baker - Ira Thomas
+63	Occupation	farmer	logger
+63	Relatives	Emma	Ethel Olson	Edith Huffman	Hazel Olson	Idaho Murphy	Myrna	Linda	Roy	Ted	Marjie Harris	Esther Cash	Roy Baker	Ted Baker
+64	Date of birth	1740-42	1740-43
+64	Relatives	Moses Baker	Penelope Williams	Michael Baker	Aaron Baker	Joshua Baker	Ann Baker	Mary Baker	Jesse Baker
+65	Occupation	Capt	Captain	Representative
+65	Affiliation	the General Court of Massachusetts
+65	Award	fame in the public service
+65	Location	Pine Hill
+65	Relatives	Christine Otis	Margaret	Otis Baker
+71	Relatives	Cecily
+72	Other name	ROY THOMAS BAKER
+72	Occupation	PRODUCER
+73	Occupation	Real Estate Sales Associate
+73	Email	househunters@thomasbaker.net
+75	Date of birth	1656	14th of SEPTEMBER 1656
+75	Birthplace	Lanchester, DURHAM
+75	Occupation	English antiquary	LONG-NEWTON
+75	School	St John's COLLEGE
+82	Other name	Baker, Richard Thomas
+91	Other name	Joffre Thomas Baker
+91	Relatives	Kathleen Ruth MARTIN
+93	Date of birth	1854
+93	Other name	Baker, Thomas
+93	Work	The Story of the Camera in Australia	The Thomas Baker, Alice Baker and Eleanor Shaw Medical Research Institute: the First Fifty Years
+94	Work	Master Alic Baker, on deck, in full sailors uniform
+95	Date of birth	Jun. 30, 1882
+95	Other name	Thomas Baker McQuesten Tom
+95	Occupation	Alderman	City Alderman	Chairman	President 	Vice-President 	Commissioner	Minister
+95	Affiliation	Hamilton Board of Parks Management	Provincial Government	fought for municipal ownership of Hamilton gas distribution systems 	Hamilton Liberal Association 	Works Committee, Hamilton Board of Parks Management 	Liberal Party in Ottawa 	Ontario Liberal Association 	Hydro-Electric Power Commission 	Municipal Affairs 	Public Works 	Niagara Parks Commission 	Niagara Bridge Commission Management Committee of the Liberal Party in Ottawa
+95	Award	the Hamilton Citizen of the Year Award
+95	School	Hamilton Collegiate	University of Toronto
+95	Major	English	History	Classics	Political Science
+95	Relatives	Ruby	Mary	Hilda
+96	Work	Scene in Warwickshire
+97	Other name	Reverend Thomas Baker
+97	Work	The Guardian
+99	Other name	Thomas Baker McQuesten
+99	Occupation	monister
+99	Affiliation	highways and public works in Mitchell F. Hepburn's controversial Liberal administrations at Queen's Park	the Niagara Parks Commission	Hamilton's Board of Park Management
+99	Work	Queen Elizabeth Way	Rainbow Bridge carillon at Niagara Falls

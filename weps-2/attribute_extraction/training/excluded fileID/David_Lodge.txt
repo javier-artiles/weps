@@ -1,0 +1,31 @@
+11	Multiple Targets	Wikipedia
+12	No Value	TV.com
+16	Non Person	King David Lodge No.407
+17	Non Person	KING DAVID'S LODGE NO. 209
+18	Multiple Targets	
+20	No Name	
+21	Non Person	King David Lodge No.407
+22	Search Results	alibris
+23	Non Person	Camp David Lodge
+26	Search Results	alibris
+28	Non Person	KING DAVID'S LODGE NO. 209
+35	Non Person	King David Lodge No. 93
+40	Search Results	NETFLIX
+42	Non Person	Camp David Lodge
+46	No Value	
+47	Search Results	Find Articles
+52	No Value	
+54	Multiple Targets	
+57	Search Results	Hollywood.com
+58	Non Person	King David Lodge
+60	Non Person	King David Lodge #24   
+61	Search Results	Yahoo! Shopping
+62	Non Person	David Lodge No. 36
+63	Search Results	DVD Empire
+73	Search Results	The New York Times
+83	No Value	
+84	No Name	
+87	Foreign Language	amazon.de
+91	Non Person	King David Lodge No. 93
+97	No Name	No Text
+99	Non Person	Prince David Lodge No. 101

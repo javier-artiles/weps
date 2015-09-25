@@ -1,0 +1,177 @@
+1	location	4132 A.V. Williams Bldg. College Park, MD 20742 University of Maryland
+3	degree	Dr
+4	affiliation	American Society of Mechanical Engineers
+4	affiliation	California Institute of Technology
+4	affiliation	California Institute of Technology Graduate Aeronautical Laboratories
+4	affiliation	Caltech
+4	affiliation	Chaffey Community College
+4	affiliation	Dynamic Implants Inc
+4	affiliation	GALCIT
+4	affiliation	Golden Key Honor Society
+4	affiliation	NASA's Jet Propulsion Laboratory
+4	affiliation	Pi Tau Sigma -  Mechanical Engineering Honor Society
+4	affiliation	Tau Beta Pi (All Engineering Honor Society) at Cal Poly
+4	affiliation	Tau Beta Pi -  All Engineering Honor Society
+4	affiliation	nanoPrecision Products Inc
+4	award	Mamatics student of the year
+4	degree	Associate Degree
+4	degree	Bachelor of Science
+4	degree	Doctor of Philosophy Degree
+4	degree	Master of Science Degree
+4	email	Tamer@alumni.caltech.edu
+4	major	Mechanical Engineering
+4	major	mamatics
+4	major	mechanical engineering
+4	major	physics
+4	mentor	Chris Brennen
+4	mentor	Guruswami Ravichandran
+4	mentor	Michael Ortiz
+4	occupation	Engineer-in-Training
+4	occupation	Engineering Consultant
+4	occupation	Engineering and Mamatics Instructional Assistant
+4	occupation	Graduate Student
+4	occupation	Head Teaching Assistant
+4	occupation	Mechanical Engineering Intern
+4	occupation	Ph.D. Candidate
+4	occupation	Postdoctoral Scholar
+4	occupation	Private Tutor
+4	occupation	Senior Scientist
+4	occupation	Tutor
+4	occupation	consultant
+4	occupation	head teaching assistant
+4	occupation	instructional assistant
+4	occupation	marketing executive
+4	occupation	president
+4	occupation	reviewer
+4	othername	T. El Sayed
+4	school	Al-Tabary Secondary School
+4	school	CAL POLY
+4	school	CALIFORNIA INSTITUTE OF TECHNOLOGY
+4	school	CALIFORNIA POLYTECHNIC UNIVERSITY (CAL POLY) POMONA
+4	school	Cal Poly Pomona
+4	school	California Institute of Technology
+4	school	Caltech
+4	school	Chaffey Community College
+4	school	Graduate Student
+4	school	Ph.D. Candidate
+4	website	http://www.aero.caltech.edu/~tamer/
+6	location	Trieste Area, Italy
+7	location	Riverside, CA, United States
+12	affiliation	University of Maryland College Park
+12	othername	Elsayed Tamer
+18	affiliation	Caltech Galcit
+18	email	tamer@caltech.edu
+18	location	Thomas 310C
+18	phone	626-676-5130
+28	affiliation	University of Maryland College Park
+30	affiliation	California Institute of Technology
+30	affiliation	Caltech
+30	occupation	Graduate Students
+32	birthplace	Cairo Egypt
+32	degree	BBA
+32	email	tsergio@geocities.com
+32	location	Alexandria
+32	location	Egypt
+32	website	http://www.geocities.com/Tropics/Shores/2283
+38	othername	Tamer Elsayed Ghander
+39	othername	Abdelgalil Tamer Elsayed
+41	affiliation	Cal Tech
+41	location	Riverside, CA, USA
+41	occupation	Ph.D. candidate
+41	occupation	Poker
+42	affiliation	University of Maryland College Park
+46	affiliation	University of Maryland
+46	location	US
+47	affiliation	Farous Group
+47	affiliation	Farous Salvage and Rigging
+51	othername	Tamer Elsayed Ghoniem
+51	work	Ya-Rayi
+52	affiliation	Oman Textile Mills LLC
+52	fax	39-02-700557299
+52	location	Oman
+52	location	Road 14, P. O. Box 39, Rusayl, Muscat, Oman
+52	phone	968-9-5762155
+53	affiliation	Caltech
+53	affiliation	Division of Engineering and Applied Science
+53	affiliation	GALCIT
+53	affiliation	Graduate Aerospace Laboratories CALTECH
+53	mentor	Michael Ortiz
+53	occupation	GRADUATE STUDENT
+53	occupation	GRADUATE STUDENTS
+54	location	Muscat, OM
+54	othername	tamerinho
+55	location	Muscat, OM
+55	othername	tamerinho
+56	affiliation	University of Maryland College Park
+57	occupation	PLAYER
+59	othername	Tamer Elsayed Ghoniem
+59	work	Ya-Rayi
+60	othername	Tamer Elsayed Ghoniem
+60	work	Ya-Rayi
+62	affiliation	University of Maryland College Park
+63	othername	Tamer Elsayed Ghoniem
+63	work	Ya-Rayi
+64	location	United States
+70	affiliation	Department of Computer Science
+70	affiliation	Google
+70	affiliation	Maryland
+70	affiliation	University of Maryland
+70	occupation	graduate student
+72	affiliation	OTM
+72	affiliation	Oman TEXTILE MILLS
+72	affiliation	Oman Textile Mills LLC
+72	location	OM
+72	occupation	Export Manager
+73	affiliation	Department of Computer Science
+73	affiliation	Google
+73	affiliation	Maryland
+73	affiliation	University of Maryland
+73	occupation	graduate student
+77	email	tamer@caltech
+77	mentor	Mike Vanier
+78	affiliation	University of Maryland
+93	affiliation	University of Maryland College Park
+93	location	USA
+94	location	Riverside, California
+94	occupation	Poker
+94	occupation	players
+96	location	Egypt
+104	affiliation	Learn Dutch Connection
+104	location	EGYPT
+104	occupation	CONNECTORS
+109	affiliation	University of Maryland College Park
+116	location	ALBANY, New York, UNITED STATES, 12212
+119	othername	Tamer Elsayed Ghoniem
+123	affiliation	Department of Computer Science University of Maryland, College Park
+125	othername	T. Elsayed
+127	affiliation	Department of Computer Science University of Maryland, College Park
+127	location	Department of Computer Science, University of Maryland, College Park, MD 20742, USA
+128	location	Gorizia GO
+128	location	Italy
+128	othername	Tamer Italia
+133	affiliation	University of Maryland
+137	birthplace	Riverside California
+137	location	Riverside, California
+137	occupation	Poker
+137	occupation	players
+139	affiliation	Farous Salvage
+139	email	save@farous.com
+139	fax	+2034809350
+139	phone	+20121803265
+142	othername	Tamer Elsayed Mohamed
+144	dateofbirth	novmber 1th 1981
+144	degree	Bachelors Of Commerce
+144	email	os_slw@yahoo.com
+144	location	Egypt -Portsaid-Portfouad- building of EL hezb Blok,40_Flat,15
+144	nationality	Egyptian
+144	othername	Tamer EL sayed EL araby Halhol
+144	othername	Tamer ELsayed EL araby Hlhol
+144	phone	(+2)0181060257
+144	phone	0663404008
+145	affiliation	Caltech
+147	othername	Tamer Elsayed Ghoniem
+147	work	Ya-Rayi
+148	othername	Tamer Elsayed Ghoniem
+148	work	Ya-Rayi
+150	othername	Tamer Elsayed Ghoniem
+150	work	Ya-Rayi

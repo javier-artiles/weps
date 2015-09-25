@@ -1,0 +1,826 @@
+1	affiliation	Pinnacle Estate Properties
+1	affiliation	SUSAN JONES &  Pinnacle Estate Properties Inc
+1	location	Pinnacle Estate Properties 9137 Reseda Blvd. Northridge, CA. 91324
+1	phone	818-701-6131
+2	email	sjjones1@mac.com
+2	occupation	educator
+2	occupation	instructor
+2	occupation	trainers
+2	othername	Susan J. Jones
+2	othername	susan j. jones
+2	phone	501-837-2881
+4	affiliation	Craftsmen's Guild of Mississippi
+4	affiliation	Susan Jones Studio
+4	occupation	art jewelry designer
+4	occupation	artist
+4	occupation	enamellist
+4	occupation	jeweler
+4	occupation	metalsmith
+4	othername	Susan Kemp Jones
+4	phone	662-252-5705
+6	affiliation	Susan Jones Moses & Associates
+6	award	2007 Gulf of Maine Visionary Award
+6	email	info@susanmoses.net
+6	location	47 Glen Street Rowley, MA 01969
+6	occupation	firm's principal
+6	occupation	planning consultant
+6	othername	Susan Jones Moses
+6	phone	978-340-0407
+7	location	Vancouver Island, British Columbia, Canada
+13	affiliation	AWANA
+13	location	Moundsville
+13	location	Moundsville, WV
+13	location	West Virginia (USA)
+13	mentor	Daryl Williams
+13	mentor	Eugene McCammon
+13	mentor	Harold Lane
+13	mentor	Jack Clark
+13	occupation	Sunday School teacher
+13	occupation	alto
+13	occupation	certified lay speaker
+13	occupation	church choir director
+13	occupation	commander
+13	occupation	public school teacher
+13	occupation	soloist
+13	relatives	Bill
+13	school	Ben Speer's Stamps-Baxter School of Music
+13	website	http://www.susanjonesonline.com
+13	website	shoutlife.com/susanjones
+13	work	Home Among The Hills
+13	work	If It Wasn't For The Cross
+13	work	One Gave All
+13	work	The Gifts We Bring
+14	email	sjjones1@mac.com
+14	othername	SUSAN J. JONES
+14	othername	Susan J. Jones
+14	phone	501-837-2881
+20	occupation	Actress
+20	work	Alba pagana
+20	work	Class of Nuke 'Em High 2: Subhumanoid Meltdown
+20	work	Class of Nuke 'Em High Part II: Subhumanoid Meltdown
+20	work	Delitto a Oxford
+20	work	Dennis Has a Fling
+20	work	Dennis the Menace
+20	work	Feelings
+20	work	Julia
+20	work	Just Dennis
+20	work	May Morning
+20	work	May Morning in Oxford
+20	work	Power Blade Warrior: Taken by Force
+20	work	Roller Blade Warriors
+20	work	Roller Blade Warriors: Taken by Force
+20	work	Whose Child Am I?
+20	work	Wilding
+20	work	Wilding: The Children of Violence
+23	affiliation	Business Unit
+23	affiliation	National CPA firm
+23	affiliation	SEZ America
+23	affiliation	SEZ Group
+23	affiliation	SEZ Holding Ltd
+23	degree	BS
+23	major	accounting
+23	occupation	CFO
+23	occupation	COO
+23	occupation	Chief Operating Officer
+23	occupation	Executive VP
+23	occupation	certified public accountant
+23	occupation	financial consultant
+23	occupation	partner
+23	school	University of Southwestern Louisiana
+24	affiliation	Board of Directors of ASCD
+24	affiliation	Bureau of Education and Research
+24	affiliation	Florida ASCD
+24	affiliation	Program Development for Illinois Regional Offices of Education
+24	location	St. Augustine, FL 
+24	occupation	Director
+24	occupation	Educational consultant
+24	occupation	educator
+24	occupation	president
+24	occupation	trainer
+24	othername	Susan J. Jones
+24	work	Backstage Pass
+24	work	Backstage Pass for Trainers, Facilitators, and Public Speakers Your Guide to Successful Presentations
+24	work	Blueprint for Student Success
+24	work	Blueprint for Student Success A Guide to Research-Based Teaching Practices K-12 
+27	affiliation	Heartland Real Estate Inc
+27	email	sjones@htn.net
+27	fax	(863)382-4284
+27	location	Heartland Real Estate, Inc 3200 US Highway 27 South  Sebring, FL 33870
+27	occupation	Listing/Selling Agents
+27	phone	(800)840-6046
+27	phone	(863) 385-3887
+27	phone	(863) 385-5027
+27	phone	(863)382-3887 ext. 202
+27	phone	800-840-6046
+28	affiliation	Fred Hutchinson Cancer Center
+28	affiliation	KITH
+28	affiliation	Microsoft Boeing, Paccar
+28	affiliation	Windermere Real Estate Services Co
+28	affiliation	Windermere Real Estate/East Inc
+28	affiliation	board of Kirkland Interfaith Transitions in Housing
+28	email	stjones@windermere.com
+28	fax	425-454-8620
+28	location	Bellevue West
+28	location	Windermere Real Estate/East, Inc. 435 108th Ave NE Bellevue, WA 98004
+28	occupation	AB
+28	occupation	Associate Broker
+28	occupation	Certified Relocation Specialist
+28	occupation	RC
+28	occupation	board member
+28	occupation	expert negotiator
+28	occupation	licensed Broker
+28	othername	Susan T. Jones
+28	phone	425-455-9800
+28	phone	425-922-9990
+28	school	University of Washington
+28	website	www.stjones.mywindermere.com
+29	dateofbirth	1897
+29	occupation	Artist
+29	occupation	illustrator
+29	othername	Susan Alice Jones
+30	dateofbirth	June 18 1985
+30	location	Berkeley Memorial Gardens, in Moncks Corner, SC
+30	othername	Susan Elizabeth Jones
+30	relatives	DJ
+30	relatives	David
+30	relatives	Kristi
+30	relatives	Kristi Valis
+31	affiliation	Economics Area Cal Poly State University
+31	location	San Luis Obispo
+32	affiliation	Susan Jones Jazz Quartet
+32	occupation	Artist
+32	work	Violin Dreams
+33	affiliation	University of Colorado Denver Division of Clinical Pharmacology
+33	degree	Ph.D
+33	email	Susan.Jones@uchsc.edu
+33	location	University of Colorado Denver Division of Clinical Pharmacology, C-237 4200 E. 9th Ave. Denver , CO , 80262
+33	occupation	Instructor
+33	othername	Jones S.M
+33	phone	303-315-3185
+33	school	University of Texas Medical Branch Galveston
+34	affiliation	ABT
+34	affiliation	American Ballet atre
+34	affiliation	Ballet del Teatro Colon
+34	affiliation	Joffrey Ballet
+34	affiliation	Joffrey II
+34	affiliation	New York City Opera
+34	affiliation	Royal Ballet
+34	birthplace	York Pennsylvania
+34	mentor	Lucille Hood
+34	mentor	Mary Day
+34	mentor	Robert Joffrey
+34	mentor	Twyla Tharp
+34	occupation	Assistant Ballet Mistress
+34	occupation	Ballet Mistress
+34	occupation	Regisseur
+34	occupation	dancer
+34	school	Rockville School of Ballet
+34	school	Washington School of Ballet
+34	work	Don Quixote
+34	work	Fall River Legend
+34	work	La Bayad?re
+34	work	Rodeo
+39	affiliation	Drugs Don't Work in Arizona
+39	affiliation	Heritage Furniture
+39	affiliation	Metropolitan Library Service of Oklahoma
+39	affiliation	NFIB
+39	affiliation	NFIB/Arizona
+39	affiliation	National Federation of Independent Business/Arizona
+39	degree	bachelor's degree
+39	email	Susan.Jones@NFIB.org
+39	fax	602-263-7790
+39	location	3550 North Central Avenue Suite 1806 Phoenix, AZ 85012
+39	major	humanities
+39	occupation	business and community program developer
+39	occupation	chief executive officer
+39	occupation	president
+39	phone	602-263-7690
+39	school	Oklahoma State University
+40	affiliation	IEEE
+40	affiliation	Merck Sharp, & Dohme Pharmaceuticals
+40	affiliation	SID
+40	affiliation	SPIE
+40	affiliation	Texas Instruments
+40	affiliation	Virtual Vision Inc
+40	affiliation	eMagin Corporation
+40	degree	B.S
+40	location	Bellevue, Washington
+40	major	biology
+40	major	chemistry
+40	occupation	Chief Marketing and Strategy Officer
+40	occupation	Executive Vice President
+40	occupation	Secretary
+40	occupation	Secretary/Or Executive Officer
+40	occupation	director
+40	othername	Susan K Jones
+40	school	Lamar University
+41	degree	MA
+41	occupation	marriage guidance expert
+44	affiliation	Attentiveness Leaders Guide
+44	affiliation	Attentiveness Study And Reflection Guide
+44	affiliation	Forgiveness Leaders Guide
+44	affiliation	Forgiveness Study And Reflection Guide
+44	work	Attentiveness Leaders Guide
+45	affiliation	Peabody & Smith
+45	affiliation	Peabody & Smith Realty
+45	award	CRS Designation
+45	award	Certified Residential Specialist (CRS) Designation
+45	mentor	Andy Smith
+45	occupation	Broker Associate
+45	occupation	Realtor
+45	occupation	Realtors
+45	occupation	administrative professional
+45	occupation	agent
+45	occupation	agents
+49	affiliation	Board of Directors of ASCD
+49	affiliation	Bureau of Education and Research
+49	affiliation	Florida ASCD
+49	affiliation	Program Development for Illinois Regional Offices of Education
+49	location	St. Augustine, FL 
+49	occupation	Director of Program Development
+49	occupation	Educational consultant
+49	occupation	educator
+49	occupation	expert
+49	occupation	member
+49	occupation	president
+49	occupation	trainer
+49	othername	Susan J. Jones
+49	work	Backstage Pass
+49	work	Backstage Pass for Trainers, Facilitators, and Public Speakers Your Guide to Successful Presentations
+49	work	Blueprint for Student Success
+49	work	Blueprint for Student Success A Guide to Research-Based Teaching Practices K-12 
+51	affiliation	AP
+51	affiliation	ITV
+51	affiliation	SCETV
+51	affiliation	State Department of Education
+51	birthplace	Dayton Ohio
+51	degree	BA
+51	major	Education
+51	major	Elementary Education
+51	major	Media Arts
+51	occupation	Office Manager
+51	occupation	course facilitator
+51	occupation	curriculum writer
+51	occupation	facilitator
+51	school	Duke
+51	school	Ohio Wesleyan University
+51	school	USC
+54	affiliation	Beta Gamma Sigma
+54	affiliation	Business Intelligence systems
+54	affiliation	CBS Television Network
+54	affiliation	New York University Medical Center
+54	affiliation	Research & Analysis Time Warner
+54	affiliation	Research & Analysis at Time Warner
+54	affiliation	SLJ WebFOCUS CONSULTING LLC
+54	affiliation	Sales Analysis & Development CBS Television Network
+54	affiliation	Sales Analysis & Development at CBS Television Network
+54	affiliation	Time Warner
+54	affiliation	WebFOCUS group for  hospitals and school of medicine of NYU
+54	affiliation	business intellgence systems SLJ WebFOCUS CONSULTING LLC
+54	affiliation	business intellgence systems at SLJ WebFOCUS CONSULTING LLC
+54	affiliation	business intelligence systems New York University Medical Center
+54	affiliation	business intelligence systems at New York University Medical Center
+54	affiliation	elie tahari ltd
+54	affiliation	information systems at elie tahari ltd
+54	affiliation	information systems elie tahari ltd
+54	location	Greater New York City Area
+54	major	math
+54	occupation	Business Intelligence systems developer
+54	occupation	Director
+54	occupation	Manager
+54	occupation	developer
+54	school	New York University - Leonard N. Stern School of Business
+54	school	Vanderbilt University
+55	location	Concord, NC
+57	affiliation	Klein ISD
+57	occupation	Teacher
+58	affiliation	Susan Jones Designs
+58	affiliation	SusanJonesDesigns
+58	location	Minneapolis
+58	mentor	Amy Johnson
+58	mentor	Diego Bottacin
+58	mentor	Dustin Tabor
+58	mentor	Jeff Barber
+58	mentor	Stephanie Sersich
+58	occupation	Artist
+58	relatives	Adam
+58	relatives	Addison
+58	relatives	Matw
+58	website	www.susanjonesdesigns.com
+58	work	Aeros
+58	work	Alone Time
+58	work	April Focal Beads
+58	work	Audubon's Flamingo
+58	work	August Focals
+58	work	Autumn
+58	work	Barn Owl
+58	work	Bead Sets - 2006
+58	work	Bead Sets - Feb. & March 2007
+58	work	Belle of the Ball
+58	work	Big Button Focals
+58	work	Bloom Loon
+58	work	Blooms
+58	work	Bullseye Odds
+58	work	Can't Let You Go
+58	work	Canyon Bricks
+58	work	Chuperosa
+58	work	Circuits
+58	work	Comet Tails
+58	work	Crunch focals.
+58	work	December Spirit Beads
+58	work	Deep Sea Focals
+58	work	Desert Bones
+58	work	Desert Spirit
+58	work	Dogwoods
+58	work	Dot Beads
+58	work	Ebb and Flow
+58	work	Elysian Fields Series
+58	work	First organics of the year.
+58	work	Flight - bead set and matching focals.
+58	work	Flowbot - girls
+58	work	Flowbots
+58	work	Flower Child
+58	work	Focals - Feb.
+58	work	Focals - January
+58	work	Focals using - Bullseye Odd Lots
+58	work	Fruition
+58	work	Garden
+58	work	Graphic Designs
+58	work	Graphic Pattern - Focals
+58	work	Grids
+58	work	Happy 2008!
+58	work	In My Clutches
+58	work	Interpretation
+58	work	Jeannie in a Bottle
+58	work	Jester Beads
+58	work	July Focals
+58	work	June Focals
+58	work	June focals
+58	work	Jurassic
+58	work	Key to my Heart
+58	work	Lampwork Pins
+58	work	Man Beads
+58	work	May Focals
+58	work	Metamorphosis 2
+58	work	Mind Frames
+58	work	Miss Squid II
+58	work	Miss Squid Loves Her Treasure
+58	work	Mister Sister
+58	work	More August Focals
+58	work	More Flower Power Brooches
+58	work	More Focals
+58	work	More Focals from Bullseye and Vetro Odd Lots
+58	work	More May Focals
+58	work	More Spirit Beads
+58	work	More Tinsel!
+58	work	More shards and silver.
+58	work	Music
+58	work	Naughty-n-Nice Pendant
+58	work	New Flowbot Design
+58	work	New Focals
+58	work	New Moon in Leo
+58	work	New Odd Lot
+58	work	New Owls
+58	work	New Shape
+58	work	New Vetrofond colors & Terra
+58	work	New focals.
+58	work	Nice Rack
+58	work	November Focals
+58	work	Oasis
+58	work	Occhi Series
+58	work	Octo Miss
+58	work	Painted Desert Series
+58	work	Party Dots
+58	work	Piedra Azul
+58	work	Pin Blossoms
+58	work	Playing with Terra.
+58	work	Playing with Triton
+58	work	Point-of-View Blasters
+58	work	Poncho Colorido
+58	work	Pucci Inspired
+58	work	Pucci's Garden
+58	work	R4 Focals
+58	work	Raku Bead Set
+58	work	Roswell Rayguns
+58	work	Sand Structure
+58	work	Satake Focals
+58	work	Satellite
+58	work	Saturn Moons - Bead Set
+58	work	Sea Bed
+58	work	Sea Gardens
+58	work	Searching
+58	work	Secretary
+58	work	Sentinel Meadow
+58	work	September Focals
+58	work	September Lentil Focals
+58	work	Sets from Vetro odd lot colors.
+58	work	Shards
+58	work	Shards and Silver
+58	work	Shifting Blue
+58	work	Shifting Pink
+58	work	Silver Twists
+58	work	Skyros
+58	work	Sleepless in Saskatchewan
+58	work	Special Order
+58	work	Spirits
+58	work	Spring Buds
+58	work	Spring Sets
+58	work	Sprockets, Rockets and Cogs
+58	work	Stars
+58	work	Still More May Focals
+58	work	Still playing with Terra...
+58	work	Sweet Peep with Love Balloons
+58	work	Swirl Girl Ring
+58	work	Talisman
+58	work	Terra Beads
+58	work	Textured Focals
+58	work	Tide Pool Ring
+58	work	Tinsel Time!
+58	work	Trellis
+58	work	Twins
+58	work	Valentine Flowbots
+58	work	Vintage brooch/pendants with lampwork bead centers.
+58	work	Vintage components with lampwork bead centers.
+58	work	Visible Thoughts
+58	work	Wildflower Series
+58	work	Willow
+58	work	Window Totems
+58	work	Wing Song
+58	work	Wrapped in Ribbons
+58	work	Yosemite
+59	affiliation	American Ballet atre
+59	occupation	Assistant Producer
+59	occupation	Set Production Assistant
+59	work	American Stories: The American Dream
+59	work	Baryshnikov By Tharp With American Ballet Theatre
+59	work	Route 9
+61	affiliation	Graduate Program - ology
+61	affiliation	Outreach Commission for St. Peters Church
+61	award	Leadership Awards
+61	degree	Bachelor of Arts degree
+61	degree	Master of Arts degree
+61	location	Morristown
+61	major	American Studies
+61	major	Dramatic Literature
+61	major	French
+61	major	ology
+61	occupation	Commissioner
+61	occupation	Youth Mentor
+61	occupation	graduate student
+61	relatives	Rupert
+61	school	Colby College
+61	school	University of Essex
+63	degree	Dr
+63	occupation	Postdoctoral Research Fellow
+66	affiliation	Long & Foster
+66	affiliation	National Association of Realtors
+66	affiliation	Roanoke Regional Home Builders Association Sale and Marketing Council
+66	affiliation	Roanoke Valley Association of Realtors
+66	affiliation	Roanoke Valley Multiple Listing Service Inc
+66	affiliation	Virginia Association of Realtors
+66	award	Consecutive award
+66	award	New Construction Award
+66	award	Numerous Gold Award
+66	fax	(540) 966-1855
+66	location	1638 Roanoke Road PO Box 1200, Daleville, VA, 24083
+66	location	Botetourt County
+66	location	Roanoke Valley
+66	location	Roanoke Valley area
+66	occupation	Associates
+66	occupation	Real Estate Sales Person
+66	occupation	Realtor
+66	occupation	real estate agaent
+66	phone	(540) 314-4806
+66	phone	(540) 966-5700 Ext.: 1228
+67	affiliation	Ans Area Association of Realtors
+67	affiliation	Ans Florist
+67	affiliation	Beechwood Hills Homeowners Association
+67	affiliation	Coldwell Banker Upchurch Realty
+67	affiliation	First Presbyterian Church
+67	affiliation	Georgia Association of Realtors
+67	affiliation	K.D. Alumni - UGA Chapter
+67	affiliation	Kappa Delta Alumni Association
+67	affiliation	National Association of Realtors
+67	degree	B.A
+67	location	Athens
+67	major	English
+67	occupation	Co-owner
+67	occupation	President
+67	occupation	Realtors
+67	occupation	Secretary
+67	occupation	Sunday School Teacher
+67	occupation	Treasury Advisor
+67	occupation	Vacation Bible School Teacher
+67	phone	(706) 338-1918
+67	relatives	Everett
+67	relatives	Kate
+67	relatives	Mary Frances
+67	school	Clarke Central High School
+67	school	University of Georgia
+68	work	Conrad and Women
+70	affiliation	BlueWater Realty Group
+70	phone	566-7584
+71	affiliation	Destiny Plus
+72	affiliation	RE/MAX Coast & Country
+72	occupation	Associates
+72	occupation	Real Estate Agent
+73	work	Violin Caliente
+74	location	Westlake Village, CA 91359
+74	occupation	Real Estate Agents
+74	occupation	Real Estate Buyer Brokers
+74	phone	(818) 701-6131
+74	website	http://www.susanjones.com
+75	affiliation	Ferris State
+75	affiliation	Marketing Ferris State University
+75	occupation	Professor
+75	occupation	e-commerce expert
+75	othername	Susan K. Jones
+75	work	Marketing Convergence and Creative Strategy in Direct Marketing
+77	birthplace	Concord NC
+77	birthplace	Concord NC, USA
+77	dateofbirth	Aug 20
+77	email	charokeelady@hotmail.com
+77	location	Concord NC
+77	location	Concord, NC, USA
+77	othername	Lady Wolf
+77	website	http://care2susanj.com
+77	website	http://my.care2.com/canjones
+77	website	http://www.myspace.com/charokee_queen1
+78	occupation	mental health rapist
+78	occupation	rapists
+78	occupation	social worker
+78	othername	SUSAN L. JONES
+78	othername	Susan L. Jones
+79	work	Julia
+80	work	Conrad and Women
+81	affiliation	Coldwell Banker Upchurch Realty
+81	degree	English
+81	email	susanjonessells@msn.com
+81	fax	(706) 354-6082
+81	location	Coldwell Banker Upchurch Realty 2405 W. Broad St. Suite 150 Athens, GA 30606
+81	occupation	Certified Negotiator
+81	occupation	REALTOR
+81	occupation	Realtor
+81	phone	(706) 338-1918
+81	phone	(706) 543-4000
+81	school	University of Georgia
+81	website	susanjonessells@msn.com
+83	affiliation	County State and American Medical Associations
+83	birthplace	Wales
+83	degree	Dr
+83	degree	M.D
+83	occupation	M.D
+83	occupation	student
+83	relatives	David
+83	relatives	Margaret ( Thomas ) Jones
+83	school	McMynn Academy
+83	school	Rush Medical College
+85	work	Parents, Unite!
+86	location	Indianapolis, Indiana
+92	affiliation	Jane Doe
+92	affiliation	Machaya Klezmer Band
+92	affiliation	Mariachi De las Compadres
+92	affiliation	Silver String Quintet
+92	location	5913 Pontiac Street College Park, MD 20740
+92	occupation	Musicians
+92	occupation	composer
+92	occupation	violinist
+92	work	Be Sure of Love
+92	work	Black Orpheus
+92	work	Blue Bossa
+92	work	Blue Skies
+92	work	Corcoran Blues
+92	work	Finicky
+92	work	Klezmer Nova
+92	work	Lester Leaps Out
+92	work	Let's Fall in Love
+92	work	Little Sunflower
+92	work	Los Bilbilicos
+92	work	My Little Star
+92	work	My Little Suede Shoes
+92	work	Nature Boy
+92	work	Night and Day
+92	work	Nuts and Bolts
+92	work	Olmstead Cha Cha
+92	work	On the Brink
+92	work	Place and Time
+92	work	Promised
+92	work	Quizas, Quizas, Quizas
+92	work	RealAudio Be Sure of Love
+92	work	Recorda Me
+92	work	Softly as in a Morning Sunrise
+92	work	Sweet Georgia Brown
+92	work	Syd's Volley
+92	work	Tappin
+92	work	Ugly Shoes Blues
+92	work	Un Poquito Mas
+92	work	Un Poquito de Salsa
+92	work	Violin Caliente
+92	work	Violin Dreams
+93	work	Corcoran Blues
+93	work	Klezmer Nova
+93	work	Lester Leaps Out
+93	work	Los Bilbilicos
+93	work	Nuts and Bolts
+93	work	Olmstead Cha Cha
+95	affiliation	School of Zoology at  University of  Tasmania
+95	award	University of Tasmania Teaching Excellence Awards
+95	occupation	Associate Professor
+95	occupation	First Year Coordinator
+95	occupation	Head
+95	occupation	casual senior demonstrator
+95	othername	Sue
+95	othername	Sue Jones
+97	affiliation	Ability Beyond Disability
+97	affiliation	American Orchid Society
+97	affiliation	Colored Pencil Society of America's Seattle Washington chapter
+97	affiliation	Gage Academy
+97	affiliation	publications department
+97	degree	Bachelor of Arts Degree
+97	major	Communications
+97	occupation	Communications Coordinator
+97	occupation	Vice President
+97	occupation	Website Editor
+97	occupation	editor
+97	school	Sourn Connecticut State University
+97	school	University of Washington
+98	work	Klezmer Nova
+98	work	Nuts and Bolts
+98	work	Un Poquito de Salsa
+100	email	jones.1[@]optusnet.com.au
+100	relatives	Cherie
+100	relatives	Mollie
+100	relatives	Nicholas
+100	relatives	Rebecca
+101	birthplace	Concord NC USA
+101	birthplace	Concord NC, USA
+101	dateofbirth	Aug 20 1961
+101	location	Concord NC USA 
+101	location	Concord, NC, USA
+101	website	http://my.care2.com/lovewolfjones
+101	website	http://www.ourpowerforcedmatrix.com/enrollment.?UIP=8369
+106	affiliation	Ruby Bridges Elementary
+107	affiliation	First Baptist Church of Rome
+107	affiliation	Greater Rome Board of Realtors
+107	affiliation	Greater Rome Chamber of Commerce
+107	affiliation	Toles Temple and Wright Real Estate
+107	birthplace	Rome
+107	occupation	sales associate
+107	phone	770-547-0197
+107	relatives	Bill
+107	relatives	Summer
+107	relatives	Will
+108	birthplace	Bronx
+108	location	Washington D.C. area
+108	occupation	violinist
+108	work	Be Sure of Love
+108	work	Let's Fall in Love
+108	work	My Little Star
+108	work	On the Brink
+108	work	Place and Time
+108	work	Promised
+108	work	Quizas, Quizas, Quizas
+108	work	Tappin
+108	work	Ugly Shoes Blues
+108	work	Un Poquito De Salsa
+108	work	Un Poquito Mas
+108	work	Violin Caliente
+109	affiliation	Grace Point MFC
+109	email	sjones@twumc.org
+109	occupation	Executive Director
+109	phone	281.466.8602
+112	relatives	Mr. Jones
+112	relatives	Russell Jones
+113	othername	Mary Susan
+113	othername	Mary Susan Bass
+113	othername	Mary Susan Jones
+113	relatives	Burdin Holland
+113	relatives	Lonnie
+113	relatives	W. T. Jones
+113	relatives	William T. Jones
+114	affiliation	4Front Team
+114	affiliation	NWN
+114	affiliation	NWN Corporation
+114	affiliation	NWN Morrisville
+114	affiliation	NWN South
+114	affiliation	NWN for  Cure
+114	award	Sunny Radio 93.9 Spirit Award
+114	location	Morrisville
+114	occupation	Team Captain
+116	affiliation	eMagin
+116	occupation	Chief Marketing Officer
+116	occupation	Executive Vice President
+121	othername	Susan (Colbert) McLish
+121	relatives	Jones Robert McDonald
+121	relatives	Robert Jones
+122	occupation	Assistant Location Manager
+122	occupation	Assistant Producer
+122	occupation	Location Assistant
+122	occupation	Office Runner
+122	occupation	production runner
+122	work	American Stories: The American Dream
+122	work	Class of Nuke 'Em High Part 2: Subhumanoid Meltdown
+122	work	Get on the Bus
+122	work	Hearts in Atlantis
+122	work	Julia
+122	work	Love and Sex
+122	work	Nutty Professor II: The Klumps
+122	work	The Contender
+122	work	The Tomorrow People
+122	work	The Woods
+123	affiliation	St. Edward School
+123	affiliation	St. Matws Walking Club
+123	location	St. Edward School, 9610 Sue Helen Drive, Jeffersontown
+123	location	St. Matthews
+123	occupation	Principal
+123	occupation	principal
+123	othername	SUSAN M. JONES
+123	othername	Susan M. Jones
+123	relatives	Paul
+123	relatives	Peggy Helm
+126	degree	AB
+126	degree	Master's Degree
+126	email	jmhsjones@hotmail.com
+126	major	Social Studies
+126	major	Social Studies - Secondary Education
+126	occupation	Faculty
+126	occupation	Teacher
+126	school	John Marshall High School
+126	school	WVU
+126	website	www.sweetjourney.com/Jones_Homepage.html
+128	affiliation	Florida Education Association
+128	degree	Bachelor of Science
+128	degree	Masters
+128	email	susan.jones@floridaea.org
+128	major	Guidance
+128	major	Speech and English
+128	occupation	Assistant Director
+128	othername	Susan L Jones
+128	school	University of South Florida
+128	website	http://www.floridaea.org
+131	work	After The Party
+131	work	Brick hook
+131	work	Flower Explosion
+131	work	Hit a cord
+131	work	Knock knock
+131	work	Listen To Me!
+131	work	Nails
+131	work	Orange
+131	work	Play'n for his supper
+131	work	Rusty Cut
+131	work	Rusty rails
+131	work	Rusty ride
+131	work	Shadow
+131	work	Truck Crabs
+131	work	Woof!
+132	affiliation	Student Nurses Association
+132	affiliation	Student representative for College of Nursing to  UMHB Library Improvement Board
+132	affiliation	UMHB
+132	birthplace	Aberdeen So Dakota
+132	major	Nursing
+132	occupation	S1
+132	occupation	Student
+132	occupation	student
+135	occupation	Main Performer
+136	affiliation	Yorba Linda team
+136	occupation	director
+136	occupation	recreation director
+136	occupation	recreation superintendent
+139	affiliation	CADM
+139	affiliation	Callahan Group LLC
+139	affiliation	Chicago Direct Marketing Association
+139	affiliation	Susan K. Jones & Associates
+139	affiliation	board of directors
+139	affiliation	department of marketing at Ferris State University
+139	award	Charles S. Downs Chicago Direct Marketer of  Year award
+139	award	Downs
+139	award	Downs Award
+139	location	Big Rapids, MI
+139	location	East Grand Rapids, MI
+139	location	Rosemont, IL
+139	occupation	direct marketer
+139	occupation	faculty
+139	occupation	full professor
+139	occupation	partner
+139	occupation	president
+139	occupation	secretary-treasurer
+139	othername	Susan K. Jones
+141	location	Moundsville, WV
+141	othername	srwjones
+142	affiliation	AIA
+142	affiliation	AIA Seattle
+142	affiliation	Board of Directors
+143	affiliation	VCU
+143	major	communication art
+143	othername	Suji
+143	work	LaLa Lip Dub!
+143	work	Wannabe lip dub!
+143	work	What's Good Lip DubÅc
+144	affiliation	Susan Jones and Jury Research Institute
+144	degree	Dr
+144	occupation	pioneer
+144	othername	Susan E. Jones
+145	othername	Jones S
+148	work	Handwoven ""Shaped"" Baskets
+148	work	Handwoven Hanging Shaped Basket 
+148	work	Handwoven Shaped Basket

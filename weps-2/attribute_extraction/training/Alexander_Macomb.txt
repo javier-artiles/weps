@@ -1,0 +1,114 @@
+2	Location	Congressional Cemetery
+5	Other name	Alexander Macomb Mason	Alex. M. Mason	Mason Bey
+5	Occupation	Director Genreal	Governor	officer
+5	Affiliation	U.S. Navy	Khedive of Egypt
+5	Relatives	Mrs. S[amulel]. H[enry]. Shreve (n?e Sopia [Flanagan] Hurry)
+8	Other name	ALEX. MACOMB.
+8	Occupation	Brigadier General	Gen.
+9	Date of birth	4 February 1888	02/05/1888
+9	Occupation	Captain	CPT
+9	Affiliation	United States Navy	USN
+9	Location	Arlington National Cemetery (Section 1, Grave 1270-A-NS)	SECTION I SITE 1270-A N ARLINGTON NATIONAL CEMETERY
+9	Relatives	Augustus Canfield Macomb	Ella Chelle McKelden	Edna Wilson Lake 	Edna Wilson Macomb
+10	Occupation	Adjutant General	General	General in Chief	Maj. Gen.	officers	Scholar	Soldier
+10	Affiliation	Army
+13	Occupation	general	officer
+14	Other name	Alex. Macomb
+14	Occupation	M.Genl.	Chief. Eng.	Brigadier General	Commanding General
+14	Affiliation	U.S. Army
+17	Date of birth	3 April 1782
+17	Birthplace	Detroit
+17	Occupation	cornet	second lieutenant	2d Infantry	secretary	first lieutenant	officers	captain	major	lieutenant colonel	chief engineer	adjutant general	colonel	brigadier general	major general	commanding general
+17	Affiliation	Regular Army	Corps of Engineers	Army	United States Army
+17	Award	brevet major generalcy	gold medal by Congress
+17	School	Newark (New Jersey) academy
+17	Relatives	Catharine Macomb	Harriet Balch Wilson
+19	Date of birth	April 3, 1782
+19	Birthplace	Detroit
+19	Occupation	General	Major General	First Lieutenant	captain	Brigadier General	Commander	General in Chief
+19	Affiliation	army of the United/ States	army	Fifth Military Department
+19	School	West Point Military Academy
+19	Relatives	Catharine Navarre
+21	Date of birth	1782
+21	Other name	Alexander Macomb, Jr.
+21	Occupation	General	Commanding Officer	Major General	Senior Officer	Commanding General
+21	Affiliation	the U.S. Army
+21	School	Newark Academy
+21	Location	PO Box 110252, Nutley NJ 07110
+21	Relatives	Sarah Macomb	Catharine	Harriet B. Wilson Balch
+22	Occupation	General
+23	Occupation	General	officer
+25	Date of birth	1782
+25	Birthplace	Detroit, Mich
+25	Occupation	officer	brigadier general
+25	Affiliation	American army
+26	Date of birth	1782
+26	Birthplace	Detroit, Mich
+26	Occupation	officer
+26	Affiliation	American army
+31	Date of birth	1782	June 25, 1841
+31	Birthplace	Detroit, Michigan
+31	Other name	Macomb, Alexander
+31	Occupation	General	captain	lieutenant	colonel of engineers	adjutant-genera	brigadier general	major general
+31	Affiliation	artillery
+31	Award	gratitude of Congress	gold medal
+31	Location	Washington, D.C.
+33	Occupation	General
+34	Occupation	General	Brigadier General
+37	Occupation	M Genl
+37	Affiliation	Inst of Mil Acady
+41	Occupation	General
+44	Birthplace	1782
+44	Other name	Macomb, Alexander
+44	Occupation	Major General
+44	Affiliation	U.S. Army	Headquarters of the Army
+47	Date of birth	1782
+47	Birthplace	Detroit
+47	Occupation	Adjutant General	commanding general
+47	Affiliation	the US Army
+48	Date of birth	April 3
+48	Occupation	Chief Army Engineer
+48	Affiliation	the U.S. Army
+48	Location	Congressional Cemetery in Washington D.C.
+51	Occupation	General
+55	Occupation	major general commanding
+55	Affiliation	the Army of the United States
+61	Occupation	General
+63	Occupation	General
+64	Date of birth	1748
+64	Occupation	General
+64	Relatives	William. Government
+68	Date of birth	1782
+68	Birthplace	Detroit
+68	Occupation	officer
+68	Affiliation	American army
+71	Occupation	Gen	Commander-in-chief
+71	Affiliation	the United States Army
+76	Date of birth	1782
+76	Occupation	General
+78	Occupation	General
+80	Occupation	General
+82	Occupation	General
+82	Affiliation	U.S. Army
+83	Date of birth	3 April 1782
+83	Birthplace	Detroit
+83	Occupation	Major General	second lieutenant	first soldiers	lieutenant	lieutenant colonel	chief engineer	acting adjudant general	colonel	brevet major general 	chief of engineers	senior officer 	commanding general 	cornet	senior major general
+83	Affiliation	Regular Army	Corps of Engineers
+83	Award	gold medal
+83	School	United States Military Academy
+83	Relatives	Catharine Macomb	Harriet Balch Wilson
+84	Date of birth	April 3, 1782
+84	Birthplace	Detroit, Michigan
+84	Occupation	General	officer	cornet	lieutenant-colonel of engineers	adjutant-general	brigadier general	major-general	Commander-in-Chief
+84	Affiliation	the United States Army	army of the United States	cavalry
+84	Work	TREATISE ON MARTIAL LAW AND COURTS MARTIAL AS PRACTICED IN THE UNITED STATES
+84	Award	thanks of Congress	gold medal
+85	Work	TREATISE ON MARTIAL LAW AND COURTS MARTIAL AS PRACTICED IN THE UNITED STATES
+89	Occupation	MAJOR GENERAL	Commander
+89	Affiliation	Army of the United States	the U.S. Army
+93	Date of birth	1782
+93	Occupation	Colonel	Chief Engineer	general	Commanding General	two-star brevet major generals	brevet major generalcy	Chief of Engineers
+93	Affiliation	Corps of Engineers	Third Military District at New York	the Fifth at Detroit
+93	Award	congressional gold medal
+95	Work	A Treatise on Martial Law, And Courts-martial: As Practised in the United States on America
+97	Occupation	Brigadier General	General

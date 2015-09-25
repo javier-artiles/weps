@@ -1,0 +1,180 @@
+0	Birthplace	Florida
+0	Occupation	ABR	SRES	REALTOR	e-PRO	Accredited Buyers Representative	Seniors Real Estate Specialist	HomeSteps (Freddie Mac Unit) Registered Selling Agent 	HUD Registered Selling Agent	commercial lender	banker	Exclusive Buyers Agent	EXCLUSIVE BUYERS AGENT
+0	Affiliation	Williamson Bros. Realty & Auction Co.	Williamson Bros. Realty & Auction Co., Inc.	Womens Council of REALTORS	Real Estate BUYERS AGENT Council	Senior Advantage Real Estate Council	Athens Area Association of REALTORS	Georgia Association of REALTORS	National Association of REALTORS	Habitat for Humanity	Jackson County Board of Adjustment
+0	Award	REALTOR OF The Year 2003	2004 Athens Treasurer
+0	Location	675 Pulaski Street Ste. 1700 Athens, GA 30601
+0	Phone	(706) 296-6999
+0	FAX	(706) 354-1714
+0	Email	Andrew@AndrewPowell.net
+1	Date of birth	April 18, 1949
+1	Birthplace	London, England
+1	Occupation	performer	writer	arranger	producer	Arranger	Conductor	Writer	Producer
+1	Affiliation	Intermodulation
+1	Work	The Psychomodo	Power	Tales of Mystery and Imagination	The Fall of the House of Usher	I Robot	Total Eclipse	Andrew Powell and The Philharmonia Orchestra Plays The Best of The Alan Parsons Project	Ladyhawke	Try Anything Once	Caravan To Vaccares	Triumphs of a Man Called Horse	Rocket Gibraltar	Human Menagerie	Psychomodo	David Courtney's First Day 	Modern Times 	Year of the Cat 	Rebel 	Musical Chairs 	Sammy Hagar 	Pyramid 	Kick Inside 	Lionheart 	Time Passages 	Eve 	Crusader 	Sympathy 	The Turn of a Friendly Card 	Visitor 	Elaine Paige 	Eye In The Sky 	North of a Miracle 	Ammonia Avenue 	Russians & Americans 	Stereotomy 	Gaudi 	Secrets of Flying 	With Love 	Freudiana 	Very Best Live 	On Air 	Show Must Go On: Anthology 	Queen Album 	The Time Machine 	Orchestral Heaven
+1	School	Cambridge
+1	Major	music
+1	Mentor	Stockhausen
+2	Occupation	Actor
+2	Work	Foyle's War	The German Woman	Black Cab	Crooked Mile	The Bill	Rock Bottom	Only the Lonely	A Clean Division	Holby City	Holby	Whose Heart Is It Anyway	Touching Evil III	Midsomer Murders	Faithful unto Death	Jonathan Creek	Jack in the Box	Peak Practice	Walking Away	In Suspicious Circumstances	The Boaster	The Tomorrow People	Van der Valk	Proof of Life	The Ties That Bind	One Foot in the Grave	We Have Put Her Living in the Tomb	I Bought a Vampire Motorcycle	We Are Seven	The Snow Spider	Mapp & Lucia	Change and Change About	Joshua Then and Now
+3	Other name	Powell, Andrew	Powell, A.
+3	Affiliation	Escuela de Econom?a Empresarial (School of Business Economics) Universidad Torcuato Di Tella
+3	Location	Buenos Aires, Argentina	Mi?ones 2177 - (1428) Buenos Aires
+3	Web site	http://www.utdt.edu/~apowell	http://www.utdt.edu/departamentos/empresarial/
+4	Work	Ladyhawke	Main Title	Phillippe's Espace	The Search for Phillippe	Tavern Fight (Phillippe)	Tavern Fight (Navarre)	Pitou's Woods	Phillippe Describes Isabeau	Bishop's Procession	Wedding Music	Navarre's Ambush	Imperius Removes Arrow 	Chase/Fall/Transformation	Cezar's Woods	She Was Sad at First	Navarre Returns to Aquila	Turret Chase/The Fall - Film Version	Wolf Trapped on Ice	Navarre and Isabeau's Dual Transformation	Navarre and Marquet Duel 	Marquet's Death	Bishop's Death	Final Reunion/End Title	Ladyhawke Theme: Single Version
+6	Occupation	Developer
+6	Location	Atlanta, GA
+9	Other name	Powell AJ
+9	Occupation	Associate	Assistant Professor	MD
+9	Affiliation	Cardiology	Children's Hospital Boston	Harvard Medical School
+9	School	Harvard Medical School
+9	Degree	MD
+9	Location	300 Longwood Avenue Farley-2 Boston MA 02115
+9	Phone	617-355-7655
+9	FAX	617-739-3784
+12	Other name	W. Andrew Powell
+12	Occupation	Editor-In-Chief	Owner	Member Services Coordinator
+12	Affiliation	The GATE	Canadian Community Newspapers Association
+12	Location	Canada
+16	Occupation	ABR?	SRES?	e-PRO	REALTOR?	Exclusive Buyers Agent	EXCLUSIVE BUYERS AGENT
+16	Phone	(706) 296-6999
+19	Work	Carbon Lokai	Kapsules
+21	Other name	Robert Andrew Powell
+21	Work	We Own This Game: A Season in the Adult World of Youth Sports
+21	Award	Best Books of 2003	Best Sports Books of 2003
+23	Other name	W. Andrew Powell
+23	Web site	www.thegate.ca/blog
+24	Occupation	Owner
+24	Location	United Kingdom
+25	Work	I Bought a Vampire Motorcycle	The Passion of Remembrance
+26	Other name	Andrew J. Powell
+26	Occupation	MD	Associate	Assistant Professor
+26	Affiliation	Cardiology	Children's Hospital Boston	Children's Hospital Boston Department of Cardiology	Pediatrics, Harvard Medical School	Non-Invasive Cardiology	Fetal Cardiology Program	Cardiovascular Program	Cardiovascular MRI Program	Cardiology Outpatient Services	Cardiac Inpatient Unit
+26	School	Harvard College	Harvard Medical School
+26	Degree	MD
+26	Location	Children's Hospital Boston Department of Cardiology, Farley - 2 300 Longwood Avenue Boston, MA 02115	300 Longwood Avenue	Boston, MA 02115
+26	Phone	617-355-7655	(617) 355-6000
+26	FAX	617-739-3784
+27	Date of birth	05/23/1980	May 23, 1980
+27	Birthplace	North Easton, MA
+27	Occupation	Senior
+27	Affiliation	Cardinal teams	Stanford Cross Country
+27	School	Oliver Ames	Oliver Ames High School
+27	Major	American Studies
+27	Relatives	Bernie and Sheryl Powell
+29	Work	Superman Returns	Moulin Rouge	The Matrix	Stealth
+30	Other name	Robert Andrew Powell	Powell, Robert Andrew
+30	Occupation	journalist
+30	Work	We Own This Game: A Season the in the Adult World of Youth Football	We Own This Game
+31	Work	Ladyhawke	Bishop's Death	Bishop's Procession	Cezar's Woods	Chase Fall Transformation	Chase/Fall/Transformation	Damned If I Do	Eye in the Sky	Fall of the House of Usher: Pavane	Final Reunion - End Title	Final Reunion / End Title	Final Reunion, End Title	Final Reunion/End Title	Games People Play	I Robot Suite	''I Robot'' Suite	Imperius Removes Arrow	Ladyhawke Theme (Single Version)	Ladyhawke Theme [Single Version]	Ladyhawke Theme: Single Version	Lucifer (+ Mammagamma)	Lucifer/Mammagamma	Main Title	Main Title (Ladyhawke)	Marquet's Death	Marquet's death	May Be a Price to Pay ~ Lucifer	Navarre and Isabeau's Dual Transformation	Navarre and Marquet Duel	Navarre Returns To Aquila	Navarre's Ambush	Old and Wise	Pavane	Pavane (The Fall of the House of Usher)	Phillippe Describes Isabeau	Phillippe's Escape	Pitou's Woods	She was Sad at First	Tavern Fight (Navarre)	Tavern Fight (Phillippe)	The Search for Phillippe	Time	Turret Chase & Fall	Turret Chase / The Fall (Film Version)	Turret Chase/The Fall - Film Version	Turret Chase-The Fall-Film Version 	Wedding Music	What Goes Up	Wolf Trapped in Ice
+33	Occupation	Composer
+33	Work	Rocket Gibraltar	Ladyhawke
+34	Other name	W. Andrew Powell
+34	Affiliation	The GATE	Phoenix Gate Studio
+36	Other name	Laube
+37	Other name	Andrew J. Powell
+37	Occupation	MD	Associate	Assistant Professor
+37	Affiliation	Cardiology	Children's Hospital Boston	Children's Hospital Boston Department of Cardiology	Pediatrics, Harvard Medical School	Non-Invasive Cardiology	Fetal Cardiology Program	Cardiovascular Program	Cardiovascular MRI Program	Cardiology Outpatient Services	Cardiac Inpatient Unit
+37	School	Harvard College	Harvard Medical School	Harvard Medical School
+37	Degree	MD
+37	Location	Children's Hospital Boston Department of Cardiology, Farley - 2 300 Longwood Avenue Boston, MA 02115	300 Longwood Avenue	Boston, MA 02115
+37	Phone	617-355-7655	(617) 355-6000
+37	FAX	617-739-3784
+42	Date of birth	27 Jun 1821
+42	Birthplace	Sampson Co., North Carolina
+42	Relatives	Mary "Polly" Ann Vann	Pearsall, Melinda
+43	Occupation	President	lighting designer	electrical design engineer	project manager	electrical engineer	Senior Designer	Project Manager	Principal	LC
+43	Affiliation	Illumination Engineering Society of North America	IESNA	Los Angeles Section	Designers Lighting Forum	DLF	LIGHTING DESIGN ALLIANCE	W. L. Thompson Consulting Engineers	Kelly Lundstrom George	WLT	KLG	IES
+43	Work	Saban	Ralph BrennanÅfs Jazz Kitchen	Dodger Stadium Renovation	Terminator 2 3D Attraction	Edison International Field of Anaheim (Anaheim Angels)	Irvine Spectrum Phase II	DisneyÅfs Wide World of Sports	Sony Imageworks	Cars Direct.com	Architectural Lighting	Visual Merchandising and Store Design	Shopping Center World	Lighting Design + Application (LD+A)	Architectural Record	Ritz Carlton and Hyatt hotels	DisneyÅfs Mediterranean and Boardwalk Resorts	Carolina Place Mall	law offices of Paul, Hastings, Janofsky & Walker	DisneyÅfs Wide World of Sports Complex	Sony Screening Room	ASI Entertainment	Broadway Street Renovation	Universal Studios Florida Isla Nublar?Home of Jurassic Park	Myriad Convention Center	Universal Studios Hollywood-Terminator 2 3D	Entertainment Center at Irvine Spectrum (Phase 2)	Anaheim Stadium Renovation
+43	Award	IES IIDA Awards of Merit	IES Lumen West Awards of Excellence	IES Lumen West Awards of Merit 	GE Edison Award of Merit
+43	School	University of Kansas
+43	Major	Architectural Engineering	architectural engineering
+43	Degree	Bachelor of Science
+43	Location	1234 East Burnett Street	Signal Hill  CA  90755 3510	Two N. Riverside Plaza Suite 1475	Chicago  IL  60606 2600
+43	Phone	562 989 3843	312 441 1426
+43	FAX	562 989 3847	312 993 0167
+44	Occupation	Junior	Supervisor	Dishwasher	head
+44	Affiliation	Penn State Erie	Penn State Erie, The Behrend College	EatÅfn Park Food Service	Management department	National Honor Society	Varsity Golf Team
+44	Award	Whose Who Among American High School Students
+44	School	Sam and Irene Black School of Business	Union City High School
+44	Major	Business Management
+44	Location	16605 Wager Rd = Union City, PA 16438
+44	Phone	(814) 438-2044	(814) 440-6146
+44	Email	arp183@psu.edu
+47	Affiliation	Escuela de Econom?a Empresarial (School of Business Economics), Universidad Torcuato Di Tella
+47	Web site	http://www.utdt.edu/~apowell
+48	Occupation	Artists	Composer
+48	Work	Rocket Gibraltar	Ladyhawke
+51	Other name	W. Andrew Powell
+51	Affiliation	The GATE	Phoenix Gate Studio
+52	Occupation	Set Designer	Draftsperson	draughtsperson
+52	Work	Superman Returns	Stealth	Star Wars: Episode II Attack of the Clones	Moulin Rouge	The Matrix	Anna and the King
+53	Occupation	Composer(s)	Artist(s)
+53	Work	Stockhausen: Michael's Farewell	Plasmogeny II	Echo III 	The Transistor Radio of St. Narcissus 	Michaels-Abschied
+54	Occupation	defensive lineman
+54	Education	Clewiston (FL) High School
+54	Mentor	Blake	Tom Morrell	Tommy Morrell
+55	Affiliation	The Alan Parsons Project
+55	Work	Andrew Powell and the Philharmonia Orchestra Play the Best of the Alan Parsons Project (The Alan Parsons Project Played by Andrew Powell)	Original Motion Picture Soundtrack: Ladyhawke	Total Eclipse	I Robot	Ladyhawke	What Goes Up	Games People Play	Chase/Fall/Transformation	Turret Chase/Fall	Wolf Trapped in Ice	Transformation
+55	Mentor	Gy?rgy Ligeti
+59	Occupation	session player	arranger	producer
+59	Affiliation	Intermodulation
+59	Work	Music	The Kick Inside	Lionheart	Caravan To Vaccares	Ladyhawke	Rocket Gibraltar
+59	School	King's College, Cambridge	Cambridge
+60	Work	Kapsules	Kapsules Version 0.9.9
+61	Relatives	Henry Powell	Sarah Wood	Jane Duryea	Esther Powell
+62	Affiliation	Inter-American Development Bank
+63	Occupation	Psychiatrist	Dr	psychologist
+63	Affiliation	Royal College of Psychiatrists
+63	Degree	Dr
+66	Occupation	back-row man
+66	Affiliation	Newport	Wales
+66	Mentor	Mac	Ian McIntosh
+67	Email	kapsules@gmail.com
+68	Other name	W. Andrew Powell
+68	Occupation	AUTHORS	AUTHOR
+69	Other name	W. Andrew Powell
+69	Occupation	Writer	Admin-Guy
+69	Location	Toronto, Ontario - Canada
+70	Other name	Andy Powell
+70	Relatives	Reg
+71	Other name	POWELL ANDY
+71	Affiliation	Silver Cycling	Momentum Expeditions	Orbea	MoEx	SPBRC
+75	Occupation	No 8
+75	Affiliation	Wales A	Newport	Gwent Dragons	Beziers
+76	Work	Tales of Mystery and Imagination Edgar Allan Poe	The Fall of the House of Usher	I Prelude	II Arrival	III Intermezzo	IV Pavane	V Fall
+77	Occupation	producer	arranger
+77	Work	The Kick Inside	Saxophone Song	The Man With The Child In His Eyes	Maybe	Lionheart	Strange Phenomena	Wuthering Heights	Oh To Be In Love	Room For The Life	Kashka From Baghdad	Hammer Horror	Houdini
+80	Other name	Robert Andrew Powell
+82	Affiliation	Universidad Torcuato Di Tella
+83	Other name	W. Andrew Powell
+84	Occupation	computer expert
+84	Work	mushroom bonanza sandwich	Mushroom Bonanza
+85	Date of birth	30 November 1927
+85	Birthplace	Wadhurst, Kent
+85	Other name	Anthony Andrew Powell
+85	Relatives	Charles Benjamin	Doreen Chandler	Doreen	Christine Powell
+87	Occupation	Artists
+88	Affiliation	Churchill
+89	Birthplace	Clewiston, FL
+89	Other name	A. Powell
+89	Occupation	Defensive tackle	Sr	NT
+89	Affiliation	Mississippi State	Bulldogs
+89	School	Clewiston HS
+92	Date of birth	March 17, 1933
+92	Birthplace	Antlers, Oklahoma
+92	Other name	David Andrew Powell
+92	Occupation	regional and district manager
+92	Affiliation	Boday Oil Co.	Pioneer Texas Oil Co.
+92	Relatives	Ardith	Shawn	Todd	David Jr.	Linda Smith	Barbara Babe	Davine Ford	Tara Powell	Ted	Neal	Mamie Thorburn
+93	Occupation	consultant psychotherapist	honorary senior lecturer	Chair
+93	Affiliation	Warneford Hospital	University of Oxford	Spirituality and Psychiatry Special Interest Group, Royal College of Psychiatrists	Royal College of Psychiatrists
+93	Location	Royal College of Psychiatrists, 17 Belgrave Square, London SW1X 8PG
+93	Email	AndrewSPowell@compuserve.com
+94	Relatives	Madelean Powell
+95	Occupation	Principal Lecturer
+95	Affiliation	Education	Kingston University	Faculty of Arts and Social Sciences
+95	Location	KH-243	Kingston University Penrhyn Road Kingston upon Thames Surrey KT1 2EE
+95	Phone	65095	+44 (0)20 8547 2000
+95	Email	A.Powell@kingston.ac.uk
+98	Work	Tales of Mystery and Imagination
+99	Relatives	Emily Powell Dreisbach	Emily Powell	Emily POWELL	Phoebe Ann Yates	Emily

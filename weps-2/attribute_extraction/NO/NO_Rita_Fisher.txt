@@ -1,0 +1,13 @@
+2	Foreign Language
+19	No Value
+25	No Value
+26	Foreign Language
+41	Foreign Language
+45	No Value
+90	No Value
+102	No Value
+103	No Value
+104	No Value
+116	No Value
+130	No Value
+145	No Value

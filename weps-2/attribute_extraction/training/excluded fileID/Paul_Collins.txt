@@ -1,0 +1,51 @@
+0	No Name
+1	Not Found
+3	No Name	No Text	
+4	Multiple Targets
+7	No Name
+9	No Value
+11	Multiple Targets
+13	Not Found
+14	Non Person	Paul Collins Garden	
+19	No Value
+20	Search Results	amazon.com	
+21	more than one Paul
+23	no value
+25	search result
+26	name of things
+27	search result
+28	no value
+30	no name
+31	more than one Paul
+36	name of things
+38	more than one Paul
+39	search result
+40	name of things
+42	more than one Paul
+43	no name
+48	more than one Paul
+49	no string
+50	more than one Paul
+55	no name
+56	more than one Paul
+57	name of things
+59	more than one Paul
+60	search result
+61	search result
+64	more than one Paul
+65	name of things
+66	no name
+67	name of things
+71	no name
+72	more than one Paul
+75	search result
+76	no value
+77	name of things
+81	name of things
+82	name of things
+83	name of things
+84	search result
+87	no value
+88	no name
+89	no value
+95	no name

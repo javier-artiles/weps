@@ -1,0 +1,214 @@
+0	Date of birth	7 July 1941
+0	Birthplace	Gorseinon, Wales
+0	Occupation	QC	MP	politician	Secretary	President	Chairman	Queen's Counsel	Parliamentary Under-Secretary of State	Secretary of State	Shadow Foreign Secretary	Shadow Chancellor	Leader	leader	party leader	Member of Parliament	Shadow Chancellor of the Exchequer	Leaders 	Rt Hon
+0	Affiliation	Conservative Party	Cambridge Union Society	Cambridge Mafia	Inner Temple	Bow Group	board of the cross-party Britain in Europe group	Department of Trade and Industry	House of Commons	Cabinet	Shadow Cabinet	Parliament	Environment	Conservative	British Conservative Party	Home
+0	Award	2003 Parliamentarian of the Year
+0	School	Llanelli Grammar School	Peterhouse, Cambridge
+0	Major	Law	Economics
+0	Nationality	British
+0	Relatives	Bernard Hecht	Hilda Kershion	Sandra Paul	Nicholas	Larissa
+2	Affiliation	Michael Howard Studios
+2	Phone	212/645-1525
+2	Email	information@michaelhowardstudios.com
+3	Occupation	QC	MP	Rt Hon
+6	Other name	Lee Michael Howard
+6	Occupation	Singer	Songwriter	Guitarist
+7	Occupation	scholarship student	paratrooper	Founder	Director
+7	Affiliation	Michael Howard Studios	Neighborhood Playhouse	101st airborne	Equity	Actor's Studio	Juilliard
+7	Mentor	Sanford Meisner	Lee Strasberg
+7	Location	New York
+8	Phone	806-793-2465
+8	FAX	806-793-2465
+10	Date of birth	31 July 1969	July 1969
+10	Birthplace	Newark, New Jersey, USA	Newark, New Jersey
+10	Other name	Shawn Michael Howard	Shawn	Shawn M. Howard
+10	Occupation	Actor
+10	Work	Extreme Dating	NYPD Blue	It's to Die For	Top Gum	Victor and Eddie	The Pitts	VW Bug	A Bug's Wife	Masked and Anonymous	The Rats	Becker	Nocturnal Omissions	3000 Miles to Graceland	Boycott	Men of Honor	The PJs	The Last Affirmative Action Hero	Cliffhangin' with Mr. Super	Robbin' HUD	The Jeffersons	What's Eating Juicy Hudson	Ritual	It's Like, You Know...	Hoop Dreams	Cupid	Hung Jury	Ally McBeal	You Never Can Tell	It's My Party	Martial Law	Shanghai Express	The Velocity of Gary	Thursday	Smart Guy	My Two Dads	The Practice	Another Day	In Deep	Pilot	Mr. Show with Bob and David	Mr. Show	Oh, You Men	413 Hope St.	A Better Place	Plump Fiction	The Single Guy	Vegas Finale	Au Pair	Johnny Hollywood	Grandfather Clause	Big Baby	Nash Bridges	Bridges	Trackdown	Skirt Chasers	The Cable Guy	Sunset Park	Flirting with Disaster	Married with Children	Spring Break: Part 2	Spring Break: Part 1	Above the Rim	Law & Order	Law & Order Prime	Profile
+13	Occupation	leader
+13	Affiliation	Tory
+14	Occupation	QC	MP	Rt Hon
+15	Occupation	MP
+18	Date of birth	7 July 1941
+18	Occupation	MP	Leader	Shadow Chancellor	Cabinet minister	Secretary
+18	Affiliation	Conservative	Conservative Party	Cambridge mafia	Home
+18	Phone	020 7219 5383
+18	Email	howardm@parliament.uk
+19	Work	The Security Development Lifecycle
+19	Mentor	Steve Lipner
+20	Occupation	Senior Security Program Manager
+20	Affiliation	Microsoft	Secure Windows Initiative team	Secure Windows Initiative group at Microsoft
+20	Work	Writing Secure Code	Designing Secure Web-based Applications for Windows 2000
+24	Other name	J. Michael Howard
+26	Occupation	Secretary	Conservative
+26	Affiliation	Parliament	Home Office	Home
+26	School	Cambridge University
+26	Relatives	Bernat Hecht	Sandra Paul	Sandra
+27	Phone	912 375-0930
+27	Email	mhoward@altamaha.net
+28	Birthplace	Bulawayo, Zimbabwe, Africa
+28	Work	TALES of an AFRICAN INTERCESSOR	PROVEN ARROWS OF INTERCESSION	RECKLESSLY ABONDONED	THE PERVERTED GOSPEL	The PRICE of DISOBEDIENCE
+28	Location	Sudan
+29	Occupation	editor
+30	Work	Midnight Mars Browser
+33	Date of birth	1941
+33	Occupation	QC	MP	Rt Hon	Member of Parliament	President	Parliamentary Private Secretary to the Solicitor General	Parliamentary Under Secretary of State	Minister of State	Home Secretary	Shadow Foreign Secretary	Shadow Chancellor	Leader
+33	Affiliation	Parliament	Cambridge Union	Department of Trade	Department of the Environment	Employment	Conservative Party
+33	School	Llanelli Grammar School	Peterhouse, Cambridge
+33	Location	House of Commons, London, SW1A 0AA.
+33	Phone	01303 253524
+33	FAX	01303 251061
+33	Email	howardm@parliament.uk
+33	Web site	http://michaelhowardmp.com
+34	Occupation	Author
+34	Work	Franco-Prussian War: The German Invasion of France 1870-1871, Revised Edition
+36	Occupation	painter
+36	Location	Milwaukee
+37	Other name	J. Michael Howard
+38	Occupation	MPs	Member of Parliament
+38	Affiliation	Parliament	Conservative
+38	Location	Folkestone and Hythe Conservative Association 4 Westcliff Gardens Folkestone Kent CT20 1SP	Liberal Democrat target 167 Labour target 262
+38	Phone	020 7219 5383	01303 253524
+38	FAX	020 7219 5322	01303 251061
+38	Email	howardm@parliament.uk
+39	Occupation	secretary	barrister	QC
+39	Affiliation	Tory	Cambridge Mafia	Commons	home
+39	School	Llanelli grammar school
+39	Relatives	Saundra Paul
+40	Date of birth	7 July 1941
+40	Birthplace	Gorseinon, South Wales
+40	Occupation	Politician	President	QC	Recorder	chairman	MP	Secretary of State	Home Secretary	shadow Foreign Secretary	Shadow Chancellor	leader
+40	Affiliation	Young Conservatives	Bow Group	DTI	DoE	Employment	Environment	Conservative Party	Home Office	Union
+40	School	Llanelli Grammar School	Peterhouse College, Cambridge
+40	Relatives	Sandra Clare Paul	Sandra
+42	Date of birth	1941
+42	Birthplace	south Wales
+42	Occupation	QC	secretary	planning lawyer	MP	shadow chancellor
+42	Affiliation	Home Office	Tories	Union	Cambridge mafia	Tory	home
+42	School	Llanelli Grammar School	Cambridge
+42	Relatives	Sandra Paul
+43	Date of birth	July 7, 1941
+43	Birthplace	Llanelli, Wales
+43	Occupation	politician	leader	Secretary	President	barrister	QC	Parliamentary Under-Secretary of State	Minister	Secretary of State	Shadow Chancellor
+43	Affiliation	Parliament of the United Kingdom	Conservative Party	Tory	Cambridge Union	Department of Trade and Industry	Employment	Environment	Home Department	Home
+43	Award	Parliamentarian of the Year
+43	School	Peterhouse, Cambridge
+43	Nationality	UK
+43	Relatives	Sandra Paul	Nicholas	Larissa
+44	Occupation	leader
+44	Affiliation	Conservative Party	Conservatives
+45	Occupation	Performer	Director
+45	Work	The Country Girl	Third Best Sport
+47	Occupation	MP
+47	Affiliation	CONSERVATIVE	Conservatives	Conservative	CONSERVATIVE PARTY
+50	Occupation	leader
+50	Affiliation	Conservative Party	Troy
+51	Date of birth	18 February 1978
+51	Birthplace	San Antonio, Texas, USA
+51	Occupation	Director	Writer	Actor	Cinematographer	Editor	Composer	Producer	camera operator	script supervisor
+51	Work	Suicide Run	Nemesis Rising: The Airband	Lost	Reality of Life	Pushed
+52	Occupation	military historian
+52	Nationality	British
+54	Date of birth	1941
+54	Occupation	politician	leader
+54	Affiliation	Conservative party
+54	Nationality	British
+56	Date of birth
+56	Birthplace
+56	Other name	Michael W. Howard
+56	Occupation	MD	Dr.	Pediatrician
+56	School	University Alabama School Med
+56	Degree	MD	Dr.
+56	Location	Louisville, Kentucky	KY	6400 Dutchmans Parkway Louisville, Kentucky (KY)
+57	Date of birth	1922
+57	Other name	Michael Eliot Howard
+57	Occupation	Author	Professor	author
+57	Affiliation	Oxford	Yale
+57	Work	The Invention of Peace	Die Erfindung des Friedens
+58	Other name	Howard, Michael
+58	Occupation	Author
+58	Work	Clausewitz: A Very Short Introduction
+60	Occupation	top security official
+60	Affiliation	Microsoft
+61	Date of birth	July 5th
+61	Occupation	Democrat
+61	Location	Canyon Lake, CA
+62	Occupation	leader	lawyer	cabinet secretary
+62	Affiliation	Conservative Party	Tories	Conservatives
+63	Other name	Dracula
+64	Occupation	Acting Teacher
+64	Affiliation	Michael Howard Studios
+64	Location	NYC
+65	Occupation	Senior Lecturer	artist	External examiner	Visiting Professor	Producer	director	Consultant	co-curator
+65	Affiliation	History of Art and Design	Christies Education, Modern Art Studies Programme	Righton Press	Critical Theory, Lafayette College	Manchester Metropolitan University
+65	Work	The Yellow Wallpaper	Degas and the Dance	Degas: an Old Man Mad About Art
+65	Award	Peabody award
+65	School	Newcastle Upon Tyne Polytechnic	Courtauld Institute of Art
+65	Major	History of Modern Art and Design	Art History
+65	Degree	BA	MA
+65	Location	Pennsylvania, USA
+65	Phone	0161 247 1940	+44 (0)161 247 1705
+65	Email	m.j.howard@mmu.ac.uk	artdes.fac@mmu.ac.uk
+66	Other name	Michael K. Howard
+66	Occupation	Senior vice president	senior vice president	systems consultant	consulting manager
+66	Affiliation	professional services group, Danka Business Systems	client solutions, Gartner Inc.	professional services at Danka Business Systems	Danka	General Electric's financial management training program	Price Waterhouse	Gartner Inc.	Gartner	Xerox Corp.	client solutions division
+66	School	Princeton University
+66	Major	economics
+66	Degree	bachelor's degree
+66	Location	Rochester, N.Y.	St. Petersburg
+67	Occupation	Senior Security Program Manager	co-editor
+67	Affiliation	Microsoft Security Engineering	Secure Engineering group at Microsoft
+67	Work	Writing Secure Code	Designing Secure Web-based Applications for Windows 2000
+68	Other name	Howard-racula
+68	Affiliation	Tory
+69	Occupation	MP	leader
+69	Affiliation	Conservative Party
+72	Occupation	author	historian
+72	Work	The Invention of Peace
+73	Occupation	leader	Secretary
+73	Affiliation	Conservative	Home
+75	Occupation	leader	Secretary
+75	Affiliation	British Conservative Party	Conservatives	Conservative Party	House of Commons	Home
+76	Occupation	historian
+76	Work	The Invention of Peace
+78	Occupation	leader
+78	Affiliation	British Conservative
+80	Occupation	CEO
+80	Location	South Africa
+81	Occupation	Members of Parliament	MP
+81	Affiliation	Parliament	Conservative Party	Conservative
+81	Location	United Kingdom
+83	Occupation	leader
+83	Affiliation	Tory	Conservative
+84	Birthplace	Llanelli in Wales
+84	Occupation	Members of Parliament	leader	Secretary	Member of Parliament	government minister	lawyer	QC
+84	Affiliation	Parliament	Conservative Party	House of Commons	Upper House in the British Parliament	Tories	Home
+84	Location	UK
+84	Relatives	Bernard Hecht	Hilda Kershion
+86	Occupation	leader
+86	Affiliation	Conservative Party
+88	Occupation	MP	leader	minister	QC	secretary	member of parliament	government minister	secretary of state	minister
+88	Affiliation	Conservative	Commons	Tories	parliament	employment	environment	home
+89	Affiliation	Conservative Party	UK Conservative party
+89	Location	Uk	United Kingdom
+90	Occupation	security program manager	Author
+90	Affiliation	Microsoft Windows XP team
+90	Work	Writing Secure Code, Second Edition	Designing Secure Web-Based Applications for Microsoft Windows 2000
+91	Occupation	leader
+91	Affiliation	Conservative
+92	Occupation	Principal analyst	co-founder
+92	Affiliation	Infonetics Research
+92	School	University of California at Berkeley	UC-Berkeley
+92	Major	Mathematics
+92	Degree	B.S.
+92	Location	Santa Rosa, Calif.	northern California
+93	Occupation	MP
+95	Occupation	MPs	Rt Hon	Secretary	MP	Leader	Shadow Chancellor	Shadow Foreign Secretary	QC	Member of Parliament
+95	Affiliation	Conservative	Parliament	Conservative Party	Home
+95	Location	Europe	United Kingdom
+96	Other name	Michael Howard Jr.
+96	Occupation	speaker	musician
+96	Birthplace	Richmond, VA
+97	Affiliation	CONSERVATIVE PARTY	Conservative Party
+97	Location	Britain
+99	Occupation	leader	Minister
+99	Affiliation	Conservative	Conservative party	Local Government
