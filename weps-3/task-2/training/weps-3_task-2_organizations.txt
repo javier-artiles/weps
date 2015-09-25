@@ -1,0 +1,53 @@
+queryTerm	Entity	lang	homepage	jsonFile 
+alcatel	alcatel	English	http://www.alcatel-mobilephones.com/	alcatel-1271731540067.json
+Amadeus	Amadeus_IT_Group 	English	http://www.amadeus.com	Amadeus-1271695434881.json
+Apollo	Apollo Hospitals 	English	http://www.apollohospitals.com/	Apollo-1271696980797.json
+armani	armani	English	http://www.giorgioarmani.com/	armani-1271730635443.json
+barclays	barclays	English	http://group.barclays.com/Home	barclays-1271731847094.json
+BART	BART 	English	http://www.bart.gov/	BART-1271723682786.json
+bayer	bayer	English	http://www.bayer.com/en/homepage.aspx	bayer-1271729470880.json
+Blockbuster	Blockbuster Inc. 	English	http://www.Blockbuste.com	Blockbuster-1271698754005.json
+Boingo	Boingo (Wifi for travelers)	English	http://www.boingo.com	Boingo-1271699342861.json
+bulldog	Bulldog Solutions	English	http://www.bulldogsolutions.com/	bulldog-1271723024754.json
+cadillac	cadillac	English	http://www.cadillac.com/	cadillac-1271730975776.json
+Craft	Craft Magazine	English	http://craftzine.com/	Craft-1271722687948.json
+Delta	Delta Holding 	English	http://www.deltaholding.rs	Delta-1271700562503.json
+dunlop	dunlop 	English	http://www.dunloptires.com/	dunlop-1271731290627.json
+Edmunds	Edmunds.com	English	http://www.edmunds.com/	Edmunds-1271701568854.json
+elf	Elf corporation	English	http://en.wikipedia.org/wiki/ELF_Corporation	elf-1271727368655.json
+Emperor	Emperor Entertainment Group	English	http://www.emp8078.com/eng/	Emperor-1271726531306.json
+fender	fender	English	http://www.fender.com/	fender-1271719029190.json
+folio	Folio_Corporation	English	http://en.wikipedia.org/wiki/Folio_Corporation	folio-1271728746033.json
+Foxtel 	Foxtel 	English	http://www.foxtel.com.au	Foxtel-1271702061701.json
+Fujitsu 	Fujitsu 	English	http://www.fujitsu.com	Fujitsu-1271702585757.json
+Harpers	Harpers	English	http://harpers.org/	Harpers-1271266797810.json
+Impulse	Impulse (Records )	English	http://en.wikipedia.org/wiki/Impulse!_Records	Impulse-1271703947207.json
+lamborghini	lamborghini	English	http://www.lamborghini.com	lamborghini-1271729822277.json
+linux	linux	English	http://www.linux.com/	linux-1271732433085.json
+Liquid	Liquid Entertainment	English	http://www.liquidentertainment.net/	Liquid-1271726979048.json
+Lufthansa	Lufthansa	English	http://www.lufthansa.com	Lufthansa-1271734281276.json
+Luxor	Luxor Hotel and Casino	English	http://www.luxor.com/	Luxor-1271715486210.json
+Lynx	LYNX Express 	English	http://www.lynx.co.uk/	Lynx-1271706415024.json
+Mack 	Mack Group 	English	http://www.mackgroup.org/	Mack-1271707109284.json
+Magnum	Magnum Research 	English	http://www.magnumresearch.com/	Magnum-1271707609797.json
+Mandalay	Mandalay Bay Resort and Casino	English	http://www.mandalaybay.com	Mandalay-1271714088192.json
+Marriott	Marriott International	English	http://www.marriott.com	Marriott-1271713730659.json
+Marvel	Marvel comics	English	http://marvel.com/	Marvel-1271718382238.json
+mdm	mdm (Event agency)	English	http://www.mdmltd.com/	mdm-1271723310121.json
+MEP	MEP	English	http://www.mepgroup.com/en/	MEP-1271722296110.json
+Mercedes	Mercedes-Benz 	English	http://www.mercedes-benz.com	Mercedes-1271708881119.json
+Mercer	Mercer consulting 	English	http://www.mercer.com/home.htm	Mercer-1271709444628.json
+MGM	MGM Grand Hotel and Casino	English	http://www.mgmgrand.com	MGM-1271720626954.json
+MTA	MTA Bike Plus (NYC)	English	http://www.citizenbike.com/mta_metrobike_by_citizen_bike.asp	MTA-1271365706294.json
+nikon	nikon	English	http://www.nikon.com/	nikon-1271730303229.json
+nordic	Nordic Airways	English	http://en.wikipedia.org/wiki/Nordic_Airways	nordic-1271725293626.json
+philips	philips	English	http://www.usa.philips.com/index.page	philips-1271729068618.json
+pierce	pierce manufacturing	English	http://www.piercemfg.com	pierce-1271724944254.json
+pioneer	Pioner Company	English	http://www.pioneerelectronics.com/PUSA/	pioneer-1271716848666.json
+Renaissance	Renaissance Technologies 	English	http://www.renfund.com/vm/index.vm	Renaissance-1271711219697.json
+Renault	Renault	English	http://www.renault.com/	Renault-1271733593242.json
+Rover	Land Rover	English	http://www.landrover.com	Rover-1271717220180.json
+shin	shin corporation	English	http://www.shincorp.com/IR/templateIRen.asp	shin-1271726116696.json
+Smarter	Smarter Travel	English	http://www.smartertravel.com	Smarter-1271721357334.json
+Southwest	Southwest Airlines	English	http://www.southwest.com	Southwest-1271721002853.json
+Yamaha	Yamaha	English	http://www.yamaha.com/	Yamaha-1271735118960.json

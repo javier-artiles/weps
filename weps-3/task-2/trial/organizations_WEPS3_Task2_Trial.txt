@@ -1,0 +1,24 @@
+Best Buy	best buy	English	Online-shopping	http://www.bestbuy.com/	best buy-1265106182066.json
+Borders bookstore	borders	English	bookstore	http://www.borders.com	borders-1264777494359.json
+Renfe Cercanías	cercanias	Spanish	commuter train service	http://www.renfe.es/cercanias/	cercanías-1266237131271.json
+CME group	cme	English	Financial group	http://www.cmegroup.com/	cme-1264776681356.json
+Cuatro 	cuatro	Spanish	TV chanel	http://www.cmegroup.com/	cuatro-1266237058724.json
+Delta Airlines	delta	English	Airline	http://www.delta.com	delta-1265293989411.json
+Dunkin Donuts	dunkin	English	Food	https://www.dunkindonuts.com/	dunkin-1264776399324.json
+Ford Motor	ford	English	Motor	http://www.ford.com/	ford-1265293860076.json
+GAP	gap	English	Clothing store	http://www.gap.com/	gap-1265294508838.json
+El hormiguero	hormiguero	Spanish	TV program	http://www.cuatro.com/el-hormiguero/	hormiguero-1266236785561.json
+Leap frog	leapfrog	English	toys	http://www.leapfrog.com/en/shop.html	leapfrog-1265106892831.json
+Lennar	lennar	English	home builder	http://www.lennar.com/	lennar-1264776185339.json
+Real madrid	madrid	Spanish	Soccer team	http://www.realmadrid.com/	madrid-1266236907081.json
+Opera	opera	English	Sofstware	http://www.opera.com/	opera-1265106611243.json
+Overstock	overstock	English	Online-shopping	http://www.overstock.com/	overstock-1265294314292.json
+El País	pais	Spanish	Newspaper	http://www.elpais.com/	pais-1266237291999.json
+Palm	palm	English	Mobile products	http://www.palm.com/	palm-1265106320581.json
+El Pozo	pozo	Spanish	Food	http://www.elpozo.com/	pozo-1266237409194.json
+Research in motion	rim	English	Mobile products	http://www.rim.com/	rim-1264776921460.json
+Southwest Arilines	southwest	English	Airline	http://www.southwest.com/	southwest-1264776082090.json
+Sprint	sprint	English	Mobile products	http://www.sprint.com/	sprint-1265106765524.json
+TAM airlines	tam	English	Airline	http://www.tam.com.br	tam-1264777227653.json
+Warner Bros	warner	English	Films	http://www.warnerbros.com/	warner-1264777835546.json
+

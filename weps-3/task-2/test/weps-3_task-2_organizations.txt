@@ -1,0 +1,48 @@
+queryTerm	Entity	lang	homepage	jsonFile 
+Amazon	Amazon.com 	English	http://www.Amazon.com	Amazon-1271696004828.json
+apache	apache	English	http://www.apache.org/	apache-1273593070271.json
+Apple	Apple	English	http://www.apple.com	Apple-1271714981462.json
+Blizzard	Blizzard Entertainment	English	http://www.blizzard.com	Blizzard-1271697804472.json
+camel	camel	English	http://es.wikipedia.org/wiki/Camel_(tabaco)	camel-1273583971604.json
+canon	Canon inc.	English	http://www.usa.canon.com/home	canon-1273582235438.json
+Cisco	Cisco Systems	English	http://www.cisco.com/	Cisco-1273582645445.json
+CVS 	CVS/pharmacy 	English	http://www.cvs.com/	CVS-1271700031373.json
+Denver	Denver Nuggets	English	http://www.nba.com/nuggets/	denver-1274099041841.json
+Deutsche	Deutsche Bank	English	http://es.wikipedia.org/wiki/Deutsche_Bank	Deutsche-1271725703093.json
+emory	Emory University	English	http://www.emory.edu/	emory-1274087877305.json
+ford	Ford Motor Company 	English	http://www.ford.com	ford-1273587296106.json
+fox 	fox channel	English	http://www.fox.com/	fox-1273585685353.json
+friday's	friday's	English	http://www.tgifridays.com/	friday's-1273592233029.json
+Gibson	Gibson	English	http://www.gibson.com	Gibson-1271719437124.json
+GM	General Motors	English	http://www.gm.com/	GM-1271720221867.json
+jaguar	Jaguar Cars Ltd.	English	http://www.jaguar.com/	jaguar-1273586440904.json
+jfk	John F. Kennedy International Airport	English	http://www.panynj.gov/airports/jfk.html	jfk-1273598362139.json
+johnnie	Johnnie Walker	English	http://www.johnniewalker.com/	johnnie-1273590124799.json
+kiss	kiss band	English	http://www.kissonline.com/	kiss-1273595657516.json
+Lexus	Lexus 	English	http://www.lexus.com/	Lexus-1271705186675.json
+Liverpool	Liverpool FC	English	http://www.liverpoolfc.tv/	liverpool-1274873091661.json
+Lloyd 	Lloyds Banking Group 	English	http://www.lloydsbankinggroup.com/	Lloyd-1271705859058.json
+mac	macintosh	English	http://www.apple.com/mac/	mac-1271718749057.json
+McDonald's	McDonald's	English	http://www.mcdonalds.com	McDonald's-1273594126968.json
+McLaren	McLaren Group 	English	http://mclaren.com/	McLaren-1271708355495.json
+Metro	Metro supermarket	English	http://www.metro.ca/corpo/profil-corpo/alimentaire/metro.en.html	Metro-1271710083317.json
+Milan	A.C. Milan	English	http://www.acmilan.com/	milan-1274873398017.json
+MTV	MTV	English	http://www.mtv.com/	MTV-1271735442164.json
+muse	muse band	English	http://muse.mu/	muse-1273596529613.json
+oracle	Oracle 	English	http://www.oracle.com/index.html	oracle-1273583081046.json
+Orange	Orange 	English	http://www.orange.com/en_EN/	Orange-1271710644234.json
+Paramount	Paramount Group 	English	http://www.paramount-group.com/	Paramount-1271717604023.json
+Roma	A.S. Roma	English	http://www.asroma.it/	roma-1274872793600.json
+scorpions	scorpions	English	http://www.the-scorpions.com/english/	scorpions-1273594991456.json
+seat	seat	English	http://www.seat.com	seat-1271719814857.json
+sharp	Sharp Corporation	English	http://www.sharp.eu	sharp-1273588375954.json
+sonic	sonic.net	English	http://sonic.net/	sonic-1271724078809.json
+sony	sony	English	http://www.sony.com/	sony-1271733314963.json
+stanford	Stanford Junior University	English	http://www.stanford.edu/	stanford-1274087623711.json
+Starbucks	Starbucks	English	http://www.starbucks.com/	Starbucks-1271734629927.json
+subway	subway	English	http://www.subway.com	subway-1273589378370.json
+tesla	Tesla Motors	English	http://www.teslamotors.com/	tesla-1273597437022.json
+US	US_Airways	English	http://www.usairways.com/	US-1271728386277.json
+Virgin	Virgin Media 	English	http://www.virginmedia.com	Virgin-1271712199462.json
+Yale	Yale University	English	http://www.yale.edu/	Yale-1274087309958.json
+zoo	Zoo Entertainment	English	http://en.wikipedia.org/wiki/Zoo_Entertainment	zoo-1271724511418.json
