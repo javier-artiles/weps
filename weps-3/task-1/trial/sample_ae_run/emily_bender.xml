@@ -1,0 +1,259 @@
+<clustering searchString="EMILY BENDER">
+  <entity id="1">
+    <documents>
+      <doc rank="62" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="62">Pianist</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="92" />
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="92">SOPRANO</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="18">612.483.4300</attr>
+      <attr type="email" source="18">Benderemily@mac.com</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="67" />
+      <doc rank="78" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="89" />
+      <doc rank="108" />
+      <doc rank="84" />
+    </documents>
+    <attributes>
+      <attr type="work" source="89">James and the Giant Peach</attr>
+      <attr type="occupation" source="89">Elementary school students</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="61" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="61">Victory Boulevard</attr>
+      <attr type="location" source="61">Ohio</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="76" />
+      <doc rank="90" />
+      <doc rank="5" />
+      <doc rank="70" />
+      <doc rank="140" />
+      <doc rank="27" />
+      <doc rank="51" />
+      <doc rank="15" />
+      <doc rank="96" />
+      <doc rank="39" />
+      <doc rank="22" />
+      <doc rank="132" />
+      <doc rank="136" />
+      <doc rank="58" />
+      <doc rank="48" />
+      <doc rank="14" />
+      <doc rank="95" />
+      <doc rank="36" />
+      <doc rank="49" />
+      <doc rank="66" />
+      <doc rank="33" />
+      <doc rank="99" />
+      <doc rank="21" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="76">author</attr>
+      <attr type="affiliation" source="76">Hawthorn Health and Nutrition Institute</attr>
+      <attr type="email" source="90">Emily@gourmelping.com</attr>
+      <attr type="major" source="5">French</attr>
+      <attr type="degree" source="5">M.A</attr>
+      <attr type="school" source="5">San Francisco State University</attr>
+      <attr type="relatives" source="5">Abraham</attr>
+      <attr type="work" source="5">Our Bodies, Ourselves</attr>
+      <attr type="location" source="27">Fairfax</attr>
+      <attr type="phone" source="15">415-259-4471</attr>
+      <attr type="website" source="39">http://www.gourmelping.com</attr>
+      <attr type="birthplace" source="36">Norrn Californa</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="59" />
+      <doc rank="101" />
+    </documents>
+    <attributes>
+      <attr type="work" source="59">Sepia Turtle</attr>
+      <attr type="occupation" source="59">printmaker</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="25" />
+      <doc rank="6" />
+      <doc rank="82" />
+      <doc rank="121" />
+      <doc rank="19" />
+      <doc rank="1" />
+      <doc rank="106" />
+      <doc rank="128" />
+      <doc rank="114" />
+      <doc rank="28" />
+      <doc rank="20" />
+      <doc rank="53" />
+      <doc rank="111" />
+      <doc rank="4" />
+      <doc rank="69" />
+      <doc rank="52" />
+      <doc rank="139" />
+      <doc rank="68" />
+      <doc rank="57" />
+      <doc rank="116" />
+      <doc rank="91" />
+      <doc rank="104" />
+      <doc rank="47" />
+      <doc rank="54" />
+      <doc rank="85" />
+      <doc rank="145" />
+      <doc rank="7" />
+      <doc rank="141" />
+      <doc rank="79" />
+      <doc rank="120" />
+      <doc rank="88" />
+      <doc rank="46" />
+      <doc rank="24" />
+      <doc rank="107" />
+      <doc rank="73" />
+      <doc rank="3" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="6">AB</attr>
+      <attr type="affiliation" source="6">Computer Science &amp; Engineering</attr>
+      <attr type="school" source="6">University of California Berkeley</attr>
+      <attr type="major" source="6">Linguistics</attr>
+      <attr type="occupation" source="6">Adjunct Assistant Professor</attr>
+      <attr type="location" source="6">Greater Seattle Area</attr>
+      <attr type="othername" source="121">Bender Emily M</attr>
+      <attr type="mentor" source="121">Ivan Sag</attr>
+      <attr type="email" source="28">turing@cs.washington.edu</attr>
+      <attr type="work" source="104">Syntactic Theory: A Formal Introduction</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="71" />
+      <doc rank="97" />
+      <doc rank="60" />
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="71">Duluth Ga</attr>
+      <attr type="occupation" source="71">SR</attr>
+      <attr type="affiliation" source="71">Berry</attr>
+      <attr type="location" source="60">2277 Martha Berry Hwy NW ? Mount Berry, GA 30149</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="77" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="77">Assistant Director</attr>
+      <attr type="othername" source="77">Emily J. Bender</attr>
+      <attr type="work" source="77">MOTHERlands</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="location" source="109">Flourtown</attr>
+      <attr type="occupation" source="109">juniors</attr>
+      <attr type="affiliation" source="109">Mount Saint Joseph Academy</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="125" />
+      <doc rank="64" />
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="email" source="125">emily@mutualhousing.com</attr>
+      <attr type="occupation" source="125">Community Organizer</attr>
+      <attr type="phone" source="125">916.453.8400 (ext. 42)</attr>
+      <attr type="affiliation" source="125">Sacramento Mutual Housing Association</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="35" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="35">Juniors</attr>
+      <attr type="affiliation" source="35">Assumption High School</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="63" />
+      <doc rank="2" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="93">DVFA</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="110">Danny</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="40" />
+      <doc rank="34" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="40">James and Amy Bender</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="11" />
+      <doc rank="98" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="98">Lee-Ann</attr>
+      <attr type="birthplace" source="98">Cleveland Ohio</attr>
+      <attr type="affiliation" source="98">BYU</attr>
+    </attributes>
+  </entity>
+</clustering>

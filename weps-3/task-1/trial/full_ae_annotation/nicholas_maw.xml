@@ -1,0 +1,859 @@
+<clustering searchString="NICHOLAS MAW">
+  <entity id="1">
+    <documents>
+      <doc rank="22" />
+      <doc rank="71" />
+      <doc rank="52" />
+      <doc rank="51" />
+      <doc rank="68" />
+      <doc rank="105" />
+      <doc rank="98" />
+      <doc rank="90" />
+      <doc rank="75" />
+      <doc rank="32" />
+      <doc rank="74" />
+      <doc rank="47" />
+      <doc rank="99" />
+      <doc rank="103" />
+      <doc rank="94" />
+      <doc rank="44" />
+      <doc rank="92" />
+      <doc rank="38" />
+      <doc rank="83" />
+      <doc rank="24" />
+      <doc rank="82" />
+      <doc rank="9" />
+      <doc rank="18" />
+      <doc rank="77" />
+      <doc rank="58" />
+      <doc rank="96" />
+      <doc rank="42" />
+      <doc rank="27" />
+      <doc rank="84" />
+      <doc rank="59" />
+      <doc rank="66" />
+      <doc rank="55" />
+      <doc rank="109" />
+      <doc rank="67" />
+      <doc rank="16" />
+      <doc rank="63" />
+      <doc rank="19" />
+      <doc rank="61" />
+      <doc rank="95" />
+      <doc rank="73" />
+      <doc rank="35" />
+      <doc rank="93" />
+      <doc rank="57" />
+      <doc rank="72" />
+      <doc rank="56" />
+      <doc rank="31" />
+      <doc rank="40" />
+      <doc rank="3" />
+      <doc rank="30" />
+      <doc rank="100" />
+      <doc rank="97" />
+      <doc rank="10" />
+      <doc rank="43" />
+      <doc rank="26" />
+      <doc rank="4" />
+      <doc rank="91" />
+      <doc rank="86" />
+      <doc rank="2" />
+      <doc rank="101" />
+      <doc rank="21" />
+      <doc rank="65" />
+      <doc rank="62" />
+      <doc rank="54" />
+      <doc rank="12" />
+      <doc rank="88" />
+      <doc rank="112" />
+      <doc rank="60" />
+      <doc rank="87" />
+      <doc rank="33" />
+      <doc rank="107" />
+      <doc rank="20" />
+      <doc rank="41" />
+      <doc rank="48" />
+      <doc rank="80" />
+      <doc rank="81" />
+      <doc rank="29" />
+      <doc rank="45" />
+      <doc rank="106" />
+      <doc rank="110" />
+      <doc rank="39" />
+      <doc rank="15" />
+      <doc rank="53" />
+      <doc rank="111" />
+      <doc rank="36" />
+      <doc rank="25" />
+      <doc rank="102" />
+      <doc rank="78" />
+      <doc rank="1" />
+      <doc rank="11" />
+      <doc rank="34" />
+      <doc rank="70" />
+      <doc rank="13" />
+      <doc rank="14" />
+      <doc rank="46" />
+      <doc rank="85" />
+      <doc rank="108" />
+      <doc rank="6" />
+      <doc rank="8" />
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="work" source="71">Tango from Sophie&apos;s Choice</attr>
+      <attr type="work" source="71">Six Interiors for Tenor and Guitar</attr>
+      <attr type="work" source="71">Sophie&apos;s Choice</attr>
+      <attr type="work" source="71">Music of Memory</attr>
+      <attr type="work" source="71">Songs For Tenor and Guitar</attr>
+      <attr type="work" source="71">Six Interiors</attr>
+      <attr type="affiliation" source="52">Peabody Institute of Music</attr>
+      <attr type="occupation" source="52">composer</attr>
+      <attr type="nationality" source="52">British</attr>
+      <attr type="work" source="52">Sophie&apos;s Choice</attr>
+      <attr type="work" source="51">Concertante Variations on a Theme of Nicholas Maw</attr>
+      <attr type="work" source="68">Personae IV &amp; V</attr>
+      <attr type="work" source="68">La Vita Nuova</attr>
+      <attr type="work" source="68">Personae</attr>
+      <attr type="work" source="68">Scenes and Arias</attr>
+      <attr type="occupation" source="105">Composer</attr>
+      <attr type="work" source="105">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="98">Composers</attr>
+      <attr type="work" source="98">Nicholas Maw Odyssey . Dance Scenes</attr>
+      <attr type="work" source="90">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="90">composer</attr>
+      <attr type="nationality" source="90">British</attr>
+      <attr type="affiliation" source="75">Composition at the Peabody Conservatory</attr>
+      <attr type="affiliation" source="75">Composition Department</attr>
+      <attr type="occupation" source="75">faculty</attr>
+      <attr type="affiliation" source="75">Composition Department at Peabody</attr>
+      <attr type="affiliation" source="75">Composition</attr>
+      <attr type="occupation" source="75">Faculty</attr>
+      <attr type="affiliation" source="75">Peabody Composition Department</attr>
+      <attr type="nationality" source="32">British</attr>
+      <attr type="occupation" source="32">composer</attr>
+      <attr type="occupation" source="74">composer</attr>
+      <attr type="work" source="74">Sophie&apos;s Choice</attr>
+      <attr type="nationality" source="74">British</attr>
+      <attr type="occupation" source="47">composers</attr>
+      <attr type="work" source="47">Odyssey</attr>
+      <attr type="work" source="47">Night Thoughts</attr>
+      <attr type="occupation" source="99">composer</attr>
+      <attr type="dateofbirth" source="99">1935</attr>
+      <attr type="work" source="99">Lullaby for Orchestra</attr>
+      <attr type="work" source="99">The World in the Evening</attr>
+      <attr type="occupation" source="99">composers</attr>
+      <attr type="work" source="103">Sonata</attr>
+      <attr type="work" source="103">Curtis Macomber: Casting Ecstatic - Solo Works for Violin</attr>
+      <attr type="occupation" source="103">Composer(s)</attr>
+      <attr type="occupation" source="94">COMPOSERS</attr>
+      <attr type="work" source="94">Sophie&#65533;fs Choice</attr>
+      <attr type="occupation" source="44">composers</attr>
+      <attr type="work" source="44">String Quartet</attr>
+      <attr type="occupation" source="44">Composers</attr>
+      <attr type="work" source="92">Sophie&apos;s Choice</attr>
+      <attr type="location" source="92">America</attr>
+      <attr type="work" source="92">string sextet: for two violins, two violas, and two cellos</attr>
+      <attr type="nationality" source="92">British</attr>
+      <attr type="dateofbirth" source="92">1935</attr>
+      <attr type="work" source="92">Maw Sextet</attr>
+      <attr type="occupation" source="92">composer</attr>
+      <attr type="location" source="92">United States</attr>
+      <attr type="work" source="92">Melodies from Drama</attr>
+      <attr type="birthplace" source="38">Grantham, Lincolnshire, EC England, UK</attr>
+      <attr type="work" source="38">The Rising of the Moon</attr>
+      <attr type="work" source="38">One Man Show</attr>
+      <attr type="affiliation" source="38">Cambridge and Yale universities</attr>
+      <attr type="othername" source="38">(John) Nicholas Maw</attr>
+      <attr type="work" source="38">string quartets</attr>
+      <attr type="work" source="38">violin concerto</attr>
+      <attr type="work" source="38">Sophie&apos;s Choice</attr>
+      <attr type="affiliation" source="38">music at Milton Avery Graduate School of Arts, Bard College</attr>
+      <attr type="work" source="38">Music of Memory</attr>
+      <attr type="work" source="38">Violin Concerto</attr>
+      <attr type="occupation" source="38">Composer</attr>
+      <attr type="occupation" source="38">professor</attr>
+      <attr type="work" source="38">Spring Music</attr>
+      <attr type="work" source="38">Odyssey</attr>
+      <attr type="work" source="83">Sophie&apos;s Choice</attr>
+      <attr type="affiliation" source="24">Trinity College Cambridge</attr>
+      <attr type="school" source="24">Royal Academy of Music</attr>
+      <attr type="work" source="24">Ghost Dances</attr>
+      <attr type="mentor" source="24">Lennox Berkeley</attr>
+      <attr type="nationality" source="24">Britain</attr>
+      <attr type="occupation" source="24">composers</attr>
+      <attr type="work" source="24">American Games</attr>
+      <attr type="work" source="24">Dance Scenes</attr>
+      <attr type="work" source="24">Roman Canticle</attr>
+      <attr type="occupation" source="24">composer</attr>
+      <attr type="work" source="24">Flute Quartet</attr>
+      <attr type="work" source="24">Violin Concerto</attr>
+      <attr type="work" source="24">La Vita Nuova</attr>
+      <attr type="occupation" source="24">teacher</attr>
+      <attr type="work" source="24">Sophie&apos;s Choice</attr>
+      <attr type="mentor" source="24">Nadia Boulanger</attr>
+      <attr type="occupation" source="24">Professor</attr>
+      <attr type="work" source="24">Piano Trio</attr>
+      <attr type="mentor" source="24">Max Deutsch</attr>
+      <attr type="work" source="24">One Man Show</attr>
+      <attr type="birthplace" source="24">Grantham, Lincolnshire</attr>
+      <attr type="work" source="24">Hymnus/ Little Concert/ Shahnama</attr>
+      <attr type="work" source="24">The Rising of the Moon</attr>
+      <attr type="dateofbirth" source="24">1935</attr>
+      <attr type="affiliation" source="24">Yale University</attr>
+      <attr type="work" source="24">Odyssey</attr>
+      <attr type="work" source="24">Sonata Notturna/ Life Studies</attr>
+      <attr type="award" source="24">1980 Midsummer Prize of the City of London</attr>
+      <attr type="affiliation" source="24">Exeter University</attr>
+      <attr type="affiliation" source="24">Composition at the Peabody Conservatory</attr>
+      <attr type="work" source="24">Spring Music</attr>
+      <attr type="work" source="24">Scenes and Arias</attr>
+      <attr type="award" source="24">1959 Lili Boulanger Prize</attr>
+      <attr type="work" source="24">The World in the Evening</attr>
+      <attr type="mentor" source="24">Paul Steinitz</attr>
+      <attr type="award" source="24">1993 Stoeger Prize</attr>
+      <attr type="affiliation" source="82">composition at the Peabody Conservatory</attr>
+      <attr type="school" source="82">Royal Academy of Music</attr>
+      <attr type="occupation" source="82">professor</attr>
+      <attr type="work" source="82">concerto for English horn</attr>
+      <attr type="work" source="82">Trio</attr>
+      <attr type="nationality" source="82">British</attr>
+      <attr type="location" source="82">Baltimore</attr>
+      <attr type="work" source="82">Odyssey</attr>
+      <attr type="occupation" source="82">composer</attr>
+      <attr type="mentor" source="82">Max Deutsch</attr>
+      <attr type="occupation" source="82">composers</attr>
+      <attr type="mentor" source="82">Nadia Boulanger</attr>
+      <attr type="mentor" source="9">Max Deutsch</attr>
+      <attr type="dateofbirth" source="9">1935</attr>
+      <attr type="work" source="9">Scenes and Arias</attr>
+      <attr type="school" source="9">Royal Academy of Music</attr>
+      <attr type="work" source="9">The Rising of the Moon</attr>
+      <attr type="mentor" source="9">Nadia Boulanger</attr>
+      <attr type="nationality" source="9">English</attr>
+      <attr type="work" source="9">Life Studies</attr>
+      <attr type="nationality" source="9">British</attr>
+      <attr type="work" source="9">One Man Show</attr>
+      <attr type="work" source="9">Odyssey</attr>
+      <attr type="mentor" source="9">Lennox Berkeley</attr>
+      <attr type="work" source="9">Violin Concerto</attr>
+      <attr type="mentor" source="9">Paul Steinitz</attr>
+      <attr type="work" source="9">Personae</attr>
+      <attr type="work" source="9">Sophie&apos;s Choice</attr>
+      <attr type="location" source="9">Washington DC</attr>
+      <attr type="work" source="18">no. 3. Tacciono i boschi</attr>
+      <attr type="work" source="18">no. 1. Sonetto</attr>
+      <attr type="work" source="18">Neutral tones</attr>
+      <attr type="work" source="18">I look into my glass</attr>
+      <attr type="dateofbirth" source="18">1935</attr>
+      <attr type="occupation" source="18">Composer</attr>
+      <attr type="work" source="18">Sonetto</attr>
+      <attr type="work" source="18">no. 4. Madrigale</attr>
+      <attr type="work" source="18">At tea</attr>
+      <attr type="work" source="18">Il sogno</attr>
+      <attr type="work" source="18">La vita nuova</attr>
+      <attr type="work" source="18">Madrigale</attr>
+      <attr type="work" source="18">no. 5. Il sogno</attr>
+      <attr type="work" source="18">To Life</attr>
+      <attr type="work" source="18">On a Lady Famed for her Caprice</attr>
+      <attr type="work" source="18">In Tenebris</attr>
+      <attr type="work" source="18">Inscriptions for a peal of eight bells</attr>
+      <attr type="work" source="18">Tacciono i boschi</attr>
+      <attr type="work" source="18">no. 2. Madrigale</attr>
+      <attr type="work" source="77">Sophie&apos;s Choice</attr>
+      <attr type="work" source="58">odyssey</attr>
+      <attr type="occupation" source="96">composer</attr>
+      <attr type="occupation" source="96">professor</attr>
+      <attr type="school" source="96">London&#65533;fs Royal Academy of Music</attr>
+      <attr type="mentor" source="96">Nadia Boulanger</attr>
+      <attr type="location" source="96">Baltimore</attr>
+      <attr type="mentor" source="96">Max Deutsch</attr>
+      <attr type="nationality" source="96">British</attr>
+      <attr type="occupation" source="96">composers</attr>
+      <attr type="school" source="96">Royal Academy of Music</attr>
+      <attr type="work" source="96">Trio</attr>
+      <attr type="work" source="96">Odyssey</attr>
+      <attr type="work" source="96">concerto for English horn</attr>
+      <attr type="affiliation" source="96">composition at the Peabody Conservatory</attr>
+      <attr type="work" source="42">Five Irish Songs</attr>
+      <attr type="work" source="27">Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Canary-Bird</attr>
+      <attr type="work" source="27">Night Thoughts: For Solo Flute</attr>
+      <attr type="work" source="27">Flute Quartet: For Flute, Violin, Viola, And Cello: Moderato con moto</attr>
+      <attr type="work" source="27">Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Starling</attr>
+      <attr type="work" source="27">Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The East India Nightingale</attr>
+      <attr type="work" source="27">Roman Canticle: For Fulte, Viola, Harp, And Mezzo-Soprano</attr>
+      <attr type="work" source="27">Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Woodlark</attr>
+      <attr type="work" source="27">Six Tunes For The Instruction Of Singing Birds, For Solo Flute: For The Garden Bull-Finch</attr>
+      <attr type="work" source="27">Aur?ole Trio Plays Nicholas Maw &amp; Richard Rodney Bennett</attr>
+      <attr type="work" source="27">Sonata After Syrinx: For Flute, Viola, And Harp</attr>
+      <attr type="work" source="27">Flute Quartet: For Flute, Violin, Viola, And Cello: Lento</attr>
+      <attr type="work" source="84">Sophie&apos;s Choice</attr>
+      <attr type="location" source="59">America</attr>
+      <attr type="work" source="59">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="59">composer</attr>
+      <attr type="nationality" source="66">Englishman</attr>
+      <attr type="location" source="66">Washington area</attr>
+      <attr type="work" source="66">Sophie&apos;s Choice</attr>
+      <attr type="birthplace" source="16">Grantham, Lincolnshire</attr>
+      <attr type="occupation" source="16">teacher</attr>
+      <attr type="award" source="16">1993 Stoeger Prize</attr>
+      <attr type="affiliation" source="16">Yale University</attr>
+      <attr type="mentor" source="16">Paul Steinitz</attr>
+      <attr type="affiliation" source="16">Trinity College Cambridge</attr>
+      <attr type="award" source="16">1980 Midsummer Prize of the City of London</attr>
+      <attr type="school" source="16">Royal Academy of Music</attr>
+      <attr type="work" source="16">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="16">composers</attr>
+      <attr type="mentor" source="16">Lennox Berkeley</attr>
+      <attr type="mentor" source="16">Nadia Boulanger</attr>
+      <attr type="mentor" source="16">Max Deutsch</attr>
+      <attr type="nationality" source="16">Britain</attr>
+      <attr type="work" source="16">American Games</attr>
+      <attr type="occupation" source="16">Professor</attr>
+      <attr type="location" source="16">Baltimore</attr>
+      <attr type="award" source="16">1959 Lili Boulanger Prize</attr>
+      <attr type="affiliation" source="16">Composition at the Peabody Conservatory</attr>
+      <attr type="work" source="16">Odyssey</attr>
+      <attr type="dateofbirth" source="16">1935</attr>
+      <attr type="affiliation" source="16">Exeter University</attr>
+      <attr type="location" source="63">America</attr>
+      <attr type="location" source="63">States</attr>
+      <attr type="occupation" source="63">composer</attr>
+      <attr type="work" source="63">Odyssey</attr>
+      <attr type="work" source="63">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="61">composer</attr>
+      <attr type="work" source="61">Sophie&apos;s Choice</attr>
+      <attr type="work" source="61">The Rising of the Moon</attr>
+      <attr type="work" source="95"> Nicholas Maw/ Richard Rodney Bennett Ancora: Life Studies/ Spells</attr>
+      <attr type="occupation" source="95">composer</attr>
+      <attr type="occupation" source="95">Composer</attr>
+      <attr type="work" source="95">Corrado Canonici, double bass A roaring flame</attr>
+      <attr type="work" source="95"> Themes &amp; Variations BBC Symphony Orchestra/ Jac van Steen, conductor</attr>
+      <attr type="work" source="35">English Horn Concerto</attr>
+      <attr type="work" source="93">Sophie&apos;s Choice</attr>
+      <attr type="work" source="93">English Horn Concerto</attr>
+      <attr type="occupation" source="93">composer</attr>
+      <attr type="work" source="57">Sophie&#65533;fs Choice</attr>
+      <attr type="occupation" source="72">librettist</attr>
+      <attr type="work" source="72">Sophie&#65533;fs Choice</attr>
+      <attr type="occupation" source="72">composer</attr>
+      <attr type="location" source="72">Washington region</attr>
+      <attr type="birthplace" source="56">Grantham, Lincolnshire</attr>
+      <attr type="affiliation" source="56">Composition at the Peabody Conservatory</attr>
+      <attr type="affiliation" source="56">Trinity College Cambridge</attr>
+      <attr type="affiliation" source="56">Yale University</attr>
+      <attr type="mentor" source="56">Lennox Berkeley</attr>
+      <attr type="mentor" source="56">Paul Steinitz</attr>
+      <attr type="work" source="56">Violin Concerto</attr>
+      <attr type="occupation" source="56">Composer</attr>
+      <attr type="occupation" source="56">Professor</attr>
+      <attr type="work" source="56">The Rising of the Moon</attr>
+      <attr type="location" source="56">Baltimore</attr>
+      <attr type="work" source="56">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="56">teacher</attr>
+      <attr type="nationality" source="56">British</attr>
+      <attr type="work" source="56">Scenes and Arias</attr>
+      <attr type="school" source="56">Royal Academy of Music</attr>
+      <attr type="affiliation" source="56">Exeter University</attr>
+      <attr type="occupation" source="56">composer</attr>
+      <attr type="work" source="56">One Man Show</attr>
+      <attr type="mentor" source="56">Max Deutsch</attr>
+      <attr type="mentor" source="56">Nadia Boulanger</attr>
+      <attr type="othername" source="31">Maw, Nicholas</attr>
+      <attr type="work" source="31">Scenes and arias : for soprano, mezzo-soprano, contralto and orchestra</attr>
+      <attr type="othername" source="40">Maw Nicholas</attr>
+      <attr type="dateofbirth" source="40">1935</attr>
+      <attr type="occupation" source="3">Faculty</attr>
+      <attr type="award" source="3">Sudler International Wind Band Composition Competition Prize</attr>
+      <attr type="mentor" source="3">Max Deutsch</attr>
+      <attr type="affiliation" source="3">Exeter University</attr>
+      <attr type="award" source="3">Midsummer Prize of the City of London</attr>
+      <attr type="affiliation" source="3">Peabody Institute of the Johns Hopkins University</attr>
+      <attr type="mentor" source="3">Lennox Berkeley</attr>
+      <attr type="affiliation" source="3">Boston University</attr>
+      <attr type="location" source="3">Peabody Institute of the Johns Hopkins University 1 East Mount Vernon Place, Baltimore, MD 21202</attr>
+      <attr type="school" source="3">Royal Academy of Music</attr>
+      <attr type="mentor" source="3">Paul Steinitz</attr>
+      <attr type="mentor" source="3">Nadia Boulanger</attr>
+      <attr type="affiliation" source="3">Bard College</attr>
+      <attr type="affiliation" source="3">Trinity College, Cambridge</attr>
+      <attr type="affiliation" source="3">Yale University</attr>
+      <attr type="award" source="3">Lil Boulanger Prize</attr>
+      <attr type="award" source="3">Stoeger Prize</attr>
+      <attr type="phone" source="3">410-659-8100</attr>
+      <attr type="work" source="30">Sonata for Unaccompanied Violin</attr>
+      <attr type="occupation" source="30">composer</attr>
+      <attr type="work" source="30">Tombeau</attr>
+      <attr type="work" source="30">March Burlesque</attr>
+      <attr type="work" source="30">Flight</attr>
+      <attr type="work" source="30">Scena</attr>
+      <attr type="work" source="100">Maw: Violin Concerto</attr>
+      <attr type="work" source="100">Violin Concerto</attr>
+      <attr type="occupation" source="100">composer</attr>
+      <attr type="nationality" source="100">British</attr>
+      <attr type="work" source="100">VIOLIN CONCERTO</attr>
+      <attr type="work" source="100">violin concerto</attr>
+      <attr type="affiliation" source="97">Composition at the Peabody Institute</attr>
+      <attr type="occupation" source="97">composer</attr>
+      <attr type="work" source="97">Violin Concerto</attr>
+      <attr type="work" source="97">Odyssey</attr>
+      <attr type="work" source="97">Flute Quartet</attr>
+      <attr type="location" source="97">Baltimore, MD</attr>
+      <attr type="work" source="97">Sophie&apos;s Choice</attr>
+      <attr type="birthplace" source="97">U.K.</attr>
+      <attr type="occupation" source="97">Professor</attr>
+      <attr type="work" source="97">Piano Trio</attr>
+      <attr type="work" source="97">Scenes and Arias</attr>
+      <attr type="location" source="97">Washington, D.C.</attr>
+      <attr type="occupation" source="10">composer</attr>
+      <attr type="work" source="10">Sophie&apos;s Choice</attr>
+      <attr type="work" source="43">Sophie&apos;s Choice</attr>
+      <attr type="affiliation" source="43">Peabody</attr>
+      <attr type="occupation" source="43">faculty</attr>
+      <attr type="occupation" source="26">Composer</attr>
+      <attr type="work" source="26">Nicholas Maw: Violin Concerto</attr>
+      <attr type="work" source="26">Violin Concerto</attr>
+      <attr type="occupation" source="26">contemporary neo-Romantic composer</attr>
+      <attr type="work" source="4">violin concerto</attr>
+      <attr type="occupation" source="4">faculty</attr>
+      <attr type="birthplace" source="4">Grantham</attr>
+      <attr type="work" source="4">Odyssey</attr>
+      <attr type="affiliation" source="4">composition</attr>
+      <attr type="work" source="4">Shahnama</attr>
+      <attr type="affiliation" source="4">Trinity College, Cambridge</attr>
+      <attr type="dateofbirth" source="4">November 5, 1935</attr>
+      <attr type="mentor" source="4">Max Deutsch</attr>
+      <attr type="mentor" source="4">Lennox Berkeley</attr>
+      <attr type="birthplace" source="4">Grantham, Lincolnshire, England</attr>
+      <attr type="occupation" source="4">composer</attr>
+      <attr type="work" source="4">Spring Music</attr>
+      <attr type="occupation" source="4">Artist</attr>
+      <attr type="work" source="4">Life Studies</attr>
+      <attr type="mentor" source="4">Boulanger</attr>
+      <attr type="othername" source="4">(John) Nicholas Maw</attr>
+      <attr type="occupation" source="4">visiting lecturer</attr>
+      <attr type="affiliation" source="4">Yale University</attr>
+      <attr type="mentor" source="4">Nadia Boulanger</attr>
+      <attr type="work" source="4">Violin Concerto</attr>
+      <attr type="work" source="4">The Rising of the Moon</attr>
+      <attr type="award" source="4">Lili Boulanger Prize</attr>
+      <attr type="affiliation" source="4">Bard College</attr>
+      <attr type="work" source="4">The World in the Evening</attr>
+      <attr type="work" source="4">Music of Memory</attr>
+      <attr type="work" source="4">Personae IV, V, VI</attr>
+      <attr type="school" source="4">Royal Academy of Music</attr>
+      <attr type="work" source="4">One Man Show</attr>
+      <attr type="affiliation" source="4">Exeter University</attr>
+      <attr type="mentor" source="4">Deutsch</attr>
+      <attr type="school" source="4">RAM</attr>
+      <attr type="work" source="4">string quartets</attr>
+      <attr type="dateofbirth" source="4">5 Nov 1935</attr>
+      <attr type="work" source="4">Sophie&apos;s Choice</attr>
+      <attr type="nationality" source="4">England</attr>
+      <attr type="dateofbirth" source="4">November 05, 1935</attr>
+      <attr type="dateofbirth" source="4">1935</attr>
+      <attr type="affiliation" source="4">Peabody Conservatory of Music at The Johns Hopkins University</attr>
+      <attr type="occupation" source="4">composers</attr>
+      <attr type="work" source="4">Scenes and Arias</attr>
+      <attr type="occupation" source="4">resident composer</attr>
+      <attr type="mentor" source="4">Paul Steinitz</attr>
+      <attr type="work" source="4">Person?</attr>
+      <attr type="nationality" source="4">British</attr>
+      <attr type="mentor" source="4">Berkeley</attr>
+      <attr type="affiliation" source="91">Peabody Conservatory</attr>
+      <attr type="work" source="91">Sophie&apos;s Choice</attr>
+      <attr type="nationality" source="91">Britain</attr>
+      <attr type="location" source="91">Baltimore</attr>
+      <attr type="nationality" source="91">British</attr>
+      <attr type="occupation" source="91">composers</attr>
+      <attr type="location" source="91">Takoma Park</attr>
+      <attr type="occupation" source="91">composer</attr>
+      <attr type="affiliation" source="2">Peabody Institute of the Johns Hopkins University</attr>
+      <attr type="occupation" source="2">composer</attr>
+      <attr type="work" source="2">Ghost Dances</attr>
+      <attr type="work" source="2">Nicholas Maw: Violin Concerto</attr>
+      <attr type="affiliation" source="2">Composition</attr>
+      <attr type="occupation" source="101">orchestrator</attr>
+      <attr type="work" source="101">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="101">faculty</attr>
+      <attr type="nationality" source="101">Englishman</attr>
+      <attr type="work" source="101">Odyssey</attr>
+      <attr type="occupation" source="101">composer</attr>
+      <attr type="affiliation" source="101">Peabody Conservatory</attr>
+      <attr type="occupation" source="21">composers</attr>
+      <attr type="occupation" source="21">composer</attr>
+      <attr type="dateofbirth" source="21">1935</attr>
+      <attr type="work" source="21">Violin Concerto</attr>
+      <attr type="nationality" source="21">English</attr>
+      <attr type="work" source="62">Odyssey</attr>
+      <attr type="work" source="62">Scenes and Arias</attr>
+      <attr type="occupation" source="62">contemporary composer</attr>
+      <attr type="work" source="54">Music of Memory</attr>
+      <attr type="work" source="54">Six Interiors</attr>
+      <attr type="dateofbirth" source="54">1935</attr>
+      <attr type="work" source="54">Songs for Tenor and Guitar</attr>
+      <attr type="occupation" source="12">composers</attr>
+      <attr type="mentor" source="12">Lennox Berkeley</attr>
+      <attr type="mentor" source="12">Max Deutsch</attr>
+      <attr type="occupation" source="12">contemporary composers</attr>
+      <attr type="occupation" source="12">Composer</attr>
+      <attr type="mentor" source="12">Paul Steinitz</attr>
+      <attr type="mentor" source="12">Nadia Boulanger</attr>
+      <attr type="school" source="12">Royal Academy of Music</attr>
+      <attr type="dateofbirth" source="12">1935</attr>
+      <attr type="othername" source="12">Maw, Nicholas</attr>
+      <attr type="birthplace" source="12">Grantham</attr>
+      <attr type="work" source="88">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="88">composer</attr>
+      <attr type="work" source="112">Sophie&#65533;fs Choice</attr>
+      <attr type="work" source="60">Finale</attr>
+      <attr type="work" source="60">Flight</attr>
+      <attr type="work" source="60">Tombeau</attr>
+      <attr type="work" source="60">Molto allegro</attr>
+      <attr type="work" source="60">Scena</attr>
+      <attr type="work" source="60">Scherzo</attr>
+      <attr type="dateofbirth" source="60">1935</attr>
+      <attr type="work" source="60">Molto animato e brillante</attr>
+      <attr type="work" source="60">March-Burlesque</attr>
+      <attr type="work" source="60">Allegretto tranquillo</attr>
+      <attr type="work" source="60">Romanza</attr>
+      <attr type="work" source="60">Violin Concerto</attr>
+      <attr type="work" source="60">Andante pesante</attr>
+      <attr type="work" source="60">Prelude</attr>
+      <attr type="work" source="60">Dance Scenes</attr>
+      <attr type="work" source="60">Sonata for Solo Violin</attr>
+      <attr type="nationality" source="87">British</attr>
+      <attr type="occupation" source="87">composer</attr>
+      <attr type="work" source="87">violin concerto</attr>
+      <attr type="work" source="33">?The Voice of Love Vocal,</attr>
+      <attr type="work" source="33">?Five Irish Songs choral</attr>
+      <attr type="work" source="33">?Round Piano, choral</attr>
+      <attr type="work" source="33">Gershwin&#65533;fs Rhapsody in Blue (Original Version) and Other American WorksClassique</attr>
+      <attr type="work" source="33">?Concert Music for Orchestra</attr>
+      <attr type="work" source="33">Aur?ole Trio Plays Nicholas Maw &amp; Richard Rodney BennettClassique</attr>
+      <attr type="affiliation" source="33">composition at the Peabody Conservatory</attr>
+      <attr type="work" source="33">?Sinfonia</attr>
+      <attr type="work" source="33">Nicholas Maw: Piano Trio/Flute QuartetClassique</attr>
+      <attr type="work" source="33">Nicholas Maw: Sonata Notturna; Life Studies</attr>
+      <attr type="location" source="33">Baltimore, USA</attr>
+      <attr type="work" source="33">?Ruin Vocal Score Large Choral Vocal, choral</attr>
+      <attr type="work" source="33">?Scenes &amp; Arias Voice/Keyboard Piano, Vocal, Organ,</attr>
+      <attr type="work" source="33">?Scenes and Arias</attr>
+      <attr type="work" source="33">Nicholas Maw: Life Studies; Richard Rodney Bennett: Spells</attr>
+      <attr type="work" source="33">Five Irish Songs  choral</attr>
+      <attr type="work" source="33">?Sonata for Strings and Two Horns</attr>
+      <attr type="work" source="33">?Reverdie (Five Songs) (Ttbarbb*) Large Choral choral</attr>
+      <attr type="work" source="33">Alun Hoddinott, Don Banks: Horn Concertos; Humphrey Searle: Aubade; Nicholas Maw: Sonata for strings &amp; 2 HornsClassique</attr>
+      <attr type="work" source="33">?Life Studies (Complete)</attr>
+      <attr type="work" source="33">?Little Suite Guitar,</attr>
+      <attr type="work" source="33">?String Quartet</attr>
+      <attr type="work" source="33">?La Vita Nuova</attr>
+      <attr type="occupation" source="33">professor</attr>
+      <attr type="work" source="107">Nicholas Maw: Violin Concerto</attr>
+      <attr type="work" source="20">Concerto For Violin And Orchestra: IV. Finale: Allegro moderato e grazioso</attr>
+      <attr type="work" source="20">Concerto For Violin And Orchestra: II. Scherzo: Vivace assai - Recitando</attr>
+      <attr type="othername" source="20">N. MAW</attr>
+      <attr type="work" source="20">Concerto For Violin And Orchestra: I. Prelude: Moderato tranquillo - Andante moderato</attr>
+      <attr type="work" source="20">Nicholas Maw: Violin Concerto</attr>
+      <attr type="work" source="20">Concerto For Violin And Orchestra: III. Romanza: Lento e calmo</attr>
+      <attr type="award" source="48">1993 Stoeger Prize</attr>
+      <attr type="affiliation" source="48">Exeter University</attr>
+      <attr type="school" source="48">Royal Academy of Music</attr>
+      <attr type="work" source="48">Violin Concerto</attr>
+      <attr type="mentor" source="48">Paul Steinitz</attr>
+      <attr type="affiliation" source="48">Composition at the Peabody Conservatory</attr>
+      <attr type="occupation" source="48">composers</attr>
+      <attr type="work" source="48">Ghost Dances</attr>
+      <attr type="birthplace" source="48">Grantham</attr>
+      <attr type="affiliation" source="48">Trinity College Cambridge</attr>
+      <attr type="location" source="48">Baltimore</attr>
+      <attr type="award" source="48">1959 Lili Boulanger Prize</attr>
+      <attr type="work" source="48">Spring Music</attr>
+      <attr type="mentor" source="48">Max Deutsch</attr>
+      <attr type="nationality" source="48">Britain</attr>
+      <attr type="work" source="48">The World in the Evening</attr>
+      <attr type="affiliation" source="48">Yale University</attr>
+      <attr type="award" source="48">1980 Midsummer Prize of the City of London</attr>
+      <attr type="mentor" source="48">Nadia Boulanger</attr>
+      <attr type="occupation" source="48">composer</attr>
+      <attr type="work" source="48">Odyssey</attr>
+      <attr type="occupation" source="48">Professor</attr>
+      <attr type="dateofbirth" source="48">1935</attr>
+      <attr type="mentor" source="48">Lennox Berkeley</attr>
+      <attr type="work" source="48">Scenes and Arias</attr>
+      <attr type="work" source="81">Five Irish Songs</attr>
+      <attr type="location" source="81">Baltimore</attr>
+      <attr type="work" source="81">On a lady famed for her caprice</attr>
+      <attr type="work" source="81">Ringleted youth of my love</attr>
+      <attr type="work" source="81">O my deir heart, young Jesus sweit</attr>
+      <attr type="work" source="81">Jig</attr>
+      <attr type="work" source="81">Below thir stanes lie Jamie&apos;s banes</attr>
+      <attr type="work" source="81">The angel Gabriel</attr>
+      <attr type="work" source="81">Now Robin likes in his last lair</attr>
+      <attr type="work" source="81">Swete Jesu</attr>
+      <attr type="work" source="81">As father Adam first was fool&apos;d</attr>
+      <attr type="work" source="81">On a henpecked country squire</attr>
+      <attr type="work" source="81">Three Hymns</attr>
+      <attr type="work" source="81">Here lies, now a prey to insulting neglect</attr>
+      <attr type="affiliation" source="81">Composition at the Peabody Conservatory</attr>
+      <attr type="work" source="81">Corpus Christi Carol</attr>
+      <attr type="work" source="81">That winter love spoke and we raise no objection, at</attr>
+      <attr type="work" source="81">The night is come like to the day</attr>
+      <attr type="work" source="81">Put your head, darling</attr>
+      <attr type="mentor" source="81">Paul Steinitz</attr>
+      <attr type="award" source="81">1993 Stoeger Prize</attr>
+      <attr type="work" source="81">Popular song</attr>
+      <attr type="birthplace" source="81">Grantham, Lincolnshire</attr>
+      <attr type="occupation" source="81">composers</attr>
+      <attr type="occupation" source="81">Professor</attr>
+      <attr type="work" source="81">For thee I shall not die</attr>
+      <attr type="nationality" source="81">United Kingdom</attr>
+      <attr type="dateofbirth" source="81">5 November 1935</attr>
+      <attr type="work" source="81">I shall not die for thee</attr>
+      <attr type="work" source="81">Morning Hymn</attr>
+      <attr type="award" source="81">1959 Lili Boulanger Prize</attr>
+      <attr type="work" source="81">In seventeen hunder&apos; and forty nine</attr>
+      <attr type="work" source="81">Our Lady&apos;s song</attr>
+      <attr type="work" source="81">Andrew Turner</attr>
+      <attr type="mentor" source="81">Nadia Boulanger</attr>
+      <attr type="work" source="81">Pastoral Hymn</attr>
+      <attr type="work" source="81">On a noisy polemic</attr>
+      <attr type="affiliation" source="81">Trinity College Cambridge</attr>
+      <attr type="work" source="81">Were I at the Moss House where the birds do increase</attr>
+      <attr type="affiliation" source="81">Exeter University</attr>
+      <attr type="work" source="81">Maw: One foot in Eden still, I stand</attr>
+      <attr type="work" source="81">Down in yon forest there stands a hall</attr>
+      <attr type="occupation" source="81">teacher</attr>
+      <attr type="work" source="81">Evening Hymn</attr>
+      <attr type="work" source="81">Jesu, swete sone dere!</attr>
+      <attr type="affiliation" source="81">Yale University</attr>
+      <attr type="work" source="81">Five Epigrams</attr>
+      <attr type="nationality" source="81">Britain</attr>
+      <attr type="work" source="81">Happy choristers of air</attr>
+      <attr type="work" source="81">One foot in Eden still, I stand</attr>
+      <attr type="work" source="81">What&apos;s this morn&apos;s bright eye to me</attr>
+      <attr type="work" source="81">Balulalow</attr>
+      <attr type="mentor" source="81">Lennox Berkeley</attr>
+      <attr type="work" source="81">On the death of Robert Ruisseaux</attr>
+      <attr type="school" source="81">Royal Academy of Music</attr>
+      <attr type="work" source="81">American Games</attr>
+      <attr type="dateofbirth" source="81">1935</attr>
+      <attr type="mentor" source="81">Max Deutsch</attr>
+      <attr type="work" source="81">Dear dark head</attr>
+      <attr type="work" source="29">Richard Rodney Bennett: Spells; Nicholas Maw: Life Studies</attr>
+      <attr type="work" source="45">Sextet for Two Violins, Two Violas and Two Cellos</attr>
+      <attr type="work" source="45">Sophie???s Choice</attr>
+      <attr type="work" source="45">Sextet</attr>
+      <attr type="work" source="45">Melodies From Drama</attr>
+      <attr type="othername" source="45">Maw, Nicholas</attr>
+      <attr type="work" source="106">Violin Concerto</attr>
+      <attr type="work" source="110">Sophie&#65533;fs Choice</attr>
+      <attr type="work" source="39">Concert Music for Orchestra</attr>
+      <attr type="mentor" source="15">Paul Steinitz</attr>
+      <attr type="affiliation" source="15">Trinity College Cambridge</attr>
+      <attr type="occupation" source="15">Artists</attr>
+      <attr type="occupation" source="15">Professor</attr>
+      <attr type="occupation" source="15">Composer</attr>
+      <attr type="work" source="15">Odyssey</attr>
+      <attr type="occupation" source="15">teacher</attr>
+      <attr type="award" source="15">1959 Lili Boulanger Prize</attr>
+      <attr type="affiliation" source="15">Exeter University</attr>
+      <attr type="occupation" source="15">composers</attr>
+      <attr type="award" source="15">1980 Midsummer Prize of the City of London</attr>
+      <attr type="mentor" source="15">Lennox Berkeley</attr>
+      <attr type="school" source="15">Royal Academy of Music</attr>
+      <attr type="award" source="15">1993 Stoeger Prize</attr>
+      <attr type="location" source="15">Baltimore</attr>
+      <attr type="work" source="15">American Games</attr>
+      <attr type="affiliation" source="15">Composition at the Peabody Conservatory</attr>
+      <attr type="work" source="15">Sophie&apos;s Choice</attr>
+      <attr type="birthplace" source="15">Grantham, Lincolnshire</attr>
+      <attr type="mentor" source="15">Max Deutsch</attr>
+      <attr type="mentor" source="15">Nadia Boulanger</attr>
+      <attr type="affiliation" source="15">Yale University</attr>
+      <attr type="dateofbirth" source="15">1935</attr>
+      <attr type="nationality" source="15">Britain</attr>
+      <attr type="work" source="36">Balulalow</attr>
+      <attr type="work" source="36">Odyssey</attr>
+      <attr type="nationality" source="36">English</attr>
+      <attr type="occupation" source="36">composer</attr>
+      <attr type="work" source="36">Ringleted youth of my love</attr>
+      <attr type="work" source="36">The Three Hymns</attr>
+      <attr type="work" source="36">Five Epigrams</attr>
+      <attr type="work" source="36">&#65533;gOne Foot in Eden Still, I Stand&#65533;h: Choral Music by Nicholas Maw</attr>
+      <attr type="work" source="36">&#65533;gOne Foot in Eden Still, I Stand&#65533;h Choral Music by Nicholas Maw</attr>
+      <attr type="work" source="36">Andrew Turner</attr>
+      <attr type="work" source="36">Pastoral Hymn</attr>
+      <attr type="work" source="36">Swete Jesu</attr>
+      <attr type="work" source="36">violin concerto</attr>
+      <attr type="work" source="36">Five Irish Songs</attr>
+      <attr type="work" source="36">Sophie&#65533;fs Choice</attr>
+      <attr type="work" source="25">Maw: Hymnus/Little Concert/Shahnama</attr>
+      <attr type="work" source="25">Nicholas Maw: Odyssey; Dance Scenes</attr>
+      <attr type="work" source="25">Nicholas Maw: Violin Concerto</attr>
+      <attr type="occupation" source="102">Composers</attr>
+      <attr type="othername" source="102">Maw, Nicholas</attr>
+      <attr type="work" source="102">Sweet Jesu</attr>
+      <attr type="dateofbirth" source="102">1935</attr>
+      <attr type="work" source="78">Violin Concerto</attr>
+      <attr type="work" source="78">Maw: Violin Concerto</attr>
+      <attr type="occupation" source="78">composer</attr>
+      <attr type="work" source="1">The World in the Evening</attr>
+      <attr type="school" source="1">Royal Academy of Music</attr>
+      <attr type="birthplace" source="1">Grantham, Lincolnshire, England</attr>
+      <attr type="relatives" source="1">Clarence Frederick Maw</attr>
+      <attr type="work" source="1">Odyssey</attr>
+      <attr type="work" source="1">Person?</attr>
+      <attr type="mentor" source="1">Nadia Boulanger</attr>
+      <attr type="nationality" source="1">British</attr>
+      <attr type="affiliation" source="1">composition</attr>
+      <attr type="occupation" source="1">faculty</attr>
+      <attr type="othername" source="1">John Nicholas Maw</attr>
+      <attr type="work" source="1">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="1">composer</attr>
+      <attr type="dateofbirth" source="1">November 5, 1935</attr>
+      <attr type="relatives" source="1">Karen Graham</attr>
+      <attr type="school" source="1">Wennington School</attr>
+      <attr type="affiliation" source="1">Peabody Conservatory of Music at The Johns Hopkins University</attr>
+      <attr type="work" source="1">Music of Memory</attr>
+      <attr type="mentor" source="1">Max Deutsch</attr>
+      <attr type="relatives" source="1">Hilda Ellen Chambers</attr>
+      <attr type="occupation" source="11">composer</attr>
+      <attr type="work" source="11">Sophie&apos;s Choice</attr>
+      <attr type="work" source="11">Nicholas Maw: Odyssey; Dance Scenes</attr>
+      <attr type="work" source="11">Concerto for Violin and Orchestra/III. Romanza: Lento e calmo</attr>
+      <attr type="work" source="11">Nicholas Maw: Violin Concerto</attr>
+      <attr type="work" source="11">Violin Concerto</attr>
+      <attr type="work" source="11">Concerto for Violin and Orchestra/I. Prelude: Moderato tranquillo - Andante moderato</attr>
+      <attr type="work" source="11">Ghost Dances</attr>
+      <attr type="work" source="11">Concerto for Violin and Orchestra/IV. Finale: Allegro moderato e grazioso</attr>
+      <attr type="work" source="11">Odyssey</attr>
+      <attr type="work" source="11">Concerto for Violin and Orchestra/II. Scherzo: Vivace assai - Recitando</attr>
+      <attr type="occupation" source="70">Composers</attr>
+      <attr type="work" source="70">Nicholas Maw/ Richard Rodney Bennett: Ancora</attr>
+      <attr type="work" source="14">Sophie&apos;s Choice</attr>
+      <attr type="work" source="14">One-Man Show</attr>
+      <attr type="work" source="14">Odyssey</attr>
+      <attr type="dateofbirth" source="14">1935</attr>
+      <attr type="birthplace" source="14">England</attr>
+      <attr type="work" source="14">Violin Concerto</attr>
+      <attr type="work" source="14">The Rising of the Moon.</attr>
+      <attr type="work" source="14">Sophie</attr>
+      <attr type="occupation" source="14">composer</attr>
+      <attr type="location" source="14">Washington, D.C., area</attr>
+      <attr type="work" source="46">Sophie&apos;s Choice</attr>
+      <attr type="affiliation" source="85">composition, Yale University</attr>
+      <attr type="work" source="85">Nocturne</attr>
+      <attr type="mentor" source="85">Max Deutsch</attr>
+      <attr type="work" source="85">Scenes and Arias</attr>
+      <attr type="mentor" source="85">Lennox Berkeley</attr>
+      <attr type="work" source="85">The Rising of the Moon</attr>
+      <attr type="work" source="85">One Man Show</attr>
+      <attr type="work" source="85">violin concerto</attr>
+      <attr type="occupation" source="85">professor</attr>
+      <attr type="affiliation" source="85">composition, Peabody Conservatory of Music</attr>
+      <attr type="work" source="85">Life Studies</attr>
+      <attr type="work" source="85">Piano Trio</attr>
+      <attr type="occupation" source="85">first artist in residence</attr>
+      <attr type="relatives" source="85">Lou</attr>
+      <attr type="occupation" source="85">visiting professor</attr>
+      <attr type="dateofbirth" source="85">1935</attr>
+      <attr type="othername" source="85">John Nicholas Maw</attr>
+      <attr type="othername" source="85">Nick Maw</attr>
+      <attr type="work" source="85">Hymnus.</attr>
+      <attr type="school" source="85">Wennington School</attr>
+      <attr type="work" source="85">Odyssey</attr>
+      <attr type="birthplace" source="85">Grantham, Lincs</attr>
+      <attr type="work" source="85">Spring Music</attr>
+      <attr type="work" source="85">Sinfonia</attr>
+      <attr type="affiliation" source="85">Trinity College, Cambridge</attr>
+      <attr type="relatives" source="85">Natasha</attr>
+      <attr type="affiliation" source="85">Royal Academy of Music</attr>
+      <attr type="award" source="85">1959 Lili Boulanger prize</attr>
+      <attr type="relatives" source="85">Karen Graham</attr>
+      <attr type="dateofbirth" source="85">November 5 1935</attr>
+      <attr type="birthplace" source="85">Grantham, Lincolnshire</attr>
+      <attr type="affiliation" source="85">Peabody Conservatory</attr>
+      <attr type="work" source="85">Sophie&apos;s Choice</attr>
+      <attr type="affiliation" source="85">music, Milton Avery School of Arts</attr>
+      <attr type="mentor" source="85">Nadia Boulanger</attr>
+      <attr type="occupation" source="85">composer</attr>
+      <attr type="award" source="85">90 Koussevitsky Foundation Award</attr>
+      <attr type="affiliation" source="85">university of Exeter</attr>
+      <attr type="location" source="85">Baltimore</attr>
+      <attr type="relatives" source="85">Adrian Lindsey</attr>
+      <attr type="relatives" source="85">Janet</attr>
+      <attr type="location" source="85">America</attr>
+      <attr type="occupation" source="85">fellow commoner</attr>
+      <attr type="school" source="85">Royal Academy</attr>
+      <attr type="affiliation" source="85">Royal Academy</attr>
+      <attr type="occupation" source="85">prof.</attr>
+      <attr type="work" source="85">Ghost Dances</attr>
+      <attr type="school" source="85">Royal Academy of Music</attr>
+      <attr type="award" source="85">93 Stoeger Prize for Chamber Music</attr>
+      <attr type="relatives" source="85">Carol Graham</attr>
+      <attr type="nationality" source="85">Britain</attr>
+      <attr type="work" source="85">Violin Concerto</attr>
+      <attr type="mentor" source="85">Paul Steinitz</attr>
+      <attr type="work" source="108">Sophie&apos;s Choice</attr>
+      <attr type="occupation" source="108">director</attr>
+      <attr type="work" source="6">The Rising of the Moon</attr>
+      <attr type="work" source="6">Piano Trio</attr>
+      <attr type="affiliation" source="6">Exeter University</attr>
+      <attr type="occupation" source="6">Composer</attr>
+      <attr type="mentor" source="6">Lennox Berkeley</attr>
+      <attr type="work" source="6">Ghost Dances</attr>
+      <attr type="nationality" source="6">Britain</attr>
+      <attr type="occupation" source="6">teacher</attr>
+      <attr type="work" source="6">Sophie&apos;s Choice</attr>
+      <attr type="affiliation" source="6">Trinity College Cambridge</attr>
+      <attr type="birthplace" source="6">Grantham, Lincolnshire</attr>
+      <attr type="occupation" source="6">composers</attr>
+      <attr type="work" source="6">Roman Canticle</attr>
+      <attr type="affiliation" source="6">Composition at the Peabody Conservatory</attr>
+      <attr type="birthplace" source="6">Grantham</attr>
+      <attr type="award" source="6">1959 Lili Boulanger Prize</attr>
+      <attr type="work" source="6">The World in the Evening</attr>
+      <attr type="work" source="6">La Vita Nuova</attr>
+      <attr type="mentor" source="6">Nadia Boulanger</attr>
+      <attr type="dateofbirth" source="6">5 November 1935</attr>
+      <attr type="occupation" source="6">composer</attr>
+      <attr type="work" source="6">Sonata Notturna/ Life Studies</attr>
+      <attr type="mentor" source="6">Paul Steinitz</attr>
+      <attr type="occupation" source="6">Professor</attr>
+      <attr type="work" source="6">Violin Concerto</attr>
+      <attr type="mentor" source="6">Max Deutsch</attr>
+      <attr type="work" source="6">American Games</attr>
+      <attr type="award" source="6">1980 Midsummer Prize of the City of London</attr>
+      <attr type="work" source="6">Hymnus/ Little Concert/ Shahnama</attr>
+      <attr type="dateofbirth" source="6">1935</attr>
+      <attr type="work" source="6">Odyssey</attr>
+      <attr type="work" source="6">Spring Music</attr>
+      <attr type="work" source="6">One Man Show</attr>
+      <attr type="work" source="6">Flute Quartet</attr>
+      <attr type="school" source="6">Royal Academy of Music</attr>
+      <attr type="work" source="6">Scenes and Arias</attr>
+      <attr type="work" source="6">Dance Scenes</attr>
+      <attr type="affiliation" source="6">Yale University</attr>
+      <attr type="location" source="6">Baltimore</attr>
+      <attr type="award" source="6">1993 Stoeger Prize</attr>
+      <attr type="nationality" source="6">English</attr>
+      <attr type="location" source="8">Baltimore</attr>
+      <attr type="mentor" source="8">Paul Steinitz</attr>
+      <attr type="school" source="8">Royal Academy of Music</attr>
+      <attr type="dateofbirth" source="8">1935</attr>
+      <attr type="occupation" source="8">faculty</attr>
+      <attr type="occupation" source="8">Composers</attr>
+      <attr type="birthplace" source="8">Grantham, England</attr>
+      <attr type="work" source="8">American Games</attr>
+      <attr type="mentor" source="8">Nadia Boulanger</attr>
+      <attr type="mentor" source="8">Max Deutsch</attr>
+      <attr type="affiliation" source="8">Peabody Institute of Johns Hopkins University</attr>
+      <attr type="mentor" source="8">Lennox Berkeley</attr>
+      <attr type="occupation" source="69">composer</attr>
+      <attr type="location" source="69">Washington, DC</attr>
+      <attr type="work" source="69">The World in the Evening</attr>
+    </attributes>
+  </entity>
+</clustering>

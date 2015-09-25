@@ -1,0 +1,676 @@
+<clustering searchString="RITA FISHER">
+  <entity id="1">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="28">(770) 495-7770</attr>
+      <attr type="location" source="28">Duluth, GA</attr>
+      <attr type="location" source="28">10050 Medlock Ste 100, Duluth, GA 30097, United States</attr>
+      <attr type="occupation" source="28">President</attr>
+      <attr type="affiliation" source="28">Fisher Engineering, Inc</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="13" />
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="13">ritafisher</attr>
+      <attr type="location" source="13">Antelope, CA United States</attr>
+      <attr type="location" source="43">Antelope, CA United States</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="65" />
+      <doc rank="146" />
+      <doc rank="144" />
+      <doc rank="38" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="65">Fischer</attr>
+      <attr type="affiliation" source="65">PFLAG (Parents, Families and Friends of Lesbian &amp; Gays) NYC</attr>
+      <attr type="website" source="65">www.aidswalk.net/newyork/</attr>
+      <attr type="othername" source="65">Rita Fischer</attr>
+      <attr type="birthplace" source="65">Brooklyn</attr>
+      <attr type="affiliation" source="146">PFLAG (Parents, Families and Friends of Lesbian &amp; Gays) NYC</attr>
+      <attr type="birthplace" source="146">Brooklyn</attr>
+      <attr type="birthplace" source="144">Brooklyn</attr>
+      <attr type="website" source="38">www.aidswalk.net/newyork/</attr>
+      <attr type="affiliation" source="38">PFLAG (Parents, Families and Friends of Lesbian &amp; Gays) NYC</attr>
+      <attr type="othername" source="38">Rita Fischer</attr>
+      <attr type="othername" source="38">Fischer</attr>
+      <attr type="birthplace" source="38">Brooklyn</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="18" />
+      <doc rank="21" />
+      <doc rank="74" />
+      <doc rank="129" />
+    </documents>
+    <attributes>
+      <attr type="website" source="18">http://www.SmileMailer.com</attr>
+      <attr type="location" source="18">Columbus, IN, USA</attr>
+      <attr type="website" source="21">http://www.SmileMailer.com</attr>
+      <attr type="location" source="21">Columbus, IN, USA</attr>
+      <attr type="affiliation" source="74">SmileMailer.com</attr>
+      <attr type="phone" source="74">812-342-7978</attr>
+      <attr type="website" source="74">http://www.SmileMailer.com</attr>
+      <attr type="email" source="74">SmileMailer@comcast.net</attr>
+      <attr type="location" source="74">2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="phone" source="129">812-342-7978</attr>
+      <attr type="email" source="129">SmileMailer@comcast.net</attr>
+      <attr type="website" source="129">http://www.SmileMailer.com</attr>
+      <attr type="location" source="129">2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="affiliation" source="129">SmileMailer.com</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="62" />
+      <doc rank="5" />
+      <doc rank="34" />
+    </documents>
+    <attributes>
+      <attr type="major" source="62">Music</attr>
+      <attr type="affiliation" source="62">Metcalf Lab School</attr>
+      <attr type="affiliation" source="62">Office of Clinical Experiences and Certification Processes at Illinois State University</attr>
+      <attr type="major" source="62">Ed</attr>
+      <attr type="school" source="62">DePaul University</attr>
+      <attr type="school" source="62">Illinois State University</attr>
+      <attr type="degree" source="62">B.S.</attr>
+      <attr type="degree" source="62">M.S.</attr>
+      <attr type="occupation" source="5">science educator</attr>
+      <attr type="school" source="5">Illinois State University</attr>
+      <attr type="occupation" source="5">Science Teacher</attr>
+      <attr type="affiliation" source="5">Metcalf</attr>
+      <attr type="school" source="5">Illinois State</attr>
+      <attr type="affiliation" source="5">Metcalf Elementary School</attr>
+      <attr type="school" source="5">ISU</attr>
+      <attr type="major" source="5">Elementary Education</attr>
+      <attr type="degree" source="5">MSE</attr>
+      <attr type="school" source="34">ISU</attr>
+      <attr type="affiliation" source="34">Metcalf Lab School</attr>
+      <attr type="affiliation" source="34">Metcalf</attr>
+      <attr type="affiliation" source="34">ISU</attr>
+      <attr type="occupation" source="34">assistant coach</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="10" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="10">John</attr>
+      <attr type="relatives" source="10">Roland, Robert and Roger Pouliot</attr>
+      <attr type="birthplace" source="10">Lewiston</attr>
+      <attr type="relatives" source="10">Donald</attr>
+      <attr type="relatives" source="10">Donald</attr>
+      <attr type="relatives" source="10">Debbie</attr>
+      <attr type="othername" source="10">Rita E. (Pouliot) Fisher</attr>
+      <attr type="relatives" source="10">Yvonne and Antonio Pouliot</attr>
+      <attr type="relatives" source="10">Michael</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="80" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="80">Robert</attr>
+      <attr type="affiliation" source="80">Leura Village Association</attr>
+      <attr type="occupation" source="80">President</attr>
+      <attr type="affiliation" source="80">Stacks/Blue Mountains</attr>
+      <attr type="location" source="80">Mountains</attr>
+      <attr type="affiliation" source="80">Blue Mountains Tourism Limited</attr>
+      <attr type="relatives" source="80">Robert Fisher</attr>
+      <attr type="occupation" source="80">principal solicitor</attr>
+      <attr type="location" source="80">Blue Mountains</attr>
+      <attr type="affiliation" source="80">regional Chamber of Commerce, BIZNET</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="69">Hartford Heights Tall Club</attr>
+      <attr type="affiliation" source="69">Atlantic Tall Club</attr>
+      <attr type="affiliation" source="69">TCI Alternate Executive Board and Scholarship Committee</attr>
+      <attr type="affiliation" source="69">Publisher Committee for Tall Topix</attr>
+      <attr type="affiliation" source="69">New Jersey Moonrakers</attr>
+      <attr type="occupation" source="69">National Finance Officer</attr>
+      <attr type="affiliation" source="69">TCI Executive Board</attr>
+      <attr type="affiliation" source="69">Tall Clubs International</attr>
+      <attr type="award" source="69">TCI Merit Award</attr>
+      <attr type="affiliation" source="69">TCI Convention Committee</attr>
+      <attr type="occupation" source="69">organizer</attr>
+      <attr type="affiliation" source="69">Tri County Talls of NY &amp; CT</attr>
+      <attr type="award" source="69">TCI&apos;s Woman of the Year</attr>
+      <attr type="affiliation" source="69">TCI</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="53" />
+      <doc rank="133" />
+      <doc rank="136" />
+      <doc rank="49" />
+      <doc rank="87" />
+      <doc rank="31" />
+      <doc rank="35" />
+      <doc rank="40" />
+      <doc rank="16" />
+      <doc rank="135" />
+      <doc rank="89" />
+      <doc rank="140" />
+      <doc rank="41" />
+      <doc rank="48" />
+      <doc rank="17" />
+      <doc rank="93" />
+      <doc rank="15" />
+      <doc rank="29" />
+      <doc rank="92" />
+      <doc rank="14" />
+      <doc rank="61" />
+      <doc rank="105" />
+      <doc rank="96" />
+      <doc rank="52" />
+      <doc rank="94" />
+      <doc rank="51" />
+      <doc rank="112" />
+      <doc rank="130" />
+      <doc rank="76" />
+      <doc rank="45" />
+      <doc rank="58" />
+      <doc rank="71" />
+      <doc rank="91" />
+      <doc rank="83" />
+      <doc rank="115" />
+      <doc rank="8" />
+      <doc rank="132" />
+      <doc rank="39" />
+      <doc rank="108" />
+      <doc rank="95" />
+      <doc rank="101" />
+      <doc rank="77" />
+      <doc rank="22" />
+      <doc rank="110" />
+      <doc rank="30" />
+      <doc rank="54" />
+      <doc rank="114" />
+      <doc rank="75" />
+      <doc rank="60" />
+      <doc rank="148" />
+      <doc rank="79" />
+      <doc rank="59" />
+      <doc rank="106" />
+      <doc rank="63" />
+      <doc rank="1" />
+      <doc rank="111" />
+      <doc rank="141" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="53">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="53">Mom Resumes</attr>
+      <attr type="phone" source="53">812-342-7978</attr>
+      <attr type="location" source="53">Columbus</attr>
+      <attr type="website" source="53">http://www.MomResumes.com</attr>
+      <attr type="fax" source="53">928-569-5114</attr>
+      <attr type="occupation" source="53">entrepreneur</attr>
+      <attr type="occupation" source="53">President</attr>
+      <attr type="affiliation" source="53">Resume Writing For Pros</attr>
+      <attr type="school" source="53">Professional Association of Resume Writers and Career Coaches</attr>
+      <attr type="location" source="53">2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="affiliation" source="53">Best Career Change Resumes</attr>
+      <attr type="occupation" source="133">CPRW</attr>
+      <attr type="occupation" source="133">Certified Professional Resume Writer</attr>
+      <attr type="website" source="133">http://www.CareerChangeResumes.com</attr>
+      <attr type="affiliation" source="136">Rita Fish Resumes</attr>
+      <attr type="occupation" source="49">certified professional resum? writer</attr>
+      <attr type="occupation" source="49">owner</attr>
+      <attr type="affiliation" source="49">Career Change Resumes</attr>
+      <attr type="occupation" source="49">career expert</attr>
+      <attr type="affiliation" source="87">Seton Hill University&apos;s National Education Center for Women in Business</attr>
+      <attr type="affiliation" source="87">Coachville.com</attr>
+      <attr type="affiliation" source="87">Medelia Monitor, The Voice of Women in America</attr>
+      <attr type="occupation" source="87">expert</attr>
+      <attr type="occupation" source="87">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="87">National Council on Asian American Business Associations</attr>
+      <attr type="occupation" source="87">CPRW</attr>
+      <attr type="affiliation" source="87">WorldWIT, Women. Insights. Technology</attr>
+      <attr type="occupation" source="87">author</attr>
+      <attr type="website" source="31">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="31">Certified Professional Resume Writer</attr>
+      <attr type="email" source="31">resumes@reliable-net.net</attr>
+      <attr type="occupation" source="35">Certified Professional Resume Writer</attr>
+      <attr type="location" source="35">Indianapolis, Indiana Area</attr>
+      <attr type="location" source="35">Columbus, Indiana</attr>
+      <attr type="occupation" source="35">CEO</attr>
+      <attr type="affiliation" source="35">FisherCareerGroup.com</attr>
+      <attr type="school" source="35">Professional Association of Resume Writers and Career Coaches</attr>
+      <attr type="affiliation" source="35">Fisher Career Group</attr>
+      <attr type="occupation" source="35">CPRW</attr>
+      <attr type="phone" source="40">866-645-6350</attr>
+      <attr type="occupation" source="40">Certified Professional Resume Writer</attr>
+      <attr type="website" source="40">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="16">CPRW</attr>
+      <attr type="affiliation" source="16">Fisher Career Group</attr>
+      <attr type="occupation" source="16">CEO</attr>
+      <attr type="website" source="135">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="135">Certified Professional Resume Writers</attr>
+      <attr type="location" source="135">state of Indiana</attr>
+      <attr type="phone" source="135">866-645-6350</attr>
+      <attr type="affiliation" source="135">Career Change Resumes</attr>
+      <attr type="website" source="89">http://www.MomResumes.com</attr>
+      <attr type="occupation" source="89">career advocate</attr>
+      <attr type="occupation" source="140">Certified Professional Resume Writer</attr>
+      <attr type="location" source="140">2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="occupation" source="140">Owner</attr>
+      <attr type="email" source="140">RitaFisher33@comcast.net</attr>
+      <attr type="affiliation" source="140">ResumeWritingForPros.com</attr>
+      <attr type="fax" source="140">928-569-5114</attr>
+      <attr type="phone" source="140">812-342-7978</attr>
+      <attr type="website" source="140">http://www.ResumeWritingForPros.com</attr>
+      <attr type="phone" source="48">888-587-0064</attr>
+      <attr type="occupation" source="48">Mompreneur</attr>
+      <attr type="website" source="48">http://www.ResumesForMoms.com</attr>
+      <attr type="location" source="48">ResumesForMoms.com 2826 Hawcreek Blvd. Columbus, IN 47203</attr>
+      <attr type="email" source="48">almas@reliable-net.net</attr>
+      <attr type="affiliation" source="48">ResumesForMoms.com</attr>
+      <attr type="occupation" source="17">President</attr>
+      <attr type="affiliation" source="17">Best Career Change Resumes</attr>
+      <attr type="location" source="17">Columbus, IN (United States)</attr>
+      <attr type="website" source="93">http://www.careerchangeresumes.com</attr>
+      <attr type="occupation" source="93">Career Expert</attr>
+      <attr type="phone" source="93">812-375-6190</attr>
+      <attr type="affiliation" source="93">Career Change Resumes</attr>
+      <attr type="email" source="93">resumes@reliable-net.net</attr>
+      <attr type="occupation" source="93">owner</attr>
+      <attr type="occupation" source="93">Certified Professional Resume Writer</attr>
+      <attr type="website" source="15">http://www.careerchangeresumes.com</attr>
+      <attr type="affiliation" source="15">Career Change Resumes</attr>
+      <attr type="occupation" source="15">Mom &amp; Popreneurs</attr>
+      <attr type="occupation" source="15">Certified Professional Resume Writer</attr>
+      <attr type="phone" source="15">(812) 375-6190</attr>
+      <attr type="location" source="15">Indiana</attr>
+      <attr type="email" source="15">resumes@reliable-net.net</attr>
+      <attr type="occupation" source="29">Author</attr>
+      <attr type="website" source="29">http://www.executivecareerpro.com/index.htm</attr>
+      <attr type="occupation" source="29">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="92">professional resume writer</attr>
+      <attr type="occupation" source="92">owner</attr>
+      <attr type="affiliation" source="92">Career Change Resumes</attr>
+      <attr type="website" source="92">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="14">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="14">President</attr>
+      <attr type="location" source="14">Columbus, Indiana</attr>
+      <attr type="affiliation" source="14">Fisher Career Group</attr>
+      <attr type="occupation" source="14">Career Advancement Strategist</attr>
+      <attr type="affiliation" source="61">Career Change Resumes</attr>
+      <attr type="phone" source="105">812-342-7978</attr>
+      <attr type="location" source="105">2928 Cross Creek Drive,Columbus, IN 47201</attr>
+      <attr type="affiliation" source="105">Career Change Resumes</attr>
+      <attr type="website" source="105">CareerChangeResumes.com</attr>
+      <attr type="occupation" source="105">CPRW</attr>
+      <attr type="email" source="105">RitaFisher55@comcast.net</attr>
+      <attr type="fax" source="105">928-569-5114</attr>
+      <attr type="occupation" source="105">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="105">Owner</attr>
+      <attr type="website" source="96">http://www.ResumeWritingForPros.com</attr>
+      <attr type="email" source="96">RitaFisher33@comcast.net</attr>
+      <attr type="occupation" source="96">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="96">CPRW</attr>
+      <attr type="occupation" source="96">Owner</attr>
+      <attr type="phone" source="52">866-645-6350</attr>
+      <attr type="website" source="52">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="52">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="94">professional resume writer</attr>
+      <attr type="occupation" source="94">owner</attr>
+      <attr type="affiliation" source="94">Career Change Resumes</attr>
+      <attr type="website" source="94">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="51">Owner</attr>
+      <attr type="email" source="51">RitaFisher55@comcast.net</attr>
+      <attr type="occupation" source="51">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="51">CPRW</attr>
+      <attr type="location" source="51">Career Change Resumes 2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="fax" source="51">928-569-5114</attr>
+      <attr type="affiliation" source="51">Career Change Resumes</attr>
+      <attr type="website" source="51">http://www.careerchangeresumes.com</attr>
+      <attr type="website" source="51">http://www.CareerChangeResumes.com</attr>
+      <attr type="phone" source="51">812-342-7978</attr>
+      <attr type="occupation" source="112">Certified Professional Resume Writer</attr>
+      <attr type="website" source="112">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="76">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="76">Career Change Resumes</attr>
+      <attr type="website" source="76">http://www.careerchangeresumes.com/</attr>
+      <attr type="occupation" source="76">CPRW</attr>
+      <attr type="work" source="58">The Job Hunt Manual</attr>
+      <attr type="work" source="58">How To Create a Career Change Resume</attr>
+      <attr type="website" source="58">http://www.fishercareergroup.com/</attr>
+      <attr type="occupation" source="58">author</attr>
+      <attr type="occupation" source="58">Resume Preparation Counsellor</attr>
+      <attr type="location" source="58">USA</attr>
+      <attr type="affiliation" source="58">Fisher Career Group</attr>
+      <attr type="occupation" source="58">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="58">CEO</attr>
+      <attr type="email" source="71">resumes@reliable-net.net</attr>
+      <attr type="occupation" source="71">Certified Professional Resume Writer</attr>
+      <attr type="website" source="71">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="91">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="91">Expert Author</attr>
+      <attr type="affiliation" source="91">Career Change Resumes</attr>
+      <attr type="occupation" source="91">Author</attr>
+      <attr type="website" source="91">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="91">CPRW</attr>
+      <attr type="email" source="83">RitaFisher55@comcast.net</attr>
+      <attr type="affiliation" source="83">Career Change Resumes</attr>
+      <attr type="occupation" source="83">CPRW</attr>
+      <attr type="website" source="83">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="83">Certified Professional Resume Writer</attr>
+      <attr type="website" source="115">http://www.ResumeWritingForPros.com</attr>
+      <attr type="occupation" source="115">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="115">Owner</attr>
+      <attr type="affiliation" source="8">MedeliaMonitor, The Voice of Women in America</attr>
+      <attr type="affiliation" source="8">WorldWIT (Women, Insights, Technology)</attr>
+      <attr type="affiliation" source="8">Columbus Toastmasters Club</attr>
+      <attr type="work" source="8">Military-to-Civilian Resumes and Letters: How to Best Communicate Your Strengths to Civilian Employers</attr>
+      <attr type="work" source="8">The Job Hunt Manual</attr>
+      <attr type="occupation" source="8">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="8">Coachville</attr>
+      <attr type="occupation" source="8">resume writer</attr>
+      <attr type="affiliation" source="8">Fisher Career Group</attr>
+      <attr type="location" source="8">state of Indiana</attr>
+      <attr type="occupation" source="8">writer</attr>
+      <attr type="affiliation" source="8">Seton Hill University National Education Center for Women in Business</attr>
+      <attr type="occupation" source="8">President</attr>
+      <attr type="affiliation" source="8">National Council on Asian American Business Associations</attr>
+      <attr type="occupation" source="8">CPRW</attr>
+      <attr type="work" source="8">How To Create a Career Change Resume</attr>
+      <attr type="occupation" source="8">CEO</attr>
+      <attr type="occupation" source="132">CPRW</attr>
+      <attr type="website" source="132">http://www.ResumeWritingForPros.com</attr>
+      <attr type="website" source="39">http://www.executivecareerpro.com/index.htm</attr>
+      <attr type="occupation" source="39">Certified Professional Resume Writer</attr>
+      <attr type="website" source="108">http://www.careerchangeresumes.com</attr>
+      <attr type="occupation" source="108">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="108">Career Change Resumes</attr>
+      <attr type="occupation" source="108">owner</attr>
+      <attr type="occupation" source="108">Career Expert</attr>
+      <attr type="website" source="95">http://www.ResumeWritingForPros.com</attr>
+      <attr type="occupation" source="95">CPRW</attr>
+      <attr type="occupation" source="101">Certified Professional Resume Writer</attr>
+      <attr type="website" source="101">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="101">CPRW</attr>
+      <attr type="occupation" source="77">CPRW</attr>
+      <attr type="occupation" source="77">owner</attr>
+      <attr type="occupation" source="77">Career Expert</attr>
+      <attr type="occupation" source="77">Certified Professional Resume Writer</attr>
+      <attr type="website" source="77">http://www.CareerChangeResumes.com</attr>
+      <attr type="email" source="77">resumes@reliable-net.net</attr>
+      <attr type="affiliation" source="77">Career Change Resumes</attr>
+      <attr type="location" source="22">Columbus, IN USA</attr>
+      <attr type="occupation" source="22">Executive Director</attr>
+      <attr type="affiliation" source="22">Career Change Resumes</attr>
+      <attr type="occupation" source="110">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="110">CPRW</attr>
+      <attr type="website" source="110">http://www.CareerChangeResumes.com</attr>
+      <attr type="affiliation" source="110">Career Change Resumes</attr>
+      <attr type="occupation" source="30">CPRW</attr>
+      <attr type="occupation" source="30">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="30">Career Change Resumes</attr>
+      <attr type="occupation" source="30">Author</attr>
+      <attr type="website" source="30">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="54">Entrepreneur</attr>
+      <attr type="phone" source="54">812-342-7978</attr>
+      <attr type="school" source="54">Professional Association of Resume Writers and Career Coaches</attr>
+      <attr type="occupation" source="54">Certified Professional Resume Writer</attr>
+      <attr type="website" source="54">http://www.MomResumes.com</attr>
+      <attr type="affiliation" source="54">Resume Writing For Pros</attr>
+      <attr type="affiliation" source="54">Mom Resumes</attr>
+      <attr type="affiliation" source="54">Best Career Change Resumes</attr>
+      <attr type="occupation" source="114">CPRW</attr>
+      <attr type="occupation" source="114">Certified Professional Resume Writer</attr>
+      <attr type="website" source="114">http://www.CareerChangeResumes.com</attr>
+      <attr type="email" source="75">resumes@reliable-net.net</attr>
+      <attr type="website" source="75">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="75">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="75">CPRW</attr>
+      <attr type="affiliation" source="75">Career Change Resumes</attr>
+      <attr type="occupation" source="60">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="60">Career Change Resumes</attr>
+      <attr type="website" source="60">http://www.careerchangeresumes.com</attr>
+      <attr type="occupation" source="60">Resume Expert</attr>
+      <attr type="occupation" source="60">Entrepreneurial Parent</attr>
+      <attr type="occupation" source="60">entrepreneurial parents</attr>
+      <attr type="phone" source="60">(812) 375-6190</attr>
+      <attr type="occupation" source="60">Owner</attr>
+      <attr type="occupation" source="60">business people</attr>
+      <attr type="website" source="148">http://www.CareerChangeResumes.com</attr>
+      <attr type="affiliation" source="148">Career Change Resumes</attr>
+      <attr type="occupation" source="148">CPRW</attr>
+      <attr type="occupation" source="79">Entrepreneur</attr>
+      <attr type="location" source="79">Columbus, Indiana</attr>
+      <attr type="website" source="79">www.resumesformoms.com</attr>
+      <attr type="occupation" source="79">professional resume writer</attr>
+      <attr type="fax" source="59">928-569-5114</attr>
+      <attr type="occupation" source="59">Owner</attr>
+      <attr type="work" source="59">Job Hunt Manual</attr>
+      <attr type="occupation" source="59">Certified Professional Resume Writer</attr>
+      <attr type="location" source="59">2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="email" source="59">RitaFisher33@comcast.net</attr>
+      <attr type="affiliation" source="59">ResumeWritingForPros.com</attr>
+      <attr type="phone" source="59">812-342-7978</attr>
+      <attr type="occupation" source="59">Resume Writer</attr>
+      <attr type="website" source="59">http://www.ResumeWritingForPros.com</attr>
+      <attr type="phone" source="106">812-342-7978</attr>
+      <attr type="website" source="106">http://www.MomResumes.com</attr>
+      <attr type="fax" source="106">928-569-5114</attr>
+      <attr type="occupation" source="106">entrepreneur</attr>
+      <attr type="affiliation" source="106">Mom Resumes</attr>
+      <attr type="occupation" source="106">President</attr>
+      <attr type="email" source="106">RitaFisher@comcast.net</attr>
+      <attr type="affiliation" source="106">Resume Writing For Pros</attr>
+      <attr type="location" source="106">2928 Cross Creek Drive, Columbus, IN 47201</attr>
+      <attr type="location" source="106">Columbus</attr>
+      <attr type="school" source="106">Professional Association of Resume Writers and Career Coaches</attr>
+      <attr type="affiliation" source="106">Best Career Change Resumes</attr>
+      <attr type="occupation" source="106">Certified Professional Resume Writer</attr>
+      <attr type="affiliation" source="63">FitEmployee.com</attr>
+      <attr type="occupation" source="63">professional instructor</attr>
+      <attr type="phone" source="63">812.342.7978</attr>
+      <attr type="phone" source="63">812-342-7978</attr>
+      <attr type="email" source="63">RitaFisher33@comcast.net</attr>
+      <attr type="affiliation" source="1">Career Change Resumes</attr>
+      <attr type="occupation" source="1">Certified Professional Resume Writer</attr>
+      <attr type="occupation" source="111">CPRW</attr>
+      <attr type="occupation" source="111">Certified Professional Resume Writer</attr>
+      <attr type="website" source="111">http://www.CareerChangeResumes.com</attr>
+      <attr type="occupation" source="141">Professional Resume Writer</attr>
+      <attr type="location" source="141">Columbus, Indiana</attr>
+      <attr type="email" source="141">RitaFisher33@comcast.net</attr>
+      <attr type="website" source="141">http://www.FisherCareerGroup.com</attr>
+      <attr type="phone" source="141">812.342.7978</attr>
+      <attr type="occupation" source="141">Certified Professional Resume Writer</attr>
+      <attr type="location" source="141">Fisher Career Group 2928 Cross Creek Drive, Columbus, Indiana 47201</attr>
+      <attr type="affiliation" source="141">Fisher Career Group</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="57" />
+      <doc rank="78" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="57">Utley</attr>
+      <attr type="relatives" source="57">Rose</attr>
+      <attr type="relatives" source="57">Georgia Fisher</attr>
+      <attr type="relatives" source="57">Georgia</attr>
+      <attr type="relatives" source="57">Rose Mary Fisher</attr>
+      <attr type="relatives" source="57">Mary Utley</attr>
+      <attr type="relatives" source="78">Utley</attr>
+      <attr type="relatives" source="78">Mary Utley</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="134" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="134">2004-2005 Board of Directors</attr>
+      <attr type="occupation" source="134">Secretary</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="56">hostess</attr>
+      <attr type="location" source="56">Wentworth Falls</attr>
+      <attr type="affiliation" source="56">MOMENTS</attr>
+      <attr type="location" source="56">86 Fletcher St, Wentworth Falls, Blue Mountains, Sydney</attr>
+      <attr type="affiliation" source="56">Moments</attr>
+      <attr type="location" source="56">86 Fletcher St Wentworth Falls 2782 Australia</attr>
+      <attr type="affiliation" source="56">Moments B&amp;B</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="44" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="44">FREEDOM OF INFORMATION ACT</attr>
+      <attr type="phone" source="44">917-790-8060</attr>
+      <attr type="occupation" source="44">Assistant Freedom of information Act Officer</attr>
+      <attr type="email" source="44">foia-nan@usace.army.mil</attr>
+      <attr type="location" source="44">U.S. Army Corps of Engineers 26 Federal Plaza Office of Counsel, Room 1837 New York , NY 10278-0090</attr>
+      <attr type="affiliation" source="44">U.S. Army Corps of Engineers</attr>
+      <attr type="fax" source="44">212-264-8171</attr>
+      <attr type="website" source="44">http://www.hq.usace.army.mil/CECI/FOIA/index.htm</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="72">Dr.</attr>
+      <attr type="occupation" source="72">Assistant Superintendent</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="73">Rita Fisher-Walsh</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="68" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="68">Meter Maid</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="104" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="7" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="7">Director</attr>
+      <attr type="location" source="7">Greater Chicago Area</attr>
+      <attr type="affiliation" source="7">GIS Technology Mgmt</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="26" />
+      <doc rank="2" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="11" />
+      <doc rank="121" />
+      <doc rank="3" />
+      <doc rank="6" />
+      <doc rank="123" />
+    </documents>
+    <attributes>
+      <attr type="work" source="11">Mortuary Behavior at Upper Nodena</attr>
+      <attr type="othername" source="11">Rita Fisher-Carroll</attr>
+      <attr type="occupation" source="121">President</attr>
+      <attr type="phone" source="121">304-526-1259</attr>
+      <attr type="othername" source="121">Rita Fisher Carroll</attr>
+      <attr type="email" source="121">rfisher@st-marys.org</attr>
+      <attr type="affiliation" source="121">2007 Board of Directors</attr>
+      <attr type="work" source="3">Mortuary Behavior at Upper Nodena</attr>
+      <attr type="othername" source="3">Rita Fisher-Carroll</attr>
+      <attr type="othername" source="6">Rita Fisher-Carroll</attr>
+      <attr type="work" source="6">Mortuary Behavior at Upper Nodena</attr>
+      <attr type="email" source="123">rfisher@st-marys.org</attr>
+      <attr type="location" source="123">2900 First Avenue Huntington WV 25702</attr>
+      <attr type="phone" source="123">304.526.1259</attr>
+      <attr type="othername" source="123">Rita Fisher-Carroll</attr>
+      <attr type="occupation" source="123">Program Director</attr>
+      <attr type="degree" source="123">Ph.D.</attr>
+      <attr type="affiliation" source="123">St. Mary&apos;s Medical Center School for Medical Imaging</attr>
+      <attr type="occupation" source="123">R.T.</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="70" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="70">Laurie</attr>
+      <attr type="location" source="70">NE</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="103" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="109" />
+      <doc rank="107" />
+    </documents>
+    <attributes>
+      <attr type="location" source="109">Los Gatos, California</attr>
+      <attr type="email" source="109">rgfisher@earthlink.net</attr>
+      <attr type="email" source="107">rgfisher@earthlink.net</attr>
+      <attr type="location" source="107">Los Gatos, California</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="81" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="81">President</attr>
+      <attr type="affiliation" source="81">United States Agricultural Information Network</attr>
+      <attr type="affiliation" source="81">USAIN</attr>
+      <attr type="affiliation" source="81">User Access and Retrieval</attr>
+    </attributes>
+  </entity>
+</clustering>

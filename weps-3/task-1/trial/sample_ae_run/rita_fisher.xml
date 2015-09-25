@@ -1,0 +1,315 @@
+<clustering searchString="RITA FISHER">
+  <entity id="1">
+    <documents>
+      <doc rank="104" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="18" />
+      <doc rank="21" />
+      <doc rank="129" />
+      <doc rank="74" />
+    </documents>
+    <attributes>
+      <attr type="website" source="18">http://www.SmileMailer.com</attr>
+      <attr type="location" source="18">Columbus, IN, USA</attr>
+      <attr type="phone" source="129">812-342-7978</attr>
+      <attr type="email" source="129">SmileMailer@comcast.net</attr>
+      <attr type="affiliation" source="129">SmileMailer.com</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="5" />
+      <doc rank="62" />
+      <doc rank="34" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="5">Metcalf Elementary School</attr>
+      <attr type="occupation" source="5">Science Teacher</attr>
+      <attr type="school" source="5">Illinois State University</attr>
+      <attr type="major" source="5">Elementary Education</attr>
+      <attr type="degree" source="5">MSE</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="26" />
+      <doc rank="2" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="3" />
+      <doc rank="121" />
+      <doc rank="11" />
+      <doc rank="6" />
+      <doc rank="123" />
+    </documents>
+    <attributes>
+      <attr type="work" source="3">Mortuary Behavior at Upper Nodena</attr>
+      <attr type="othername" source="3">Rita Fisher-Carroll</attr>
+      <attr type="affiliation" source="121">2007 Board of Directors</attr>
+      <attr type="phone" source="121">304-526-1259</attr>
+      <attr type="occupation" source="121">President</attr>
+      <attr type="email" source="121">rfisher@st-marys.org</attr>
+      <attr type="location" source="123">2900 First Avenue Huntington WV 25702</attr>
+      <attr type="degree" source="123">Ph.D.</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="award" source="69">TCI&apos;s Woman of the Year</attr>
+      <attr type="affiliation" source="69">Hartford Heights Tall Club</attr>
+      <attr type="occupation" source="69">National Finance Officer</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="38" />
+      <doc rank="65" />
+      <doc rank="144" />
+      <doc rank="146" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="38">PFLAG (Parents, Families and Friends of Lesbian &amp; Gays) NYC</attr>
+      <attr type="othername" source="38">Fischer</attr>
+      <attr type="website" source="38">www.aidswalk.net/newyork/</attr>
+      <attr type="birthplace" source="38">Brooklyn</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="103" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="107" />
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="email" source="107">rgfisher@earthlink.net</attr>
+      <attr type="location" source="107">Los Gatos, California</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="28">(770) 495-7770</attr>
+      <attr type="affiliation" source="28">Fisher Engineering, Inc</attr>
+      <attr type="location" source="28">10050 Medlock Ste 100, Duluth, GA 30097, United States</attr>
+      <attr type="occupation" source="28">President</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="56">hostess</attr>
+      <attr type="affiliation" source="56">Moments B&amp;B</attr>
+      <attr type="location" source="56">86 Fletcher St, Wentworth Falls, Blue Mountains, Sydney</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="7" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="7">Director</attr>
+      <attr type="affiliation" source="7">GIS Technology Mgmt</attr>
+      <attr type="location" source="7">Greater Chicago Area</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="48" />
+      <doc rank="105" />
+      <doc rank="132" />
+      <doc rank="79" />
+      <doc rank="89" />
+      <doc rank="54" />
+      <doc rank="14" />
+      <doc rank="114" />
+      <doc rank="52" />
+      <doc rank="59" />
+      <doc rank="108" />
+      <doc rank="39" />
+      <doc rank="112" />
+      <doc rank="16" />
+      <doc rank="136" />
+      <doc rank="94" />
+      <doc rank="49" />
+      <doc rank="17" />
+      <doc rank="111" />
+      <doc rank="41" />
+      <doc rank="95" />
+      <doc rank="35" />
+      <doc rank="8" />
+      <doc rank="1" />
+      <doc rank="29" />
+      <doc rank="92" />
+      <doc rank="101" />
+      <doc rank="31" />
+      <doc rank="75" />
+      <doc rank="91" />
+      <doc rank="130" />
+      <doc rank="133" />
+      <doc rank="76" />
+      <doc rank="135" />
+      <doc rank="61" />
+      <doc rank="77" />
+      <doc rank="15" />
+      <doc rank="40" />
+      <doc rank="45" />
+      <doc rank="51" />
+      <doc rank="141" />
+      <doc rank="140" />
+      <doc rank="63" />
+      <doc rank="53" />
+      <doc rank="96" />
+      <doc rank="87" />
+      <doc rank="110" />
+      <doc rank="93" />
+      <doc rank="115" />
+      <doc rank="58" />
+      <doc rank="30" />
+      <doc rank="71" />
+      <doc rank="60" />
+      <doc rank="106" />
+      <doc rank="22" />
+      <doc rank="148" />
+      <doc rank="83" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="48">ResumesForMoms.com</attr>
+      <attr type="phone" source="48">888-587-0064</attr>
+      <attr type="website" source="48">http://www.ResumesForMoms.com</attr>
+      <attr type="email" source="48">almas@reliable-net.net</attr>
+      <attr type="location" source="48">ResumesForMoms.com 2826 Hawcreek Blvd. Columbus, IN 47203</attr>
+      <attr type="occupation" source="48">Mompreneur</attr>
+      <attr type="fax" source="105">928-569-5114</attr>
+      <attr type="school" source="54">Professional Association of Resume Writers and Career Coaches</attr>
+      <attr type="work" source="59">Job Hunt Manual</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="80" />
+    </documents>
+    <attributes>
+      <attr type="location" source="80">Blue Mountains</attr>
+      <attr type="affiliation" source="80">Stacks/Blue Mountains</attr>
+      <attr type="relatives" source="80">Robert Fisher</attr>
+      <attr type="occupation" source="80">principal solicitor</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="78" />
+      <doc rank="57" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="78">Utley</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="10" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="10">Rita E. (Pouliot) Fisher</attr>
+      <attr type="relatives" source="10">Donald</attr>
+      <attr type="birthplace" source="10">Lewiston</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="68" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="68">Meter Maid</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="73">Rita Fisher-Walsh</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="70" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="70">Laurie</attr>
+      <attr type="location" source="70">NE</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="134" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="134">2004-2005 Board of Directors</attr>
+      <attr type="occupation" source="134">Secretary</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="13" />
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="13">ritafisher</attr>
+      <attr type="location" source="13">Antelope, CA United States</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="81" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="81">United States Agricultural Information Network</attr>
+      <attr type="occupation" source="81">President</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="44" />
+    </documents>
+    <attributes>
+      <attr type="email" source="44">foia-nan@usace.army.mil</attr>
+      <attr type="affiliation" source="44">U.S. Army Corps of Engineers</attr>
+      <attr type="website" source="44">http://www.hq.usace.army.mil/CECI/FOIA/index.htm</attr>
+      <attr type="phone" source="44">917-790-8060</attr>
+      <attr type="occupation" source="44">Assistant Freedom of information Act Officer</attr>
+      <attr type="location" source="44">U.S. Army Corps of Engineers 26 Federal Plaza Office of Counsel, Room 1837 New York , NY 10278-0090</attr>
+      <attr type="fax" source="44">212-264-8171</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="72">Dr.</attr>
+      <attr type="occupation" source="72">Assistant Superintendent</attr>
+    </attributes>
+  </entity>
+</clustering>

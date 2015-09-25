@@ -1,0 +1,253 @@
+<clustering searchString="AMANDA LENTZ">
+  <entity id="1">
+    <documents>
+      <doc rank="99" />
+      <doc rank="104" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="22" />
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="location" source="22">West Bend</attr>
+      <attr type="occupation" source="22">Full time students</attr>
+      <attr type="affiliation" source="22">University of Wisconsin-Washington County</attr>
+      <attr type="school" source="29">UW-Washington County</attr>
+      <attr type="degree" source="29">Associate Degrees</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="1" />
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="work" source="1">Rosa Was Here</attr>
+      <attr type="occupation" source="1">Actress</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="6" />
+      <doc rank="3" />
+      <doc rank="2" />
+      <doc rank="86" />
+      <doc rank="60" />
+    </documents>
+    <attributes>
+      <attr type="award" source="2">North Carolina Young Author Award</attr>
+      <attr type="affiliation" source="2">Wake Forest University Baptist Medical Center</attr>
+      <attr type="location" source="2">Stony Point, North Carolina, United States</attr>
+      <attr type="email" source="2">alentz@wfubmc.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="45" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="location" source="85">Juneau</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="52" />
+      <doc rank="92" />
+      <doc rank="44" />
+      <doc rank="67" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="52">Lance Jewell</attr>
+      <attr type="location" source="52">Kalamazoo</attr>
+      <attr type="affiliation" source="44">Kalamazoo Comstock High School</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="91" />
+      <doc rank="114" />
+      <doc rank="123" />
+      <doc rank="8" />
+      <doc rank="84" />
+      <doc rank="41" />
+      <doc rank="82" />
+      <doc rank="33" />
+      <doc rank="116" />
+      <doc rank="39" />
+      <doc rank="53" />
+      <doc rank="106" />
+      <doc rank="113" />
+      <doc rank="109" />
+      <doc rank="80" />
+      <doc rank="11" />
+      <doc rank="56" />
+      <doc rank="58" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="91">Silvia&apos;s</attr>
+      <attr type="occupation" source="114">athletes</attr>
+      <attr type="nationality" source="114">USA</attr>
+      <attr type="location" source="8">Lubbock</attr>
+      <attr type="mentor" source="11">Marilyn Downing</attr>
+      <attr type="birthplace" source="11">Seminole</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+      <attr type="major" source="90">Dental Assisting</attr>
+      <attr type="affiliation" source="90">NEW HAMPSHIRE TECHNICAL INSTITUTE</attr>
+      <attr type="location" source="90">NASHUA</attr>
+      <attr type="occupation" source="90">students</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="87">Sue Shuemaker</attr>
+      <attr type="dateofbirth" source="87">February 24th</attr>
+      <attr type="othername" source="87">Cupcake</attr>
+      <attr type="occupation" source="87">Freshman</attr>
+      <attr type="major" source="87">Social Work</attr>
+      <attr type="affiliation" source="87">Philanthropy and VP of Public Relations</attr>
+      <attr type="email" source="87">Rum5288@cup.edu</attr>
+      <attr type="birthplace" source="87">Pittsburgh, PA</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="location" source="63">Conway</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="36" />
+      <doc rank="38" />
+      <doc rank="37" />
+      <doc rank="89" />
+      <doc rank="5" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="36">FACULTY</attr>
+      <attr type="school" source="38">Virginia Tech</attr>
+      <attr type="degree" source="38">PhD</attr>
+      <attr type="affiliation" source="38">Longwood University</attr>
+      <attr type="location" source="89">Richmond, VA 23284 USA</attr>
+      <attr type="major" source="5">Biology</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="26">MN State University</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="73" />
+      <doc rank="17" />
+      <doc rank="51" />
+      <doc rank="66" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="73">Larry Petersen</attr>
+      <attr type="affiliation" source="73">HHS</attr>
+      <attr type="occupation" source="51">Student workers</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="25" />
+    </documents>
+    <attributes>
+      <attr type="location" source="25">Alburtis</attr>
+      <attr type="affiliation" source="25">Lehigh Carbon Community College</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="42" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="42">Teacher</attr>
+      <attr type="affiliation" source="42">SHAKOPEE JR. HIGH</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="18">College Students</attr>
+      <attr type="affiliation" source="18">Penn State University</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="62" />
+      <doc rank="71" />
+      <doc rank="75" />
+      <doc rank="70" />
+      <doc rank="61" />
+      <doc rank="79" />
+      <doc rank="35" />
+      <doc rank="12" />
+      <doc rank="9" />
+      <doc rank="78" />
+      <doc rank="76" />
+      <doc rank="24" />
+      <doc rank="47" />
+      <doc rank="14" />
+      <doc rank="96" />
+      <doc rank="28" />
+      <doc rank="83" />
+      <doc rank="81" />
+      <doc rank="13" />
+      <doc rank="68" />
+      <doc rank="10" />
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="62">Penn State</attr>
+      <attr type="occupation" source="71">midfielder</attr>
+      <attr type="mentor" source="78">Paula Wilkins</attr>
+      <attr type="phone" source="76">(605) 353-7800</attr>
+      <attr type="fax" source="76">(605) 353-7807</attr>
+      <attr type="location" source="76">Huron, SD 57350-0949</attr>
+    </attributes>
+  </entity>
+</clustering>

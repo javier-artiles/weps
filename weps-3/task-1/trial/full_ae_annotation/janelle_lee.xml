@@ -1,0 +1,423 @@
+<clustering searchString="JANELLE LEE">
+  <entity id="1">
+    <documents>
+      <doc rank="41" />
+    </documents>
+    <attributes>
+      <attr type="location" source="41">827 Academy Street</attr>
+      <attr type="othername" source="41">Janelle Lee Gebo</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="53" />
+      <doc rank="149" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="53">scholarship student</attr>
+      <attr type="othername" source="53">Janelle Lee Chee</attr>
+      <attr type="location" source="53">Vienna, Austria</attr>
+      <attr type="othername" source="53">Lee Chee</attr>
+      <attr type="othername" source="149">Janelle Lee Chee</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="139" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="139">Jan Lee</attr>
+      <attr type="relatives" source="139">Brian</attr>
+      <attr type="relatives" source="139">Bruce</attr>
+      <attr type="relatives" source="139">Shirley Ann</attr>
+      <attr type="relatives" source="139">Alvin M.H. Lee</attr>
+      <attr type="relatives" source="139">Jill Barry</attr>
+      <attr type="relatives" source="139">Joelyn Nishioka</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="81" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="81">Janelle Lee Miller</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="63">Mulholland</attr>
+      <attr type="relatives" source="63">Michael</attr>
+      <attr type="othername" source="63">Janelle Lee Mulholland</attr>
+      <attr type="location" source="63">Perth, Australia</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="123" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="133" />
+      <doc rank="106" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="133">Janelle Lee Ericson</attr>
+      <attr type="occupation" source="133">Graduate</attr>
+      <attr type="major" source="133">Urban Planning</attr>
+      <attr type="othername" source="106">Janelle Lee Ericson</attr>
+      <attr type="major" source="106">Urban Planning</attr>
+      <attr type="occupation" source="106">Undergraduate</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="143" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="143">JANELLE LEE KUBINEC</attr>
+      <attr type="othername" source="143">Janelle Kubinec</attr>
+      <attr type="degree" source="143">MPP</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="4" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="73">Guidance Counselor</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="location" source="6">San Francisco Bay Area</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="136" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="136">photographers</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="16" />
+      <doc rank="146" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="16">Janelle Lee Woo</attr>
+      <attr type="major" source="16">Sociology</attr>
+      <attr type="school" source="16">Vanderbilt University</attr>
+      <attr type="degree" source="16">Ph. D</attr>
+      <attr type="degree" source="146">PhD</attr>
+      <attr type="mentor" source="146">Thoits, Peggy</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="17">601-634-4527</attr>
+      <attr type="occupation" source="17">Board Members</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="36" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="36">Lee,K. Janelle</attr>
+      <attr type="othername" source="36">K. Janelle Lee</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="39">Berkeley Economic Research Associates</attr>
+      <attr type="phone" source="39">510-653-1256</attr>
+      <attr type="degree" source="39">Dr.PH.</attr>
+      <attr type="fax" source="39">510-653-1257</attr>
+      <attr type="othername" source="39">Yi-Ju Janelle Lee</attr>
+      <attr type="email" source="39">janelle@bera.com</attr>
+      <attr type="occupation" source="39">Senior Research Scientist</attr>
+      <attr type="othername" source="39">Lee YJ</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="7" />
+      <doc rank="113" />
+      <doc rank="150" />
+      <doc rank="145" />
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="school" source="7">Long Reach High School</attr>
+      <attr type="school" source="7">Long Reach HS</attr>
+      <attr type="birthplace" source="7">Columbia, MD</attr>
+      <attr type="dateofbirth" source="7">5/27/87</attr>
+      <attr type="relatives" source="7">Bruce and Anita Lee</attr>
+      <attr type="occupation" source="7">SO</attr>
+      <attr type="affiliation" source="7">Hornets</attr>
+      <attr type="major" source="7">Sports Management</attr>
+      <attr type="occupation" source="7">Defense</attr>
+      <attr type="affiliation" source="113">DSU SAAC</attr>
+      <attr type="affiliation" source="113">DSU</attr>
+      <attr type="affiliation" source="113">Student-Athlete Advisory Committee</attr>
+      <attr type="affiliation" source="113">Student Athlete Advisory Committee</attr>
+      <attr type="occupation" source="113">Representitives</attr>
+      <attr type="affiliation" source="113">SAAC</attr>
+      <attr type="affiliation" source="113">Delaware State University</attr>
+      <attr type="occupation" source="150">Defense</attr>
+      <attr type="affiliation" source="150">Hornets</attr>
+      <attr type="school" source="150">Long Reach HS</attr>
+      <attr type="occupation" source="150">FR</attr>
+      <attr type="affiliation" source="150">Delaware State Hornets</attr>
+      <attr type="birthplace" source="150">Columbia, MD</attr>
+      <attr type="major" source="145">Sport Management</attr>
+      <attr type="occupation" source="145">student athletes</attr>
+      <attr type="occupation" source="145">student-athletes</attr>
+      <attr type="occupation" source="145">STUDENT-ATHLETES</attr>
+      <attr type="affiliation" source="145">Delaware State University</attr>
+      <attr type="affiliation" source="145">DSU</attr>
+      <attr type="affiliation" source="72">DSU</attr>
+      <attr type="affiliation" source="72">Hornets</attr>
+      <attr type="affiliation" source="72">Delaware State</attr>
+      <attr type="affiliation" source="72">D</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="62" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="142" />
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="dateofbirth" source="29">1988</attr>
+      <attr type="occupation" source="29">hair model</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="35" />
+      <doc rank="95" />
+    </documents>
+    <attributes>
+      <attr type="work" source="35">Cheese Crisps</attr>
+      <attr type="location" source="35">Sulphur, Louisiana</attr>
+      <attr type="location" source="95">Sulphur, Louisiana</attr>
+      <attr type="work" source="95">Cheese Crisps</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="37" />
+      <doc rank="91" />
+      <doc rank="68" />
+      <doc rank="80" />
+      <doc rank="64" />
+      <doc rank="119" />
+      <doc rank="148" />
+      <doc rank="85" />
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="68">Dr</attr>
+      <attr type="affiliation" source="68">Division of Research, Kaiser Permanente Medical Care Program</attr>
+      <attr type="location" source="68">Oakland, Calif</attr>
+      <attr type="degree" source="68">MHA</attr>
+      <attr type="degree" source="68">DrPH</attr>
+      <attr type="location" source="80">Oakland, California</attr>
+      <attr type="affiliation" source="80">Kaiser Permanente Division of Research</attr>
+      <attr type="degree" source="80">DrPH</attr>
+      <attr type="othername" source="80">J.L.</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="24" />
+      <doc rank="137" />
+    </documents>
+    <attributes>
+      <attr type="location" source="24">Singapore</attr>
+      <attr type="affiliation" source="24">Emerging Entertainment Pte Ltd</attr>
+      <attr type="website" source="137">http://www.emerging-entertainment.com</attr>
+      <attr type="location" source="137">Singapore</attr>
+      <attr type="affiliation" source="137">Emerging Entertainment Pte Ltd</attr>
+      <attr type="email" source="137">janelle@emerging-entertainment.com</attr>
+      <attr type="phone" source="137">+6563272269</attr>
+      <attr type="fax" source="137">+653272270</attr>
+      <attr type="affiliation" source="137">Emerging Entertainment</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="107" />
+    </documents>
+    <attributes>
+      <attr type="school" source="107">Singapore Polytechnic</attr>
+      <attr type="occupation" source="107">President</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="93">Daniel</attr>
+      <attr type="occupation" source="93">Physical rapist</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="84">West Essex</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="28" />
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="28">Aisha Janelle Lee</attr>
+      <attr type="othername" source="23">Aisha Janelle Lee</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="9" />
+      <doc rank="132" />
+    </documents>
+    <attributes>
+      <attr type="school" source="9">University of Cincinnati</attr>
+      <attr type="affiliation" source="9">Uptown Consortium</attr>
+      <attr type="affiliation" source="9">Consortium</attr>
+      <attr type="affiliation" source="9">human resources at the University of Cincinnati</attr>
+      <attr type="affiliation" source="9">Uptown Consortium Inc.</attr>
+      <attr type="location" source="9">West Chester</attr>
+      <attr type="school" source="9">UC</attr>
+      <attr type="website" source="9">www.uptownconsortium.org</attr>
+      <attr type="relatives" source="9">Ralph</attr>
+      <attr type="affiliation" source="9">Business Affairs</attr>
+      <attr type="occupation" source="9">Director</attr>
+      <attr type="degree" source="9">Associate Business Degree</attr>
+      <attr type="occupation" source="9">office manager</attr>
+      <attr type="affiliation" source="132">Uptown Consortium</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="31" />
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="31">Janelle Lee Hui Qin</attr>
+      <attr type="work" source="31">Fickle Fifi</attr>
+      <attr type="affiliation" source="31">Raffles Girls&apos; Primary School</attr>
+      <attr type="occupation" source="31">P4</attr>
+      <attr type="award" source="31">SCSA Veteran&apos;s Choice Award</attr>
+      <attr type="occupation" source="51">P4</attr>
+      <attr type="othername" source="51">Janelle Lee Hui Qin</attr>
+      <attr type="work" source="51">Fickle Fifi</attr>
+      <attr type="affiliation" source="51">Raffles Girls&apos; Primary School</attr>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="94" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="94">Board of Directors</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="96" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="96">eighth grader</attr>
+      <attr type="affiliation" source="96">Good Shepherd School</attr>
+    </attributes>
+  </entity>
+  <entity id="31">
+    <documents>
+      <doc rank="99" />
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="99">full-time undergraduate students</attr>
+      <attr type="location" source="99">ST. TAMMANY PARISH</attr>
+      <attr type="affiliation" source="99">SLU</attr>
+      <attr type="occupation" source="99">students</attr>
+      <attr type="location" source="99">Mandeville</attr>
+      <attr type="othername" source="99">Janelle Lee Krause</attr>
+      <attr type="affiliation" source="99">Southeastern Louisiana University</attr>
+      <attr type="occupation" source="87">full-time undergraduate students</attr>
+      <attr type="location" source="87">Mandeville</attr>
+      <attr type="occupation" source="87">students</attr>
+      <attr type="othername" source="87">Janelle Lee Krause</attr>
+      <attr type="affiliation" source="87">SLU</attr>
+      <attr type="location" source="87">ST. TAMMANY PARISH</attr>
+      <attr type="affiliation" source="87">Southeastern Louisiana University</attr>
+    </attributes>
+  </entity>
+  <entity id="32">
+    <documents>
+      <doc rank="33" />
+    </documents>
+    <attributes>
+      <attr type="location" source="33">Bellingham</attr>
+      <attr type="relatives" source="33">Brandon Lee</attr>
+      <attr type="relatives" source="33">Hank</attr>
+    </attributes>
+  </entity>
+  <entity id="33">
+    <documents>
+      <doc rank="82" />
+    </documents>
+    <attributes>
+      <attr type="school" source="82">Lincoln-Sudbury Regional High School</attr>
+      <attr type="school" source="82">Lincoln-Sudbury</attr>
+      <attr type="othername" source="82">Janelle Lee Anderson</attr>
+    </attributes>
+  </entity>
+  <entity id="34">
+    <documents>
+      <doc rank="102" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="102">Shelatz</attr>
+      <attr type="othername" source="102">Janelle Lee Shelatz</attr>
+      <attr type="location" source="102">Conneaut Lake</attr>
+    </attributes>
+  </entity>
+</clustering>

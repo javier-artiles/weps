@@ -1,0 +1,17 @@
+<!ELEMENT attr ( #PCDATA ) >
+<!ATTLIST attr source NMTOKEN #REQUIRED >
+<!ATTLIST attr type NMTOKEN #REQUIRED >
+
+<!ELEMENT attributes ( attr* ) >
+
+<!ELEMENT clustering ( entity+ ) >
+<!ATTLIST clustering searchString CDATA #REQUIRED >
+
+<!ELEMENT doc EMPTY >
+<!ATTLIST doc rank NMTOKEN #REQUIRED >
+
+<!ELEMENT documents ( doc+ ) >
+
+<!ELEMENT entity ( documents, attributes ) >
+<!ATTLIST entity id NMTOKEN #REQUIRED >
+

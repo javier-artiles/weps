@@ -1,0 +1,293 @@
+<clustering searchString="TAMER ELSAYED">
+  <entity id="1">
+    <documents>
+      <doc rank="32" />
+      <doc rank="104" />
+      <doc rank="72" />
+      <doc rank="52" />
+    </documents>
+    <attributes>
+      <attr type="location" source="32">Egypt</attr>
+      <attr type="email" source="32">tsergio@geocities.com</attr>
+      <attr type="website" source="32">http://www.geocities.com/Tropics/Shores/2283</attr>
+      <attr type="location" source="32">Alexandria</attr>
+      <attr type="degree" source="32">BBA</attr>
+      <attr type="birthplace" source="32">Cairo Egypt</attr>
+      <attr type="affiliation" source="104">Learn Dutch Connection</attr>
+      <attr type="location" source="104">EGYPT</attr>
+      <attr type="occupation" source="104">CONNECTORS</attr>
+      <attr type="location" source="72">OM</attr>
+      <attr type="occupation" source="72">Export Manager</attr>
+      <attr type="affiliation" source="72">Oman Textile Mills LLC</attr>
+      <attr type="affiliation" source="72">OTM</attr>
+      <attr type="affiliation" source="72">Oman TEXTILE MILLS</attr>
+      <attr type="affiliation" source="52">Oman Textile Mills LLC</attr>
+      <attr type="phone" source="52">968-9-5762155</attr>
+      <attr type="fax" source="52">39-02-700557299</attr>
+      <attr type="location" source="52">Road 14, P. O. Box 39, Rusayl, Muscat, Oman</attr>
+      <attr type="location" source="52">Oman</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="94" />
+      <doc rank="137" />
+      <doc rank="105" />
+      <doc rank="41" />
+      <doc rank="57" />
+      <doc rank="120" />
+      <doc rank="7" />
+      <doc rank="140" />
+      <doc rank="107" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="94">Poker</attr>
+      <attr type="occupation" source="94">players</attr>
+      <attr type="location" source="94">Riverside, California</attr>
+      <attr type="location" source="137">Riverside, California</attr>
+      <attr type="occupation" source="137">players</attr>
+      <attr type="birthplace" source="137">Riverside California</attr>
+      <attr type="occupation" source="137">Poker</attr>
+      <attr type="occupation" source="41">Poker</attr>
+      <attr type="affiliation" source="41">Cal Tech</attr>
+      <attr type="occupation" source="41">Ph.D. candidate</attr>
+      <attr type="location" source="41">Riverside, CA, USA</attr>
+      <attr type="occupation" source="57">PLAYER</attr>
+      <attr type="location" source="7">Riverside, CA, United States</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="113" />
+      <doc rank="148" />
+      <doc rank="60" />
+      <doc rank="59" />
+      <doc rank="150" />
+      <doc rank="147" />
+      <doc rank="119" />
+      <doc rank="51" />
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="148">Tamer Elsayed Ghoniem</attr>
+      <attr type="work" source="148">Ya-Rayi</attr>
+      <attr type="work" source="60">Ya-Rayi</attr>
+      <attr type="othername" source="60">Tamer Elsayed Ghoniem</attr>
+      <attr type="othername" source="59">Tamer Elsayed Ghoniem</attr>
+      <attr type="work" source="59">Ya-Rayi</attr>
+      <attr type="othername" source="150">Tamer Elsayed Ghoniem</attr>
+      <attr type="work" source="150">Ya-Rayi</attr>
+      <attr type="othername" source="147">Tamer Elsayed Ghoniem</attr>
+      <attr type="work" source="147">Ya-Rayi</attr>
+      <attr type="othername" source="119">Tamer Elsayed Ghoniem</attr>
+      <attr type="work" source="51">Ya-Rayi</attr>
+      <attr type="othername" source="51">Tamer Elsayed Ghoniem</attr>
+      <attr type="othername" source="63">Tamer Elsayed Ghoniem</attr>
+      <attr type="work" source="63">Ya-Rayi</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="66" />
+      <doc rank="115" />
+      <doc rank="34" />
+      <doc rank="75" />
+      <doc rank="131" />
+      <doc rank="12" />
+      <doc rank="127" />
+      <doc rank="123" />
+      <doc rank="97" />
+      <doc rank="88" />
+      <doc rank="125" />
+      <doc rank="58" />
+      <doc rank="142" />
+      <doc rank="70" />
+      <doc rank="136" />
+      <doc rank="101" />
+      <doc rank="110" />
+      <doc rank="98" />
+      <doc rank="2" />
+      <doc rank="17" />
+      <doc rank="78" />
+      <doc rank="8" />
+      <doc rank="9" />
+      <doc rank="62" />
+      <doc rank="61" />
+      <doc rank="10" />
+      <doc rank="71" />
+      <doc rank="138" />
+      <doc rank="73" />
+      <doc rank="84" />
+      <doc rank="22" />
+      <doc rank="76" />
+      <doc rank="46" />
+      <doc rank="68" />
+      <doc rank="65" />
+      <doc rank="1" />
+      <doc rank="28" />
+      <doc rank="21" />
+      <doc rank="134" />
+      <doc rank="108" />
+      <doc rank="91" />
+      <doc rank="93" />
+      <doc rank="11" />
+      <doc rank="118" />
+      <doc rank="133" />
+      <doc rank="42" />
+      <doc rank="56" />
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="12">University of Maryland College Park</attr>
+      <attr type="othername" source="12">Elsayed Tamer</attr>
+      <attr type="affiliation" source="127">Department of Computer Science University of Maryland, College Park</attr>
+      <attr type="location" source="127">Department of Computer Science, University of Maryland, College Park, MD 20742, USA</attr>
+      <attr type="affiliation" source="123">Department of Computer Science University of Maryland, College Park</attr>
+      <attr type="othername" source="125">T. Elsayed</attr>
+      <attr type="othername" source="142">Tamer Elsayed Mohamed</attr>
+      <attr type="occupation" source="70">graduate student</attr>
+      <attr type="affiliation" source="70">Maryland</attr>
+      <attr type="affiliation" source="70">Department of Computer Science</attr>
+      <attr type="affiliation" source="70">University of Maryland</attr>
+      <attr type="affiliation" source="70">Google</attr>
+      <attr type="affiliation" source="78">University of Maryland</attr>
+      <attr type="affiliation" source="62">University of Maryland College Park</attr>
+      <attr type="affiliation" source="73">Maryland</attr>
+      <attr type="occupation" source="73">graduate student</attr>
+      <attr type="affiliation" source="73">Google</attr>
+      <attr type="affiliation" source="73">Department of Computer Science</attr>
+      <attr type="affiliation" source="73">University of Maryland</attr>
+      <attr type="location" source="46">US</attr>
+      <attr type="affiliation" source="46">University of Maryland</attr>
+      <attr type="location" source="1">4132 A.V. Williams Bldg. College Park, MD 20742 University of Maryland</attr>
+      <attr type="affiliation" source="28">University of Maryland College Park</attr>
+      <attr type="affiliation" source="93">University of Maryland College Park</attr>
+      <attr type="location" source="93">USA</attr>
+      <attr type="affiliation" source="133">University of Maryland</attr>
+      <attr type="affiliation" source="42">University of Maryland College Park</attr>
+      <attr type="affiliation" source="56">University of Maryland College Park</attr>
+      <attr type="affiliation" source="109">University of Maryland College Park</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="145" />
+      <doc rank="53" />
+      <doc rank="30" />
+      <doc rank="18" />
+      <doc rank="77" />
+      <doc rank="4" />
+      <doc rank="3" />
+      <doc rank="44" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="145">Caltech</attr>
+      <attr type="occupation" source="53">GRADUATE STUDENTS</attr>
+      <attr type="mentor" source="53">Michael Ortiz</attr>
+      <attr type="affiliation" source="53">Caltech</attr>
+      <attr type="affiliation" source="53">Graduate Aerospace Laboratories CALTECH</attr>
+      <attr type="affiliation" source="53">Division of Engineering and Applied Science</attr>
+      <attr type="affiliation" source="53">GALCIT</attr>
+      <attr type="occupation" source="53">GRADUATE STUDENT</attr>
+      <attr type="affiliation" source="30">California Institute of Technology</attr>
+      <attr type="occupation" source="30">Graduate Students</attr>
+      <attr type="affiliation" source="30">Caltech</attr>
+      <attr type="affiliation" source="18">Caltech Galcit</attr>
+      <attr type="location" source="18">Thomas 310C</attr>
+      <attr type="phone" source="18">626-676-5130</attr>
+      <attr type="email" source="18">tamer@caltech.edu</attr>
+      <attr type="email" source="77">tamer@caltech</attr>
+      <attr type="mentor" source="77">Mike Vanier</attr>
+      <attr type="affiliation" source="4">Caltech</attr>
+      <attr type="affiliation" source="4">GALCIT</attr>
+      <attr type="occupation" source="4">Postdoctoral Scholar</attr>
+      <attr type="school" source="4">Ph.D. Candidate</attr>
+      <attr type="school" source="4">Graduate Student</attr>
+      <attr type="affiliation" source="4">NASA&apos;s Jet Propulsion Laboratory</attr>
+      <attr type="school" source="4">Al-Tabary Secondary School</attr>
+      <attr type="occupation" source="4">reviewer</attr>
+      <attr type="occupation" source="4">marketing executive</attr>
+      <attr type="degree" source="4">Doctor of Philosophy Degree</attr>
+      <attr type="major" source="4">Mechanical Engineering</attr>
+      <attr type="occupation" source="4">Private Tutor</attr>
+      <attr type="mentor" source="4">Guruswami Ravichandran</attr>
+      <attr type="occupation" source="4">Ph.D. Candidate</attr>
+      <attr type="email" source="4">Tamer@alumni.caltech.edu</attr>
+      <attr type="occupation" source="4">head teaching assistant</attr>
+      <attr type="affiliation" source="4">California Institute of Technology</attr>
+      <attr type="occupation" source="4">consultant</attr>
+      <attr type="occupation" source="4">Engineering and Mamatics Instructional Assistant</attr>
+      <attr type="school" source="4">CALIFORNIA INSTITUTE OF TECHNOLOGY</attr>
+      <attr type="affiliation" source="4">American Society of Mechanical Engineers</attr>
+      <attr type="degree" source="4">Master of Science Degree</attr>
+      <attr type="occupation" source="4">Mechanical Engineering Intern</attr>
+      <attr type="affiliation" source="4">Chaffey Community College</attr>
+      <attr type="occupation" source="4">Engineering Consultant</attr>
+      <attr type="occupation" source="4">Senior Scientist</attr>
+      <attr type="occupation" source="4">president</attr>
+      <attr type="website" source="4">http://www.aero.caltech.edu/~tamer/</attr>
+      <attr type="major" source="4">physics</attr>
+      <attr type="award" source="4">Mamatics student of the year</attr>
+      <attr type="occupation" source="4">Graduate Student</attr>
+      <attr type="affiliation" source="4">Pi Tau Sigma -  Mechanical Engineering Honor Society</attr>
+      <attr type="affiliation" source="4">nanoPrecision Products Inc</attr>
+      <attr type="major" source="4">mechanical engineering</attr>
+      <attr type="school" source="4">California Institute of Technology</attr>
+      <attr type="othername" source="4">T. El Sayed</attr>
+      <attr type="school" source="4">CALIFORNIA POLYTECHNIC UNIVERSITY (CAL POLY) POMONA</attr>
+      <attr type="mentor" source="4">Michael Ortiz</attr>
+      <attr type="major" source="4">mamatics</attr>
+      <attr type="occupation" source="4">Tutor</attr>
+      <attr type="occupation" source="4">Head Teaching Assistant</attr>
+      <attr type="school" source="4">CAL POLY</attr>
+      <attr type="affiliation" source="4">Dynamic Implants Inc</attr>
+      <attr type="affiliation" source="4">Tau Beta Pi -  All Engineering Honor Society</attr>
+      <attr type="school" source="4">Chaffey Community College</attr>
+      <attr type="occupation" source="4">instructional assistant</attr>
+      <attr type="mentor" source="4">Chris Brennen</attr>
+      <attr type="school" source="4">Cal Poly Pomona</attr>
+      <attr type="school" source="4">Caltech</attr>
+      <attr type="degree" source="4">Bachelor of Science</attr>
+      <attr type="affiliation" source="4">Tau Beta Pi (All Engineering Honor Society) at Cal Poly</attr>
+      <attr type="occupation" source="4">Engineer-in-Training</attr>
+      <attr type="affiliation" source="4">California Institute of Technology Graduate Aeronautical Laboratories</attr>
+      <attr type="degree" source="4">Associate Degree</attr>
+      <attr type="affiliation" source="4">Golden Key Honor Society</attr>
+      <attr type="degree" source="3">Dr</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="139" />
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="email" source="139">save@farous.com</attr>
+      <attr type="fax" source="139">+2034809350</attr>
+      <attr type="affiliation" source="139">Farous Salvage</attr>
+      <attr type="phone" source="139">+20121803265</attr>
+      <attr type="affiliation" source="47">Farous Group</attr>
+      <attr type="affiliation" source="47">Farous Salvage and Rigging</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="location" source="6">Trieste Area, Italy</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="55" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="location" source="55">Muscat, OM</attr>
+      <attr type="othername" source="55">tamerinho</attr>
+      <attr type="othername" source="54">tamerinho</attr>
+      <attr type="location" source="54">Muscat, OM</attr>
+    </attributes>
+  </entity>
+</clustering>

@@ -1,0 +1,754 @@
+<clustering searchString="BERTRAM BROOKER">
+  <entity id="1">
+    <documents>
+      <doc rank="93" />
+      <doc rank="91" />
+      <doc rank="55" />
+      <doc rank="43" />
+      <doc rank="5" />
+      <doc rank="74" />
+      <doc rank="27" />
+      <doc rank="15" />
+      <doc rank="60" />
+      <doc rank="94" />
+      <doc rank="85" />
+      <doc rank="3" />
+      <doc rank="61" />
+      <doc rank="1" />
+      <doc rank="82" />
+      <doc rank="51" />
+      <doc rank="92" />
+      <doc rank="22" />
+      <doc rank="36" />
+      <doc rank="34" />
+      <doc rank="25" />
+      <doc rank="83" />
+      <doc rank="18" />
+      <doc rank="70" />
+      <doc rank="87" />
+      <doc rank="21" />
+      <doc rank="11" />
+      <doc rank="99" />
+      <doc rank="64" />
+      <doc rank="78" />
+      <doc rank="35" />
+      <doc rank="16" />
+      <doc rank="65" />
+      <doc rank="63" />
+      <doc rank="49" />
+      <doc rank="14" />
+      <doc rank="53" />
+      <doc rank="45" />
+      <doc rank="17" />
+      <doc rank="86" />
+      <doc rank="106" />
+      <doc rank="12" />
+      <doc rank="42" />
+      <doc rank="23" />
+      <doc rank="37" />
+      <doc rank="10" />
+      <doc rank="102" />
+      <doc rank="7" />
+      <doc rank="57" />
+      <doc rank="66" />
+      <doc rank="105" />
+      <doc rank="4" />
+      <doc rank="8" />
+      <doc rank="114" />
+      <doc rank="28" />
+      <doc rank="38" />
+      <doc rank="113" />
+      <doc rank="88" />
+      <doc rank="109" />
+      <doc rank="111" />
+      <doc rank="31" />
+      <doc rank="110" />
+      <doc rank="2" />
+      <doc rank="40" />
+      <doc rank="96" />
+      <doc rank="68" />
+      <doc rank="69" />
+      <doc rank="20" />
+      <doc rank="44" />
+      <doc rank="47" />
+      <doc rank="115" />
+      <doc rank="26" />
+      <doc rank="46" />
+      <doc rank="13" />
+      <doc rank="104" />
+      <doc rank="56" />
+      <doc rank="81" />
+      <doc rank="54" />
+      <doc rank="97" />
+      <doc rank="75" />
+      <doc rank="73" />
+      <doc rank="72" />
+      <doc rank="41" />
+      <doc rank="29" />
+      <doc rank="100" />
+      <doc rank="9" />
+      <doc rank="79" />
+      <doc rank="67" />
+      <doc rank="24" />
+      <doc rank="6" />
+      <doc rank="30" />
+      <doc rank="84" />
+      <doc rank="76" />
+      <doc rank="89" />
+      <doc rank="95" />
+      <doc rank="19" />
+      <doc rank="108" />
+      <doc rank="107" />
+    </documents>
+    <attributes>
+      <attr type="work" source="91">Alleluiah</attr>
+      <attr type="occupation" source="91">author</attr>
+      <attr type="dateofbirth" source="91">March 31</attr>
+      <attr type="occupation" source="91">Author</attr>
+      <attr type="dateofbirth" source="91">1888</attr>
+      <attr type="work" source="43">Leaf Sonata</attr>
+      <attr type="occupation" source="43">artist</attr>
+      <attr type="nationality" source="43">Canadian</attr>
+      <attr type="location" source="43">Canada</attr>
+      <attr type="work" source="43">Sounds Assembling</attr>
+      <attr type="location" source="5">Canada</attr>
+      <attr type="occupation" source="5">Artists</attr>
+      <attr type="nationality" source="5">Canadian</attr>
+      <attr type="dateofbirth" source="5">1888</attr>
+      <attr type="work" source="74">Think of the Earth</attr>
+      <attr type="work" source="27">The Robber</attr>
+      <attr type="work" source="27">Think of the Earth</attr>
+      <attr type="work" source="27">The Tangled Miracle</attr>
+      <attr type="work" source="27">Sounds Assembling: the Poetry of Bertram Brooker</attr>
+      <attr type="dateofbirth" source="27">1888</attr>
+      <attr type="birthplace" source="27">Croyden, England</attr>
+      <attr type="dateofbirth" source="15">1888</attr>
+      <attr type="othername" source="15">Brooker, Bertram</attr>
+      <attr type="work" source="60">Fantasy</attr>
+      <attr type="othername" source="60">Bertie</attr>
+      <attr type="occupation" source="60">musician</attr>
+      <attr type="location" source="60">Canada</attr>
+      <attr type="affiliation" source="60">Arts and Letters Club</attr>
+      <attr type="affiliation" source="60">Canadian Group of Painters</attr>
+      <attr type="location" source="60">Portage la Prairie</attr>
+      <attr type="occupation" source="60">painter</attr>
+      <attr type="occupation" source="60">Painters</attr>
+      <attr type="occupation" source="60">charter member</attr>
+      <attr type="work" source="60">Tree Fantasy</attr>
+      <attr type="occupation" source="60">writer</attr>
+      <attr type="nationality" source="60">Canadian</attr>
+      <attr type="work" source="60">Think of the Earth</attr>
+      <attr type="mentor" source="60">LeMoine FitzGerald</attr>
+      <attr type="award" source="60">Governor General&#65533;fs Award</attr>
+      <attr type="work" source="60">Ascending Forms</attr>
+      <attr type="location" source="60">Winnipeg</attr>
+      <attr type="work" source="60">The Cloud</attr>
+      <attr type="dateofbirth" source="60">1888</attr>
+      <attr type="award" source="3">Governor General&apos;s award</attr>
+      <attr type="work" source="3">Title Unknown 1</attr>
+      <attr type="work" source="3">The Robber</attr>
+      <attr type="location" source="3">Canada</attr>
+      <attr type="work" source="3">The Cloud</attr>
+      <attr type="work" source="3">Muskoka Lake</attr>
+      <attr type="location" source="3">Toronto</attr>
+      <attr type="affiliation" source="3">Grand Trunk Pacific Railway</attr>
+      <attr type="work" source="3">The Dawn of Man</attr>
+      <attr type="work" source="3">The Brooker Residence Toronto</attr>
+      <attr type="affiliation" source="3">Arts and Letters Club</attr>
+      <attr type="work" source="3">Sounds Assembling</attr>
+      <attr type="work" source="3">Geometric Forms</attr>
+      <attr type="occupation" source="3">Writer</attr>
+      <attr type="work" source="3">Evolution</attr>
+      <attr type="birthplace" source="3">Croydon, England</attr>
+      <attr type="work" source="3">Bible Series No.1.</attr>
+      <attr type="award" source="3">Governor General&apos;s Award for fiction</attr>
+      <attr type="work" source="3">Alleluiah</attr>
+      <attr type="location" source="3">Toronto, Ontario</attr>
+      <attr type="work" source="3">Ascending Forms</attr>
+      <attr type="work" source="3">Poulenc</attr>
+      <attr type="work" source="3">The St. Lawrence</attr>
+      <attr type="location" source="3">Portage la Prairie</attr>
+      <attr type="nationality" source="3">Canadian</attr>
+      <attr type="work" source="3">Wings and Waves</attr>
+      <attr type="work" source="3">The Ice Man</attr>
+      <attr type="occupation" source="3">musician</attr>
+      <attr type="work" source="3">Sounds Assmebling: The Poetry of Bertram Brooker</attr>
+      <attr type="work" source="3">Sound Assembling</attr>
+      <attr type="occupation" source="3">writer</attr>
+      <attr type="affiliation" source="3">Canadian Group of Painters</attr>
+      <attr type="work" source="3">Tree Fantasy</attr>
+      <attr type="location" source="3">Neepawa</attr>
+      <attr type="work" source="3">Fantasy</attr>
+      <attr type="work" source="3">Abstract Nude</attr>
+      <attr type="occupation" source="3">Artist</attr>
+      <attr type="work" source="3">Double Bass</attr>
+      <attr type="work" source="3">Leaf Sonata</attr>
+      <attr type="work" source="3">Green Plant</attr>
+      <attr type="occupation" source="3">painter</attr>
+      <attr type="occupation" source="3">artist</attr>
+      <attr type="occupation" source="3">poet</attr>
+      <attr type="work" source="3">Triptich</attr>
+      <attr type="work" source="3">Think of the Earth</attr>
+      <attr type="dateofbirth" source="3">March 31st 1888</attr>
+      <attr type="work" source="61">Think of the Earth</attr>
+      <attr type="award" source="61">Governor General&apos;s Award</attr>
+      <attr type="affiliation" source="1">Portage Review</attr>
+      <attr type="occupation" source="1">musician</attr>
+      <attr type="occupation" source="1">publisher</attr>
+      <attr type="affiliation" source="1">The Winnipeg Free Press</attr>
+      <attr type="work" source="1">Copy Technique in Advertising</attr>
+      <attr type="relatives" source="1">Mary Ann (Skinner) Brooker</attr>
+      <attr type="location" source="1">Portage la Prairie, Manitoba</attr>
+      <attr type="location" source="1">Winnipeg</attr>
+      <attr type="occupation" source="1">abstract impressionist</attr>
+      <attr type="birthplace" source="1">Croydon, England</attr>
+      <attr type="affiliation" source="1">Marketing magazine</attr>
+      <attr type="work" source="1">Sounds Assembling: The Poetry of Bertam Brooker</attr>
+      <attr type="occupation" source="1">staff</attr>
+      <attr type="work" source="1">Layout Technique in Advertising</attr>
+      <attr type="othername" source="1">R. W. Surrey</attr>
+      <attr type="affiliation" source="1">Royal Canadian Engineers</attr>
+      <attr type="location" source="1">Toronto, Ontario</attr>
+      <attr type="work" source="1">Think of the Earth</attr>
+      <attr type="mentor" source="1">LeMoine Fitzgerald</attr>
+      <attr type="award" source="1">Governor General&apos;s Award for Fiction</attr>
+      <attr type="occupation" source="1">advertising agency executive</attr>
+      <attr type="work" source="1">Subconscious Selling</attr>
+      <attr type="affiliation" source="1">J.J. Gibbons Advertising Agency</attr>
+      <attr type="dateofbirth" source="1">March 31, 1888</attr>
+      <attr type="work" source="1">The Tangled Miracle</attr>
+      <attr type="relatives" source="1">Richard Brooker</attr>
+      <attr type="relatives" source="1">Mary Aurilla (&#65533;gRill&#65533;h) Porter</attr>
+      <attr type="affiliation" source="1">MacLaren Advertising Co.</attr>
+      <attr type="othername" source="1">Bertram Richard Brooker</attr>
+      <attr type="occupation" source="1">painter</attr>
+      <attr type="work" source="1">The Robber</attr>
+      <attr type="affiliation" source="1">The Winnipeg Tribune</attr>
+      <attr type="nationality" source="1">Canadian</attr>
+      <attr type="occupation" source="1">writer</attr>
+      <attr type="location" source="1">Neepawa, Manitoba</attr>
+      <attr type="affiliation" source="1">The Regina Leader-Post</attr>
+      <attr type="occupation" source="1">editor</attr>
+      <attr type="location" source="82">Canada</attr>
+      <attr type="location" source="82">Saskatchewan</attr>
+      <attr type="award" source="82">Governor General&apos;s Literary Award</attr>
+      <attr type="work" source="82">Think of the Earth</attr>
+      <attr type="occupation" source="92">painters</attr>
+      <attr type="nationality" source="92">Canadian</attr>
+      <attr type="work" source="36">Sounds Assembling</attr>
+      <attr type="occupation" source="36">writer</attr>
+      <attr type="occupation" source="36">artist</attr>
+      <attr type="occupation" source="36">musician</attr>
+      <attr type="occupation" source="36">abstract painter</attr>
+      <attr type="dateofbirth" source="36">1888</attr>
+      <attr type="location" source="34">Toronto</attr>
+      <attr type="work" source="34">Think of the Earth</attr>
+      <attr type="dateofbirth" source="34">1888</attr>
+      <attr type="location" source="34">Neepawa</attr>
+      <attr type="work" source="34">Tangled Miracle</attr>
+      <attr type="occupation" source="34">artist</attr>
+      <attr type="location" source="34">Winnipeg</attr>
+      <attr type="affiliation" source="34">Grand Trunk Pacific Railway</attr>
+      <attr type="occupation" source="34">author</attr>
+      <attr type="birthplace" source="34">Surrey, England</attr>
+      <attr type="location" source="34">Portage la Prairie, Manitoba</attr>
+      <attr type="mentor" source="34">LeMoine Fitzgerald</attr>
+      <attr type="work" source="34">The Robber</attr>
+      <attr type="award" source="34">Governor General&apos;s Award for fiction</attr>
+      <attr type="work" source="34">Sounds Assembling</attr>
+      <attr type="affiliation" source="25">Winnipeg Tribune</attr>
+      <attr type="affiliation" source="25">J.J. Gobbons Advertising Agency</attr>
+      <attr type="occupation" source="25">automobile editor</attr>
+      <attr type="occupation" source="25">publisher</attr>
+      <attr type="relatives" source="25">Mary Aurilla (&#65533;gRill&#65533;h) Porter</attr>
+      <attr type="othername" source="25">Richard Surrey</attr>
+      <attr type="dateofbirth" source="25">March 31</attr>
+      <attr type="location" source="25">New York</attr>
+      <attr type="affiliation" source="25">Mendelssohn Choir</attr>
+      <attr type="occupation" source="25">drama editor</attr>
+      <attr type="occupation" source="25">Editor</attr>
+      <attr type="othername" source="25">Burke Brodie</attr>
+      <attr type="affiliation" source="25">J.J. Gibbons Advertising Agency</attr>
+      <attr type="affiliation" source="25">Marketing Magazine</attr>
+      <attr type="work" source="25">[Y]earbook of the Arts in Canada</attr>
+      <attr type="affiliation" source="25">MacLaren Advertising Co.</attr>
+      <attr type="occupation" source="25">Vice-President</attr>
+      <attr type="location" source="25">Neepawa</attr>
+      <attr type="location" source="25">Toronto</attr>
+      <attr type="othername" source="25">Philip E. Spane</attr>
+      <attr type="othername" source="25">Brooker, Bertram</attr>
+      <attr type="work" source="25">Year Book of the Arts in Canada - 1929</attr>
+      <attr type="work" source="25">Tangled Miracle</attr>
+      <attr type="work" source="25">Sounds Assembling</attr>
+      <attr type="work" source="25">Layout Technique in Advertising</attr>
+      <attr type="work" source="25">The Tangled Miracle</attr>
+      <attr type="birthplace" source="25">Croydon, Surrey, England</attr>
+      <attr type="occupation" source="25">writer</attr>
+      <attr type="dateofbirth" source="25">1888</attr>
+      <attr type="occupation" source="25">music critic</attr>
+      <attr type="affiliation" source="25">Royal Canadian Engineers</attr>
+      <attr type="affiliation" source="25">Marketing</attr>
+      <attr type="relatives" source="25">Mary Ann (Skinner) Brooker</attr>
+      <attr type="work" source="25">The Poetry of Bertram Brooker</attr>
+      <attr type="award" source="25">Governor General&#65533;fs Award for the best fiction</attr>
+      <attr type="affiliation" source="25">Portage Review</attr>
+      <attr type="work" source="25">Subconscious Selling</attr>
+      <attr type="work" source="25">The Robber</attr>
+      <attr type="affiliation" source="25">Marketing Publishers Limited</attr>
+      <attr type="occupation" source="25">artist</attr>
+      <attr type="relatives" source="25">Richard Brooker</attr>
+      <attr type="affiliation" source="25">Globe newspaper</attr>
+      <attr type="occupation" source="25">amateur actor</attr>
+      <attr type="award" source="25">governor-general&#65533;fs awards for the best Canadian literature</attr>
+      <attr type="occupation" source="25">Publisher</attr>
+      <attr type="affiliation" source="25">Free Press</attr>
+      <attr type="location" source="25">Manitoba</attr>
+      <attr type="occupation" source="25">cook&#65533;fs help</attr>
+      <attr type="birthplace" source="25">Croydon, Surrey Co., England</attr>
+      <attr type="work" source="25">The Ice Man</attr>
+      <attr type="work" source="25">Mr. Windle</attr>
+      <attr type="work" source="25">The Robber - A Tale of the time of the Herods</attr>
+      <attr type="relatives" source="25">Brooker, Rill</attr>
+      <attr type="othername" source="25">Bertram R. Brooker</attr>
+      <attr type="occupation" source="25">art director</attr>
+      <attr type="occupation" source="25">poet</attr>
+      <attr type="affiliation" source="25">Regina Leader Post</attr>
+      <attr type="affiliation" source="25">McKim</attr>
+      <attr type="location" source="25">Portage la Prairie</attr>
+      <attr type="affiliation" source="25">Grand Trunk Pacific Railway</attr>
+      <attr type="location" source="25">Winnipeg</attr>
+      <attr type="relatives" source="25">Victor Brooker</attr>
+      <attr type="affiliation" source="25">A. McKim Advertising agency</attr>
+      <attr type="work" source="25">Listen For the Wings</attr>
+      <attr type="othername" source="25">Bertram Richard Brooker</attr>
+      <attr type="affiliation" source="25">Arts and Letters Club</attr>
+      <attr type="location" source="25">Canada</attr>
+      <attr type="relatives" source="25">Brooker, Richard</attr>
+      <attr type="relatives" source="25">Mary Aurilla Porter</attr>
+      <attr type="affiliation" source="25">Winnipeg Free Press</attr>
+      <attr type="relatives" source="25">Phyllis Smith</attr>
+      <attr type="occupation" source="25">reporter</attr>
+      <attr type="award" source="25">Silver Award</attr>
+      <attr type="nationality" source="25">Canadian</attr>
+      <attr type="work" source="25">Think of the Earth</attr>
+      <attr type="relatives" source="25">Smith</attr>
+      <attr type="location" source="25">Portage La Prairie, Manitoba</attr>
+      <attr type="occupation" source="25">advertising executive</attr>
+      <attr type="relatives" source="25">Mary Ann Brooker</attr>
+      <attr type="occupation" source="25">writers</attr>
+      <attr type="occupation" source="25">editor</attr>
+      <attr type="occupation" source="25">promotion manager</attr>
+      <attr type="occupation" source="25">advertising agency executive</attr>
+      <attr type="occupation" source="25">copy and art director</attr>
+      <attr type="work" source="25">Yearbook of the Arts</attr>
+      <attr type="work" source="70">Think of The Earth</attr>
+      <attr type="occupation" source="87">artists</attr>
+      <attr type="location" source="87">Canada</attr>
+      <attr type="occupation" source="87">painter</attr>
+      <attr type="occupation" source="87">abstract painters</attr>
+      <attr type="nationality" source="87">Canada</attr>
+      <attr type="nationality" source="87">Canadian</attr>
+      <attr type="occupation" source="21">painter</attr>
+      <attr type="nationality" source="21">Canadian</attr>
+      <attr type="location" source="21">Canada</attr>
+      <attr type="work" source="21">Alleluiah</attr>
+      <attr type="othername" source="21">Brooker, Bertram</attr>
+      <attr type="dateofbirth" source="21">1888</attr>
+      <attr type="occupation" source="21">artists</attr>
+      <attr type="location" source="11">Toronto</attr>
+      <attr type="location" source="11">Canada</attr>
+      <attr type="work" source="11">The Robber</attr>
+      <attr type="dateofbirth" source="11">1888</attr>
+      <attr type="work" source="11">Abstract Nude</attr>
+      <attr type="work" source="11">Sounds Assembling: the Poetry of Bertram Brooker</attr>
+      <attr type="location" source="99">Winnipeg</attr>
+      <attr type="location" source="99">Canada</attr>
+      <attr type="occupation" source="64">artists</attr>
+      <attr type="work" source="78">The Wrong World: Selected Stories, Essays and Manifestoes</attr>
+      <attr type="work" source="78">Alleluiah</attr>
+      <attr type="work" source="78">Lake Manitoba Icehouse</attr>
+      <attr type="work" source="78">Green Movement</attr>
+      <attr type="location" source="78">Manitoba</attr>
+      <attr type="work" source="78">Still Life with Lemons</attr>
+      <attr type="work" source="78">The Three Powers</attr>
+      <attr type="work" source="78">Phyllis (Piano! Piano!)</attr>
+      <attr type="work" source="78">Two Nudes</attr>
+      <attr type="occupation" source="35">Artists</attr>
+      <attr type="nationality" source="35">Canadian</attr>
+      <attr type="location" source="35">Toronto</attr>
+      <attr type="affiliation" source="16">MacLaren Advertising Co.</attr>
+      <attr type="occupation" source="16">painter</attr>
+      <attr type="occupation" source="16">editor</attr>
+      <attr type="dateofbirth" source="16">March 31, 1888</attr>
+      <attr type="occupation" source="16">musician</attr>
+      <attr type="location" source="16">Portage la Prairie, Manitoba</attr>
+      <attr type="occupation" source="16">abstract impressionist</attr>
+      <attr type="relatives" source="16">Richard Brooker</attr>
+      <attr type="affiliation" source="16">Portage Review</attr>
+      <attr type="location" source="16">Winnipeg</attr>
+      <attr type="othername" source="16">Bertram Richard Brooker</attr>
+      <attr type="nationality" source="16">Canadian</attr>
+      <attr type="occupation" source="16">advertising agency executive</attr>
+      <attr type="occupation" source="16">publisher</attr>
+      <attr type="occupation" source="16">staff</attr>
+      <attr type="relatives" source="16">Mary Ann (Skinner) Brooker</attr>
+      <attr type="occupation" source="16">writer</attr>
+      <attr type="location" source="49">Canada</attr>
+      <attr type="work" source="49">Think of the Earth</attr>
+      <attr type="dateofbirth" source="14">1888</attr>
+      <attr type="affiliation" source="14">Canadian Group of Painters</attr>
+      <attr type="award" source="14">Governor General&apos;s Award for fiction</attr>
+      <attr type="occupation" source="14">novelist</attr>
+      <attr type="nationality" source="14">Canadian</attr>
+      <attr type="occupation" source="14">writer</attr>
+      <attr type="work" source="14">Think of the Earth</attr>
+      <attr type="occupation" source="14">poet</attr>
+      <attr type="occupation" source="14">musician</attr>
+      <attr type="occupation" source="14">publisher</attr>
+      <attr type="location" source="14">Portage la Prairie</attr>
+      <attr type="location" source="14">Toronto</attr>
+      <attr type="occupation" source="14">Artists</attr>
+      <attr type="occupation" source="14">painter</attr>
+      <attr type="birthplace" source="14">Croydon, England</attr>
+      <attr type="work" source="14">Fantasy</attr>
+      <attr type="location" source="14">Manitoba</attr>
+      <attr type="occupation" source="14">abstract painter</attr>
+      <attr type="location" source="14">Canada</attr>
+      <attr type="occupation" source="14">commercial artist</attr>
+      <attr type="occupation" source="14">editor</attr>
+      <attr type="birthplace" source="14">England</attr>
+      <attr type="work" source="45">Sounds Assembling: The Poetry of Bertram Brooker</attr>
+      <attr type="occupation" source="45">Artists</attr>
+      <attr type="location" source="17">Canada</attr>
+      <attr type="dateofbirth" source="17">1888</attr>
+      <attr type="occupation" source="17">Artist</attr>
+      <attr type="work" source="86">Think of the Earth</attr>
+      <attr type="location" source="86">Toronto</attr>
+      <attr type="award" source="86">The 1936 Governor General&apos;s Awards for Literary Merit</attr>
+      <attr type="award" source="86">1936 Governor General&apos;s Awards</attr>
+      <attr type="work" source="12">Untitled landscape</attr>
+      <attr type="othername" source="12">Bertram R. Brooker</attr>
+      <attr type="work" source="12">Front Porch</attr>
+      <attr type="occupation" source="12">artist</attr>
+      <attr type="nationality" source="12">Canadian</attr>
+      <attr type="location" source="12">Winnipeg</attr>
+      <attr type="dateofbirth" source="12">1888</attr>
+      <attr type="affiliation" source="12">Canadian Group of Painters</attr>
+      <attr type="birthplace" source="12">Croydon, England</attr>
+      <attr type="location" source="12">Portage la Prairie</attr>
+      <attr type="location" source="12">Toronto</attr>
+      <attr type="occupation" source="12">writer</attr>
+      <attr type="work" source="12">Think of the Earth</attr>
+      <attr type="occupation" source="12">musician</attr>
+      <attr type="occupation" source="12">painter</attr>
+      <attr type="occupation" source="12">poet</attr>
+      <attr type="award" source="12">Governor General&apos;s Award for fiction</attr>
+      <attr type="dateofbirth" source="42">1888</attr>
+      <attr type="birthplace" source="23">Croydon, England</attr>
+      <attr type="location" source="23">Winnipeg</attr>
+      <attr type="occupation" source="23">poet</attr>
+      <attr type="location" source="23">Toronto</attr>
+      <attr type="location" source="23">Neepawa</attr>
+      <attr type="occupation" source="23">charter member</attr>
+      <attr type="location" source="23">Portage la Prairie</attr>
+      <attr type="mentor" source="23">LeMoin FitzGerald</attr>
+      <attr type="work" source="23">Think of the Earth</attr>
+      <attr type="occupation" source="23">writer</attr>
+      <attr type="occupation" source="23">painter</attr>
+      <attr type="nationality" source="23">Canadian</attr>
+      <attr type="affiliation" source="23">Arts and Letters Club</attr>
+      <attr type="affiliation" source="23">Canadian Group of Painters</attr>
+      <attr type="award" source="23">Governor General&apos;s Award for fiction</attr>
+      <attr type="occupation" source="23">musician</attr>
+      <attr type="affiliation" source="23">Grand Trunk Pacific Railway</attr>
+      <attr type="occupation" source="23">artist</attr>
+      <attr type="occupation" source="23">freelance journalist</attr>
+      <attr type="location" source="23">Canada</attr>
+      <attr type="occupation" source="37">artist</attr>
+      <attr type="location" source="37">Saskatchewan</attr>
+      <attr type="nationality" source="37">Canadian</attr>
+      <attr type="work" source="37">Alleluiah</attr>
+      <attr type="location" source="37">Toronto</attr>
+      <attr type="location" source="37">Portage la Prairie</attr>
+      <attr type="work" source="37">Think of the Earth</attr>
+      <attr type="work" source="37">Yearbook of the Arts 1928-1929</attr>
+      <attr type="birthplace" source="37">Croydon, Eng</attr>
+      <attr type="occupation" source="37">advertising executive</attr>
+      <attr type="location" source="37">Manitoba</attr>
+      <attr type="affiliation" source="37">Grand Trunk Pacific Railway</attr>
+      <attr type="location" source="37">Portage la Prairie, Manitoba</attr>
+      <attr type="occupation" source="37">journalist</attr>
+      <attr type="dateofbirth" source="37">31 Mar 1888</attr>
+      <attr type="occupation" source="37">poet</attr>
+      <attr type="occupation" source="37">novelist</attr>
+      <attr type="work" source="37">Sounds Assembling</attr>
+      <attr type="location" source="37">Neepawa</attr>
+      <attr type="location" source="37">Canada</attr>
+      <attr type="award" source="37">Governor General&apos;s Award for fiction</attr>
+      <attr type="othername" source="37">Brooker, Bertram Richard</attr>
+      <attr type="work" source="37">[Y]earbook of the Arts in Canada</attr>
+      <attr type="location" source="37">Neepawa, Manitoba</attr>
+      <attr type="dateofbirth" source="10">1888</attr>
+      <attr type="othername" source="10">Bertram Richard Brooker</attr>
+      <attr type="occupation" source="10">Painter</attr>
+      <attr type="location" source="10">Canada</attr>
+      <attr type="nationality" source="10">Canadian</attr>
+      <attr type="occupation" source="7">painter-poet</attr>
+      <attr type="work" source="7">Sounds Assembling</attr>
+      <attr type="work" source="7">The Ice Man</attr>
+      <attr type="work" source="7">Death of an Peacock</attr>
+      <attr type="occupation" source="57">Artists</attr>
+      <attr type="nationality" source="57">Canadian</attr>
+      <attr type="occupation" source="57">Painters</attr>
+      <attr type="occupation" source="66">modernist poets</attr>
+      <attr type="othername" source="66">Brooker, Bertram</attr>
+      <attr type="work" source="66">The Robber: A Tale of the Time of the Herods</attr>
+      <attr type="award" source="66">Governor General&apos;s Award for Literature</attr>
+      <attr type="work" source="66">Think of the Earth</attr>
+      <attr type="location" source="66">Canada</attr>
+      <attr type="occupation" source="66">Artists</attr>
+      <attr type="work" source="66">Sounds Assembling: The Poetry of Bertram Brooker</attr>
+      <attr type="work" source="66">The Poetry of Bertram Brooker</attr>
+      <attr type="dateofbirth" source="66">1888</attr>
+      <attr type="occupation" source="66">modernist</attr>
+      <attr type="nationality" source="66">Canadian</attr>
+      <attr type="occupation" source="66">artist</attr>
+      <attr type="occupation" source="66">abstract painter</attr>
+      <attr type="nationality" source="66">Canada</attr>
+      <attr type="work" source="66">Tangled Miracle</attr>
+      <attr type="award" source="105">Governor-General&#65533;fs Award</attr>
+      <attr type="occupation" source="105">published critic</attr>
+      <attr type="occupation" source="105">abstract painter</attr>
+      <attr type="nationality" source="4">Canadian</attr>
+      <attr type="occupation" source="4">advertising agency executive</attr>
+      <attr type="occupation" source="4">writer</attr>
+      <attr type="occupation" source="4">musician</attr>
+      <attr type="work" source="4">Wild Rhubarb, Isle of Orleans</attr>
+      <attr type="relatives" source="4">Richard Brooker</attr>
+      <attr type="othername" source="4">Brooker, Bertram</attr>
+      <attr type="location" source="4">Portage la Prairie</attr>
+      <attr type="relatives" source="4">Mary Ann (Skinner) Brooker</attr>
+      <attr type="birthplace" source="4">Croydon, England</attr>
+      <attr type="dateofbirth" source="4">March 31, 1888</attr>
+      <attr type="occupation" source="4">painter</attr>
+      <attr type="othername" source="4">Bertram Richard Brooker</attr>
+      <attr type="award" source="8">Governor General&apos;s Award for fiction</attr>
+      <attr type="location" source="8">Toronto, Ontario</attr>
+      <attr type="location" source="8">Portage la Prairie</attr>
+      <attr type="affiliation" source="8">Canadian Group of Painters</attr>
+      <attr type="birthplace" source="8">Croydon, England</attr>
+      <attr type="occupation" source="8">painter</attr>
+      <attr type="dateofbirth" source="8">March 31st 1888</attr>
+      <attr type="occupation" source="8">writer</attr>
+      <attr type="occupation" source="8">musician</attr>
+      <attr type="occupation" source="8">artist</attr>
+      <attr type="work" source="8">Melee Fantasque</attr>
+      <attr type="occupation" source="8">poet</attr>
+      <attr type="nationality" source="114">Canadian</attr>
+      <attr type="birthplace" source="114">Surrey, UK</attr>
+      <attr type="work" source="114">The Wrong World: Selected Stories, Essays and Manifestoes</attr>
+      <attr type="dateofbirth" source="114">1888</attr>
+      <attr type="location" source="114">Toronto</attr>
+      <attr type="work" source="114">Abstract Pyramids</attr>
+      <attr type="othername" source="114">Brooker, Bertram</attr>
+      <attr type="dateofbirth" source="38">1888</attr>
+      <attr type="affiliation" source="38">Arts and Letters Club</attr>
+      <attr type="relatives" source="38">Mary Aurilla Porter</attr>
+      <attr type="work" source="38">Yearbook of the Arts</attr>
+      <attr type="location" source="38">Manitoba</attr>
+      <attr type="location" source="38">Canada</attr>
+      <attr type="work" source="38">The Robber</attr>
+      <attr type="location" source="38">Winnipeg</attr>
+      <attr type="location" source="38">Toronto</attr>
+      <attr type="award" source="38">Governor General&#65533;fs Prize for fiction</attr>
+      <attr type="work" source="38">[Y]earbook of the Arts in Canada</attr>
+      <attr type="birthplace" source="38">Croydon England</attr>
+      <attr type="location" source="113">Canada</attr>
+      <attr type="nationality" source="111">Canada</attr>
+      <attr type="occupation" source="111">abstract painter</attr>
+      <attr type="award" source="31">Governor General&apos;s Award for fiction</attr>
+      <attr type="work" source="31">Think of the Earth</attr>
+      <attr type="occupation" source="31">poet</attr>
+      <attr type="affiliation" source="31">RCA</attr>
+      <attr type="location" source="31">Canada</attr>
+      <attr type="location" source="31">Toronto</attr>
+      <attr type="occupation" source="31">musician</attr>
+      <attr type="birthplace" source="31">Croydon, England</attr>
+      <attr type="occupation" source="31">artist</attr>
+      <attr type="occupation" source="31">painter</attr>
+      <attr type="location" source="31">Portage la Prairie</attr>
+      <attr type="nationality" source="31">Canadian</attr>
+      <attr type="affiliation" source="31">OSA</attr>
+      <attr type="occupation" source="31">writer</attr>
+      <attr type="affiliation" source="31">Canadian Group of Painters</attr>
+      <attr type="dateofbirth" source="31">1888</attr>
+      <attr type="work" source="110">Think of the Earth</attr>
+      <attr type="occupation" source="110">painters</attr>
+      <attr type="occupation" source="110">theosophist painter</attr>
+      <attr type="location" source="2">Neepawa, Manitoba</attr>
+      <attr type="affiliation" source="2">Royal Canadian Engineers</attr>
+      <attr type="location" source="2">Toronto</attr>
+      <attr type="occupation" source="2">musician</attr>
+      <attr type="occupation" source="2">artist</attr>
+      <attr type="affiliation" source="2">The Winnipeg Tribune</attr>
+      <attr type="location" source="2">Canada</attr>
+      <attr type="affiliation" source="2">Portage Review</attr>
+      <attr type="occupation" source="2">abstract impressionist</attr>
+      <attr type="relatives" source="2">Mary Ann (Skinner) Brooker</attr>
+      <attr type="othername" source="2">Bertram (Richard) Brooker</attr>
+      <attr type="work" source="2">Copy Technique in Advertising</attr>
+      <attr type="othername" source="2">R. W. Surrey</attr>
+      <attr type="occupation" source="2">publisher</attr>
+      <attr type="affiliation" source="2">J.J. Gibbons Advertising Agency</attr>
+      <attr type="work" source="2">Think of the Earth</attr>
+      <attr type="relatives" source="2">Mary Aurilla (???Rill??) Porter</attr>
+      <attr type="occupation" source="2">critic</attr>
+      <attr type="occupation" source="2">writer</attr>
+      <attr type="occupation" source="2">advertising agency executive</attr>
+      <attr type="work" source="2">Subconscious Selling</attr>
+      <attr type="affiliation" source="2">MacLaren Advertising Co.</attr>
+      <attr type="birthplace" source="2">Croydon, England</attr>
+      <attr type="dateofbirth" source="2">March 31, 1888</attr>
+      <attr type="work" source="2">The Robber</attr>
+      <attr type="othername" source="2">Richard Surrey</attr>
+      <attr type="birthplace" source="2">Croydon, London</attr>
+      <attr type="work" source="2">Layout Technique in Advertising</attr>
+      <attr type="location" source="2">Portage la Prairie, Manitoba</attr>
+      <attr type="occupation" source="2">editor</attr>
+      <attr type="occupation" source="2">painter</attr>
+      <attr type="award" source="2">Governor General&apos;s Award for Fiction</attr>
+      <attr type="affiliation" source="2">The Regina Leader-Post</attr>
+      <attr type="affiliation" source="2">Southam Press</attr>
+      <attr type="relatives" source="2">Richard Brooker</attr>
+      <attr type="nationality" source="2">Canadian</attr>
+      <attr type="dateofbirth" source="2">31 March 1888</attr>
+      <attr type="work" source="2">The Tangled Miracle</attr>
+      <attr type="award" source="2">Governor General&apos;s Prize for Literature</attr>
+      <attr type="affiliation" source="2">The Winnipeg Free Press</attr>
+      <attr type="mentor" source="2">LeMoine Fitzgerald</attr>
+      <attr type="location" source="96">Toronto</attr>
+      <attr type="location" source="96">Canada</attr>
+      <attr type="occupation" source="96">artists</attr>
+      <attr type="nationality" source="96">Canadian</attr>
+      <attr type="work" source="68">Through the Trees, Muskoka Lake</attr>
+      <attr type="work" source="69">Geometric Forms</attr>
+      <attr type="nationality" source="20">CANADIAN</attr>
+      <attr type="location" source="20">Canada</attr>
+      <attr type="nationality" source="20">Canadian</attr>
+      <attr type="birthplace" source="20">Surrey, Croydon</attr>
+      <attr type="dateofbirth" source="20">1888</attr>
+      <attr type="location" source="20">Canada: Ontario, Toronto</attr>
+      <attr type="birthplace" source="20">U.K. (England)</attr>
+      <attr type="othername" source="20">Brooker, Bertram</attr>
+      <attr type="work" source="44">Wings &amp; Waves</attr>
+      <attr type="work" source="47">Bertram Brooker, 1888-1955</attr>
+      <attr type="nationality" source="47">Canadians</attr>
+      <attr type="occupation" source="47">artists</attr>
+      <attr type="occupation" source="115">artist</attr>
+      <attr type="work" source="26">A Candle in Sunshine</attr>
+      <attr type="work" source="13">Think of the Earth</attr>
+      <attr type="othername" source="56">Brooker, Bertram</attr>
+      <attr type="work" source="56">Think of the earth</attr>
+      <attr type="work" source="56">Shoes</attr>
+      <attr type="award" source="81">1936 Governor General&apos;s Awards</attr>
+      <attr type="location" source="81">Canada</attr>
+      <attr type="work" source="81">Think of the Earth</attr>
+      <attr type="award" source="81">1936 Governor General&apos;s Awards for Literary Merit</attr>
+      <attr type="occupation" source="54">Artists</attr>
+      <attr type="nationality" source="54">Canadian</attr>
+      <attr type="occupation" source="75">Painters</attr>
+      <attr type="award" source="73">Governor General&apos;s Literary Award</attr>
+      <attr type="work" source="41">Studio corner</attr>
+      <attr type="location" source="29">Portage la Prairie</attr>
+      <attr type="occupation" source="29">writer</attr>
+      <attr type="location" source="29">Toronto</attr>
+      <attr type="location" source="29">Winnipeg</attr>
+      <attr type="birthplace" source="29">Croydon, England</attr>
+      <attr type="location" source="29">Manitoba</attr>
+      <attr type="occupation" source="29">painter</attr>
+      <attr type="award" source="29">Governor General&#65533;fs Award for fiction</attr>
+      <attr type="occupation" source="29">charter member</attr>
+      <attr type="nationality" source="29">Canadian</attr>
+      <attr type="work" source="29">Souls Assembling: The Poetry of Bertram Brooker</attr>
+      <attr type="occupation" source="29">poet</attr>
+      <attr type="affiliation" source="29">Canadian Group of Painters</attr>
+      <attr type="dateofbirth" source="29">1888</attr>
+      <attr type="occupation" source="29">musician</attr>
+      <attr type="occupation" source="29">Writer</attr>
+      <attr type="work" source="100">Sounds Assembling</attr>
+      <attr type="occupation" source="100">artists</attr>
+      <attr type="work" source="9">Untitled landscape</attr>
+      <attr type="birthplace" source="9">Croydon, England</attr>
+      <attr type="award" source="9">Governor General&apos;s Award</attr>
+      <attr type="occupation" source="9">artist</attr>
+      <attr type="location" source="9">Winnipeg</attr>
+      <attr type="occupation" source="9">poet</attr>
+      <attr type="occupation" source="9">painter</attr>
+      <attr type="occupation" source="9">writer</attr>
+      <attr type="work" source="9">Front Porch</attr>
+      <attr type="location" source="9">Portage la Prairie</attr>
+      <attr type="affiliation" source="9">Canadian Group of Painters</attr>
+      <attr type="work" source="9">Think of the Earth</attr>
+      <attr type="location" source="9">Toronto</attr>
+      <attr type="occupation" source="9">musician</attr>
+      <attr type="dateofbirth" source="9">1888</attr>
+      <attr type="nationality" source="79">Canadian</attr>
+      <attr type="work" source="79">Torso</attr>
+      <attr type="location" source="79">Toronto</attr>
+      <attr type="occupation" source="79">artists</attr>
+      <attr type="work" source="67">Betram Brooker: 1888-1955</attr>
+      <attr type="dateofbirth" source="24">March 31st, 1888</attr>
+      <attr type="location" source="24">Canada</attr>
+      <attr type="birthplace" source="24">Crydon, England</attr>
+      <attr type="location" source="24">Neepawa</attr>
+      <attr type="affiliation" source="24">Grand Trunk Pacific Railway</attr>
+      <attr type="work" source="24">The Robber</attr>
+      <attr type="affiliation" source="24">Arts and Letters Club</attr>
+      <attr type="location" source="24">Portage la Prairie</attr>
+      <attr type="work" source="24">Alleluiah</attr>
+      <attr type="occupation" source="24">artists</attr>
+      <attr type="occupation" source="24">artist</attr>
+      <attr type="occupation" source="24">Artist</attr>
+      <attr type="occupation" source="24">writer</attr>
+      <attr type="location" source="24">Toronto, Ontario</attr>
+      <attr type="award" source="24">Governor Generals Award for the best fiction</attr>
+      <attr type="work" source="24">Think of the Earth</attr>
+      <attr type="occupation" source="24">freelance journalist</attr>
+      <attr type="work" source="24">The Tangled Miracle</attr>
+      <attr type="location" source="24">Winnipeg</attr>
+      <attr type="work" source="6">The Robber</attr>
+      <attr type="award" source="6">Governor&apos;s Award for fiction</attr>
+      <attr type="work" source="6">Sounds Assembling</attr>
+      <attr type="nationality" source="6">Canadian</attr>
+      <attr type="dateofbirth" source="6">1888</attr>
+      <attr type="occupation" source="6">writer</attr>
+      <attr type="work" source="6">Think of the Earth</attr>
+      <attr type="occupation" source="6">artist</attr>
+      <attr type="location" source="6">Canada</attr>
+      <attr type="occupation" source="6">painter</attr>
+      <attr type="dateofbirth" source="30">1888</attr>
+      <attr type="location" source="30">Toronto: The Morris Gallery</attr>
+      <attr type="work" source="30">Bertram Brooker 1888 - 1955</attr>
+      <attr type="occupation" source="30">artist</attr>
+      <attr type="othername" source="30">Brooker, Bertram</attr>
+      <attr type="nationality" source="84">Canadian</attr>
+      <attr type="work" source="84">Nude</attr>
+      <attr type="work" source="84">Wild Rhubarb, Isle of Orleans</attr>
+      <attr type="othername" source="84">Brooker, Bertram</attr>
+      <attr type="work" source="89">Muskoka Lake</attr>
+      <attr type="occupation" source="89">Artist</attr>
+      <attr type="occupation" source="89">Abstract painter</attr>
+      <attr type="occupation" source="95">Artists</attr>
+      <attr type="dateofbirth" source="95">1888</attr>
+      <attr type="nationality" source="95">Canada</attr>
+      <attr type="occupation" source="19">Artist</attr>
+      <attr type="work" source="19">Think of the Earth</attr>
+      <attr type="dateofbirth" source="19">1888</attr>
+      <attr type="occupation" source="108">Painter</attr>
+      <attr type="nationality" source="108">Canadian</attr>
+      <attr type="occupation" source="108">Artist</attr>
+      <attr type="nationality" source="108">British</attr>
+      <attr type="occupation" source="107">artists</attr>
+    </attributes>
+  </entity>
+</clustering>

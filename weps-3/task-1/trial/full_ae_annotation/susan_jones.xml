@@ -1,0 +1,1170 @@
+<clustering searchString="SUSAN JONES">
+  <entity id="1">
+    <documents>
+      <doc rank="144" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="144">Susan E. Jones</attr>
+      <attr type="affiliation" source="144">Susan Jones and Jury Research Institute</attr>
+      <attr type="degree" source="144">Dr</attr>
+      <attr type="occupation" source="144">pioneer</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="107" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="107">Greater Rome Chamber of Commerce</attr>
+      <attr type="affiliation" source="107">Greater Rome Board of Realtors</attr>
+      <attr type="phone" source="107">770-547-0197</attr>
+      <attr type="relatives" source="107">Summer</attr>
+      <attr type="relatives" source="107">Bill</attr>
+      <attr type="occupation" source="107">sales associate</attr>
+      <attr type="relatives" source="107">Will</attr>
+      <attr type="affiliation" source="107">First Baptist Church of Rome</attr>
+      <attr type="affiliation" source="107">Toles Temple and Wright Real Estate</attr>
+      <attr type="birthplace" source="107">Rome</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="7" />
+    </documents>
+    <attributes>
+      <attr type="location" source="7">Vancouver Island, British Columbia, Canada</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="5" />
+      <doc rank="13" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="13">AWANA</attr>
+      <attr type="occupation" source="13">certified lay speaker</attr>
+      <attr type="location" source="13">West Virginia (USA)</attr>
+      <attr type="mentor" source="13">Eugene McCammon</attr>
+      <attr type="website" source="13">http://www.susanjonesonline.com</attr>
+      <attr type="occupation" source="13">soloist</attr>
+      <attr type="website" source="13">shoutlife.com/susanjones</attr>
+      <attr type="occupation" source="13">alto</attr>
+      <attr type="work" source="13">One Gave All</attr>
+      <attr type="work" source="13">If It Wasn&apos;t For The Cross</attr>
+      <attr type="occupation" source="13">public school teacher</attr>
+      <attr type="mentor" source="13">Daryl Williams</attr>
+      <attr type="mentor" source="13">Jack Clark</attr>
+      <attr type="occupation" source="13">Sunday School teacher</attr>
+      <attr type="location" source="13">Moundsville, WV</attr>
+      <attr type="occupation" source="13">church choir director</attr>
+      <attr type="work" source="13">Home Among The Hills</attr>
+      <attr type="location" source="13">Moundsville</attr>
+      <attr type="occupation" source="13">commander</attr>
+      <attr type="school" source="13">Ben Speer&apos;s Stamps-Baxter School of Music</attr>
+      <attr type="work" source="13">The Gifts We Bring</attr>
+      <attr type="relatives" source="13">Bill</attr>
+      <attr type="mentor" source="13">Harold Lane</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="54">Sales Analysis &amp; Development at CBS Television Network</attr>
+      <attr type="occupation" source="54">developer</attr>
+      <attr type="school" source="54">Vanderbilt University</attr>
+      <attr type="affiliation" source="54">information systems at elie tahari ltd</attr>
+      <attr type="major" source="54">math</attr>
+      <attr type="affiliation" source="54">CBS Television Network</attr>
+      <attr type="affiliation" source="54">elie tahari ltd</attr>
+      <attr type="affiliation" source="54">Beta Gamma Sigma</attr>
+      <attr type="school" source="54">New York University - Leonard N. Stern School of Business</attr>
+      <attr type="occupation" source="54">Business Intelligence systems developer</attr>
+      <attr type="affiliation" source="54">Sales Analysis &amp; Development CBS Television Network</attr>
+      <attr type="affiliation" source="54">information systems elie tahari ltd</attr>
+      <attr type="affiliation" source="54">business intelligence systems New York University Medical Center</attr>
+      <attr type="affiliation" source="54">business intellgence systems SLJ WebFOCUS CONSULTING LLC</attr>
+      <attr type="affiliation" source="54">business intelligence systems at New York University Medical Center</attr>
+      <attr type="location" source="54">Greater New York City Area</attr>
+      <attr type="affiliation" source="54">SLJ WebFOCUS CONSULTING LLC</attr>
+      <attr type="affiliation" source="54">business intellgence systems at SLJ WebFOCUS CONSULTING LLC</attr>
+      <attr type="affiliation" source="54">Research &amp; Analysis at Time Warner</attr>
+      <attr type="occupation" source="54">Director</attr>
+      <attr type="affiliation" source="54">WebFOCUS group for  hospitals and school of medicine of NYU</attr>
+      <attr type="occupation" source="54">Manager</attr>
+      <attr type="affiliation" source="54">New York University Medical Center</attr>
+      <attr type="affiliation" source="54">Time Warner</attr>
+      <attr type="affiliation" source="54">Business Intelligence systems</attr>
+      <attr type="affiliation" source="54">Research &amp; Analysis Time Warner</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="58" />
+    </documents>
+    <attributes>
+      <attr type="work" source="58">Crunch focals.</attr>
+      <attr type="relatives" source="58">Adam</attr>
+      <attr type="work" source="58">New Flowbot Design</attr>
+      <attr type="mentor" source="58">Amy Johnson</attr>
+      <attr type="work" source="58">Secretary</attr>
+      <attr type="work" source="58">September Lentil Focals</attr>
+      <attr type="work" source="58">Key to my Heart</attr>
+      <attr type="work" source="58">Occhi Series</attr>
+      <attr type="work" source="58">Sentinel Meadow</attr>
+      <attr type="work" source="58">Blooms</attr>
+      <attr type="affiliation" source="58">Susan Jones Designs</attr>
+      <attr type="work" source="58">Trellis</attr>
+      <attr type="work" source="58">Dogwoods</attr>
+      <attr type="work" source="58">In My Clutches</attr>
+      <attr type="work" source="58">Fruition</attr>
+      <attr type="work" source="58">Naughty-n-Nice Pendant</attr>
+      <attr type="work" source="58">Garden</attr>
+      <attr type="work" source="58">Man Beads</attr>
+      <attr type="work" source="58">Raku Bead Set</attr>
+      <attr type="work" source="58">December Spirit Beads</attr>
+      <attr type="work" source="58">Wildflower Series</attr>
+      <attr type="work" source="58">Textured Focals</attr>
+      <attr type="work" source="58">Chuperosa</attr>
+      <attr type="work" source="58">Canyon Bricks</attr>
+      <attr type="work" source="58">Jeannie in a Bottle</attr>
+      <attr type="work" source="58">Silver Twists</attr>
+      <attr type="work" source="58">Shifting Blue</attr>
+      <attr type="work" source="58">Aeros</attr>
+      <attr type="work" source="58">Vintage components with lampwork bead centers.</attr>
+      <attr type="work" source="58">Satake Focals</attr>
+      <attr type="work" source="58">More August Focals</attr>
+      <attr type="work" source="58">More Tinsel!</attr>
+      <attr type="mentor" source="58">Stephanie Sersich</attr>
+      <attr type="work" source="58">Desert Bones</attr>
+      <attr type="work" source="58">Mind Frames</attr>
+      <attr type="work" source="58">More Spirit Beads</attr>
+      <attr type="work" source="58">Interpretation</attr>
+      <attr type="work" source="58">Talisman</attr>
+      <attr type="work" source="58">Playing with Triton</attr>
+      <attr type="work" source="58">Twins</attr>
+      <attr type="work" source="58">August Focals</attr>
+      <attr type="work" source="58">Dot Beads</attr>
+      <attr type="work" source="58">New Shape</attr>
+      <attr type="work" source="58">Focals - Feb.</attr>
+      <attr type="relatives" source="58">Addison</attr>
+      <attr type="work" source="58">Swirl Girl Ring</attr>
+      <attr type="work" source="58">Still playing with Terra...</attr>
+      <attr type="work" source="58">More shards and silver.</attr>
+      <attr type="work" source="58">Elysian Fields Series</attr>
+      <attr type="work" source="58">April Focal Beads</attr>
+      <attr type="work" source="58">Stars</attr>
+      <attr type="work" source="58">June Focals</attr>
+      <attr type="work" source="58">Can&apos;t Let You Go</attr>
+      <attr type="work" source="58">Ebb and Flow</attr>
+      <attr type="work" source="58">July Focals</attr>
+      <attr type="work" source="58">Lampwork Pins</attr>
+      <attr type="work" source="58">Sweet Peep with Love Balloons</attr>
+      <attr type="work" source="58">Sprockets, Rockets and Cogs</attr>
+      <attr type="work" source="58">Pucci&apos;s Garden</attr>
+      <attr type="work" source="58">Jurassic</attr>
+      <attr type="work" source="58">Vintage brooch/pendants with lampwork bead centers.</attr>
+      <attr type="work" source="58">Special Order</attr>
+      <attr type="work" source="58">Spring Buds</attr>
+      <attr type="location" source="58">Minneapolis</attr>
+      <attr type="occupation" source="58">Artist</attr>
+      <attr type="work" source="58">Sleepless in Saskatchewan</attr>
+      <attr type="work" source="58">Sets from Vetro odd lot colors.</attr>
+      <attr type="work" source="58">Flight - bead set and matching focals.</attr>
+      <attr type="work" source="58">Point-of-View Blasters</attr>
+      <attr type="work" source="58">New Odd Lot</attr>
+      <attr type="work" source="58">New Owls</attr>
+      <attr type="work" source="58">Bead Sets - 2006</attr>
+      <attr type="work" source="58">Pin Blossoms</attr>
+      <attr type="relatives" source="58">Matw</attr>
+      <attr type="work" source="58">Sea Gardens</attr>
+      <attr type="website" source="58">www.susanjonesdesigns.com</attr>
+      <attr type="work" source="58">Saturn Moons - Bead Set</attr>
+      <attr type="work" source="58">Bead Sets - Feb. &amp; March 2007</attr>
+      <attr type="work" source="58">June focals</attr>
+      <attr type="work" source="58">September Focals</attr>
+      <attr type="work" source="58">May Focals</attr>
+      <attr type="work" source="58">Painted Desert Series</attr>
+      <attr type="work" source="58">Audubon&apos;s Flamingo</attr>
+      <attr type="work" source="58">Shards</attr>
+      <attr type="work" source="58">Pucci Inspired</attr>
+      <attr type="mentor" source="58">Jeff Barber</attr>
+      <attr type="work" source="58">Visible Thoughts</attr>
+      <attr type="work" source="58">Nice Rack</attr>
+      <attr type="work" source="58">Searching</attr>
+      <attr type="work" source="58">Sand Structure</attr>
+      <attr type="mentor" source="58">Dustin Tabor</attr>
+      <attr type="work" source="58">Wrapped in Ribbons</attr>
+      <attr type="work" source="58">Satellite</attr>
+      <attr type="work" source="58">Piedra Azul</attr>
+      <attr type="work" source="58">Flowbots</attr>
+      <attr type="work" source="58">Playing with Terra.</attr>
+      <attr type="work" source="58">Roswell Rayguns</attr>
+      <attr type="work" source="58">Barn Owl</attr>
+      <attr type="work" source="58">Oasis</attr>
+      <attr type="affiliation" source="58">SusanJonesDesigns</attr>
+      <attr type="work" source="58">Party Dots</attr>
+      <attr type="work" source="58">Belle of the Ball</attr>
+      <attr type="work" source="58">Spring Sets</attr>
+      <attr type="work" source="58">Octo Miss</attr>
+      <attr type="work" source="58">Flower Child</attr>
+      <attr type="work" source="58">Poncho Colorido</attr>
+      <attr type="work" source="58">Yosemite</attr>
+      <attr type="work" source="58">Willow</attr>
+      <attr type="work" source="58">Deep Sea Focals</attr>
+      <attr type="work" source="58">Music</attr>
+      <attr type="work" source="58">Tide Pool Ring</attr>
+      <attr type="work" source="58">Skyros</attr>
+      <attr type="work" source="58">November Focals</attr>
+      <attr type="work" source="58">Bloom Loon</attr>
+      <attr type="work" source="58">First organics of the year.</attr>
+      <attr type="mentor" source="58">Diego Bottacin</attr>
+      <attr type="work" source="58">Flowbot - girls</attr>
+      <attr type="work" source="58">Happy 2008!</attr>
+      <attr type="work" source="58">Metamorphosis 2</attr>
+      <attr type="work" source="58">Graphic Pattern - Focals</attr>
+      <attr type="work" source="58">Miss Squid II</attr>
+      <attr type="work" source="58">Sea Bed</attr>
+      <attr type="work" source="58">Autumn</attr>
+      <attr type="work" source="58">New Vetrofond colors &amp; Terra</attr>
+      <attr type="work" source="58">Window Totems</attr>
+      <attr type="work" source="58">Shards and Silver</attr>
+      <attr type="work" source="58">Comet Tails</attr>
+      <attr type="work" source="58">Mister Sister</attr>
+      <attr type="work" source="58">Miss Squid Loves Her Treasure</attr>
+      <attr type="work" source="58">Spirits</attr>
+      <attr type="work" source="58">Focals using - Bullseye Odd Lots</attr>
+      <attr type="work" source="58">Still More May Focals</attr>
+      <attr type="work" source="58">Valentine Flowbots</attr>
+      <attr type="work" source="58">Focals - January</attr>
+      <attr type="work" source="58">Shifting Pink</attr>
+      <attr type="work" source="58">R4 Focals</attr>
+      <attr type="work" source="58">Big Button Focals</attr>
+      <attr type="work" source="58">More May Focals</attr>
+      <attr type="work" source="58">New Moon in Leo</attr>
+      <attr type="work" source="58">Desert Spirit</attr>
+      <attr type="work" source="58">Terra Beads</attr>
+      <attr type="work" source="58">More Flower Power Brooches</attr>
+      <attr type="work" source="58">New focals.</attr>
+      <attr type="work" source="58">Wing Song</attr>
+      <attr type="work" source="58">Bullseye Odds</attr>
+      <attr type="work" source="58">Alone Time</attr>
+      <attr type="work" source="58">Graphic Designs</attr>
+      <attr type="work" source="58">New Focals</attr>
+      <attr type="work" source="58">Grids</attr>
+      <attr type="work" source="58">More Focals</attr>
+      <attr type="work" source="58">Tinsel Time!</attr>
+      <attr type="work" source="58">More Focals from Bullseye and Vetro Odd Lots</attr>
+      <attr type="work" source="58">Circuits</attr>
+      <attr type="work" source="58">Jester Beads</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="61" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="61">Rupert</attr>
+      <attr type="affiliation" source="61">Graduate Program - ology</attr>
+      <attr type="affiliation" source="61">Outreach Commission for St. Peters Church</attr>
+      <attr type="major" source="61">American Studies</attr>
+      <attr type="award" source="61">Leadership Awards</attr>
+      <attr type="major" source="61">ology</attr>
+      <attr type="location" source="61">Morristown</attr>
+      <attr type="degree" source="61">Master of Arts degree</attr>
+      <attr type="major" source="61">Dramatic Literature</attr>
+      <attr type="occupation" source="61">graduate student</attr>
+      <attr type="major" source="61">French</attr>
+      <attr type="occupation" source="61">Youth Mentor</attr>
+      <attr type="school" source="61">Colby College</attr>
+      <attr type="occupation" source="61">Commissioner</attr>
+      <attr type="school" source="61">University of Essex</attr>
+      <attr type="degree" source="61">Bachelor of Arts degree</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="work" source="85">Parents, Unite!</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="114" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="114">Team Captain</attr>
+      <attr type="affiliation" source="114">NWN</attr>
+      <attr type="affiliation" source="114">NWN South</attr>
+      <attr type="affiliation" source="114">4Front Team</attr>
+      <attr type="affiliation" source="114">NWN Morrisville</attr>
+      <attr type="location" source="114">Morrisville</attr>
+      <attr type="affiliation" source="114">NWN Corporation</attr>
+      <attr type="affiliation" source="114">NWN for  Cure</attr>
+      <attr type="award" source="114">Sunny Radio 93.9 Spirit Award</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="52" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="98" />
+    </documents>
+    <attributes>
+      <attr type="work" source="98">Klezmer Nova</attr>
+      <attr type="work" source="98">Un Poquito de Salsa</attr>
+      <attr type="work" source="98">Nuts and Bolts</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="55" />
+      <doc rank="77" />
+    </documents>
+    <attributes>
+      <attr type="location" source="55">Concord, NC</attr>
+      <attr type="location" source="77">Concord NC</attr>
+      <attr type="email" source="77">charokeelady@hotmail.com</attr>
+      <attr type="birthplace" source="77">Concord NC, USA</attr>
+      <attr type="website" source="77">http://my.care2.com/canjones</attr>
+      <attr type="website" source="77">http://www.myspace.com/charokee_queen1</attr>
+      <attr type="othername" source="77">Lady Wolf</attr>
+      <attr type="dateofbirth" source="77">Aug 20</attr>
+      <attr type="birthplace" source="77">Concord NC</attr>
+      <attr type="location" source="77">Concord, NC, USA</attr>
+      <attr type="website" source="77">http://care2susanj.com</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="78" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="78">mental health rapist</attr>
+      <attr type="othername" source="78">Susan L. Jones</attr>
+      <attr type="othername" source="78">SUSAN L. JONES</attr>
+      <attr type="occupation" source="78">rapists</attr>
+      <attr type="occupation" source="78">social worker</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="4" />
+      <doc rank="19" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="4">Susan Jones Studio</attr>
+      <attr type="phone" source="4">662-252-5705</attr>
+      <attr type="occupation" source="4">enamellist</attr>
+      <attr type="occupation" source="4">metalsmith</attr>
+      <attr type="occupation" source="4">artist</attr>
+      <attr type="affiliation" source="4">Craftsmen&apos;s Guild of Mississippi</attr>
+      <attr type="othername" source="4">Susan Kemp Jones</attr>
+      <attr type="occupation" source="4">art jewelry designer</attr>
+      <attr type="occupation" source="4">jeweler</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="59" />
+    </documents>
+    <attributes>
+      <attr type="work" source="59">American Stories: The American Dream</attr>
+      <attr type="work" source="59">Baryshnikov By Tharp With American Ballet Theatre</attr>
+      <attr type="affiliation" source="59">American Ballet atre</attr>
+      <attr type="occupation" source="59">Set Production Assistant</attr>
+      <attr type="occupation" source="59">Assistant Producer</attr>
+      <attr type="work" source="59">Route 9</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="28">425-922-9990</attr>
+      <attr type="occupation" source="28">licensed Broker</attr>
+      <attr type="affiliation" source="28">board of Kirkland Interfaith Transitions in Housing</attr>
+      <attr type="fax" source="28">425-454-8620</attr>
+      <attr type="occupation" source="28">Associate Broker</attr>
+      <attr type="occupation" source="28">expert negotiator</attr>
+      <attr type="website" source="28">www.stjones.mywindermere.com</attr>
+      <attr type="phone" source="28">425-455-9800</attr>
+      <attr type="location" source="28">Windermere Real Estate/East, Inc. 435 108th Ave NE Bellevue, WA 98004</attr>
+      <attr type="affiliation" source="28">Windermere Real Estate Services Co</attr>
+      <attr type="affiliation" source="28">Windermere Real Estate/East Inc</attr>
+      <attr type="occupation" source="28">AB</attr>
+      <attr type="occupation" source="28">RC</attr>
+      <attr type="affiliation" source="28">KITH</attr>
+      <attr type="occupation" source="28">board member</attr>
+      <attr type="occupation" source="28">Certified Relocation Specialist</attr>
+      <attr type="affiliation" source="28">Fred Hutchinson Cancer Center</attr>
+      <attr type="school" source="28">University of Washington</attr>
+      <attr type="location" source="28">Bellevue West</attr>
+      <attr type="email" source="28">stjones@windermere.com</attr>
+      <attr type="othername" source="28">Susan T. Jones</attr>
+      <attr type="affiliation" source="28">Microsoft Boeing, Paccar</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="location" source="86">Indianapolis, Indiana</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="40" />
+      <doc rank="75" />
+      <doc rank="139" />
+      <doc rank="116" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="40">Merck Sharp, &amp; Dohme Pharmaceuticals</attr>
+      <attr type="occupation" source="40">Secretary</attr>
+      <attr type="affiliation" source="40">IEEE</attr>
+      <attr type="occupation" source="40">Executive Vice President</attr>
+      <attr type="affiliation" source="40">Virtual Vision Inc</attr>
+      <attr type="affiliation" source="40">Texas Instruments</attr>
+      <attr type="occupation" source="40">Chief Marketing and Strategy Officer</attr>
+      <attr type="major" source="40">biology</attr>
+      <attr type="othername" source="40">Susan K Jones</attr>
+      <attr type="affiliation" source="40">SPIE</attr>
+      <attr type="occupation" source="40">director</attr>
+      <attr type="degree" source="40">B.S</attr>
+      <attr type="location" source="40">Bellevue, Washington</attr>
+      <attr type="major" source="40">chemistry</attr>
+      <attr type="school" source="40">Lamar University</attr>
+      <attr type="affiliation" source="40">eMagin Corporation</attr>
+      <attr type="occupation" source="40">Secretary/Or Executive Officer</attr>
+      <attr type="affiliation" source="40">SID</attr>
+      <attr type="othername" source="75">Susan K. Jones</attr>
+      <attr type="occupation" source="75">e-commerce expert</attr>
+      <attr type="affiliation" source="75">Marketing Ferris State University</attr>
+      <attr type="work" source="75">Marketing Convergence and Creative Strategy in Direct Marketing</attr>
+      <attr type="affiliation" source="75">Ferris State</attr>
+      <attr type="occupation" source="75">Professor</attr>
+      <attr type="occupation" source="139">partner</attr>
+      <attr type="affiliation" source="139">Callahan Group LLC</attr>
+      <attr type="occupation" source="139">secretary-treasurer</attr>
+      <attr type="affiliation" source="139">Susan K. Jones &amp; Associates</attr>
+      <attr type="occupation" source="139">full professor</attr>
+      <attr type="award" source="139">Downs</attr>
+      <attr type="occupation" source="139">faculty</attr>
+      <attr type="award" source="139">Downs Award</attr>
+      <attr type="location" source="139">East Grand Rapids, MI</attr>
+      <attr type="othername" source="139">Susan K. Jones</attr>
+      <attr type="occupation" source="139">president</attr>
+      <attr type="affiliation" source="139">Chicago Direct Marketing Association</attr>
+      <attr type="location" source="139">Big Rapids, MI</attr>
+      <attr type="location" source="139">Rosemont, IL</attr>
+      <attr type="affiliation" source="139">CADM</attr>
+      <attr type="occupation" source="139">direct marketer</attr>
+      <attr type="affiliation" source="139">department of marketing at Ferris State University</attr>
+      <attr type="award" source="139">Charles S. Downs Chicago Direct Marketer of  Year award</attr>
+      <attr type="affiliation" source="139">board of directors</attr>
+      <attr type="occupation" source="116">Chief Marketing Officer</attr>
+      <attr type="affiliation" source="116">eMagin</attr>
+      <attr type="occupation" source="116">Executive Vice President</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="128" />
+      <doc rank="83" />
+    </documents>
+    <attributes>
+      <attr type="major" source="128">Guidance</attr>
+      <attr type="occupation" source="128">Assistant Director</attr>
+      <attr type="othername" source="128">Susan L Jones</attr>
+      <attr type="school" source="128">University of South Florida</attr>
+      <attr type="degree" source="128">Masters</attr>
+      <attr type="website" source="128">http://www.floridaea.org</attr>
+      <attr type="degree" source="128">Bachelor of Science</attr>
+      <attr type="major" source="128">Speech and English</attr>
+      <attr type="affiliation" source="128">Florida Education Association</attr>
+      <attr type="email" source="128">susan.jones@floridaea.org</attr>
+      <attr type="occupation" source="83">student</attr>
+      <attr type="relatives" source="83">David</attr>
+      <attr type="school" source="83">Rush Medical College</attr>
+      <attr type="birthplace" source="83">Wales</attr>
+      <attr type="school" source="83">McMynn Academy</attr>
+      <attr type="relatives" source="83">Margaret ( Thomas ) Jones</attr>
+      <attr type="degree" source="83">M.D</attr>
+      <attr type="affiliation" source="83">County State and American Medical Associations</attr>
+      <attr type="degree" source="83">Dr</attr>
+      <attr type="occupation" source="83">M.D</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="34" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="34">Ballet Mistress</attr>
+      <attr type="affiliation" source="34">Royal Ballet</attr>
+      <attr type="occupation" source="34">Regisseur</attr>
+      <attr type="affiliation" source="34">ABT</attr>
+      <attr type="occupation" source="34">dancer</attr>
+      <attr type="mentor" source="34">Twyla Tharp</attr>
+      <attr type="school" source="34">Rockville School of Ballet</attr>
+      <attr type="mentor" source="34">Lucille Hood</attr>
+      <attr type="work" source="34">Fall River Legend</attr>
+      <attr type="work" source="34">Don Quixote</attr>
+      <attr type="work" source="34">La Bayad?re</attr>
+      <attr type="affiliation" source="34">Joffrey Ballet</attr>
+      <attr type="affiliation" source="34">Joffrey II</attr>
+      <attr type="mentor" source="34">Robert Joffrey</attr>
+      <attr type="birthplace" source="34">York Pennsylvania</attr>
+      <attr type="work" source="34">Rodeo</attr>
+      <attr type="school" source="34">Washington School of Ballet</attr>
+      <attr type="affiliation" source="34">American Ballet atre</attr>
+      <attr type="mentor" source="34">Mary Day</attr>
+      <attr type="affiliation" source="34">Ballet del Teatro Colon</attr>
+      <attr type="affiliation" source="34">New York City Opera</attr>
+      <attr type="occupation" source="34">Assistant Ballet Mistress</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="3" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="47" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="63" />
+      <doc rank="145" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="63">Postdoctoral Research Fellow</attr>
+      <attr type="degree" source="63">Dr</attr>
+      <attr type="othername" source="145">Jones S</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="126" />
+    </documents>
+    <attributes>
+      <attr type="school" source="126">WVU</attr>
+      <attr type="major" source="126">Social Studies - Secondary Education</attr>
+      <attr type="email" source="126">jmhsjones@hotmail.com</attr>
+      <attr type="degree" source="126">AB</attr>
+      <attr type="school" source="126">John Marshall High School</attr>
+      <attr type="degree" source="126">Master&apos;s Degree</attr>
+      <attr type="website" source="126">www.sweetjourney.com/Jones_Homepage.html</attr>
+      <attr type="occupation" source="126">Faculty</attr>
+      <attr type="occupation" source="126">Teacher</attr>
+      <attr type="major" source="126">Social Studies</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="129" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="23">Chief Operating Officer</attr>
+      <attr type="school" source="23">University of Southwestern Louisiana</attr>
+      <attr type="occupation" source="23">Executive VP</attr>
+      <attr type="affiliation" source="23">SEZ America</attr>
+      <attr type="major" source="23">accounting</attr>
+      <attr type="affiliation" source="23">Business Unit</attr>
+      <attr type="affiliation" source="23">SEZ Holding Ltd</attr>
+      <attr type="occupation" source="23">financial consultant</attr>
+      <attr type="degree" source="23">BS</attr>
+      <attr type="occupation" source="23">partner</attr>
+      <attr type="occupation" source="23">certified public accountant</attr>
+      <attr type="affiliation" source="23">SEZ Group</attr>
+      <attr type="occupation" source="23">COO</attr>
+      <attr type="occupation" source="23">CFO</attr>
+      <attr type="affiliation" source="23">National CPA firm</attr>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="39">National Federation of Independent Business/Arizona</attr>
+      <attr type="major" source="39">humanities</attr>
+      <attr type="phone" source="39">602-263-7690</attr>
+      <attr type="affiliation" source="39">Metropolitan Library Service of Oklahoma</attr>
+      <attr type="occupation" source="39">president</attr>
+      <attr type="affiliation" source="39">Heritage Furniture</attr>
+      <attr type="affiliation" source="39">NFIB</attr>
+      <attr type="occupation" source="39">business and community program developer</attr>
+      <attr type="affiliation" source="39">Drugs Don&apos;t Work in Arizona</attr>
+      <attr type="degree" source="39">bachelor&apos;s degree</attr>
+      <attr type="affiliation" source="39">NFIB/Arizona</attr>
+      <attr type="email" source="39">Susan.Jones@NFIB.org</attr>
+      <attr type="occupation" source="39">chief executive officer</attr>
+      <attr type="fax" source="39">602-263-7790</attr>
+      <attr type="school" source="39">Oklahoma State University</attr>
+      <attr type="location" source="39">3550 North Central Avenue Suite 1806 Phoenix, AZ 85012</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="84" />
+      <doc rank="94" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="31">
+    <documents>
+      <doc rank="97" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="97">Bachelor of Arts Degree</attr>
+      <attr type="occupation" source="97">Vice President</attr>
+      <attr type="occupation" source="97">Communications Coordinator</attr>
+      <attr type="occupation" source="97">editor</attr>
+      <attr type="affiliation" source="97">American Orchid Society</attr>
+      <attr type="affiliation" source="97">Gage Academy</attr>
+      <attr type="affiliation" source="97">Ability Beyond Disability</attr>
+      <attr type="affiliation" source="97">Colored Pencil Society of America&apos;s Seattle Washington chapter</attr>
+      <attr type="school" source="97">Sourn Connecticut State University</attr>
+      <attr type="affiliation" source="97">publications department</attr>
+      <attr type="occupation" source="97">Website Editor</attr>
+      <attr type="school" source="97">University of Washington</attr>
+      <attr type="major" source="97">Communications</attr>
+    </attributes>
+  </entity>
+  <entity id="32">
+    <documents>
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="29">Susan Alice Jones</attr>
+      <attr type="occupation" source="29">illustrator</attr>
+      <attr type="dateofbirth" source="29">1897</attr>
+      <attr type="occupation" source="29">Artist</attr>
+    </attributes>
+  </entity>
+  <entity id="33">
+    <documents>
+      <doc rank="42" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="34">
+    <documents>
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="award" source="6">2007 Gulf of Maine Visionary Award</attr>
+      <attr type="othername" source="6">Susan Jones Moses</attr>
+      <attr type="location" source="6">47 Glen Street Rowley, MA 01969</attr>
+      <attr type="phone" source="6">978-340-0407</attr>
+      <attr type="email" source="6">info@susanmoses.net</attr>
+      <attr type="affiliation" source="6">Susan Jones Moses &amp; Associates</attr>
+      <attr type="occupation" source="6">firm&apos;s principal</attr>
+      <attr type="occupation" source="6">planning consultant</attr>
+    </attributes>
+  </entity>
+  <entity id="35">
+    <documents>
+      <doc rank="70" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="70">BlueWater Realty Group</attr>
+      <attr type="phone" source="70">566-7584</attr>
+    </attributes>
+  </entity>
+  <entity id="36">
+    <documents>
+      <doc rank="80" />
+      <doc rank="68" />
+    </documents>
+    <attributes>
+      <attr type="work" source="80">Conrad and Women</attr>
+      <attr type="work" source="68">Conrad and Women</attr>
+    </attributes>
+  </entity>
+  <entity id="37">
+    <documents>
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="27">(863) 385-3887</attr>
+      <attr type="phone" source="27">800-840-6046</attr>
+      <attr type="occupation" source="27">Listing/Selling Agents</attr>
+      <attr type="location" source="27">Heartland Real Estate, Inc 3200 US Highway 27 South  Sebring, FL 33870</attr>
+      <attr type="affiliation" source="27">Heartland Real Estate Inc</attr>
+      <attr type="email" source="27">sjones@htn.net</attr>
+      <attr type="phone" source="27">(863)382-3887 ext. 202</attr>
+      <attr type="phone" source="27">(863) 385-5027</attr>
+      <attr type="fax" source="27">(863)382-4284</attr>
+      <attr type="phone" source="27">(800)840-6046</attr>
+    </attributes>
+  </entity>
+  <entity id="38">
+    <documents>
+      <doc rank="20" />
+      <doc rank="122" />
+      <doc rank="79" />
+    </documents>
+    <attributes>
+      <attr type="work" source="20">May Morning</attr>
+      <attr type="work" source="20">Dennis the Menace</attr>
+      <attr type="work" source="20">Feelings</attr>
+      <attr type="work" source="20">Whose Child Am I?</attr>
+      <attr type="work" source="20">Roller Blade Warriors: Taken by Force</attr>
+      <attr type="work" source="20">Roller Blade Warriors</attr>
+      <attr type="work" source="20">May Morning in Oxford</attr>
+      <attr type="work" source="20">Julia</attr>
+      <attr type="work" source="20">Wilding: The Children of Violence</attr>
+      <attr type="work" source="20">Class of Nuke &apos;Em High 2: Subhumanoid Meltdown</attr>
+      <attr type="work" source="20">Class of Nuke &apos;Em High Part II: Subhumanoid Meltdown</attr>
+      <attr type="work" source="20">Wilding</attr>
+      <attr type="work" source="20">Alba pagana</attr>
+      <attr type="work" source="20">Dennis Has a Fling</attr>
+      <attr type="occupation" source="20">Actress</attr>
+      <attr type="work" source="20">Delitto a Oxford</attr>
+      <attr type="work" source="20">Just Dennis</attr>
+      <attr type="work" source="20">Power Blade Warrior: Taken by Force</attr>
+      <attr type="occupation" source="122">Location Assistant</attr>
+      <attr type="work" source="122">The Tomorrow People</attr>
+      <attr type="work" source="122">Nutty Professor II: The Klumps</attr>
+      <attr type="occupation" source="122">production runner</attr>
+      <attr type="work" source="122">Hearts in Atlantis</attr>
+      <attr type="occupation" source="122">Office Runner</attr>
+      <attr type="occupation" source="122">Assistant Location Manager</attr>
+      <attr type="work" source="122">Love and Sex</attr>
+      <attr type="work" source="122">Julia</attr>
+      <attr type="work" source="122">The Woods</attr>
+      <attr type="occupation" source="122">Assistant Producer</attr>
+      <attr type="work" source="122">Class of Nuke &apos;Em High Part 2: Subhumanoid Meltdown</attr>
+      <attr type="work" source="122">The Contender</attr>
+      <attr type="work" source="122">American Stories: The American Dream</attr>
+      <attr type="work" source="122">Get on the Bus</attr>
+      <attr type="work" source="79">Julia</attr>
+    </attributes>
+  </entity>
+  <entity id="39">
+    <documents>
+      <doc rank="44" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="44">Attentiveness Leaders Guide</attr>
+      <attr type="affiliation" source="44">Forgiveness Study And Reflection Guide</attr>
+      <attr type="affiliation" source="44">Forgiveness Leaders Guide</attr>
+      <attr type="affiliation" source="44">Attentiveness Study And Reflection Guide</attr>
+      <attr type="work" source="44">Attentiveness Leaders Guide</attr>
+    </attributes>
+  </entity>
+  <entity id="40">
+    <documents>
+      <doc rank="95" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="95">Sue Jones</attr>
+      <attr type="occupation" source="95">First Year Coordinator</attr>
+      <attr type="award" source="95">University of Tasmania Teaching Excellence Awards</attr>
+      <attr type="othername" source="95">Sue</attr>
+      <attr type="occupation" source="95">Head</attr>
+      <attr type="affiliation" source="95">School of Zoology at  University of  Tasmania</attr>
+      <attr type="occupation" source="95">Associate Professor</attr>
+      <attr type="occupation" source="95">casual senior demonstrator</attr>
+    </attributes>
+  </entity>
+  <entity id="41">
+    <documents>
+      <doc rank="33" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="33">Ph.D</attr>
+      <attr type="othername" source="33">Jones S.M</attr>
+      <attr type="school" source="33">University of Texas Medical Branch Galveston</attr>
+      <attr type="email" source="33">Susan.Jones@uchsc.edu</attr>
+      <attr type="location" source="33">University of Colorado Denver Division of Clinical Pharmacology, C-237 4200 E. 9th Ave. Denver , CO , 80262</attr>
+      <attr type="affiliation" source="33">University of Colorado Denver Division of Clinical Pharmacology</attr>
+      <attr type="occupation" source="33">Instructor</attr>
+      <attr type="phone" source="33">303-315-3185</attr>
+    </attributes>
+  </entity>
+  <entity id="42">
+    <documents>
+      <doc rank="66" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="66">(540) 314-4806</attr>
+      <attr type="affiliation" source="66">National Association of Realtors</attr>
+      <attr type="affiliation" source="66">Roanoke Regional Home Builders Association Sale and Marketing Council</attr>
+      <attr type="award" source="66">Numerous Gold Award</attr>
+      <attr type="occupation" source="66">real estate agaent</attr>
+      <attr type="affiliation" source="66">Long &amp; Foster</attr>
+      <attr type="location" source="66">Roanoke Valley</attr>
+      <attr type="affiliation" source="66">Roanoke Valley Association of Realtors</attr>
+      <attr type="occupation" source="66">Associates</attr>
+      <attr type="award" source="66">Consecutive award</attr>
+      <attr type="phone" source="66">(540) 966-5700 Ext.: 1228</attr>
+      <attr type="fax" source="66">(540) 966-1855</attr>
+      <attr type="occupation" source="66">Realtor</attr>
+      <attr type="affiliation" source="66">Roanoke Valley Multiple Listing Service Inc</attr>
+      <attr type="award" source="66">New Construction Award</attr>
+      <attr type="location" source="66">Roanoke Valley area</attr>
+      <attr type="occupation" source="66">Real Estate Sales Person</attr>
+      <attr type="location" source="66">Botetourt County</attr>
+      <attr type="affiliation" source="66">Virginia Association of Realtors</attr>
+      <attr type="location" source="66">1638 Roanoke Road PO Box 1200, Daleville, VA, 24083</attr>
+    </attributes>
+  </entity>
+  <entity id="43">
+    <documents>
+      <doc rank="1" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="1">SUSAN JONES &amp;  Pinnacle Estate Properties Inc</attr>
+      <attr type="phone" source="1">818-701-6131</attr>
+      <attr type="affiliation" source="1">Pinnacle Estate Properties</attr>
+      <attr type="location" source="1">Pinnacle Estate Properties 9137 Reseda Blvd. Northridge, CA. 91324</attr>
+    </attributes>
+  </entity>
+  <entity id="44">
+    <documents>
+      <doc rank="45" />
+    </documents>
+    <attributes>
+      <attr type="award" source="45">Certified Residential Specialist (CRS) Designation</attr>
+      <attr type="affiliation" source="45">Peabody &amp; Smith Realty</attr>
+      <attr type="occupation" source="45">agents</attr>
+      <attr type="occupation" source="45">Realtor</attr>
+      <attr type="occupation" source="45">Realtors</attr>
+      <attr type="occupation" source="45">agent</attr>
+      <attr type="affiliation" source="45">Peabody &amp; Smith</attr>
+      <attr type="occupation" source="45">administrative professional</attr>
+      <attr type="occupation" source="45">Broker Associate</attr>
+      <attr type="mentor" source="45">Andy Smith</attr>
+      <attr type="award" source="45">CRS Designation</attr>
+    </attributes>
+  </entity>
+  <entity id="45">
+    <documents>
+      <doc rank="123" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="123">Peggy Helm</attr>
+      <attr type="location" source="123">St. Edward School, 9610 Sue Helen Drive, Jeffersontown</attr>
+      <attr type="affiliation" source="123">St. Matws Walking Club</attr>
+      <attr type="othername" source="123">SUSAN M. JONES</attr>
+      <attr type="occupation" source="123">Principal</attr>
+      <attr type="location" source="123">St. Matthews</attr>
+      <attr type="affiliation" source="123">St. Edward School</attr>
+      <attr type="relatives" source="123">Paul</attr>
+      <attr type="occupation" source="123">principal</attr>
+      <attr type="othername" source="123">Susan M. Jones</attr>
+    </attributes>
+  </entity>
+  <entity id="46">
+    <documents>
+      <doc rank="9" />
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="51">course facilitator</attr>
+      <attr type="affiliation" source="51">AP</attr>
+      <attr type="school" source="51">Ohio Wesleyan University</attr>
+      <attr type="affiliation" source="51">SCETV</attr>
+      <attr type="occupation" source="51">Office Manager</attr>
+      <attr type="occupation" source="51">curriculum writer</attr>
+      <attr type="affiliation" source="51">ITV</attr>
+      <attr type="affiliation" source="51">State Department of Education</attr>
+      <attr type="degree" source="51">BA</attr>
+      <attr type="major" source="51">Education</attr>
+      <attr type="birthplace" source="51">Dayton Ohio</attr>
+      <attr type="school" source="51">USC</attr>
+      <attr type="school" source="51">Duke</attr>
+      <attr type="major" source="51">Elementary Education</attr>
+      <attr type="occupation" source="51">facilitator</attr>
+      <attr type="major" source="51">Media Arts</attr>
+    </attributes>
+  </entity>
+  <entity id="47">
+    <documents>
+      <doc rank="132" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="132">UMHB</attr>
+      <attr type="birthplace" source="132">Aberdeen So Dakota</attr>
+      <attr type="occupation" source="132">Student</attr>
+      <attr type="affiliation" source="132">Student Nurses Association</attr>
+      <attr type="occupation" source="132">student</attr>
+      <attr type="major" source="132">Nursing</attr>
+      <attr type="affiliation" source="132">Student representative for College of Nursing to  UMHB Library Improvement Board</attr>
+      <attr type="occupation" source="132">S1</attr>
+    </attributes>
+  </entity>
+  <entity id="48">
+    <documents>
+      <doc rank="8" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="49">
+    <documents>
+      <doc rank="81" />
+      <doc rank="67" />
+    </documents>
+    <attributes>
+      <attr type="website" source="81">susanjonessells@msn.com</attr>
+      <attr type="location" source="81">Coldwell Banker Upchurch Realty 2405 W. Broad St. Suite 150 Athens, GA 30606</attr>
+      <attr type="occupation" source="81">REALTOR</attr>
+      <attr type="phone" source="81">(706) 543-4000</attr>
+      <attr type="phone" source="81">(706) 338-1918</attr>
+      <attr type="fax" source="81">(706) 354-6082</attr>
+      <attr type="email" source="81">susanjonessells@msn.com</attr>
+      <attr type="affiliation" source="81">Coldwell Banker Upchurch Realty</attr>
+      <attr type="school" source="81">University of Georgia</attr>
+      <attr type="occupation" source="81">Realtor</attr>
+      <attr type="occupation" source="81">Certified Negotiator</attr>
+      <attr type="degree" source="81">English</attr>
+      <attr type="school" source="67">University of Georgia</attr>
+      <attr type="affiliation" source="67">Ans Area Association of Realtors</attr>
+      <attr type="degree" source="67">B.A</attr>
+      <attr type="affiliation" source="67">Coldwell Banker Upchurch Realty</attr>
+      <attr type="affiliation" source="67">First Presbyterian Church</attr>
+      <attr type="phone" source="67">(706) 338-1918</attr>
+      <attr type="relatives" source="67">Kate</attr>
+      <attr type="occupation" source="67">President</attr>
+      <attr type="occupation" source="67">Co-owner</attr>
+      <attr type="occupation" source="67">Realtors</attr>
+      <attr type="occupation" source="67">Secretary</attr>
+      <attr type="relatives" source="67">Everett</attr>
+      <attr type="occupation" source="67">Vacation Bible School Teacher</attr>
+      <attr type="affiliation" source="67">National Association of Realtors</attr>
+      <attr type="affiliation" source="67">Kappa Delta Alumni Association</attr>
+      <attr type="major" source="67">English</attr>
+      <attr type="affiliation" source="67">Georgia Association of Realtors</attr>
+      <attr type="occupation" source="67">Treasury Advisor</attr>
+      <attr type="school" source="67">Clarke Central High School</attr>
+      <attr type="affiliation" source="67">K.D. Alumni - UGA Chapter</attr>
+      <attr type="affiliation" source="67">Ans Florist</attr>
+      <attr type="affiliation" source="67">Beechwood Hills Homeowners Association</attr>
+      <attr type="relatives" source="67">Mary Frances</attr>
+      <attr type="occupation" source="67">Sunday School Teacher</attr>
+      <attr type="location" source="67">Athens</attr>
+    </attributes>
+  </entity>
+  <entity id="50">
+    <documents>
+      <doc rank="90" />
+      <doc rank="135" />
+      <doc rank="115" />
+      <doc rank="92" />
+      <doc rank="108" />
+      <doc rank="32" />
+      <doc rank="73" />
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="135">Main Performer</attr>
+      <attr type="work" source="92">Olmstead Cha Cha</attr>
+      <attr type="work" source="92">Promised</attr>
+      <attr type="work" source="92">Klezmer Nova</attr>
+      <attr type="work" source="92">Lester Leaps Out</attr>
+      <attr type="work" source="92">My Little Suede Shoes</attr>
+      <attr type="work" source="92">Recorda Me</attr>
+      <attr type="affiliation" source="92">Jane Doe</attr>
+      <attr type="work" source="92">Un Poquito de Salsa</attr>
+      <attr type="work" source="92">Tappin</attr>
+      <attr type="work" source="92">RealAudio Be Sure of Love</attr>
+      <attr type="affiliation" source="92">Mariachi De las Compadres</attr>
+      <attr type="work" source="92">Ugly Shoes Blues</attr>
+      <attr type="work" source="92">Little Sunflower</attr>
+      <attr type="occupation" source="92">composer</attr>
+      <attr type="work" source="92">Softly as in a Morning Sunrise</attr>
+      <attr type="work" source="92">Finicky</attr>
+      <attr type="work" source="92">Be Sure of Love</attr>
+      <attr type="occupation" source="92">Musicians</attr>
+      <attr type="affiliation" source="92">Machaya Klezmer Band</attr>
+      <attr type="work" source="92">Blue Skies</attr>
+      <attr type="location" source="92">5913 Pontiac Street College Park, MD 20740</attr>
+      <attr type="work" source="92">Corcoran Blues</attr>
+      <attr type="affiliation" source="92">Silver String Quintet</attr>
+      <attr type="work" source="92">Night and Day</attr>
+      <attr type="work" source="92">Quizas, Quizas, Quizas</attr>
+      <attr type="work" source="92">Syd&apos;s Volley</attr>
+      <attr type="occupation" source="92">violinist</attr>
+      <attr type="work" source="92">Place and Time</attr>
+      <attr type="work" source="92">Un Poquito Mas</attr>
+      <attr type="work" source="92">Sweet Georgia Brown</attr>
+      <attr type="work" source="92">Black Orpheus</attr>
+      <attr type="work" source="92">Let&apos;s Fall in Love</attr>
+      <attr type="work" source="92">Violin Dreams</attr>
+      <attr type="work" source="92">Blue Bossa</attr>
+      <attr type="work" source="92">Nuts and Bolts</attr>
+      <attr type="work" source="92">On the Brink</attr>
+      <attr type="work" source="92">Los Bilbilicos</attr>
+      <attr type="work" source="92">Violin Caliente</attr>
+      <attr type="work" source="92">Nature Boy</attr>
+      <attr type="work" source="92">My Little Star</attr>
+      <attr type="location" source="108">Washington D.C. area</attr>
+      <attr type="work" source="108">Be Sure of Love</attr>
+      <attr type="birthplace" source="108">Bronx</attr>
+      <attr type="occupation" source="108">violinist</attr>
+      <attr type="work" source="108">Let&apos;s Fall in Love</attr>
+      <attr type="work" source="108">Tappin</attr>
+      <attr type="work" source="108">Violin Caliente</attr>
+      <attr type="work" source="108">My Little Star</attr>
+      <attr type="work" source="108">On the Brink</attr>
+      <attr type="work" source="108">Un Poquito De Salsa</attr>
+      <attr type="work" source="108">Place and Time</attr>
+      <attr type="work" source="108">Ugly Shoes Blues</attr>
+      <attr type="work" source="108">Un Poquito Mas</attr>
+      <attr type="work" source="108">Promised</attr>
+      <attr type="work" source="108">Quizas, Quizas, Quizas</attr>
+      <attr type="affiliation" source="32">Susan Jones Jazz Quartet</attr>
+      <attr type="work" source="32">Violin Dreams</attr>
+      <attr type="occupation" source="32">Artist</attr>
+      <attr type="work" source="73">Violin Caliente</attr>
+      <attr type="work" source="93">Lester Leaps Out</attr>
+      <attr type="work" source="93">Klezmer Nova</attr>
+      <attr type="work" source="93">Corcoran Blues</attr>
+      <attr type="work" source="93">Olmstead Cha Cha</attr>
+      <attr type="work" source="93">Nuts and Bolts</attr>
+      <attr type="work" source="93">Los Bilbilicos</attr>
+    </attributes>
+  </entity>
+  <entity id="51">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="72">RE/MAX Coast &amp; Country</attr>
+      <attr type="occupation" source="72">Real Estate Agent</attr>
+      <attr type="occupation" source="72">Associates</attr>
+    </attributes>
+  </entity>
+  <entity id="52">
+    <documents>
+      <doc rank="100" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="100">Rebecca</attr>
+      <attr type="email" source="100">jones.1[@]optusnet.com.au</attr>
+      <attr type="relatives" source="100">Nicholas</attr>
+      <attr type="relatives" source="100">Cherie</attr>
+      <attr type="relatives" source="100">Mollie</attr>
+    </attributes>
+  </entity>
+  <entity id="53">
+    <documents>
+      <doc rank="49" />
+      <doc rank="14" />
+      <doc rank="2" />
+      <doc rank="24" />
+    </documents>
+    <attributes>
+      <attr type="work" source="49">Blueprint for Student Success</attr>
+      <attr type="affiliation" source="49">Board of Directors of ASCD</attr>
+      <attr type="occupation" source="49">Director of Program Development</attr>
+      <attr type="work" source="49">Blueprint for Student Success A Guide to Research-Based Teaching Practices K-12</attr>
+      <attr type="affiliation" source="49">Program Development for Illinois Regional Offices of Education</attr>
+      <attr type="occupation" source="49">Educational consultant</attr>
+      <attr type="othername" source="49">Susan J. Jones</attr>
+      <attr type="work" source="49">Backstage Pass for Trainers, Facilitators, and Public Speakers Your Guide to Successful Presentations</attr>
+      <attr type="affiliation" source="49">Florida ASCD</attr>
+      <attr type="occupation" source="49">expert</attr>
+      <attr type="location" source="49">St. Augustine, FL</attr>
+      <attr type="occupation" source="49">member</attr>
+      <attr type="occupation" source="49">trainer</attr>
+      <attr type="work" source="49">Backstage Pass</attr>
+      <attr type="affiliation" source="49">Bureau of Education and Research</attr>
+      <attr type="occupation" source="49">president</attr>
+      <attr type="occupation" source="49">educator</attr>
+      <attr type="othername" source="14">Susan J. Jones</attr>
+      <attr type="phone" source="14">501-837-2881</attr>
+      <attr type="email" source="14">sjjones1@mac.com</attr>
+      <attr type="othername" source="14">SUSAN J. JONES</attr>
+      <attr type="othername" source="2">susan j. jones</attr>
+      <attr type="othername" source="2">Susan J. Jones</attr>
+      <attr type="email" source="2">sjjones1@mac.com</attr>
+      <attr type="occupation" source="2">trainers</attr>
+      <attr type="occupation" source="2">educator</attr>
+      <attr type="occupation" source="2">instructor</attr>
+      <attr type="phone" source="2">501-837-2881</attr>
+      <attr type="affiliation" source="24">Program Development for Illinois Regional Offices of Education</attr>
+      <attr type="location" source="24">St. Augustine, FL</attr>
+      <attr type="occupation" source="24">trainer</attr>
+      <attr type="work" source="24">Backstage Pass for Trainers, Facilitators, and Public Speakers Your Guide to Successful Presentations</attr>
+      <attr type="affiliation" source="24">Board of Directors of ASCD</attr>
+      <attr type="affiliation" source="24">Bureau of Education and Research</attr>
+      <attr type="occupation" source="24">educator</attr>
+      <attr type="othername" source="24">Susan J. Jones</attr>
+      <attr type="work" source="24">Blueprint for Student Success</attr>
+      <attr type="occupation" source="24">Educational consultant</attr>
+      <attr type="occupation" source="24">Director</attr>
+      <attr type="work" source="24">Blueprint for Student Success A Guide to Research-Based Teaching Practices K-12</attr>
+      <attr type="work" source="24">Backstage Pass</attr>
+      <attr type="affiliation" source="24">Florida ASCD</attr>
+      <attr type="occupation" source="24">president</attr>
+    </attributes>
+  </entity>
+  <entity id="54">
+    <documents>
+      <doc rank="10" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="55">
+    <documents>
+      <doc rank="112" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="112">Mr. Jones</attr>
+      <attr type="relatives" source="112">Russell Jones</attr>
+    </attributes>
+  </entity>
+  <entity id="56">
+    <documents>
+      <doc rank="16" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

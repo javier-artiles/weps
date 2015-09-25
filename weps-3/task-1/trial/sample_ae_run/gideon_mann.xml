@@ -1,0 +1,129 @@
+<clustering searchString="GIDEON MANN">
+  <entity id="1">
+    <documents>
+      <doc rank="41" />
+      <doc rank="126" />
+      <doc rank="76" />
+      <doc rank="143" />
+      <doc rank="83" />
+      <doc rank="37" />
+      <doc rank="58" />
+      <doc rank="125" />
+      <doc rank="121" />
+      <doc rank="101" />
+      <doc rank="69" />
+      <doc rank="112" />
+      <doc rank="43" />
+      <doc rank="96" />
+      <doc rank="104" />
+      <doc rank="16" />
+      <doc rank="35" />
+      <doc rank="137" />
+      <doc rank="91" />
+      <doc rank="3" />
+      <doc rank="133" />
+      <doc rank="111" />
+      <doc rank="130" />
+      <doc rank="38" />
+      <doc rank="108" />
+      <doc rank="64" />
+      <doc rank="79" />
+      <doc rank="149" />
+      <doc rank="81" />
+      <doc rank="119" />
+      <doc rank="1" />
+      <doc rank="90" />
+      <doc rank="10" />
+      <doc rank="8" />
+      <doc rank="106" />
+      <doc rank="105" />
+      <doc rank="53" />
+      <doc rank="138" />
+      <doc rank="122" />
+      <doc rank="129" />
+      <doc rank="115" />
+      <doc rank="136" />
+      <doc rank="82" />
+      <doc rank="132" />
+      <doc rank="89" />
+      <doc rank="118" />
+      <doc rank="21" />
+      <doc rank="72" />
+      <doc rank="85" />
+      <doc rank="26" />
+      <doc rank="98" />
+      <doc rank="127" />
+      <doc rank="87" />
+      <doc rank="102" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="41">Johns Hopkins University</attr>
+      <attr type="occupation" source="58">students</attr>
+      <attr type="location" source="69">Baltimore, Maryland, USA</attr>
+      <attr type="othername" source="96">Gideon S. Mann</attr>
+      <attr type="major" source="104">computer science</attr>
+      <attr type="degree" source="3">Masters&apos; degree</attr>
+      <attr type="school" source="3">Brown University</attr>
+      <attr type="email" source="108">gsm@cs.jhu.edu</attr>
+      <attr type="phone" source="108">+1 410 516 7052</attr>
+      <attr type="fax" source="108">+1 410 516 6134</attr>
+      <attr type="mentor" source="136">THOMAS DEAN</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="71" />
+      <doc rank="140" />
+      <doc rank="15" />
+      <doc rank="93" />
+      <doc rank="135" />
+      <doc rank="79" />
+      <doc rank="31" />
+      <doc rank="88" />
+      <doc rank="45" />
+      <doc rank="46" />
+      <doc rank="117" />
+      <doc rank="17" />
+      <doc rank="36" />
+      <doc rank="92" />
+      <doc rank="22" />
+      <doc rank="144" />
+      <doc rank="66" />
+      <doc rank="139" />
+      <doc rank="23" />
+      <doc rank="14" />
+      <doc rank="18" />
+      <doc rank="6" />
+      <doc rank="55" />
+      <doc rank="34" />
+      <doc rank="11" />
+      <doc rank="20" />
+      <doc rank="67" />
+      <doc rank="103" />
+      <doc rank="72" />
+      <doc rank="12" />
+      <doc rank="77" />
+      <doc rank="9" />
+      <doc rank="84" />
+      <doc rank="57" />
+      <doc rank="5" />
+      <doc rank="59" />
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="work" source="71">The Unstable Ankle</attr>
+      <attr type="affiliation" source="15">Unit of Sports Injuries and Arthroscopic Surgery, Meir Hospital, Sapir Medical Center</attr>
+      <attr type="othername" source="15">G Mann</attr>
+      <attr type="phone" source="15">972 (0) 52 2514608</attr>
+      <attr type="location" source="15">12 Shoham Street, Mevasseret Zion</attr>
+      <attr type="occupation" source="15">MD</attr>
+      <attr type="degree" source="15">MD</attr>
+      <attr type="dateofbirth" source="15">February 1947</attr>
+      <attr type="school" source="15">Hebrew University Hadassah Medical School</attr>
+      <attr type="birthplace" source="15">London, England</attr>
+      <attr type="fax" source="45">972-2-6528231</attr>
+      <attr type="email" source="45">gmann@sportsmedicine.co.il</attr>
+      <attr type="major" source="14">medical</attr>
+    </attributes>
+  </entity>
+</clustering>

@@ -1,0 +1,141 @@
+<clustering searchString="HERB RITTS">
+  <entity id="1">
+    <documents>
+      <doc rank="78" />
+      <doc rank="72" />
+      <doc rank="38" />
+      <doc rank="107" />
+      <doc rank="117" />
+      <doc rank="113" />
+      <doc rank="52" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="78">celebrity photographer</attr>
+      <attr type="award" source="72">1991 MTV awards</attr>
+      <attr type="work" source="72">herb ritts</attr>
+      <attr type="location" source="38">Los Angeles</attr>
+      <attr type="relatives" source="38">Shirley</attr>
+      <attr type="dateofbirth" source="38">1952</attr>
+      <attr type="nationality" source="38">American</attr>
+      <attr type="affiliation" source="117">Rolling Stone</attr>
+      <attr type="othername" source="52">Herb Ritt</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="104" />
+      <doc rank="4" />
+      <doc rank="59" />
+      <doc rank="69" />
+      <doc rank="2" />
+      <doc rank="45" />
+      <doc rank="36" />
+      <doc rank="101" />
+      <doc rank="53" />
+      <doc rank="21" />
+      <doc rank="10" />
+      <doc rank="5" />
+      <doc rank="81" />
+      <doc rank="31" />
+      <doc rank="12" />
+      <doc rank="112" />
+      <doc rank="106" />
+      <doc rank="51" />
+      <doc rank="79" />
+      <doc rank="108" />
+      <doc rank="98" />
+      <doc rank="56" />
+      <doc rank="25" />
+      <doc rank="35" />
+      <doc rank="41" />
+      <doc rank="94" />
+      <doc rank="16" />
+      <doc rank="92" />
+      <doc rank="115" />
+      <doc rank="63" />
+      <doc rank="6" />
+      <doc rank="76" />
+      <doc rank="113" />
+      <doc rank="39" />
+      <doc rank="102" />
+      <doc rank="117" />
+      <doc rank="7" />
+      <doc rank="49" />
+      <doc rank="68" />
+      <doc rank="114" />
+      <doc rank="96" />
+      <doc rank="109" />
+      <doc rank="118" />
+      <doc rank="66" />
+      <doc rank="15" />
+      <doc rank="54" />
+      <doc rank="32" />
+      <doc rank="107" />
+      <doc rank="20" />
+      <doc rank="72" />
+      <doc rank="105" />
+      <doc rank="111" />
+      <doc rank="47" />
+      <doc rank="11" />
+      <doc rank="19" />
+      <doc rank="27" />
+      <doc rank="3" />
+      <doc rank="99" />
+      <doc rank="14" />
+      <doc rank="23" />
+      <doc rank="65" />
+      <doc rank="82" />
+      <doc rank="95" />
+      <doc rank="9" />
+      <doc rank="8" />
+      <doc rank="88" />
+      <doc rank="62" />
+      <doc rank="52" />
+      <doc rank="46" />
+      <doc rank="1" />
+      <doc rank="55" />
+      <doc rank="70" />
+      <doc rank="28" />
+      <doc rank="73" />
+      <doc rank="44" />
+      <doc rank="90" />
+      <doc rank="61" />
+      <doc rank="75" />
+      <doc rank="29" />
+      <doc rank="37" />
+      <doc rank="97" />
+      <doc rank="60" />
+      <doc rank="34" />
+      <doc rank="33" />
+      <doc rank="13" />
+      <doc rank="78" />
+      <doc rank="74" />
+      <doc rank="42" />
+      <doc rank="24" />
+      <doc rank="43" />
+      <doc rank="38" />
+      <doc rank="48" />
+      <doc rank="83" />
+      <doc rank="58" />
+      <doc rank="67" />
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="work" source="4">Pictures</attr>
+      <attr type="location" source="59">Los Angeles</attr>
+      <attr type="occupation" source="59">commercial directors</attr>
+      <attr type="award" source="59">Best Video</attr>
+      <attr type="affiliation" source="59">L&apos;Uomo Vogue</attr>
+      <attr type="othername" source="69">Ritts, Herb</attr>
+      <attr type="major" source="2">art history</attr>
+      <attr type="nationality" source="2">American</attr>
+      <attr type="school" source="2">Bard College</attr>
+      <attr type="dateofbirth" source="2">August 13, 1952</attr>
+      <attr type="birthplace" source="2">Los Angeles, California</attr>
+      <attr type="website" source="25">www.herbritts.com</attr>
+      <attr type="relatives" source="92">Christy Thrasher</attr>
+      <attr type="degree" source="68">economics</attr>
+      <attr type="mentor" source="9">Steve McQueen</attr>
+    </attributes>
+  </entity>
+</clustering>

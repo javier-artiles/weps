@@ -1,0 +1,287 @@
+<clustering searchString="LOUIS LOWE">
+  <entity id="1">
+    <documents>
+      <doc rank="126" />
+      <doc rank="40" />
+      <doc rank="9" />
+      <doc rank="15" />
+      <doc rank="4" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="126">Executive Producer</attr>
+      <attr type="work" source="126">Midwest Funk, Vol. 3</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="130" />
+    </documents>
+    <attributes>
+      <attr type="school" source="130">Stephen F. Austin High School</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="72" />
+      <doc rank="121" />
+      <doc rank="119" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="72">Carol Louis Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="44" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="school" source="28">Heron Bay School</attr>
+      <attr type="occupation" source="28">Hon.</attr>
+      <attr type="affiliation" source="28">Rangers Sports Club</attr>
+      <attr type="othername" source="28">Stanley William Louis Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="99" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="99">Custodian</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="105" />
+    </documents>
+    <attributes>
+      <attr type="school" source="105">Jacksonville</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="115" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="115">elder</attr>
+      <attr type="affiliation" source="115">Second Church</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="104" />
+      <doc rank="60" />
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="60">Lowe, L.</attr>
+      <attr type="affiliation" source="63">Measles, Mumps, Rubella, and Herpesviruses Laboratory Branch, Centers for Disease Control and Prevention</attr>
+      <attr type="location" source="63">Atlanta, Georgia</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="22" />
+      <doc rank="133" />
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="22">Anne Souders Lowe</attr>
+      <attr type="othername" source="22">Edward Louis Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="47" />
+      <doc rank="33" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="47">Michael Cavanaugh</attr>
+      <attr type="occupation" source="47">Assistant Principal</attr>
+      <attr type="affiliation" source="47">CHS</attr>
+      <attr type="phone" source="33">(361)275-6157</attr>
+      <attr type="location" source="33">920 E. Broadway Cuero, Texas 77954</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="14" />
+    </documents>
+    <attributes>
+      <attr type="location" source="14">SAYVILLE,   NY   11782</attr>
+      <attr type="affiliation" source="14">SAYVILLE MS</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="38" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="38">Louis Lowe III</attr>
+      <attr type="occupation" source="38">Pizza delivery driver</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="55" />
+    </documents>
+    <attributes>
+      <attr type="school" source="55">FRANKLIN HIGH SCHOOL</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="132" />
+      <doc rank="100" />
+      <doc rank="62" />
+      <doc rank="66" />
+      <doc rank="70" />
+      <doc rank="81" />
+      <doc rank="53" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="132">First United Methodist Church</attr>
+      <attr type="occupation" source="132">Pastor</attr>
+      <attr type="phone" source="132">573-624-4455</attr>
+      <attr type="fax" source="100">573-624-1964</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="25" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="25">E</attr>
+      <attr type="dateofbirth" source="25">June 21, 1895</attr>
+      <attr type="birthplace" source="25">Arlington, MA</attr>
+      <attr type="affiliation" source="25">CLE</attr>
+      <attr type="school" source="25">Lafayette</attr>
+      <attr type="othername" source="25">Henry Louis Lowe Jr.</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="30">Kathleen (Tim) Heir</attr>
+      <attr type="othername" source="30">Robert Louis Lowe</attr>
+      <attr type="affiliation" source="30">DM&amp;IR</attr>
+      <attr type="location" source="30">Roselawn Cemetery, Roseville</attr>
+      <attr type="birthplace" source="30">Phillips, Wis.</attr>
+      <attr type="school" source="30">University of Minnesota Law School</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="24" />
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="24">Mary Louis Lowe Burns</attr>
+      <attr type="occupation" source="24">professional dancer</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="school" source="17">Phelps Vocational High School</attr>
+      <attr type="relatives" source="17">Doris London</attr>
+      <attr type="affiliation" source="17">Super Fresh</attr>
+      <attr type="othername" source="17">Eddie</attr>
+      <attr type="birthplace" source="17">Washington, DC</attr>
+      <attr type="occupation" source="17">operator</attr>
+      <attr type="dateofbirth" source="17">August 14, 1940</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="26">American Legion</attr>
+      <attr type="relatives" source="26">Charles Clifton</attr>
+      <attr type="dateofbirth" source="26">1927</attr>
+      <attr type="othername" source="26">Georgie Louis Lowe</attr>
+      <attr type="birthplace" source="26">Oakland Ky.</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="150" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="2" />
+      <doc rank="128" />
+      <doc rank="135" />
+      <doc rank="18" />
+      <doc rank="108" />
+      <doc rank="69" />
+      <doc rank="61" />
+      <doc rank="75" />
+      <doc rank="148" />
+      <doc rank="78" />
+      <doc rank="83" />
+      <doc rank="90" />
+      <doc rank="122" />
+      <doc rank="85" />
+      <doc rank="88" />
+      <doc rank="145" />
+      <doc rank="16" />
+      <doc rank="123" />
+      <doc rank="139" />
+      <doc rank="124" />
+      <doc rank="19" />
+      <doc rank="134" />
+      <doc rank="86" />
+      <doc rank="116" />
+      <doc rank="12" />
+      <doc rank="144" />
+      <doc rank="56" />
+      <doc rank="98" />
+      <doc rank="79" />
+      <doc rank="1" />
+      <doc rank="67" />
+      <doc rank="91" />
+      <doc rank="125" />
+      <doc rank="112" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="2">Governor</attr>
+      <attr type="othername" source="2">Enoch Louis Lowe</attr>
+      <attr type="dateofbirth" source="2">August 10, 1820</attr>
+      <attr type="birthplace" source="128">Frederick County Maryland, USA</attr>
+      <attr type="location" source="128">Saint Johns Cemetery Frederick Frederick County Maryland, USA</attr>
+      <attr type="affiliation" source="128">presidential elector</attr>
+      <attr type="nationality" source="108">American</attr>
+      <attr type="school" source="12">Clongowes Wood Colleg</attr>
+      <attr type="relatives" source="12">Esther Winder Polk</attr>
+    </attributes>
+  </entity>
+</clustering>

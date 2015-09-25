@@ -1,0 +1,1097 @@
+<clustering searchString="DAVID WEIR">
+  <entity id="1">
+    <documents>
+      <doc rank="78" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="78">Ernest Weir</attr>
+      <attr type="relatives" source="78">Mary</attr>
+      <attr type="location" source="78">New York City</attr>
+      <attr type="occupation" source="78">drug and alcohol rapist</attr>
+      <attr type="relatives" source="78">Ernie</attr>
+      <attr type="relatives" source="78">Mary and Ernest Weir</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="91" />
+      <doc rank="2" />
+      <doc rank="84" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="91">REALTORS?</attr>
+      <attr type="location" source="91">253 Dundas Street East, Trenton, ON K8V 1M1</attr>
+      <attr type="phone" source="91">1.800.263.2177</attr>
+      <attr type="occupation" source="91">Agent</attr>
+      <attr type="phone" source="91">1.613.848.0615</attr>
+      <attr type="affiliation" source="91">Team David Weir</attr>
+      <attr type="affiliation" source="91">Royal LePage REALTORS?</attr>
+      <attr type="affiliation" source="91">Royal LePage ProAlliance Realty Brokerage</attr>
+      <attr type="phone" source="2">1.613.848.0615</attr>
+      <attr type="email" source="2">david@davidweir.com</attr>
+      <attr type="affiliation" source="2">Team David Weir</attr>
+      <attr type="phone" source="2">1.800.263.2177</attr>
+      <attr type="affiliation" source="2">Royal LePage ProAlliance Realty Brokerage</attr>
+      <attr type="location" source="2">253 Dundas Street East, Trenton, ON K8V 1M1</attr>
+      <attr type="website" source="84">www.davidweir.com</attr>
+      <attr type="fax" source="84">(613) 394-2897</attr>
+      <attr type="occupation" source="84">General Contractors</attr>
+      <attr type="location" source="84">Trenton, ON</attr>
+      <attr type="location" source="84">Bay of Quinte</attr>
+      <attr type="location" source="84">Trenton</attr>
+      <attr type="occupation" source="84">CD</attr>
+      <attr type="location" source="84">Ontario</attr>
+      <attr type="website" source="84">WWW.DAVIDWEIR.COM</attr>
+      <attr type="location" source="84">Hastings County</attr>
+      <attr type="phone" source="84">(613) 394-4837</attr>
+      <attr type="occupation" source="84">lead agent</attr>
+      <attr type="phone" source="84">(800) 263-2177</attr>
+      <attr type="affiliation" source="84">Royal LePage ProAlliance Realty</attr>
+      <attr type="occupation" source="84">Real Estate Agent</attr>
+      <attr type="location" source="84">253 Dundas St E Trenton, ON K8V 1M1</attr>
+      <attr type="occupation" source="84">REALTORS?</attr>
+      <attr type="occupation" source="84">REALTOR?</attr>
+      <attr type="occupation" source="84">BA</attr>
+      <attr type="website" source="84">http://www.davidweir.com</attr>
+      <attr type="location" source="54">Quinte</attr>
+      <attr type="occupation" source="54">Air Traffic Controller</attr>
+      <attr type="occupation" source="54">registered government relocation specialist</attr>
+      <attr type="website" source="54">www.davidweir.com</attr>
+      <attr type="occupation" source="54">REALTORS?</attr>
+      <attr type="affiliation" source="54">Royal LePage</attr>
+      <attr type="occupation" source="54">Broker</attr>
+      <attr type="occupation" source="54">CD</attr>
+      <attr type="occupation" source="54">REALTORS</attr>
+      <attr type="affiliation" source="54">National Association of Green Agents &amp; Brokers (NAGAB)</attr>
+      <attr type="affiliation" source="54">Royal LePage ProAlliance Realty</attr>
+      <attr type="location" source="54">Canada</attr>
+      <attr type="occupation" source="54">BA</attr>
+      <attr type="affiliation" source="54">Canadian Forces</attr>
+      <attr type="phone" source="54">613.394.4837</attr>
+      <attr type="occupation" source="54">Office Broker</attr>
+      <attr type="affiliation" source="54">Team David Weir</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="92" />
+      <doc rank="1" />
+      <doc rank="77" />
+    </documents>
+    <attributes>
+      <attr type="nationality" source="92">Britain</attr>
+      <attr type="occupation" source="77">sprinter</attr>
+      <attr type="occupation" source="77">athlete</attr>
+      <attr type="nationality" source="77">British</attr>
+      <attr type="location" source="77">Surrey</attr>
+      <attr type="occupation" source="77">athletes</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="40" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="40">Aggies</attr>
+      <attr type="affiliation" source="40">NATA&apos;s College and University Committee</attr>
+      <attr type="occupation" source="40">athletic trainer</attr>
+      <attr type="affiliation" source="40">Texas A&amp;M</attr>
+      <attr type="relatives" source="40">Hear</attr>
+      <attr type="affiliation" source="40">SWATA College and University Committee</attr>
+      <attr type="affiliation" source="40">National Athletic Trainers Association</attr>
+      <attr type="school" source="40">Texas A&amp;M</attr>
+      <attr type="occupation" source="40">Head Athletic Trainer for Football</attr>
+      <attr type="occupation" source="40">high school student</attr>
+      <attr type="birthplace" source="40">Brenham</attr>
+      <attr type="affiliation" source="40">NATA</attr>
+      <attr type="affiliation" source="40">Brazos Valley Athletic Trainers Society</attr>
+      <attr type="affiliation" source="40">Advisory Board of Athletic Trainers</attr>
+      <attr type="affiliation" source="40">Southwest Athletic Trainers Association (SWATA) Public Relations Committee</attr>
+      <attr type="mentor" source="40">Billy Pickard</attr>
+      <attr type="occupation" source="40">chair</attr>
+      <attr type="affiliation" source="40">Texas A&amp;M football</attr>
+      <attr type="occupation" source="40">full time athletic trainer</attr>
+      <attr type="mentor" source="40">Karl Kapchinski</attr>
+      <attr type="relatives" source="40">Ashley</attr>
+      <attr type="major" source="40">Kinesiology and Health</attr>
+      <attr type="school" source="40">Brenham High School</attr>
+      <attr type="occupation" source="40">licensed athletic trainer</attr>
+      <attr type="relatives" source="40">Judy Bigbie</attr>
+      <attr type="othername" source="40">Weir David</attr>
+      <attr type="affiliation" source="40">Texas A&amp;M University Athletics Department</attr>
+      <attr type="occupation" source="40">baseball trainer</attr>
+      <attr type="occupation" source="40">president</attr>
+      <attr type="affiliation" source="40">NATA&apos;s Public Relations Committee</attr>
+      <attr type="affiliation" source="40">Texas A&amp;M University</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="12">Systems Tester Operator</attr>
+      <attr type="affiliation" source="12">ICR</attr>
+      <attr type="occupation" source="12">Senior Developer</attr>
+      <attr type="affiliation" source="12">Spice Group plc</attr>
+      <attr type="occupation" source="12">Solution Architect</attr>
+      <attr type="affiliation" source="12">William Hill</attr>
+      <attr type="affiliation" source="12">Freedom Group</attr>
+      <attr type="affiliation" source="12">NCS Pearson</attr>
+      <attr type="affiliation" source="12">Weirsweb UK Limited</attr>
+      <attr type="affiliation" source="12">Vehicle Data System</attr>
+      <attr type="affiliation" source="12">Auto Data Networks</attr>
+      <attr type="occupation" source="12">Technical Architect</attr>
+      <attr type="affiliation" source="12">Kah Systems</attr>
+      <attr type="occupation" source="12">Senior E-Commerce Developer</attr>
+      <attr type="affiliation" source="12">Fowles Australia</attr>
+      <attr type="occupation" source="12">Lead Developer</attr>
+      <attr type="occupation" source="12">Developer Manager</attr>
+      <attr type="major" source="12">Business Information Technology</attr>
+      <attr type="affiliation" source="12">Manheim</attr>
+      <attr type="location" source="12">Leeds, United Kingdom</attr>
+      <attr type="affiliation" source="12">International Association of Software Architects</attr>
+      <attr type="occupation" source="12">Technical UML Consultant Architect</attr>
+      <attr type="occupation" source="12">Technical Lead</attr>
+      <attr type="affiliation" source="12">Capoeira society</attr>
+      <attr type="affiliation" source="12">Halifax</attr>
+      <attr type="affiliation" source="12">.NET People</attr>
+      <attr type="occupation" source="12">treasurer</attr>
+      <attr type="occupation" source="12">Technical Lead / Architect</attr>
+      <attr type="affiliation" source="12">SoftwareEngineering</attr>
+      <attr type="occupation" source="12">Director</attr>
+      <attr type="degree" source="12">HND</attr>
+      <attr type="school" source="12">University of Leeds</attr>
+      <attr type="occupation" source="12">IT professional</attr>
+      <attr type="occupation" source="12">IVR</attr>
+      <attr type="affiliation" source="12">Carlsberg</attr>
+      <attr type="affiliation" source="12">Big Food Group</attr>
+      <attr type="occupation" source="12">Database Co-ordinator</attr>
+      <attr type="occupation" source="12">Development Manager</attr>
+      <attr type="occupation" source="12">technical/solution architect</attr>
+      <attr type="affiliation" source="12">Euro RSCG</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="89" />
+      <doc rank="83" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="19" />
+      <doc rank="109" />
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="109">Deb Weir</attr>
+      <attr type="relatives" source="109">Deb</attr>
+      <attr type="occupation" source="109">certified sex rapists</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="90" />
+      <doc rank="21" />
+      <doc rank="62" />
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="school" source="90">University of Pennsylvania</attr>
+      <attr type="degree" source="90">PhD</attr>
+      <attr type="othername" source="90">David J. Weir</attr>
+      <attr type="othername" source="90">Weir David</attr>
+      <attr type="othername" source="90">Weir David J</attr>
+      <attr type="email" source="21">davidw@sussex.ac.uk</attr>
+      <attr type="affiliation" source="21">Department of Informatics University of Sussex</attr>
+      <attr type="location" source="21">Chichester-1 106</attr>
+      <attr type="phone" source="21">+44 (0)1273 678294</attr>
+      <attr type="location" source="21">Department of Informatics University of Sussex Brighton, BN1 9QJ E. Sussex UK</attr>
+      <attr type="fax" source="21">+44 (0)1273 877873</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="29">Associate Safety Professional</attr>
+      <attr type="occupation" source="29">Certified Safety Professional</attr>
+      <attr type="occupation" source="29">ASP</attr>
+      <attr type="affiliation" source="29">Network Development &amp; Claim Services for  University of Pittsburgh Medical Center</attr>
+      <attr type="affiliation" source="29">Disability Management Services</attr>
+      <attr type="school" source="29">Indiana University</attr>
+      <attr type="affiliation" source="29">EAP Solutions Inc</attr>
+      <attr type="affiliation" source="29">UPMC Health Plan Health Promotion</attr>
+      <attr type="occupation" source="29">CSP</attr>
+      <attr type="affiliation" source="29">UPMC</attr>
+      <attr type="affiliation" source="29">UPMC Health Plan Inc</attr>
+      <attr type="degree" source="29">B.S</attr>
+      <attr type="affiliation" source="29">Sedgwick James</attr>
+      <attr type="occupation" source="29">ARM</attr>
+      <attr type="occupation" source="29">Associate Risk Management</attr>
+      <attr type="affiliation" source="29">UPMC Work Partners</attr>
+      <attr type="major" source="29">Health and Safety</attr>
+      <attr type="occupation" source="29">assistant vice president</attr>
+      <attr type="affiliation" source="29">UPMC Health Plan</attr>
+      <attr type="occupation" source="29">president</attr>
+      <attr type="occupation" source="29">vice president</attr>
+      <attr type="occupation" source="29">Executive</attr>
+      <attr type="affiliation" source="29">UPMC Insurance Services Division</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="52" />
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="56">Army</attr>
+      <attr type="location" source="56">Bathgate, UK</attr>
+      <attr type="occupation" source="56">PT Instructor</attr>
+      <attr type="birthplace" source="56">West Craig&apos;s Lanarkshire</attr>
+      <attr type="relatives" source="56">Betty</attr>
+      <attr type="occupation" source="56">apprentice Baker and Confectioner</attr>
+      <attr type="dateofbirth" source="56">August 13th 19-28</attr>
+      <attr type="work" source="56">Into Fwg.</attr>
+      <attr type="work" source="56">Intro. Cx</attr>
+      <attr type="occupation" source="56">Bakery Manger</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="1" />
+      <doc rank="13" />
+    </documents>
+    <attributes>
+      <attr type="work" source="13">The Lady Who Went Too Far</attr>
+      <attr type="work" source="13">Monkey Magic</attr>
+      <attr type="work" source="13">Rollover</attr>
+      <attr type="work" source="13">Thanks for Nothing</attr>
+      <attr type="work" source="13">Robin and Juliet</attr>
+      <attr type="occupation" source="13">writer</attr>
+      <attr type="work" source="13">Riviera Police</attr>
+      <attr type="work" source="13">Lady Luck&apos;s No Gentleman</attr>
+      <attr type="work" source="13">Intrigue</attr>
+      <attr type="work" source="13">A Family at War</attr>
+      <attr type="work" source="13">Only a Few Millions</attr>
+      <attr type="work" source="13">Spazio: 1999</attr>
+      <attr type="work" source="13">The Homecoming</attr>
+      <attr type="work" source="13">Black Sun</attr>
+      <attr type="work" source="13">The Devil&apos;s Eggshell</attr>
+      <attr type="work" source="13">The Gold Robbers</attr>
+      <attr type="work" source="13">Thirty-Minute Theatre</attr>
+      <attr type="work" source="13">The Main Chance</attr>
+      <attr type="work" source="13">The Troubleshooters</attr>
+      <attr type="work" source="13">Confession</attr>
+      <attr type="work" source="13">Mogul</attr>
+      <attr type="work" source="13">A Lesson for Corbett</attr>
+      <attr type="work" source="13">The Mad, Mad Man</attr>
+      <attr type="work" source="13">The Long Haired Leftie</attr>
+      <attr type="work" source="13">For the Duration</attr>
+      <attr type="work" source="13">My Old Man&apos;s a Dustman</attr>
+      <attr type="work" source="13">The Man in Room 17</attr>
+      <attr type="occupation" source="13">floor manager</attr>
+      <attr type="work" source="13">Space: 1999</attr>
+      <attr type="work" source="13">How Do You Vote?</attr>
+      <attr type="work" source="13">First You Eat: Later We Ruin You</attr>
+      <attr type="work" source="13">Quiller</attr>
+      <attr type="work" source="13">Spread a Little Happiness</attr>
+      <attr type="work" source="13">There&apos;s a Nasty Word - Love</attr>
+      <attr type="work" source="13">Danger Man</attr>
+      <attr type="work" source="13">The Plane Makers</attr>
+      <attr type="work" source="13">A Little Black and White Lie</attr>
+      <attr type="work" source="13">The Rich Lunch</attr>
+      <attr type="work" source="13">Happy Returns</attr>
+      <attr type="work" source="13">Journey Through the Black Sun</attr>
+      <attr type="work" source="13">Bloody Week</attr>
+      <attr type="work" source="13">The Dashing Young Officer</attr>
+      <attr type="work" source="13">Brett</attr>
+      <attr type="work" source="13">Monkey</attr>
+      <attr type="work" source="13">A Girl to Warm Your Feet On</attr>
+      <attr type="work" source="13">The Minister of the Crown... and the Very Compromising Photograph</attr>
+      <attr type="work" source="13">The Lotus Eaters</attr>
+      <attr type="work" source="13">Sauce for the Goose</attr>
+      <attr type="work" source="13">Secret Agent</attr>
+      <attr type="work" source="13">The Colonel&apos;s Daughter</attr>
+      <attr type="work" source="13">The Onedin Line</attr>
+      <attr type="work" source="13">Assault on the Ritz</attr>
+      <attr type="work" source="13">Play of the Month</attr>
+      <attr type="work" source="13">Orlando</attr>
+      <attr type="work" source="13">Orlando Tells a Story</attr>
+      <attr type="work" source="13">All for Love: A Dedicated Man</attr>
+      <attr type="work" source="13">A Dedicated Man</attr>
+      <attr type="occupation" source="13">English adaptor</attr>
+      <attr type="occupation" source="13">Writer</attr>
+      <attr type="work" source="13">Crown Court</attr>
+      <attr type="work" source="13">A Dirty Old Man and a Rare Bird</attr>
+      <attr type="work" source="13">The Venturers</attr>
+      <attr type="work" source="13">Saiy?ki</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="112" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="112">Zachary</attr>
+      <attr type="relatives" source="112">Jaime Weir</attr>
+      <attr type="occupation" source="112">attorney</attr>
+      <attr type="affiliation" source="112">Marsh Enterprises</attr>
+      <attr type="relatives" source="112">Zachary Weir</attr>
+      <attr type="relatives" source="112">Jaime</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="59" />
+      <doc rank="4" />
+      <doc rank="118" />
+      <doc rank="117" />
+      <doc rank="23" />
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="59">734-936-0314</attr>
+      <attr type="occupation" source="59">Research Professor</attr>
+      <attr type="affiliation" source="59">Survey Research Center</attr>
+      <attr type="degree" source="59">Dr</attr>
+      <attr type="school" source="59">Stanford University</attr>
+      <attr type="occupation" source="59">Director of  Health and Retirement Study</attr>
+      <attr type="degree" source="59">Ph.D</attr>
+      <attr type="degree" source="4">Dr</attr>
+      <attr type="occupation" source="4">Research Affiliate</attr>
+      <attr type="occupation" source="4">Research Professor</attr>
+      <attr type="phone" source="4">734-936-0314</attr>
+      <attr type="degree" source="4">Ph.D</attr>
+      <attr type="affiliation" source="4">Population Studies Center</attr>
+      <attr type="school" source="4">Stanford University</attr>
+      <attr type="affiliation" source="4">Survey Research Center</attr>
+      <attr type="othername" source="4">Weir David</attr>
+      <attr type="affiliation" source="118">Stanford Graduate Program in Journalism</attr>
+      <attr type="affiliation" source="118">Graduate Program in Journalism Department of Communications, Stanford University</attr>
+      <attr type="affiliation" source="117">Graduate Program in Journalism Department of Communications, Stanford University</attr>
+      <attr type="email" source="117">dweir@stanford.edu</attr>
+      <attr type="affiliation" source="117">Stanford Graduate Program in Journalism</attr>
+      <attr type="othername" source="23">David R. Weir</attr>
+      <attr type="affiliation" source="23">Harris School of Public Policy at  University of Chicago</attr>
+      <attr type="occupation" source="23">researcher</attr>
+      <attr type="affiliation" source="23">University of Michigan</attr>
+      <attr type="degree" source="23">A.B</attr>
+      <attr type="occupation" source="23">Research Professor</attr>
+      <attr type="school" source="23">Stanford University</attr>
+      <attr type="major" source="23">History</attr>
+      <attr type="degree" source="23">Ph.D</attr>
+      <attr type="affiliation" source="23">Yale University</attr>
+      <attr type="occupation" source="23">researchers</attr>
+      <attr type="occupation" source="23">Director of  Health and Retirement Study (HRS)</attr>
+      <attr type="occupation" source="23">Researcher</attr>
+      <attr type="occupation" source="23">Research Associate</attr>
+      <attr type="occupation" source="23">Associate Professor of Economics</attr>
+      <attr type="occupation" source="23">Associate Director</attr>
+      <attr type="affiliation" source="23">Survey Research Center Institute for Social Research (ISR) at  University of Michigan</attr>
+      <attr type="major" source="23">Economics</attr>
+      <attr type="email" source="39">dweir@umich.edu</attr>
+      <attr type="occupation" source="39">Director</attr>
+      <attr type="fax" source="39">(734) 764-7084</attr>
+      <attr type="phone" source="39">(734) 936-0314</attr>
+      <attr type="major" source="39">Economics</attr>
+      <attr type="degree" source="39">Ph.D</attr>
+      <attr type="affiliation" source="39">Institute for Social Research</attr>
+      <attr type="location" source="39">412 MAYNARD STREET ANN ARBOR, MI 48109-1399</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="111" />
+      <doc rank="104" />
+      <doc rank="66" />
+      <doc rank="82" />
+      <doc rank="106" />
+      <doc rank="107" />
+      <doc rank="97" />
+      <doc rank="74" />
+      <doc rank="73" />
+      <doc rank="98" />
+      <doc rank="76" />
+      <doc rank="115" />
+      <doc rank="46" />
+      <doc rank="96" />
+      <doc rank="116" />
+      <doc rank="64" />
+      <doc rank="8" />
+      <doc rank="100" />
+      <doc rank="35" />
+      <doc rank="36" />
+      <doc rank="63" />
+      <doc rank="58" />
+      <doc rank="33" />
+      <doc rank="6" />
+      <doc rank="94" />
+      <doc rank="86" />
+      <doc rank="20" />
+      <doc rank="55" />
+      <doc rank="10" />
+      <doc rank="14" />
+      <doc rank="1" />
+      <doc rank="102" />
+      <doc rank="120" />
+      <doc rank="80" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="111">player</attr>
+      <attr type="mentor" source="111">Vogts</attr>
+      <attr type="occupation" source="111">defender</attr>
+      <attr type="affiliation" source="111">Scotland</attr>
+      <attr type="mentor" source="111">Berti Vogts</attr>
+      <attr type="occupation" source="111">centre-back</attr>
+      <attr type="affiliation" source="111">Everton FC</attr>
+      <attr type="affiliation" source="104">Rangers</attr>
+      <attr type="occupation" source="66">Defender</attr>
+      <attr type="affiliation" source="66">Rangers</attr>
+      <attr type="nationality" source="66">Scotland</attr>
+      <attr type="occupation" source="66">Players</attr>
+      <attr type="occupation" source="66">Defenders</attr>
+      <attr type="dateofbirth" source="66">10.05.1970</attr>
+      <attr type="occupation" source="82">defender</attr>
+      <attr type="school" source="82">UE</attr>
+      <attr type="mentor" source="82">Burley</attr>
+      <attr type="school" source="82">EVANSVILLE</attr>
+      <attr type="school" source="82">University of Evansville</attr>
+      <attr type="affiliation" source="82">Rangers</attr>
+      <attr type="affiliation" source="82">Everton</attr>
+      <attr type="affiliation" source="82">Rangers FC</attr>
+      <attr type="affiliation" source="82">Scotland</attr>
+      <attr type="affiliation" source="82">Purple Aces</attr>
+      <attr type="occupation" source="106">Defender</attr>
+      <attr type="nationality" source="106">Scotland</attr>
+      <attr type="mentor" source="106">Andy Watson</attr>
+      <attr type="mentor" source="106">McLeish</attr>
+      <attr type="dateofbirth" source="106">10 05 1970</attr>
+      <attr type="othername" source="106">Davie</attr>
+      <attr type="mentor" source="106">Alex McLeish</attr>
+      <attr type="affiliation" source="106">Rangers</attr>
+      <attr type="affiliation" source="106">Everton</attr>
+      <attr type="affiliation" source="106">Hearts</attr>
+      <attr type="affiliation" source="106">Scots</attr>
+      <attr type="affiliation" source="106">Toffees</attr>
+      <attr type="affiliation" source="106">Scotland</attr>
+      <attr type="birthplace" source="106">Falkirk</attr>
+      <attr type="mentor" source="106">Walter Smith</attr>
+      <attr type="mentor" source="106">Smith</attr>
+      <attr type="occupation" source="107">defender</attr>
+      <attr type="affiliation" source="107">Toffees</attr>
+      <attr type="location" source="107">Merseyside</attr>
+      <attr type="affiliation" source="107">Scotland</attr>
+      <attr type="affiliation" source="107">Goodison</attr>
+      <attr type="mentor" source="107">Moyes</attr>
+      <attr type="affiliation" source="107">Merseyside</attr>
+      <attr type="mentor" source="107">Keith Wyness</attr>
+      <attr type="affiliation" source="107">Everton</attr>
+      <attr type="mentor" source="107">DAVID MOYES</attr>
+      <attr type="mentor" source="97">Burley</attr>
+      <attr type="mentor" source="97">George Burley</attr>
+      <attr type="affiliation" source="97">Rangers</attr>
+      <attr type="nationality" source="74">Scotland</attr>
+      <attr type="affiliation" source="74">Everton</attr>
+      <attr type="affiliation" source="74">Scotland</attr>
+      <attr type="dateofbirth" source="74">10-05-1970</attr>
+      <attr type="birthplace" source="74">Falkirk</attr>
+      <attr type="affiliation" source="74">Rangers</attr>
+      <attr type="affiliation" source="74">Falkirk</attr>
+      <attr type="affiliation" source="74">Celtic BC</attr>
+      <attr type="affiliation" source="74">Hearts</attr>
+      <attr type="occupation" source="74">Defender</attr>
+      <attr type="mentor" source="98">David Moyes</attr>
+      <attr type="affiliation" source="98">Rangers</attr>
+      <attr type="affiliation" source="98">Toffees</attr>
+      <attr type="occupation" source="98">centre-back</attr>
+      <attr type="mentor" source="98">Moyes</attr>
+      <attr type="affiliation" source="98">Everton</attr>
+      <attr type="occupation" source="98">defender</attr>
+      <attr type="mentor" source="98">Smith</attr>
+      <attr type="affiliation" source="98">Scotland</attr>
+      <attr type="mentor" source="98">Walter Smith</attr>
+      <attr type="dateofbirth" source="46">10/05/1970</attr>
+      <attr type="nationality" source="46">Scotland</attr>
+      <attr type="occupation" source="46">Player</attr>
+      <attr type="occupation" source="46">Defender</attr>
+      <attr type="birthplace" source="46">Falkirk</attr>
+      <attr type="mentor" source="96">Jefferies</attr>
+      <attr type="mentor" source="96">Walter Smith</attr>
+      <attr type="occupation" source="96">Club Captain</attr>
+      <attr type="affiliation" source="96">Scottish international</attr>
+      <attr type="affiliation" source="96">Rangers</attr>
+      <attr type="occupation" source="96">skipper</attr>
+      <attr type="affiliation" source="96">Scotland</attr>
+      <attr type="affiliation" source="96">Celtic Boys Club</attr>
+      <attr type="affiliation" source="96">Hearts</attr>
+      <attr type="occupation" source="96">Centre Back</attr>
+      <attr type="affiliation" source="96">Everton</attr>
+      <attr type="affiliation" source="96">Heart of Midlothian (SCO)</attr>
+      <attr type="affiliation" source="96">Glasgow Rangers</attr>
+      <attr type="dateofbirth" source="96">10 May 1970</attr>
+      <attr type="mentor" source="96">Smith</attr>
+      <attr type="mentor" source="96">Archie Knox</attr>
+      <attr type="othername" source="96">Weir-do</attr>
+      <attr type="occupation" source="96">centre back</attr>
+      <attr type="nationality" source="96">Scotland</attr>
+      <attr type="award" source="96">Everton Supporters Player of  Year award</attr>
+      <attr type="affiliation" source="96">Falkirk</attr>
+      <attr type="occupation" source="96">PLAYER</attr>
+      <attr type="occupation" source="96">centre-back</attr>
+      <attr type="birthplace" source="96">Falkirk Scotland</attr>
+      <attr type="mentor" source="96">Jim Jefferies</attr>
+      <attr type="occupation" source="96">defender</attr>
+      <attr type="mentor" source="96">David Moyes</attr>
+      <attr type="mentor" source="96">Moyes</attr>
+      <attr type="othername" source="116">Davie</attr>
+      <attr type="mentor" source="116">Smith</attr>
+      <attr type="affiliation" source="116">Rangers</attr>
+      <attr type="occupation" source="116">defender</attr>
+      <attr type="occupation" source="116">Centre-back</attr>
+      <attr type="mentor" source="116">Walter Smith</attr>
+      <attr type="occupation" source="64">football players</attr>
+      <attr type="occupation" source="64">defender</attr>
+      <attr type="affiliation" source="64">Rangers FC</attr>
+      <attr type="affiliation" source="64">Rangers</attr>
+      <attr type="affiliation" source="64">Everton</attr>
+      <attr type="occupation" source="100">defender</attr>
+      <attr type="mentor" source="100">Walter</attr>
+      <attr type="occupation" source="100">player</attr>
+      <attr type="affiliation" source="100">Everton</attr>
+      <attr type="mentor" source="100">David Moyes</attr>
+      <attr type="mentor" source="100">Walter Smith</attr>
+      <attr type="nationality" source="100">Scotland</attr>
+      <attr type="affiliation" source="100">Rangers</attr>
+      <attr type="affiliation" source="100">Falkirk</attr>
+      <attr type="affiliation" source="100">Hearts</attr>
+      <attr type="affiliation" source="100">Scotland international</attr>
+      <attr type="affiliation" source="100">Scottish giants</attr>
+      <attr type="mentor" source="100">Smith</attr>
+      <attr type="nationality" source="35">Scottish</attr>
+      <attr type="dateofbirth" source="35">9th May 1970</attr>
+      <attr type="affiliation" source="35">Hearts</attr>
+      <attr type="occupation" source="35">Defender</attr>
+      <attr type="occupation" source="35">club captain</attr>
+      <attr type="birthplace" source="35">Falkirk Scotland</attr>
+      <attr type="occupation" source="35">Footballers</attr>
+      <attr type="affiliation" source="35">Everton</attr>
+      <attr type="othername" source="35">Weir David</attr>
+      <attr type="occupation" source="35">defender</attr>
+      <attr type="birthplace" source="36">Falkirk</attr>
+      <attr type="affiliation" source="36">Hearts</attr>
+      <attr type="affiliation" source="36">Everton</attr>
+      <attr type="dateofbirth" source="36">5/10/70</attr>
+      <attr type="occupation" source="36">right wing-back</attr>
+      <attr type="occupation" source="36">centre of defence</attr>
+      <attr type="affiliation" source="36">Merseyside</attr>
+      <attr type="location" source="36">Merseyside</attr>
+      <attr type="affiliation" source="36">Blues</attr>
+      <attr type="affiliation" source="36">Falkirk</attr>
+      <attr type="occupation" source="36">wing-back</attr>
+      <attr type="occupation" source="36">defender</attr>
+      <attr type="location" source="63">Cheshire, England</attr>
+      <attr type="birthplace" source="63">Glasgow Scotland</attr>
+      <attr type="occupation" source="63">defender</attr>
+      <attr type="school" source="63">UE</attr>
+      <attr type="affiliation" source="63">Everton Football Club</attr>
+      <attr type="location" source="63">Cheshire</attr>
+      <attr type="occupation" source="63">soccer star</attr>
+      <attr type="affiliation" source="63">Purple Aces</attr>
+      <attr type="affiliation" source="63">Rangers FC</attr>
+      <attr type="affiliation" source="63">Rangers Football Club</attr>
+      <attr type="othername" source="63">Davie</attr>
+      <attr type="mentor" source="63">Walter Smith</attr>
+      <attr type="school" source="63">University of Evansville</attr>
+      <attr type="affiliation" source="58">Rangers</attr>
+      <attr type="mentor" source="58">Walter Smith</attr>
+      <attr type="occupation" source="58">defender</attr>
+      <attr type="mentor" source="33">Walter Smith</attr>
+      <attr type="affiliation" source="33">Scotland</attr>
+      <attr type="othername" source="33">Davie Weir</attr>
+      <attr type="occupation" source="33">CB</attr>
+      <attr type="occupation" source="33">captain</attr>
+      <attr type="affiliation" source="33">Rangers</attr>
+      <attr type="occupation" source="33">defender</attr>
+      <attr type="occupation" source="33">player</attr>
+      <attr type="occupation" source="6">footballers</attr>
+      <attr type="affiliation" source="6">Scotland national football team</attr>
+      <attr type="affiliation" source="6">University of Evansville</attr>
+      <attr type="award" source="6">NCAA All-American</attr>
+      <attr type="othername" source="6">Weir David</attr>
+      <attr type="affiliation" source="6">Toffees</attr>
+      <attr type="school" source="6">University of Evansville</attr>
+      <attr type="affiliation" source="6">Rangers</attr>
+      <attr type="affiliation" source="6">Celtic</attr>
+      <attr type="occupation" source="6">football player</attr>
+      <attr type="dateofbirth" source="6">1970</attr>
+      <attr type="affiliation" source="6">Everton F.C</attr>
+      <attr type="birthplace" source="6">Falkirk Scotland</attr>
+      <attr type="affiliation" source="6">Scotland</attr>
+      <attr type="othername" source="6">David Gillespie Weir</attr>
+      <attr type="affiliation" source="6">Rangers F.C</attr>
+      <attr type="occupation" source="6">Football (soccer) defenders</attr>
+      <attr type="affiliation" source="6">Heart of Midlothian F.C</attr>
+      <attr type="occupation" source="6">Footballer</attr>
+      <attr type="nationality" source="6">Scottish</attr>
+      <attr type="affiliation" source="6">Heart of Midlothian</attr>
+      <attr type="mentor" source="6">Walter Smith</attr>
+      <attr type="occupation" source="6">professional football player</attr>
+      <attr type="occupation" source="6">footballer</attr>
+      <attr type="affiliation" source="6">Everton</attr>
+      <attr type="mentor" source="6">David Moyes</attr>
+      <attr type="dateofbirth" source="6">May 10 1970</attr>
+      <attr type="affiliation" source="6">Falkirk F.C</attr>
+      <attr type="occupation" source="6">Centre back</attr>
+      <attr type="occupation" source="6">players</attr>
+      <attr type="birthplace" source="6">Falkirk</attr>
+      <attr type="mentor" source="6">Berti Vogts</attr>
+      <attr type="occupation" source="6">club captain</attr>
+      <attr type="affiliation" source="6">Falkirk</attr>
+      <attr type="affiliation" source="6">Hearts</attr>
+      <attr type="occupation" source="94">player</attr>
+      <attr type="occupation" source="94">central defender</attr>
+      <attr type="dateofbirth" source="94">10/ 05/ 1970</attr>
+      <attr type="mentor" source="94">Walter Smith</attr>
+      <attr type="mentor" source="94">David Moyes</attr>
+      <attr type="affiliation" source="94">Falkirk</attr>
+      <attr type="affiliation" source="94">Rangers</attr>
+      <attr type="occupation" source="94">Club Captain</attr>
+      <attr type="occupation" source="94">Defence</attr>
+      <attr type="occupation" source="94">centre-back</attr>
+      <attr type="affiliation" source="94">Everton</attr>
+      <attr type="birthplace" source="94">Falkirk</attr>
+      <attr type="occupation" source="94">Centre Back</attr>
+      <attr type="othername" source="94">Mr.Reliable</attr>
+      <attr type="affiliation" source="94">Scotland squad</attr>
+      <attr type="occupation" source="94">skipper</attr>
+      <attr type="affiliation" source="94">Hearts</attr>
+      <attr type="affiliation" source="94">Scotland</attr>
+      <attr type="affiliation" source="94">Toffees</attr>
+      <attr type="affiliation" source="86">Rangers</attr>
+      <attr type="location" source="20">Scotland</attr>
+      <attr type="occupation" source="20">Defense</attr>
+      <attr type="occupation" source="20">Player</attr>
+      <attr type="affiliation" source="20">Everton</attr>
+      <attr type="affiliation" source="20">Falkirk</attr>
+      <attr type="dateofbirth" source="20">10 May 1970</attr>
+      <attr type="birthplace" source="20">England</attr>
+      <attr type="affiliation" source="20">Glasgow Rangers</attr>
+      <attr type="affiliation" source="20">Scotland</attr>
+      <attr type="affiliation" source="20">Hearts</attr>
+      <attr type="affiliation" source="55">Rangers</attr>
+      <attr type="birthplace" source="55">Falkirk Scotland</attr>
+      <attr type="location" source="55">SCO</attr>
+      <attr type="dateofbirth" source="55">May 10</attr>
+      <attr type="affiliation" source="55">Heart of Midlothian</attr>
+      <attr type="occupation" source="55">C</attr>
+      <attr type="dateofbirth" source="55">1970</attr>
+      <attr type="affiliation" source="55">FC Rangers</attr>
+      <attr type="occupation" source="55">Defender</attr>
+      <attr type="affiliation" source="55">Everton</attr>
+      <attr type="mentor" source="55">Walter Smith</attr>
+      <attr type="affiliation" source="55">Falkirk</attr>
+      <attr type="nationality" source="55">Scottish</attr>
+      <attr type="dateofbirth" source="55">May 10 1970</attr>
+      <attr type="affiliation" source="14">Falkirk</attr>
+      <attr type="affiliation" source="14">Everton</attr>
+      <attr type="nationality" source="14">Scotland</attr>
+      <attr type="birthplace" source="14">Falkirk</attr>
+      <attr type="occupation" source="14">Defender</attr>
+      <attr type="dateofbirth" source="14">10/05/1970</attr>
+      <attr type="affiliation" source="14">Glasgow Rangers</attr>
+      <attr type="affiliation" source="14">Heart of Midlothian</attr>
+      <attr type="affiliation" source="102">Gers</attr>
+      <attr type="mentor" source="102">Walter Smith</attr>
+      <attr type="occupation" source="102">stand-in skipper</attr>
+      <attr type="occupation" source="120">Defence</attr>
+      <attr type="occupation" source="120">defender</attr>
+      <attr type="affiliation" source="120">rangers</attr>
+      <attr type="mentor" source="120">David Moyes</attr>
+      <attr type="mentor" source="120">Walter Smith</attr>
+      <attr type="affiliation" source="120">light blues</attr>
+      <attr type="affiliation" source="120">Rangers</attr>
+      <attr type="occupation" source="120">Defender</attr>
+      <attr type="occupation" source="120">Player</attr>
+      <attr type="affiliation" source="120">Gers</attr>
+      <attr type="birthplace" source="120">Falkirk</attr>
+      <attr type="affiliation" source="120">gers</attr>
+      <attr type="dateofbirth" source="120">1970-05-10</attr>
+      <attr type="occupation" source="80">Players</attr>
+      <attr type="affiliation" source="80">Rangers</attr>
+      <attr type="affiliation" source="80">Falkirk</attr>
+      <attr type="affiliation" source="80">Blues</attr>
+      <attr type="dateofbirth" source="80">10/05/1970</attr>
+      <attr type="occupation" source="80">central defender</attr>
+      <attr type="birthplace" source="80">Falkirk</attr>
+      <attr type="occupation" source="80">Defender</attr>
+      <attr type="affiliation" source="80">Hearts</attr>
+      <attr type="affiliation" source="80">Everton</attr>
+      <attr type="nationality" source="80">Scotland</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="18">local sales manager</attr>
+      <attr type="occupation" source="18">Anchor</attr>
+      <attr type="work" source="18">Polo Highlights</attr>
+      <attr type="affiliation" source="18">FAA</attr>
+      <attr type="phone" source="18">(561) 841-4811</attr>
+      <attr type="occupation" source="18">General Sales Manager</attr>
+      <attr type="occupation" source="18">freelance writer</attr>
+      <attr type="occupation" source="18">account executive</attr>
+      <attr type="affiliation" source="18">WTVX</attr>
+      <attr type="affiliation" source="18">Alfred Hitchcock&apos;s Mystery Magazine</attr>
+      <attr type="affiliation" source="18">WPTV</attr>
+      <attr type="affiliation" source="18">Federal Aviation Administration</attr>
+      <attr type="location" source="18">North Palm Beach, FL</attr>
+      <attr type="work" source="18">South Florida Business Report</attr>
+      <attr type="occupation" source="18">Air Traffic Controller</attr>
+      <attr type="location" source="18">WPEC 1100 Fairfield Drive West Palm Beach, FL 33407</attr>
+      <attr type="birthplace" source="18">Indianapolis Indiana</attr>
+      <attr type="occupation" source="18">Executive Producer</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="93">David Earl Weir</attr>
+      <attr type="othername" source="93">HASSAN MOHAMMED</attr>
+      <attr type="othername" source="93">DAVE WEIS</attr>
+      <attr type="email" source="93">dav.weir24@hotmail.com</attr>
+      <attr type="relatives" source="93">Dwight Weir</attr>
+      <attr type="relatives" source="93">Jessica</attr>
+      <attr type="location" source="93">United Kingdom</attr>
+      <attr type="email" source="93">daveweir52@aol.com</attr>
+      <attr type="occupation" source="93">business man</attr>
+      <attr type="othername" source="93">DAVE</attr>
+      <attr type="occupation" source="93">business merchant</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="57" />
+      <doc rank="44" />
+      <doc rank="34" />
+      <doc rank="41" />
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="work" source="57">Decadence &amp; Making of Modernis</attr>
+      <attr type="work" source="44">Anarchy &amp; Culture: The Aesthetic Politics of Modernism</attr>
+      <attr type="occupation" source="34">director of foreign language programs</attr>
+      <attr type="work" source="34">Anarchy and Culture The Aesthetic Politics of Modernism</attr>
+      <attr type="occupation" source="34">associate professor</attr>
+      <attr type="affiliation" source="34">Cooper Union for  Advancement of Science and Art</attr>
+      <attr type="work" source="41">Decadent Culture in the United States: Art and Literature Against the American Grain, 1890-1926</attr>
+      <attr type="work" source="41">James Joyce and the Art of Mediation</attr>
+      <attr type="degree" source="41">Ph.D</attr>
+      <attr type="affiliation" source="41">Cooper Union</attr>
+      <attr type="phone" source="41">(212) 353-4274</attr>
+      <attr type="work" source="41">Anarchy and Culture: The Aesthetic Politics of Modernism (Critical Perspectives on Modern Culture)</attr>
+      <attr type="school" source="41">New York University</attr>
+      <attr type="work" source="41">Brahma in the West: William Blake and the Oriental Renaissance</attr>
+      <attr type="work" source="41">Anarchy and Culture</attr>
+      <attr type="major" source="41">Comparative Literature</attr>
+      <attr type="occupation" source="41">Professor</attr>
+      <attr type="work" source="41">Decadence and the Making of Modernism</attr>
+      <attr type="affiliation" source="41">New School University</attr>
+      <attr type="email" source="41">weir@cooper.edu</attr>
+      <attr type="affiliation" source="41">Humanities and Social Sciences</attr>
+      <attr type="work" source="69">Anarchy and Culture: The Aesthetic Politics of Modernism</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="9" />
+      <doc rank="26" />
+      <doc rank="15" />
+      <doc rank="7" />
+      <doc rank="3" />
+      <doc rank="95" />
+      <doc rank="75" />
+      <doc rank="22" />
+      <doc rank="1" />
+      <doc rank="71" />
+      <doc rank="61" />
+      <doc rank="87" />
+      <doc rank="88" />
+      <doc rank="122" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="9">Salon Media Group Inc</attr>
+      <attr type="affiliation" source="26">MyWire</attr>
+      <attr type="affiliation" source="26">Stanford Social Innovation Review</attr>
+      <attr type="affiliation" source="26">SunDance</attr>
+      <attr type="affiliation" source="26">Mor Jones</attr>
+      <attr type="occupation" source="26">journalist</attr>
+      <attr type="affiliation" source="26">Business 2.0</attr>
+      <attr type="affiliation" source="26">California</attr>
+      <attr type="affiliation" source="26">7x7</attr>
+      <attr type="affiliation" source="26">Center for Investigative Reporting</attr>
+      <attr type="affiliation" source="26">Rolling Stone</attr>
+      <attr type="occupation" source="26">Author</attr>
+      <attr type="occupation" source="15">Senior Vice-President for Editorial Operations</attr>
+      <attr type="affiliation" source="15">Board of Directors of CIR</attr>
+      <attr type="occupation" source="15">Visiting Professor</attr>
+      <attr type="occupation" source="15">editorial writer</attr>
+      <attr type="occupation" source="15">Acting Radio News Director</attr>
+      <attr type="affiliation" source="15">University of California Graduate School of Journalism</attr>
+      <attr type="occupation" source="15">investigative reporter</attr>
+      <attr type="phone" source="15">(650) 725-2239</attr>
+      <attr type="website" source="15">www.stanford.edu/~dweir</attr>
+      <attr type="occupation" source="15">Executive Director</attr>
+      <attr type="occupation" source="15">Executive Vice-President</attr>
+      <attr type="affiliation" source="15">CIR</attr>
+      <attr type="occupation" source="15">co-founder</attr>
+      <attr type="occupation" source="15">Managing Editor</attr>
+      <attr type="affiliation" source="15">Center for Investigative Reporting</attr>
+      <attr type="occupation" source="15">Editor in Chief</attr>
+      <attr type="affiliation" source="15">Stanford University</attr>
+      <attr type="occupation" source="15">senior editor</attr>
+      <attr type="location" source="15">Rm.322 McClatchy Hall</attr>
+      <attr type="occupation" source="15">Vice-President of Network Programming and Product Design</attr>
+      <attr type="affiliation" source="15">editorial board of  Nation</attr>
+      <attr type="affiliation" source="15">Excite@Home</attr>
+      <attr type="occupation" source="15">Vice President of Content</attr>
+      <attr type="affiliation" source="15">KQED</attr>
+      <attr type="occupation" source="15">veteran journalist</attr>
+      <attr type="email" source="15">dweir@stanford.edu</attr>
+      <attr type="work" source="15">Raising Hell: How the Center for Investigative Reporting Gets the Story</attr>
+      <attr type="occupation" source="15">Managing Director of Programming</attr>
+      <attr type="affiliation" source="7">University of California&apos;s Graduate School of Journalism</attr>
+      <attr type="affiliation" source="7">KQED Inc</attr>
+      <attr type="occupation" source="7">Senior Vice President for Editorial Operations</attr>
+      <attr type="occupation" source="7">Investigative Editor</attr>
+      <attr type="affiliation" source="7">Mor Jones</attr>
+      <attr type="affiliation" source="7">salon.com</attr>
+      <attr type="affiliation" source="7">Rolling Stone</attr>
+      <attr type="occupation" source="7">journalist</attr>
+      <attr type="affiliation" source="3">SF State</attr>
+      <attr type="occupation" source="3">content executive</attr>
+      <attr type="affiliation" source="3">Excite@Home</attr>
+      <attr type="affiliation" source="3">California</attr>
+      <attr type="occupation" source="3">Media Consultant</attr>
+      <attr type="affiliation" source="3">Wired Digital</attr>
+      <attr type="affiliation" source="3">7x7</attr>
+      <attr type="occupation" source="3">writer</attr>
+      <attr type="occupation" source="3">radio producer</attr>
+      <attr type="affiliation" source="3">Mor Jones</attr>
+      <attr type="occupation" source="3">photographer</attr>
+      <attr type="affiliation" source="3">Keep Media</attr>
+      <attr type="affiliation" source="3">BNET</attr>
+      <attr type="occupation" source="3">author</attr>
+      <attr type="affiliation" source="3">Stanford Social Innovation Review</attr>
+      <attr type="occupation" source="3">screenwriter</attr>
+      <attr type="affiliation" source="3">Stanford</attr>
+      <attr type="affiliation" source="3">KQED</attr>
+      <attr type="location" source="3">San Francisco, CA, United States</attr>
+      <attr type="occupation" source="3">blogger</attr>
+      <attr type="occupation" source="3">editor</attr>
+      <attr type="affiliation" source="3">U-C Berkeley</attr>
+      <attr type="affiliation" source="3">Rolling Stone</attr>
+      <attr type="affiliation" source="3">Salon</attr>
+      <attr type="affiliation" source="3">Osher Lifelong Learning Institute</attr>
+      <attr type="affiliation" source="3">MyWire</attr>
+      <attr type="occupation" source="75">Author</attr>
+      <attr type="work" source="75">Sch-Bhopal Syndrome</attr>
+      <attr type="work" source="75">Circle of Poison</attr>
+      <attr type="affiliation" source="22">California</attr>
+      <attr type="affiliation" source="22">Stanford Social Innovation Review</attr>
+      <attr type="affiliation" source="22">7x7</attr>
+      <attr type="affiliation" source="22">Rolling Stone</attr>
+      <attr type="affiliation" source="22">Mor Jones</attr>
+      <attr type="affiliation" source="22">Business 2.0</attr>
+      <attr type="affiliation" source="22">MyWire</attr>
+      <attr type="occupation" source="22">veteran journalist</attr>
+      <attr type="affiliation" source="22">SunDance</attr>
+      <attr type="affiliation" source="22">Center for Investigative Reporting</attr>
+      <attr type="othername" source="61">Weir David</attr>
+      <attr type="affiliation" source="61">California magazine</attr>
+      <attr type="occupation" source="61">senior editor</attr>
+      <attr type="affiliation" source="87">Stanford</attr>
+      <attr type="affiliation" source="87">Wired Digital</attr>
+      <attr type="affiliation" source="87">California</attr>
+      <attr type="work" source="87">Raising Hell: How the Center for Investigative Reporting Gets Its Story</attr>
+      <attr type="occupation" source="87">content executive</attr>
+      <attr type="affiliation" source="87">Excite@Home</attr>
+      <attr type="affiliation" source="87">7x7</attr>
+      <attr type="affiliation" source="87">Salon.com</attr>
+      <attr type="affiliation" source="87">KQED</attr>
+      <attr type="affiliation" source="87">MyWire</attr>
+      <attr type="affiliation" source="87">SunDance</attr>
+      <attr type="affiliation" source="87">Center for Investigative Reporting</attr>
+      <attr type="occupation" source="87">journalist</attr>
+      <attr type="affiliation" source="87">U.C. Berkeley</attr>
+      <attr type="affiliation" source="87">Mor Jones</attr>
+      <attr type="affiliation" source="87">Rolling Stone</attr>
+      <attr type="affiliation" source="87">Stanford Social Innovation Review</attr>
+      <attr type="affiliation" source="87">San Francisco State University</attr>
+      <attr type="affiliation" source="87">Business 2.0</attr>
+      <attr type="occupation" source="87">Author</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="11">Lawrence Weir</attr>
+      <attr type="relatives" source="11">Lawrence</attr>
+      <attr type="dateofbirth" source="11">September 2</attr>
+      <attr type="othername" source="11">David Allen Weir</attr>
+      <attr type="relatives" source="11">Carmen</attr>
+      <attr type="occupation" source="11">bartenders</attr>
+      <attr type="affiliation" source="11">Lucerna</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="81" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="81">student</attr>
+      <attr type="school" source="81">Takoma Academy</attr>
+      <attr type="school" source="81">TA</attr>
+      <attr type="school" source="81">WWC</attr>
+      <attr type="school" source="81">Walla Walla College</attr>
+      <attr type="school" source="81">Sligo Elementary School</attr>
+      <attr type="school" source="81">CUC</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="48" />
+      <doc rank="119" />
+      <doc rank="67" />
+      <doc rank="113" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="48">DAVID THOMAS WEIR</attr>
+      <attr type="affiliation" source="48">101st Airborne</attr>
+      <attr type="relatives" source="48">Gavin</attr>
+      <attr type="birthplace" source="48">Cleveland TN</attr>
+      <attr type="occupation" source="48">Sergeant</attr>
+      <attr type="relatives" source="48">Lynn</attr>
+      <attr type="occupation" source="48">SGT</attr>
+      <attr type="relatives" source="48">Lynn Weir</attr>
+      <attr type="relatives" source="48">Jackie</attr>
+      <attr type="relatives" source="48">Chris</attr>
+      <attr type="relatives" source="48">Alison</attr>
+      <attr type="relatives" source="48">Lynn and Jackie Weir</attr>
+      <attr type="nationality" source="48">American</attr>
+      <attr type="location" source="119">Cleveland</attr>
+      <attr type="occupation" source="119">Sgt</attr>
+      <attr type="school" source="67">Oak Grove Elementary</attr>
+      <attr type="occupation" source="67">student</attr>
+      <attr type="school" source="67">Oak Grove</attr>
+      <attr type="relatives" source="67">Chris</attr>
+      <attr type="mentor" source="67">Suzanne Curtis</attr>
+      <attr type="mentor" source="67">Roxanne Guinn</attr>
+      <attr type="occupation" source="113">Sgt</attr>
+      <attr type="location" source="113">Cleveland</attr>
+      <attr type="occupation" source="113">soldier</attr>
+      <attr type="occupation" source="113">Sergeant</attr>
+      <attr type="relatives" source="113">CHRIS WEIR</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="42" />
+      <doc rank="24" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="42">Ed Colgate</attr>
+      <attr type="occupation" source="42">Students</attr>
+      <attr type="mentor" source="42">Michael Peshkin</attr>
+      <attr type="mentor" source="42">Kevin Lynch</attr>
+      <attr type="major" source="24">Mechanical Engineering</attr>
+      <attr type="degree" source="24">B.S</attr>
+      <attr type="birthplace" source="24">Albuquerque New Mexico</attr>
+      <attr type="affiliation" source="24">Laboratory for Intelligent Mechanical Systems</attr>
+      <attr type="phone" source="24">(650) 488-4525</attr>
+      <attr type="major" source="24">Physics</attr>
+      <attr type="affiliation" source="24">Engineering Sciences and Applied Mamatics department</attr>
+      <attr type="affiliation" source="24">Northwestern University</attr>
+      <attr type="affiliation" source="24">Bates College</attr>
+      <attr type="occupation" source="24">research scientist</attr>
+      <attr type="degree" source="24">Masters</attr>
+      <attr type="school" source="24">Northwestern</attr>
+      <attr type="school" source="24">Northwestern University</attr>
+      <attr type="affiliation" source="24">Northwestern IGERT</attr>
+      <attr type="school" source="24">Bates College</attr>
+      <attr type="affiliation" source="24">Sandia National Laboratories</attr>
+      <attr type="occupation" source="24">Ph.D. Candidate</attr>
+      <attr type="affiliation" source="24">U.S. Naval Research Laboratory</attr>
+      <attr type="affiliation" source="24">Laboratory for Intelligent Mechanical Systems (LIMS) research group</attr>
+      <attr type="location" source="24">Tech B230 (LIMS)</attr>
+      <attr type="occupation" source="24">mechanical engineer</attr>
+      <attr type="affiliation" source="24">Northwestern</attr>
+      <attr type="othername" source="24">David W. Weir</attr>
+      <attr type="school" source="24">Bates</attr>
+      <attr type="affiliation" source="24">Immersion Corporation</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="5" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="32" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="32">Editor</attr>
+      <attr type="occupation" source="32">Editors</attr>
+      <attr type="work" source="32">Social problems of modern Britain</attr>
+      <attr type="occupation" source="32">Eds</attr>
+      <attr type="othername" source="32">Weir David</attr>
+      <attr type="work" source="32">Social Problems of Modern Britain</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="47">director</attr>
+      <attr type="affiliation" source="47">University of St. Andrews</attr>
+      <attr type="affiliation" source="47">University of Delaware</attr>
+      <attr type="affiliation" source="47">DuPont</attr>
+      <attr type="school" source="47">University of Glasgow</attr>
+      <attr type="occupation" source="47">founding director</attr>
+      <attr type="affiliation" source="47">Delaware Biotechnology Institute</attr>
+      <attr type="affiliation" source="47">Office of Economic Innovation and Partnerships</attr>
+      <attr type="occupation" source="47">vice president for global research and development</attr>
+      <attr type="affiliation" source="47">UD</attr>
+      <attr type="major" source="47">chemical physics</attr>
+      <attr type="degree" source="47">doctorate</attr>
+      <attr type="occupation" source="47">head</attr>
+      <attr type="othername" source="47">David S. Weir</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="43">OSU</attr>
+      <attr type="mentor" source="43">Steve Todd</attr>
+      <attr type="occupation" source="43">rowers</attr>
+      <attr type="affiliation" source="43">Oregon State</attr>
+    </attributes>
+  </entity>
+</clustering>

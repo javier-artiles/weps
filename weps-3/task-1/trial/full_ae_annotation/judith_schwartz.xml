@@ -1,0 +1,679 @@
+<clustering searchString="JUDITH SCHWARTZ">
+  <entity id="1">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="22" />
+      <doc rank="4" />
+    </documents>
+    <attributes>
+      <attr type="work" source="22">Nightforce</attr>
+      <attr type="work" source="4">Before Stonewall: The Making of a Gay and Lesbian Community</attr>
+      <attr type="occupation" source="4">historical consultant</attr>
+      <attr type="work" source="4">Before Stonewall</attr>
+      <attr type="occupation" source="4">Actress</attr>
+      <attr type="work" source="4">Night Force</attr>
+      <attr type="work" source="4">Nightforce</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="105" />
+      <doc rank="44" />
+      <doc rank="10" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="105">New York City College of Technology</attr>
+      <attr type="affiliation" source="105">Dental Hygiene</attr>
+      <attr type="occupation" source="105">Professor</attr>
+      <attr type="affiliation" source="44">Marana Branch Food Bank</attr>
+      <attr type="location" source="44">11734 West Grier Road</attr>
+      <attr type="phone" source="44">(520) 682-3001</attr>
+      <attr type="affiliation" source="44">Marana Branch</attr>
+      <attr type="occupation" source="44">educator</attr>
+      <attr type="occupation" source="44">Staff Members</attr>
+      <attr type="othername" source="44">Judith P. Schwartz</attr>
+      <attr type="occupation" source="44">Marketing and Development Coordinator</attr>
+      <attr type="degree" source="10">MS</attr>
+      <attr type="occupation" source="10">Professor</attr>
+      <attr type="email" source="10">jschwartz@citytech.cuny.edu</attr>
+      <attr type="degree" source="10">BS</attr>
+      <attr type="school" source="10">Fairleigh Dickinson University</attr>
+      <attr type="degree" source="10">EdD</attr>
+      <attr type="affiliation" source="10">New York City College of Technology</attr>
+      <attr type="school" source="10">Rutgers University</attr>
+      <attr type="school" source="10">Columbia University</attr>
+      <attr type="phone" source="10">718.260.5075</attr>
+      <attr type="occupation" source="10">Registered Dental Hygienist</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="33" />
+      <doc rank="60" />
+    </documents>
+    <attributes>
+      <attr type="location" source="33">Ginosar, IS</attr>
+      <attr type="location" source="33">Omaha</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="work" source="93">Hip to Knit</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="67" />
+      <doc rank="71" />
+      <doc rank="48" />
+      <doc rank="7" />
+      <doc rank="112" />
+      <doc rank="80" />
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="work" source="67">Doublethink</attr>
+      <attr type="affiliation" source="71">To the Point</attr>
+      <attr type="work" source="71">Doublethink: A Tale of Unintended Consequences</attr>
+      <attr type="occupation" source="71">author</attr>
+      <attr type="occupation" source="71">Teachers</attr>
+      <attr type="location" source="71">Palo Alto</attr>
+      <attr type="email" source="71">judith@tothept.com</attr>
+      <attr type="occupation" source="71">principal</attr>
+      <attr type="work" source="48">Doublethink</attr>
+      <attr type="affiliation" source="7">Raise the Bar</attr>
+      <attr type="occupation" source="7">strategic planning manager</attr>
+      <attr type="affiliation" source="7">Polar Spring Corporation</attr>
+      <attr type="affiliation" source="7">To the Point</attr>
+      <attr type="major" source="7">fine arts</attr>
+      <attr type="occupation" source="7">President</attr>
+      <attr type="school" source="7">Cornell University&apos;s School of Architecture, Art, and Planning</attr>
+      <attr type="affiliation" source="7">Apple Computer</attr>
+      <attr type="work" source="7">Doublethink: A Tale of Unintended Consequences</attr>
+      <attr type="occupation" source="7">product manager</attr>
+      <attr type="occupation" source="7">entrepreneur</attr>
+      <attr type="occupation" source="7">marketing manager</attr>
+      <attr type="location" source="112">Palo Alto</attr>
+      <attr type="affiliation" source="112">AltaVista</attr>
+      <attr type="occupation" source="112">spokeswoman</attr>
+      <attr type="email" source="80">judith@topt.com</attr>
+      <attr type="work" source="80">Doublethink: A Tale of Unintended Consequences</attr>
+      <attr type="location" source="80">Palo Alto</attr>
+      <attr type="affiliation" source="73">To the Point</attr>
+      <attr type="affiliation" source="73">Apple Computer</attr>
+      <attr type="affiliation" source="73">Apple</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="11" />
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="11">PhD</attr>
+      <attr type="occupation" source="11">specialist</attr>
+      <attr type="affiliation" source="11">Northwestern University</attr>
+      <attr type="occupation" source="11">author</attr>
+      <attr type="occupation" source="11">associate professor</attr>
+      <attr type="school" source="11">New York University</attr>
+      <attr type="work" source="11">New Grove Dictionary of Music and Musicians</attr>
+      <attr type="work" source="11">French Court Dance and Dance Music: A Guide to Primary Source Writings</attr>
+      <attr type="degree" source="12">PhD</attr>
+      <attr type="school" source="12">New York University</attr>
+      <attr type="work" source="12">French Court Dance and Dance Music: A Guide to Primary Source Writings</attr>
+      <attr type="occupation" source="12">specialist</attr>
+      <attr type="occupation" source="12">author</attr>
+      <attr type="affiliation" source="12">School of Music</attr>
+      <attr type="occupation" source="12">Faculty Affiliates</attr>
+      <attr type="work" source="12">New Grove Dictionary of Music and Musicians</attr>
+      <attr type="email" source="12">j-schwartz@northwestern.edu</attr>
+      <attr type="occupation" source="12">Associate Professor</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="1" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="1">Dr.</attr>
+      <attr type="occupation" source="1">LISW</attr>
+      <attr type="affiliation" source="1">Village Counseling</attr>
+      <attr type="location" source="1">6797 North High Street Worthington, Ohio</attr>
+      <attr type="phone" source="1">(614) 888-8819</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="2" />
+      <doc rank="35" />
+      <doc rank="29" />
+      <doc rank="9" />
+      <doc rank="86" />
+      <doc rank="19" />
+      <doc rank="130" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="2">Judith D. Schwartz</attr>
+      <attr type="work" source="2">The Mother Puzzle</attr>
+      <attr type="work" source="2">Tell Me No Lies</attr>
+      <attr type="occupation" source="2">editors</attr>
+      <attr type="location" source="35">Bennington, Vermont</attr>
+      <attr type="work" source="35">Tell Me No Lies How to Stop Lying to Your Partner---and Yourself--in the 4 Stages of Marriage</attr>
+      <attr type="occupation" source="35">published writer</attr>
+      <attr type="relatives" source="35">Brendan</attr>
+      <attr type="relatives" source="35">Tony Eprile</attr>
+      <attr type="work" source="35">Mother Puzzle</attr>
+      <attr type="othername" source="35">Judith D. Schwartz</attr>
+      <attr type="location" source="9">Bennington, Vt.</attr>
+      <attr type="othername" source="9">Judith D. Schwartz</attr>
+      <attr type="work" source="86">Tell Me No Lies: How to Face the Truth and Build a Loving Marriage</attr>
+      <attr type="relatives" source="19">Alvin Schwartz</attr>
+      <attr type="occupation" source="19">writers</attr>
+      <attr type="relatives" source="19">Tony Eprile</attr>
+      <attr type="school" source="19">Columbia University Graduate School of Journalism</attr>
+      <attr type="othername" source="19">Judith Dora Schwartz</attr>
+      <attr type="school" source="19">Brown University</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="104" />
+      <doc rank="95" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="101" />
+      <doc rank="62" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="101">Staffperson</attr>
+      <attr type="occupation" source="101">Coordinator</attr>
+      <attr type="affiliation" source="101">DSS</attr>
+      <attr type="phone" source="101">4444</attr>
+      <attr type="affiliation" source="101">Santa Monica College</attr>
+      <attr type="email" source="101">Schwartz_Judy@smc.edu</attr>
+      <attr type="phone" source="62">+972 09-7729888</attr>
+      <attr type="fax" source="62">+972 09-7729889</attr>
+      <attr type="affiliation" source="62">The Center for Learning Correction</attr>
+      <attr type="location" source="62">20 Ha&apos;shahafim St. Ra&apos;anana 43724 Israel</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="76" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="76">CCSAB</attr>
+      <attr type="occupation" source="76">Chair</attr>
+      <attr type="email" source="76">judith.schwartz@sunyorange.edu</attr>
+      <attr type="affiliation" source="76">SUNY ORANGE</attr>
+      <attr type="affiliation" source="76">Mathematics Department</attr>
+      <attr type="affiliation" source="76">Community College Science Advisory Board</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="39">registrar</attr>
+      <attr type="occupation" source="39">President</attr>
+      <attr type="occupation" source="39">officers</attr>
+      <attr type="affiliation" source="39">WAFHS</attr>
+      <attr type="affiliation" source="39">Washington Area Folk Harp Society</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="51" />
+      <doc rank="92" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="51">Laila Rowe</attr>
+      <attr type="website" source="92">www.lailarowe.com</attr>
+      <attr type="occupation" source="92">co-owners</attr>
+      <attr type="affiliation" source="92">Laila Rowe</attr>
+      <attr type="website" source="92">http://www.lailarowe.com</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="91" />
+      <doc rank="3" />
+      <doc rank="15" />
+      <doc rank="8" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="91">Design Five Creatives</attr>
+      <attr type="occupation" source="91">owner</attr>
+      <attr type="location" source="91">United States: Greater New York City Area</attr>
+      <attr type="occupation" source="91">designer</attr>
+      <attr type="affiliation" source="91">Macmillan/McGraw-Hill</attr>
+      <attr type="occupation" source="91">art director</attr>
+      <attr type="affiliation" source="91">Studio Six Graphics</attr>
+      <attr type="occupation" source="91">Art Director</attr>
+      <attr type="occupation" source="91">Sr. Design Mgr</attr>
+      <attr type="occupation" source="3">Adjunct Professor</attr>
+      <attr type="major" source="3">Advertising Design</attr>
+      <attr type="school" source="3">School of Visual Arts</attr>
+      <attr type="occupation" source="3">Designer</attr>
+      <attr type="affiliation" source="3">The Cooper Union Alumni Association</attr>
+      <attr type="affiliation" source="3">The McGraw Hill Companies</attr>
+      <attr type="school" source="3">Syracuse University</attr>
+      <attr type="affiliation" source="3">Graphic Designers Professional Group</attr>
+      <attr type="affiliation" source="3">Macmillan/McGraw-Hill</attr>
+      <attr type="occupation" source="3">DESIGNER</attr>
+      <attr type="degree" source="3">MA</attr>
+      <attr type="affiliation" source="3">Witz End Design</attr>
+      <attr type="occupation" source="3">Art Director</attr>
+      <attr type="affiliation" source="3">Design Five Creatives</attr>
+      <attr type="school" source="3">Syracuse University- School of Visual and Performing Arts</attr>
+      <attr type="affiliation" source="3">Long Island University, Southampton Campus</attr>
+      <attr type="occupation" source="3">sr design mgr</attr>
+      <attr type="occupation" source="3">Sr. Design Mgr</attr>
+      <attr type="location" source="3">Greater New York City Area</attr>
+      <attr type="occupation" source="3">ART DIRECTOR</attr>
+      <attr type="affiliation" source="3">Studio Six Graphics</attr>
+      <attr type="degree" source="3">BFA</attr>
+      <attr type="school" source="3">The Cooper Union for the Advancement of Science and Art</attr>
+      <attr type="occupation" source="3">Art DIrector</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="17">Master&#65533;fs degree</attr>
+      <attr type="affiliation" source="17">Department of Elementary and Early Childhood Education at Queens College, City University of New York</attr>
+      <attr type="degree" source="17">Dr.</attr>
+      <attr type="school" source="17">New York University</attr>
+      <attr type="school" source="17">Hunter College</attr>
+      <attr type="occupation" source="17">faculty</attr>
+      <attr type="occupation" source="17">Professor</attr>
+      <attr type="occupation" source="17">teacher</attr>
+      <attr type="occupation" source="17">Authors</attr>
+      <attr type="othername" source="17">Judith I. Schwartz</attr>
+      <attr type="major" source="17">early childhood education</attr>
+      <attr type="affiliation" source="17">Queens College</attr>
+      <attr type="work" source="17">Encouraging Early Literacy: An Integrated Approach to Reading and Writing in N-3</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="53" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="53">Medical Education</attr>
+      <attr type="occupation" source="53">Clinical Coordinator</attr>
+      <attr type="location" source="53">Orlando</attr>
+      <attr type="phone" source="53">407-835-4103</attr>
+      <attr type="affiliation" source="53">FSU College of Medicine</attr>
+      <attr type="location" source="53">FSU College of Medicine 250 East Colonial Drive Suite 200 Orlando, FL 32801-2203</attr>
+      <attr type="fax" source="53">407-835-4107</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="72">Yoni</attr>
+      <attr type="relatives" source="72">Murray</attr>
+      <attr type="relatives" source="72">Yoni A. Schwartz</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="59" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="59">Abbott Northwestern Hospital</attr>
+      <attr type="location" source="59">Minneapolis</attr>
+      <attr type="occupation" source="59">nurse</attr>
+      <attr type="affiliation" source="59">Abbott</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="47" />
+      <doc rank="79" />
+      <doc rank="26" />
+      <doc rank="99" />
+    </documents>
+    <attributes>
+      <attr type="location" source="79">southwest New Hampshire</attr>
+      <attr type="phone" source="79">15-6047-6609</attr>
+      <attr type="location" source="79">Buenos Aires</attr>
+      <attr type="location" source="79">US</attr>
+      <attr type="phone" source="79">1-603-357-9919</attr>
+      <attr type="phone" source="99">1 603 357 - 9919</attr>
+      <attr type="affiliation" source="99">BrAATS</attr>
+      <attr type="email" source="99">judith@monad.net</attr>
+      <attr type="occupation" source="99">Organizers</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="16">Bronx, New York</attr>
+      <attr type="occupation" source="16">jewelry collector and designer</attr>
+      <attr type="affiliation" source="16">Laila Rowe</attr>
+      <attr type="major" source="16">jewelry design</attr>
+      <attr type="school" source="16">Fashion Institute of Technology</attr>
+      <attr type="occupation" source="16">owners</attr>
+      <attr type="occupation" source="16">artist</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="46" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="46">Crochet Guild of America</attr>
+      <attr type="affiliation" source="46">Board of Directors</attr>
+      <attr type="affiliation" source="46">CGOA</attr>
+      <attr type="occupation" source="46">Director At Large</attr>
+      <attr type="affiliation" source="46">CGOA Board</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="work" source="18">Special Thoughts For Special People</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="21" />
+      <doc rank="90" />
+      <doc rank="94" />
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="21">Michael Brizel</attr>
+      <attr type="degree" source="21">M.D.</attr>
+      <attr type="degree" source="21">Dr.</attr>
+      <attr type="occupation" source="21">M.D.</attr>
+      <attr type="school" source="21">Mount Sinai School of Medicine</attr>
+      <attr type="relatives" source="21">Fred Schwartz</attr>
+      <attr type="occupation" source="21">obstetrician and gynecologist</attr>
+      <attr type="othername" source="21">Judith W. Schwartz</attr>
+      <attr type="location" source="21">New York</attr>
+      <attr type="school" source="21">Barnard College</attr>
+      <attr type="relatives" source="21">Michael A. Brizel</attr>
+      <attr type="occupation" source="90">gynecologist</attr>
+      <attr type="phone" source="90">212-879-5959</attr>
+      <attr type="email" source="90">jwschwartz@aol.com</attr>
+      <attr type="affiliation" source="90">Mt. Sinai Hospital</attr>
+      <attr type="othername" source="90">Judy Scwartz</attr>
+      <attr type="location" source="90">New York, NY</attr>
+      <attr type="location" source="90">New York City</attr>
+      <attr type="degree" source="90">MD</attr>
+      <attr type="school" source="90">Barnard</attr>
+      <attr type="occupation" source="90">OB-GYN</attr>
+      <attr type="location" source="90">45 E. 82nd St. New York, NY 10028</attr>
+      <attr type="occupation" source="90">MD</attr>
+      <attr type="degree" source="94">Dr.</attr>
+      <attr type="location" source="94">New York</attr>
+      <attr type="occupation" source="94">Gynecologist</attr>
+      <attr type="occupation" source="94">Doctors</attr>
+      <attr type="occupation" source="94">Obstetrician</attr>
+      <attr type="location" source="94">NY</attr>
+      <attr type="occupation" source="94">Dr.</attr>
+      <attr type="location" source="94">New York, NY</attr>
+      <attr type="phone" source="87">212-241-6500</attr>
+      <attr type="occupation" source="87">MD</attr>
+      <attr type="occupation" source="87">doctor</attr>
+      <attr type="occupation" source="87">Doctor</attr>
+      <attr type="affiliation" source="87">Obstetrics &amp; Gynecology, Mount Sinai Sch Med</attr>
+      <attr type="affiliation" source="87">Mount Sinai Medical Center</attr>
+      <attr type="location" source="87">One Gustave L. Levy Pl New York, NY 10029</attr>
+      <attr type="affiliation" source="87">Obstetrics &amp; Gynecology - Mount Sinai Hosp</attr>
+      <attr type="occupation" source="87">Asst Clin Prof</attr>
+      <attr type="phone" source="87">212-879-5959</attr>
+      <attr type="degree" source="87">MD</attr>
+      <attr type="location" source="87">45 E 82nd St Fl 1New York, NY, 10028</attr>
+      <attr type="school" source="87">Mount Sinai Sch Med</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="20" />
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="work" source="20">Radical Feminists of Heterodoxy: Greenwich Village, 1912-1940</attr>
+      <attr type="occupation" source="20">Author</attr>
+      <attr type="work" source="89">Radical Feminists of Heterodoxy: Greenwich Village, 1912-1940</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="97" />
+      <doc rank="129" />
+      <doc rank="30" />
+      <doc rank="64" />
+      <doc rank="54" />
+      <doc rank="121" />
+      <doc rank="108" />
+      <doc rank="14" />
+      <doc rank="83" />
+      <doc rank="109" />
+      <doc rank="133" />
+      <doc rank="100" />
+      <doc rank="141" />
+      <doc rank="77" />
+      <doc rank="124" />
+      <doc rank="37" />
+      <doc rank="78" />
+      <doc rank="127" />
+      <doc rank="66" />
+      <doc rank="96" />
+      <doc rank="63" />
+      <doc rank="70" />
+      <doc rank="57" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="97">writer</attr>
+      <attr type="occupation" source="97">professor</attr>
+      <attr type="affiliation" source="97">NYU</attr>
+      <attr type="occupation" source="97">curator</attr>
+      <attr type="location" source="129">New York</attr>
+      <attr type="affiliation" source="30">Lenox China Corporation</attr>
+      <attr type="occupation" source="30">educational consultant</attr>
+      <attr type="occupation" source="30">Area Head</attr>
+      <attr type="affiliation" source="30">New York Univeristy</attr>
+      <attr type="othername" source="30">Judith S. Schwartz</attr>
+      <attr type="occupation" source="30">professional artist</attr>
+      <attr type="occupation" source="30">Professor</attr>
+      <attr type="affiliation" source="30">Sculpture in Craft Media: New York University Dept of Art and Art Professions</attr>
+      <attr type="degree" source="30">Ph.D.</attr>
+      <attr type="occupation" source="30">Director</attr>
+      <attr type="phone" source="30">(212) 998-5733</attr>
+      <attr type="location" source="30">* New York Univeristy * * Dept. of Art &amp; Art Professions * * 34 Stuyvesant St. * * New York, NY 10003 *</attr>
+      <attr type="fax" source="30">(212) 995-4320</attr>
+      <attr type="affiliation" source="30">Dept. of Art &amp; Art Professions</attr>
+      <attr type="location" source="30">New York University Dept of Art and Art Professions 34 Stuyvesant St New York, NY 10003</attr>
+      <attr type="phone" source="30">212 998-5733</attr>
+      <attr type="fax" source="30">212 995-4320</attr>
+      <attr type="location" source="64">USA</attr>
+      <attr type="work" source="54">American Shino: The Glaze of a Thousand Faces</attr>
+      <attr type="occupation" source="108">writer</attr>
+      <attr type="occupation" source="108">curator</attr>
+      <attr type="affiliation" source="108">NYU</attr>
+      <attr type="occupation" source="108">professor</attr>
+      <attr type="occupation" source="14">critic</attr>
+      <attr type="occupation" source="14">curator</attr>
+      <attr type="affiliation" source="14">Sculpture: Craft Media Area</attr>
+      <attr type="occupation" source="14">Invited member</attr>
+      <attr type="affiliation" source="14">International Academy of Ceramics</attr>
+      <attr type="occupation" source="14">Educational consultant</attr>
+      <attr type="award" source="14">Advisor of the Year</attr>
+      <attr type="degree" source="14">B.A.</attr>
+      <attr type="school" source="14">Queens College</attr>
+      <attr type="degree" source="14">Ph.D.</attr>
+      <attr type="work" source="14">Confrontational Clay: The Artist As Social Critic</attr>
+      <attr type="occupation" source="14">Head</attr>
+      <attr type="degree" source="14">M.A.</attr>
+      <attr type="email" source="14">judith.schwartz@nyu.edu</attr>
+      <attr type="phone" source="14">(212) 998 5700</attr>
+      <attr type="occupation" source="14">Associate Professor</attr>
+      <attr type="affiliation" source="14">Board of Directors for the Watershed Center for the Ceramic Arts, Studio Potter Magazine, The Joseph Schein International Museum of Ceramic Art, at Alfred University, The Jingdezhen Sanbao Ceramic Art Institute, Jingdezhen, China, The Musuem of Ceramic Art, New York, NY, and the Univeristy Council for Art Education</attr>
+      <attr type="affiliation" source="14">New York University, Steinhardt School of Culture, Education, and Human Development</attr>
+      <attr type="school" source="14">New York University</attr>
+      <attr type="occupation" source="14">author</attr>
+      <attr type="occupation" source="83">Officers</attr>
+      <attr type="affiliation" source="83">UCAE</attr>
+      <attr type="occupation" source="83">Presidents</attr>
+      <attr type="location" source="83">New York City</attr>
+      <attr type="occupation" source="109">Invited member</attr>
+      <attr type="affiliation" source="109">Lenox China Company</attr>
+      <attr type="affiliation" source="109">International Academy of Ceramics</attr>
+      <attr type="affiliation" source="109">Sculpture: Craft Media Area</attr>
+      <attr type="occupation" source="109">critic</attr>
+      <attr type="occupation" source="109">curator</attr>
+      <attr type="occupation" source="109">Educational consultant</attr>
+      <attr type="affiliation" source="109">Board of Directors for the Watershed Center for the Ceramic Arts, Studio Potter Magazine, The Joseph Schein International Museum of Ceramic Art, at Alfred University, The Jingdezhen Sanbao Ceramic Art Institute, Jingdezhen, China, The Museum of Ceramic Art, New York, NY, and the University Council for Art Education</attr>
+      <attr type="occupation" source="109">head</attr>
+      <attr type="occupation" source="109">author</attr>
+      <attr type="location" source="133">New York, NY</attr>
+      <attr type="work" source="100">Confrontational Ceramics</attr>
+      <attr type="degree" source="100">Dr.</attr>
+      <attr type="website" source="77">www.compassionandchoicesofny.org</attr>
+      <attr type="phone" source="77">212-561- 9175</attr>
+      <attr type="occupation" source="77">Patient Support Coordinator</attr>
+      <attr type="degree" source="124">Dr.</attr>
+      <attr type="work" source="37">Confrontational Ceramics</attr>
+      <attr type="degree" source="37">Dr.</attr>
+      <attr type="affiliation" source="78">MOCA board</attr>
+      <attr type="affiliation" source="78">MOCA</attr>
+      <attr type="location" source="127">New York, NY</attr>
+      <attr type="occupation" source="66">curator</attr>
+      <attr type="occupation" source="66">writer</attr>
+      <attr type="affiliation" source="66">NYU</attr>
+      <attr type="occupation" source="66">professor</attr>
+      <attr type="affiliation" source="96">NYU</attr>
+      <attr type="occupation" source="70">educational consultant</attr>
+      <attr type="affiliation" source="70">Lenox China &gt; Corporation</attr>
+      <attr type="location" source="70">&gt; * New York Univeristy * &gt; * Dept. of Art &amp; Art Professions * &gt; * 34 Stuyvesant St. * &gt; * New York, NY 10003 *</attr>
+      <attr type="occupation" source="70">Director</attr>
+      <attr type="fax" source="70">(212) 995-4320</attr>
+      <attr type="email" source="70">jss1@ACF5.NYU.EDU</attr>
+      <attr type="phone" source="70">(212) 998-5733</attr>
+      <attr type="occupation" source="70">professional artist</attr>
+      <attr type="occupation" source="70">Professor</attr>
+      <attr type="affiliation" source="70">New York Univeristy</attr>
+      <attr type="othername" source="70">Judith S. Schwartz</attr>
+      <attr type="award" source="57">Everson Museum of Art award</attr>
+      <attr type="degree" source="57">Ph.D.</attr>
+      <attr type="degree" source="57">M.A.</attr>
+      <attr type="birthplace" source="57">New York</attr>
+      <attr type="award" source="57">Advisor of the Year award</attr>
+      <attr type="degree" source="57">B.A.</attr>
+      <attr type="school" source="57">New York University</attr>
+      <attr type="school" source="57">Queens College</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="work" source="6">Animal Precinct</attr>
+      <attr type="work" source="6">Unprotected Guard Dog</attr>
+      <attr type="work" source="6">Starved from Starvation</attr>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="81" />
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="work" source="81">Collaboration:The Key to Successful Negotiations and School Decision Making</attr>
+      <attr type="work" source="56">Negotiations: Creating a Teacher Union-Administration Process That Promotes School Achievement</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="24" />
+      <doc rank="25" />
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="24">author</attr>
+      <attr type="affiliation" source="24">Shefsky &amp; Froelich, Ltd.</attr>
+      <attr type="school" source="24">University of Chicago</attr>
+      <attr type="occupation" source="24">Part-time Faculty</attr>
+      <attr type="phone" source="24">(312) 836-4179</attr>
+      <attr type="occupation" source="24">active speaker</attr>
+      <attr type="occupation" source="24">Partner</attr>
+      <attr type="degree" source="24">B.A.</attr>
+      <attr type="school" source="24">John Marshall</attr>
+      <attr type="affiliation" source="24">Shefsky &amp; Froelich</attr>
+      <attr type="degree" source="24">M.L.A.</attr>
+      <attr type="othername" source="24">Judith S. Sherwin</attr>
+      <attr type="othername" source="24">Judith Schwartz Sherwin</attr>
+      <attr type="occupation" source="24">partner</attr>
+      <attr type="email" source="24">jsherwin@shefskylaw.com</attr>
+      <attr type="school" source="24">Roosevelt</attr>
+      <attr type="degree" source="24">J.D.</attr>
+      <attr type="location" source="24">111 East Wacker Drive 28th Floor Chicago, IL 60601</attr>
+      <attr type="affiliation" source="25">Board of Directors</attr>
+      <attr type="affiliation" source="25">Jewish Family and Community Service</attr>
+      <attr type="affiliation" source="25">Oakton Community College</attr>
+      <attr type="school" source="25">Roosevelt University</attr>
+      <attr type="othername" source="25">Judith Schwartz Sherwin</attr>
+      <attr type="othername" source="25">Judith S. Sherwin</attr>
+      <attr type="affiliation" source="25">John Marshall Law School</attr>
+      <attr type="school" source="25">University of Chicago</attr>
+      <attr type="affiliation" source="25">Council for Jewish Elderly</attr>
+      <attr type="affiliation" source="25">Project LEAP (Legal Elections in All Precincts)</attr>
+      <attr type="occupation" source="25">lead counsel</attr>
+      <attr type="work" source="25">Long-Term Care Litigation, 2008 Edition</attr>
+      <attr type="degree" source="25">BS</attr>
+      <attr type="occupation" source="25">Shareholder</attr>
+      <attr type="occupation" source="25">Special counsel</attr>
+      <attr type="affiliation" source="25">Chicago Bar Association</attr>
+      <attr type="affiliation" source="25">Attorney Registration and Disciplinary Commission of the State of Illinois</attr>
+      <attr type="affiliation" source="25">Spertus Institute</attr>
+      <attr type="school" source="25">John Marshall Law School</attr>
+      <attr type="affiliation" source="25">Leading Lawyers Network</attr>
+      <attr type="affiliation" source="25">Inquiry Board</attr>
+      <attr type="degree" source="25">JD</attr>
+      <attr type="affiliation" source="25">Decalogue Society of Lawyers</attr>
+      <attr type="affiliation" source="25">Loyola University Law School</attr>
+      <attr type="affiliation" source="25">Illinois Bar Association</attr>
+      <attr type="affiliation" source="25">Hearing Panel</attr>
+      <attr type="occupation" source="25">Adjunct professor</attr>
+      <attr type="degree" source="25">MLA</attr>
+      <attr type="affiliation" source="25">Masters of Jurisprudence Business Law Program</attr>
+      <attr type="affiliation" source="25">American Health Lawyers Association</attr>
+      <attr type="affiliation" source="25">American Bar Association</attr>
+    </attributes>
+  </entity>
+</clustering>

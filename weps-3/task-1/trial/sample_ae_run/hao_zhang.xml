@@ -1,0 +1,363 @@
+<clustering searchString="HAO ZHANG">
+  <entity id="1">
+    <documents>
+      <doc rank="3" />
+      <doc rank="13" />
+      <doc rank="148" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="3">M.E.</attr>
+      <attr type="school" source="3">University of Rochester</attr>
+      <attr type="affiliation" source="148">Edinburgh</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="49" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="125" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="125">USC Marshall School of Business</attr>
+      <attr type="major" source="125">Industrial Engineering</attr>
+      <attr type="degree" source="125">BS</attr>
+      <attr type="school" source="125">University of Illinois</attr>
+      <attr type="phone" source="125">(213) 821-2279</attr>
+      <attr type="location" source="125">BRI 401G</attr>
+      <attr type="email" source="125">zhanghao@usc.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="101" />
+      <doc rank="8" />
+      <doc rank="131" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="101">H. Zhang</attr>
+      <attr type="degree" source="8">Ph.D.</attr>
+      <attr type="award" source="8">Best Paper Award</attr>
+      <attr type="mentor" source="8">Eugene Fiume</attr>
+      <attr type="school" source="8">University of Toronto</attr>
+      <attr type="phone" source="131">778-782-6843</attr>
+      <attr type="occupation" source="131">Co-Director</attr>
+      <attr type="affiliation" source="131">Centre For Scientific Computing</attr>
+      <attr type="website" source="131">http://www.cs.sfu.ca/~haoz/</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="77" />
+      <doc rank="20" />
+      <doc rank="47" />
+      <doc rank="89" />
+      <doc rank="9" />
+      <doc rank="67" />
+      <doc rank="80" />
+      <doc rank="40" />
+      <doc rank="18" />
+      <doc rank="61" />
+      <doc rank="70" />
+      <doc rank="66" />
+      <doc rank="142" />
+      <doc rank="1" />
+      <doc rank="26" />
+      <doc rank="85" />
+      <doc rank="93" />
+      <doc rank="37" />
+      <doc rank="135" />
+      <doc rank="104" />
+      <doc rank="17" />
+      <doc rank="32" />
+      <doc rank="108" />
+      <doc rank="62" />
+      <doc rank="34" />
+      <doc rank="41" />
+      <doc rank="82" />
+      <doc rank="14" />
+      <doc rank="138" />
+      <doc rank="97" />
+      <doc rank="116" />
+      <doc rank="76" />
+      <doc rank="126" />
+      <doc rank="44" />
+      <doc rank="90" />
+      <doc rank="118" />
+      <doc rank="110" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="nationality" source="20">Chinese</attr>
+      <attr type="mentor" source="20">Bin Yao</attr>
+      <attr type="location" source="20">Harbin</attr>
+      <attr type="occupation" source="47">skaters</attr>
+      <attr type="dateofbirth" source="9">July 06 1984</attr>
+      <attr type="birthplace" source="80">Harbin</attr>
+      <attr type="affiliation" source="80">Harbin Skating Club</attr>
+      <attr type="work" source="18">Salt Lake City 2002: XIX Olympic Winter Games</attr>
+      <attr type="othername" source="18">Zhang Hao</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="83" />
+      <doc rank="22" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="22">Senior Clinical Research Physician</attr>
+      <attr type="affiliation" source="22">Uni. Hospital Gasthuisberg</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="83" />
+      <doc rank="121" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="121">B.Sc</attr>
+      <attr type="school" source="121">UVic</attr>
+      <attr type="occupation" source="121">Adjunct Assistant Professor</attr>
+      <attr type="fax" source="121">(250) 721-6052</attr>
+      <attr type="location" source="121">Dept. of Electrical &amp; Computer Engineering University of Victoria P.O. Box 3055 STN CSC Victoria, BC CANADA V8W 3P6</attr>
+      <attr type="email" source="121">hzhang@ece.uvic.ca</attr>
+      <attr type="affiliation" source="121">Dept. of Electrical &amp; Computer Engineering University of Victoria</attr>
+      <attr type="phone" source="121">(250) 721-6043</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="119" />
+      <doc rank="120" />
+      <doc rank="137" />
+      <doc rank="12" />
+      <doc rank="92" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="119">Research Center for Cardiac Regenerative Medicine</attr>
+      <attr type="location" source="119">Beijing, China</attr>
+      <attr type="degree" source="119">PhD</attr>
+      <attr type="occupation" source="119">MD</attr>
+      <attr type="school" source="12">Wenzhou Medical College</attr>
+      <attr type="email" source="12">drhaozhang@gmail.com</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="27">(414) 229-1165</attr>
+      <attr type="fax" source="27">414-229-6958</attr>
+      <attr type="school" source="27">Texas A&amp;M University</attr>
+      <attr type="email" source="27">zhang25@uwm.edu</attr>
+      <attr type="occupation" source="27">Associate Professor</attr>
+      <attr type="location" source="27">EMS 1255 3200 North Cramer Street Milwaukee, WI 53211</attr>
+      <attr type="affiliation" source="27">Department of Electrical Engineering University of Wisconsin-Milwaukee</attr>
+      <attr type="degree" source="27">Ph.D</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="96" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="31">Mobile Arts</attr>
+      <attr type="website" source="31">www.mobilearts.com</attr>
+      <attr type="othername" source="31">Jerry</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="73" />
+      <doc rank="45" />
+    </documents>
+    <attributes>
+      <attr type="location" source="73">China</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="59" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="59">School of Civil Engineering</attr>
+      <attr type="major" source="59">Civil Engineering</attr>
+      <attr type="degree" source="59">BS</attr>
+      <attr type="school" source="59">Tsinghua</attr>
+      <attr type="phone" source="59">+61 2 9351 3923</attr>
+      <attr type="fax" source="59">+61 2 9351 3343</attr>
+      <attr type="email" source="59">Hao.Zhang@usyd.edu.au</attr>
+      <attr type="location" source="59">School of Civil Engineering, Room 312</attr>
+      <attr type="occupation" source="59">structural engineer</attr>
+      <attr type="othername" source="59">Zhang, H</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="25" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="25">(+45) 45 25 24 77</attr>
+      <attr type="location" source="25">Center for Biological Sequence Analysis Department of Systems Biology, Technical University of Denmark, Building 208, DK-2800 Kongens Lyngby, DENMARK</attr>
+      <attr type="fax" source="25">(+45) 45 93 15 85</attr>
+      <attr type="occupation" source="25">bioinformatician</attr>
+      <attr type="email" source="25">hao@cbs.dtu.dk</attr>
+      <attr type="affiliation" source="25">Center for Biological Sequence Analysis Department of Systems Biology, Technical University of Denmark</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="143" />
+    </documents>
+    <attributes>
+      <attr type="location" source="143">Department of Urban and Civil Engineering, Ibaraki University, Nakanarusawa-cho 4-12-1, Hitachi, Ibaraki 316-8511, Japan</attr>
+      <attr type="affiliation" source="143">Department of Urban and Civil Engineering, Ibaraki University</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="149" />
+      <doc rank="5" />
+      <doc rank="30" />
+      <doc rank="98" />
+      <doc rank="43" />
+      <doc rank="84" />
+      <doc rank="38" />
+      <doc rank="130" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="149">Dr.</attr>
+      <attr type="occupation" source="98">Post Doctoral Fellow</attr>
+      <attr type="mentor" source="98">Hong Zhang</attr>
+      <attr type="phone" source="98">+1-780-492-6365</attr>
+      <attr type="email" source="98">zhangh@cs.ualberta.ca</attr>
+      <attr type="affiliation" source="84">Princeton University</attr>
+      <attr type="location" source="84">New Jersey, US</attr>
+      <attr type="school" source="84">Tsinghua</attr>
+      <attr type="othername" source="84">Zhang hao</attr>
+      <attr type="major" source="84">Mechanical and Aerospace Engineering</attr>
+      <attr type="fax" source="38">(780) 492-2881</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="79" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="79">Senior Lecturer</attr>
+      <attr type="degree" source="79">PhD</attr>
+      <attr type="major" source="79">Marine Chemistry</attr>
+      <attr type="school" source="79">University of Brussels</attr>
+      <attr type="location" source="79">Environmental Science Department Lancaster University Bailrigg Lancaster, LA1 4YQ United Kingdom</attr>
+      <attr type="phone" source="79">+44 (0)1524 593899</attr>
+      <attr type="affiliation" source="79">Lancaster University</attr>
+      <attr type="fax" source="79">+44 (0)1524 593985</attr>
+      <attr type="othername" source="79">Zhang, H.</attr>
+      <attr type="email" source="79">h.zhang@lancaster.ac.uk</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="35" />
+      <doc rank="4" />
+      <doc rank="36" />
+      <doc rank="60" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="35">Department of Statistics</attr>
+      <attr type="location" source="35">Department of Statistics, 536 Mathematical Science Building, Purdue University, West Lafayette, IN 47906</attr>
+      <attr type="email" source="35">zhanghao@purdue.edu</attr>
+      <attr type="occupation" source="35">Professor</attr>
+      <attr type="phone" source="35">(765)496-9548</attr>
+      <attr type="fax" source="4">(509) 335-8369</attr>
+      <attr type="degree" source="4">Ph.D.</attr>
+      <attr type="school" source="4">Michigan State University</attr>
+      <attr type="work" source="60">Multivariate Geostatistical Models: Inference and Computation (Monographs on Statistics and Applied Probability)</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="136" />
+      <doc rank="75" />
+      <doc rank="13" />
+      <doc rank="19" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="136">Jitendra Malik</attr>
+      <attr type="affiliation" source="136">EECS Department University of California, Berkeley</attr>
+      <attr type="othername" source="136">Zhang, Hao</attr>
+      <attr type="location" source="75">Berkeley, CA USA</attr>
+      <attr type="occupation" source="19">2nd year Ph.D. student</attr>
+      <attr type="school" source="19">Tsinghua University</attr>
+      <attr type="phone" source="19">3-982</attr>
+      <attr type="degree" source="19">bachelor&apos;s degree</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="124" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="124">University of Waikato</attr>
+      <attr type="othername" source="124">Zhang, Hao</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="13" />
+      <doc rank="55" />
+      <doc rank="10" />
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="work" source="63">Advances in Large Margin Classi</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="117" />
+      <doc rank="21" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="117">University of Miami</attr>
+      <attr type="degree" source="21">Ph. D</attr>
+      <attr type="occupation" source="21">Post-Doctoral Fellow</attr>
+      <attr type="major" source="21">Physics</attr>
+      <attr type="school" source="21">University of Miami</attr>
+      <attr type="othername" source="21">H. Zhang</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="15" />
+      <doc rank="103" />
+    </documents>
+    <attributes>
+      <attr type="school" source="15">University of British Columbia</attr>
+      <attr type="affiliation" source="15">Gamma</attr>
+      <attr type="degree" source="15">PHD</attr>
+      <attr type="occupation" source="15">Director</attr>
+      <attr type="major" source="15">electrical engineering</attr>
+      <attr type="location" source="15">Las Vegas, Nevada</attr>
+    </attributes>
+  </entity>
+</clustering>

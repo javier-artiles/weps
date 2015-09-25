@@ -1,0 +1,152 @@
+<clustering searchString="CHENG NIU">
+  <entity id="1">
+    <documents>
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="31">Pao Cheng Niu</attr>
+      <attr type="degree" source="31">M.D</attr>
+      <attr type="location" source="31">Liebenthal, America 677, 1642 San Isidro Argentina</attr>
+      <attr type="occupation" source="31">M.D</attr>
+      <attr type="email" source="31">rene.liebenthal@sinectis.com.ar</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="11">Ze-cheng Niu</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="121" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="121">SUNY-Buffalo</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="70" />
+      <doc rank="145" />
+      <doc rank="38" />
+      <doc rank="131" />
+      <doc rank="41" />
+      <doc rank="13" />
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="70">Graduate Students</attr>
+      <attr type="affiliation" source="70">genSpace Project</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="142" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="101" />
+      <doc rank="59" />
+      <doc rank="36" />
+      <doc rank="76" />
+      <doc rank="115" />
+      <doc rank="94" />
+      <doc rank="16" />
+      <doc rank="133" />
+      <doc rank="135" />
+      <doc rank="84" />
+      <doc rank="21" />
+      <doc rank="48" />
+      <doc rank="136" />
+      <doc rank="138" />
+      <doc rank="108" />
+      <doc rank="87" />
+      <doc rank="96" />
+      <doc rank="147" />
+      <doc rank="88" />
+      <doc rank="9" />
+      <doc rank="113" />
+      <doc rank="86" />
+      <doc rank="79" />
+      <doc rank="146" />
+      <doc rank="127" />
+      <doc rank="111" />
+      <doc rank="10" />
+      <doc rank="139" />
+      <doc rank="29" />
+      <doc rank="126" />
+      <doc rank="125" />
+      <doc rank="45" />
+      <doc rank="93" />
+      <doc rank="100" />
+      <doc rank="20" />
+      <doc rank="66" />
+      <doc rank="57" />
+      <doc rank="140" />
+      <doc rank="130" />
+      <doc rank="98" />
+      <doc rank="148" />
+      <doc rank="128" />
+      <doc rank="37" />
+      <doc rank="89" />
+      <doc rank="2" />
+      <doc rank="56" />
+      <doc rank="14" />
+      <doc rank="23" />
+      <doc rank="69" />
+      <doc rank="43" />
+      <doc rank="4" />
+      <doc rank="61" />
+      <doc rank="73" />
+      <doc rank="75" />
+      <doc rank="104" />
+      <doc rank="123" />
+      <doc rank="53" />
+      <doc rank="110" />
+      <doc rank="6" />
+      <doc rank="32" />
+      <doc rank="54" />
+      <doc rank="68" />
+      <doc rank="7" />
+      <doc rank="30" />
+      <doc rank="5" />
+      <doc rank="44" />
+      <doc rank="74" />
+      <doc rank="51" />
+      <doc rank="24" />
+      <doc rank="95" />
+      <doc rank="83" />
+      <doc rank="120" />
+      <doc rank="137" />
+      <doc rank="12" />
+      <doc rank="47" />
+      <doc rank="124" />
+      <doc rank="105" />
+      <doc rank="78" />
+      <doc rank="3" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="101">Cymfony</attr>
+      <attr type="location" source="16">5/F, Beijing Sigma Center, No. 49, Zhichun Road, Haidian District, Beijing 100080, P.R.C.</attr>
+      <attr type="email" source="16">cniu@microsoft.com</attr>
+      <attr type="occupation" source="147">Tutorial chair</attr>
+      <attr type="degree" source="111">Dr</attr>
+      <attr type="work" source="89">Dynamic generation of advertisement text</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="39" />
+      <doc rank="67" />
+      <doc rank="91" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

@@ -1,0 +1,1508 @@
+<clustering searchString="JAMES PATTERSON">
+  <entity id="1">
+    <documents>
+      <doc rank="36" />
+      <doc rank="3" />
+      <doc rank="84" />
+      <doc rank="79" />
+      <doc rank="76" />
+      <doc rank="102" />
+      <doc rank="44" />
+      <doc rank="87" />
+      <doc rank="65" />
+      <doc rank="51" />
+      <doc rank="12" />
+      <doc rank="113" />
+      <doc rank="108" />
+      <doc rank="20" />
+      <doc rank="17" />
+      <doc rank="100" />
+      <doc rank="86" />
+      <doc rank="28" />
+      <doc rank="82" />
+      <doc rank="66" />
+      <doc rank="30" />
+      <doc rank="13" />
+      <doc rank="78" />
+      <doc rank="109" />
+      <doc rank="63" />
+      <doc rank="89" />
+      <doc rank="101" />
+      <doc rank="33" />
+      <doc rank="43" />
+      <doc rank="32" />
+      <doc rank="16" />
+      <doc rank="60" />
+      <doc rank="56" />
+      <doc rank="40" />
+      <doc rank="80" />
+      <doc rank="62" />
+      <doc rank="67" />
+      <doc rank="71" />
+      <doc rank="106" />
+      <doc rank="73" />
+      <doc rank="4" />
+      <doc rank="77" />
+      <doc rank="64" />
+      <doc rank="29" />
+      <doc rank="47" />
+      <doc rank="99" />
+      <doc rank="72" />
+      <doc rank="22" />
+      <doc rank="37" />
+      <doc rank="81" />
+      <doc rank="8" />
+      <doc rank="94" />
+      <doc rank="93" />
+      <doc rank="112" />
+      <doc rank="21" />
+      <doc rank="70" />
+      <doc rank="55" />
+      <doc rank="91" />
+      <doc rank="38" />
+      <doc rank="88" />
+      <doc rank="61" />
+      <doc rank="9" />
+      <doc rank="42" />
+      <doc rank="41" />
+      <doc rank="39" />
+      <doc rank="31" />
+      <doc rank="97" />
+      <doc rank="110" />
+      <doc rank="11" />
+      <doc rank="26" />
+      <doc rank="6" />
+      <doc rank="19" />
+      <doc rank="45" />
+      <doc rank="103" />
+      <doc rank="83" />
+      <doc rank="107" />
+      <doc rank="111" />
+      <doc rank="2" />
+      <doc rank="14" />
+      <doc rank="10" />
+      <doc rank="7" />
+      <doc rank="96" />
+      <doc rank="48" />
+      <doc rank="5" />
+      <doc rank="75" />
+      <doc rank="98" />
+      <doc rank="52" />
+      <doc rank="1" />
+      <doc rank="23" />
+      <doc rank="92" />
+      <doc rank="85" />
+      <doc rank="58" />
+      <doc rank="27" />
+      <doc rank="95" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="work" source="36">The Final Warning</attr>
+      <attr type="occupation" source="36">author</attr>
+      <attr type="work" source="36">7th Heaven</attr>
+      <attr type="work" source="36">Sail</attr>
+      <attr type="work" source="36">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="36">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="36">Maximum Ride: The Final Warning</attr>
+      <attr type="work" source="36">Double Cross</attr>
+      <attr type="work" source="3">Roses are Red</attr>
+      <attr type="work" source="3">Along Came A Spider</attr>
+      <attr type="affiliation" source="3">J. W. Thompson</attr>
+      <attr type="work" source="3">3rd Degree</attr>
+      <attr type="work" source="3">Virgin</attr>
+      <attr type="work" source="3">The 5th Horseman</attr>
+      <attr type="work" source="3">Maximum Ride: School&apos;s Out Forever</attr>
+      <attr type="birthplace" source="3">Newburgh, New York, United States</attr>
+      <attr type="award" source="3">BCA Mystery Guild&#65533;fs Thriller of the Year</attr>
+      <attr type="work" source="3">The Beach House</attr>
+      <attr type="work" source="3">Black Friday</attr>
+      <attr type="work" source="3">Cross</attr>
+      <attr type="othername" source="3">James B. Patterson</attr>
+      <attr type="work" source="3">When the Wind Blows</attr>
+      <attr type="relatives" source="3">Jack</attr>
+      <attr type="occupation" source="3">Novelist</attr>
+      <attr type="degree" source="3">Masters degree</attr>
+      <attr type="work" source="3">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="3">Cradle &amp; All</attr>
+      <attr type="work" source="3">Cross Fire</attr>
+      <attr type="work" source="3">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="3">Hide &amp; Seek</attr>
+      <attr type="work" source="3">Step on a Crack</attr>
+      <attr type="occupation" source="3">author</attr>
+      <attr type="work" source="3">Jack &amp; Jill</attr>
+      <attr type="work" source="3">Season of the Machete</attr>
+      <attr type="work" source="3">Maximum Ride: Saving the World and Other Extreme Sports</attr>
+      <attr type="award" source="3">Edgar</attr>
+      <attr type="work" source="3">Cat and Mouse</attr>
+      <attr type="work" source="3">Cross Country</attr>
+      <attr type="work" source="3">Judge and Jury</attr>
+      <attr type="work" source="3">The Quickie</attr>
+      <attr type="award" source="3">International Thriller of the Year award</attr>
+      <attr type="work" source="3">The Big Bad Wolf</attr>
+      <attr type="award" source="3">Edgar Award</attr>
+      <attr type="work" source="3">Violets are Blue</attr>
+      <attr type="work" source="3">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="3">The Thomas Berryman Number</attr>
+      <attr type="work" source="3">Pop Goes the Weasel</attr>
+      <attr type="award" source="3">Best First Novel</attr>
+      <attr type="work" source="3">2nd Chance</attr>
+      <attr type="work" source="3">Honeymoon</attr>
+      <attr type="location" source="3">Palm Beach, Florida</attr>
+      <attr type="school" source="3">Manhattan College</attr>
+      <attr type="work" source="3">Kiss the Girls</attr>
+      <attr type="relatives" source="3">Susan</attr>
+      <attr type="work" source="3">Black Market</attr>
+      <attr type="school" source="3">Vanderbilt University</attr>
+      <attr type="work" source="3">4th of July</attr>
+      <attr type="dateofbirth" source="3">March 22, 1947</attr>
+      <attr type="work" source="3">8th Confession</attr>
+      <attr type="work" source="3">The 6th Target</attr>
+      <attr type="work" source="3">Sail</attr>
+      <attr type="work" source="3">Miracle on the 17th Green</attr>
+      <attr type="work" source="3">Lifeguard</attr>
+      <attr type="work" source="3">You&apos;ve Been Warned</attr>
+      <attr type="work" source="3">Maximum Ride: Water Wings</attr>
+      <attr type="occupation" source="3">chairman</attr>
+      <attr type="work" source="3">The Jericho Commandment</attr>
+      <attr type="othername" source="3">the man who can&#65533;ft miss</attr>
+      <attr type="work" source="3">7th Heaven</attr>
+      <attr type="work" source="3">Against Medical Advice: A True Story</attr>
+      <attr type="work" source="3">Beach Road</attr>
+      <attr type="work" source="3">Double Cross</attr>
+      <attr type="work" source="3">Maximum Ride</attr>
+      <attr type="work" source="3">Daniel X: Alien Hunter</attr>
+      <attr type="work" source="3">See How They Run</attr>
+      <attr type="work" source="3">Maximum Ride: The Angel Experiment</attr>
+      <attr type="degree" source="3">bachelor&apos;s degree</attr>
+      <attr type="nationality" source="3">American</attr>
+      <attr type="work" source="3">Mary, Mary</attr>
+      <attr type="work" source="3">The Lake House</attr>
+      <attr type="work" source="3">The Midnight Club</attr>
+      <attr type="work" source="3">1st to Die</attr>
+      <attr type="work" source="3">Child of Darkness, Child of Light</attr>
+      <attr type="work" source="3">The Jester</attr>
+      <attr type="work" source="3">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="3">Maximum Ride, Vol. 1</attr>
+      <attr type="work" source="3">Four Blind Mice</attr>
+      <attr type="work" source="3">Maximum Ride: The Final Warning</attr>
+      <attr type="work" source="3">London Bridges</attr>
+      <attr type="occupation" source="84">writer</attr>
+      <attr type="location" source="84">Palm Beach, Fla.</attr>
+      <attr type="occupation" source="84">Author</attr>
+      <attr type="work" source="84">Kiss the Girls</attr>
+      <attr type="work" source="84">Along Came Spider</attr>
+      <attr type="occupation" source="79">thriller-churner-outer</attr>
+      <attr type="work" source="79">The Simpsons</attr>
+      <attr type="occupation" source="79">writers</attr>
+      <attr type="work" source="76">Roses are Red</attr>
+      <attr type="work" source="76">Double Cross</attr>
+      <attr type="work" source="76">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="76">The Big Bad Wolf</attr>
+      <attr type="work" source="76">Violets are Blue</attr>
+      <attr type="work" source="76">Miracle on the 17th Green</attr>
+      <attr type="work" source="76">Sail</attr>
+      <attr type="work" source="76">Four Blind Mice</attr>
+      <attr type="work" source="76">Maximum Ride 4: The Final Warning</attr>
+      <attr type="work" source="76">Beach Road</attr>
+      <attr type="work" source="76">Virgin</attr>
+      <attr type="work" source="76">When the Wind Blows</attr>
+      <attr type="work" source="76">Lifeguard</attr>
+      <attr type="work" source="76">Beach House</attr>
+      <attr type="work" source="76">Hide &amp; Seek</attr>
+      <attr type="work" source="76">The Midnight Club</attr>
+      <attr type="work" source="76">Cross</attr>
+      <attr type="work" source="76">The Dangerous Days of Daniel</attr>
+      <attr type="work" source="76">Black Friday</attr>
+      <attr type="work" source="76">The Thomas Berryman Number</attr>
+      <attr type="work" source="76">The Lake House</attr>
+      <attr type="work" source="76">3rd Degree</attr>
+      <attr type="work" source="76">Maximum Ride: School&apos;s Out??&#65533;hForever</attr>
+      <attr type="work" source="76">Santa Kid</attr>
+      <attr type="work" source="76">You&apos;ve Been Warned</attr>
+      <attr type="work" source="76">5th Horseman</attr>
+      <attr type="work" source="76">See How They Run</attr>
+      <attr type="work" source="76">Along Came A Spider</attr>
+      <attr type="work" source="76">Step on a Crack</attr>
+      <attr type="work" source="76">1st to Die</attr>
+      <attr type="work" source="76">4th of July</attr>
+      <attr type="work" source="76">Maximum Ride: The Angel Experiment</attr>
+      <attr type="work" source="76">7th Heaven</attr>
+      <attr type="work" source="76">Honeymoon</attr>
+      <attr type="work" source="76">Cradle &amp; All</attr>
+      <attr type="work" source="76">Season of the Machete</attr>
+      <attr type="work" source="76">Judge and Jury</attr>
+      <attr type="work" source="76">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="76">Cat and Mouse</attr>
+      <attr type="work" source="76">Mary, Mary</attr>
+      <attr type="work" source="76">Jack &amp; Jill</attr>
+      <attr type="work" source="76">Maximum Ride: Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="76">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="76">2nd Chance</attr>
+      <attr type="work" source="76">6th Target</attr>
+      <attr type="work" source="76">The Quickie</attr>
+      <attr type="work" source="76">London Bridges</attr>
+      <attr type="work" source="76">Kiss the Girls</attr>
+      <attr type="work" source="76">The Jericho Commandment</attr>
+      <attr type="work" source="76">The Jester</attr>
+      <attr type="work" source="76">Black Market</attr>
+      <attr type="work" source="76">Pop Goes the Weasel</attr>
+      <attr type="work" source="44">Along Came a Spider</attr>
+      <attr type="work" source="44">Cross</attr>
+      <attr type="work" source="87">Maximum Ride: Saving the World and Other Extreme Sports</attr>
+      <attr type="othername" source="87">Patterson, James</attr>
+      <attr type="work" source="87">The Angel Experiment</attr>
+      <attr type="othername" source="87">JP</attr>
+      <attr type="work" source="87">When the Wind Blows</attr>
+      <attr type="work" source="87">The Lake House</attr>
+      <attr type="work" source="87">Maximum Ride: The Angel Experiment</attr>
+      <attr type="work" source="87">Maximum Ride</attr>
+      <attr type="work" source="87">Maximum Ride: School&apos;s Out ? Forever</attr>
+      <attr type="occupation" source="87">advertising executive</attr>
+      <attr type="work" source="65">Daniel X</attr>
+      <attr type="work" source="65">daniel x</attr>
+      <attr type="work" source="51">Sundays At Tiffany&apos;s</attr>
+      <attr type="work" source="51">The 6th Target</attr>
+      <attr type="work" source="51">Honeymoon</attr>
+      <attr type="occupation" source="51">author</attr>
+      <attr type="work" source="51">Maximum Ride: Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="51">Double Cross</attr>
+      <attr type="work" source="51">Mary, Mary</attr>
+      <attr type="work" source="51">The Jester</attr>
+      <attr type="work" source="51">Along Came a Spider</attr>
+      <attr type="work" source="51">3rd Degree</attr>
+      <attr type="work" source="51">Lifeguard</attr>
+      <attr type="work" source="51">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="51">The Final Warning</attr>
+      <attr type="location" source="51">Florida</attr>
+      <attr type="work" source="51">Thriller</attr>
+      <attr type="work" source="51">Judge &amp; Jury</attr>
+      <attr type="work" source="51">Beach Road</attr>
+      <attr type="relatives" source="51">Jack</attr>
+      <attr type="work" source="51">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="51">The Dangerous Days Of Daniel X</attr>
+      <attr type="work" source="51">The 5th Horseman</attr>
+      <attr type="work" source="51">The Quickie</attr>
+      <attr type="work" source="51">Cross</attr>
+      <attr type="work" source="51">4th of July</attr>
+      <attr type="work" source="51">santaKid</attr>
+      <attr type="work" source="51">Step on a Crack</attr>
+      <attr type="work" source="51">Maximum Ride: School&apos;s Out Forever</attr>
+      <attr type="work" source="51">7th Heaven,</attr>
+      <attr type="work" source="51">Sail</attr>
+      <attr type="work" source="51">London Bridges</attr>
+      <attr type="othername" source="113">JP</attr>
+      <attr type="occupation" source="113">author</attr>
+      <attr type="work" source="113">The Thomas Berryman Number</attr>
+      <attr type="work" source="113">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="occupation" source="113">writer</attr>
+      <attr type="work" source="113">Berryman</attr>
+      <attr type="work" source="113">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="113">Sam&#65533;fs Letters to Jennifer</attr>
+      <attr type="occupation" source="108">author</attr>
+      <attr type="occupation" source="108">Author</attr>
+      <attr type="work" source="108">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="108">Maximum Ride: Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="108">The Final Warning</attr>
+      <attr type="work" source="108">Daniel X</attr>
+      <attr type="work" source="108">Maximum Ride: The Final Warning</attr>
+      <attr type="award" source="20">Edgar</attr>
+      <attr type="work" source="20">Season of the Machete</attr>
+      <attr type="work" source="20">Kiss the Girls</attr>
+      <attr type="degree" source="20">B.A.</attr>
+      <attr type="major" source="20">English literature</attr>
+      <attr type="work" source="20">WHEN THE WIND BLOWS</attr>
+      <attr type="work" source="20">When the Wind Blows</attr>
+      <attr type="work" source="20">Jack and Jill</attr>
+      <attr type="website" source="20">www.jamespatterson.com</attr>
+      <attr type="work" source="20">Along Came a Spider</attr>
+      <attr type="occupation" source="20">thriller author</attr>
+      <attr type="occupation" source="20">student</attr>
+      <attr type="work" source="20">See How They Run</attr>
+      <attr type="occupation" source="20">writer</attr>
+      <attr type="work" source="20">Cat and Mouse</attr>
+      <attr type="work" source="20">Hide and Seek</attr>
+      <attr type="work" source="20">The Midnight Club</attr>
+      <attr type="work" source="20">Pop Goes the Weasel</attr>
+      <attr type="occupation" source="20">thriller writer</attr>
+      <attr type="degree" source="20">M.A.</attr>
+      <attr type="work" source="20">The Thomas Berryman Number</attr>
+      <attr type="work" source="17">The Catcher</attr>
+      <attr type="occupation" source="17">Actor</attr>
+      <attr type="work" source="86">Double Cross</attr>
+      <attr type="work" source="28">SAIL</attr>
+      <attr type="work" source="28">Honeymoon</attr>
+      <attr type="work" source="28">Sundays at Tiffany&apos;s</attr>
+      <attr type="website" source="28">http://www.jamespatterson.com/</attr>
+      <attr type="work" source="28">THE JESTER</attr>
+      <attr type="work" source="28">You&apos;ve Been Warned</attr>
+      <attr type="work" source="28">The final warning</attr>
+      <attr type="work" source="28">Sail</attr>
+      <attr type="work" source="28">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="28">Double Cross</attr>
+      <attr type="work" source="28">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="othername" source="82">Patterson, James</attr>
+      <attr type="work" source="82">Along Came a Spider</attr>
+      <attr type="work" source="30">When the Wind Blows</attr>
+      <attr type="work" source="30">1st to Die</attr>
+      <attr type="work" source="30">Maximum Ride: The Angel Experiment</attr>
+      <attr type="occupation" source="30">writer</attr>
+      <attr type="work" source="30">The Thomas Berryman Number</attr>
+      <attr type="work" source="30">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="award" source="30">Edgar Award for Best First Mystery Novel</attr>
+      <attr type="major" source="30">English</attr>
+      <attr type="occupation" source="30">advertising copywriter</attr>
+      <attr type="degree" source="30">Masters degree</attr>
+      <attr type="work" source="30">santaKid</attr>
+      <attr type="work" source="30">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="occupation" source="30">author</attr>
+      <attr type="work" source="30">Along Came a Spider</attr>
+      <attr type="work" source="13">London Bridges</attr>
+      <attr type="affiliation" source="13">J. W. Thompson advertising company</attr>
+      <attr type="work" source="13">Maximum Ride: The Angel Experiment</attr>
+      <attr type="school" source="13">Manhattan College</attr>
+      <attr type="work" source="13">The 5th Horseman</attr>
+      <attr type="affiliation" source="13">James Patterson PageTurner Awards</attr>
+      <attr type="work" source="13">Pop Goes the Weasel</attr>
+      <attr type="work" source="13">3rd Degree</attr>
+      <attr type="work" source="13">2nd Chance</attr>
+      <attr type="work" source="13">1st to Die</attr>
+      <attr type="occupation" source="13">author</attr>
+      <attr type="work" source="13">When the Wind Blows</attr>
+      <attr type="work" source="13">Jack &amp; Jill</attr>
+      <attr type="degree" source="13">bachelor&apos;s degree</attr>
+      <attr type="location" source="13">Palm Beach</attr>
+      <attr type="work" source="13">Cross</attr>
+      <attr type="work" source="13">Violets Are Blue</attr>
+      <attr type="work" source="13">Mary, Mary</attr>
+      <attr type="work" source="13">Roses Are Red</attr>
+      <attr type="dateofbirth" source="13">1947-03-22</attr>
+      <attr type="work" source="13">Along Came a Spider</attr>
+      <attr type="work" source="13">The Big Bad Wolf</attr>
+      <attr type="work" source="13">4th of July</attr>
+      <attr type="occupation" source="13">Author</attr>
+      <attr type="othername" source="13">Jmaes Patterson</attr>
+      <attr type="othername" source="13">Patterson, James</attr>
+      <attr type="work" source="13">Cat &amp; Mouse</attr>
+      <attr type="work" source="13">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="nationality" source="13">USA</attr>
+      <attr type="work" source="13">Four Blind Mice</attr>
+      <attr type="work" source="13">Step on a Crack</attr>
+      <attr type="location" source="13">Palm Beach, Florida, USA</attr>
+      <attr type="award" source="13">ITW Thrillermaster</attr>
+      <attr type="occupation" source="13">chairman</attr>
+      <attr type="work" source="13">Kiss the Girls</attr>
+      <attr type="work" source="63">Sail</attr>
+      <attr type="work" source="63">Quickie, The</attr>
+      <attr type="award" source="63">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="work" source="63">2nd Chance</attr>
+      <attr type="work" source="63">Violets are Blue</attr>
+      <attr type="work" source="63">Mary Mary</attr>
+      <attr type="work" source="63">Big Bad Wolf, The</attr>
+      <attr type="work" source="63">Cat &amp; Mouse</attr>
+      <attr type="work" source="63">3rd Degree</attr>
+      <attr type="work" source="63">Roses are Red</attr>
+      <attr type="work" source="63">Maximum Ride 3: Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="63">Against Medical Advice</attr>
+      <attr type="work" source="63">1st to Die</attr>
+      <attr type="work" source="63">Pop Goes the Weasel</attr>
+      <attr type="work" source="63">Lake House, The</attr>
+      <attr type="work" source="63">Cradle and All</attr>
+      <attr type="work" source="63">Double Crossed</attr>
+      <attr type="work" source="63">Miracle on the 17th Green</attr>
+      <attr type="occupation" source="63">author</attr>
+      <attr type="work" source="63">Maximum Ride</attr>
+      <attr type="othername" source="63">The Man Who Can&apos;t Miss</attr>
+      <attr type="award" source="63">Edgar</attr>
+      <attr type="award" source="63">International Thriller of the Year award</attr>
+      <attr type="work" source="63">Jester, The</attr>
+      <attr type="work" source="63">Honeymoon</attr>
+      <attr type="work" source="63">Beach House</attr>
+      <attr type="work" source="63">London Bridges</attr>
+      <attr type="work" source="63">Hide and Seek</attr>
+      <attr type="work" source="63">6th Target</attr>
+      <attr type="work" source="63">You&apos;ve Been Warned</attr>
+      <attr type="work" source="63">Kiss the Girls</attr>
+      <attr type="work" source="63">When the Wind Blows</attr>
+      <attr type="work" source="63">Cross Country</attr>
+      <attr type="work" source="63">Lifeguard</attr>
+      <attr type="work" source="63">Santa Kid</attr>
+      <attr type="work" source="63">5th Horseman, The</attr>
+      <attr type="work" source="63">Jack &amp; Jill</attr>
+      <attr type="work" source="63">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="63">Dangerous Days of Daniel X</attr>
+      <attr type="work" source="63">Four Blind Mice</attr>
+      <attr type="work" source="63">Final Warning</attr>
+      <attr type="work" source="63">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="63">Step On A Crack</attr>
+      <attr type="work" source="63">The Thomas Berryman Number</attr>
+      <attr type="work" source="63">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="63">Beach Road</attr>
+      <attr type="work" source="63">4th of July</attr>
+      <attr type="work" source="63">Along Came a Spider</attr>
+      <attr type="work" source="63">7th Heaven</attr>
+      <attr type="work" source="89">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="89">Daniel X.</attr>
+      <attr type="occupation" source="89">student</attr>
+      <attr type="relatives" source="89">Jack</attr>
+      <attr type="location" source="89">Palm Beach</attr>
+      <attr type="occupation" source="89">young-adult author</attr>
+      <attr type="work" source="89">Maximum Ride</attr>
+      <attr type="relatives" source="89">Jack Patterson</attr>
+      <attr type="work" source="33">Kiss the Girls</attr>
+      <attr type="work" source="33">Hide and Seek</attr>
+      <attr type="work" source="33">Sam&apos;s Letters To Jennifer</attr>
+      <attr type="work" source="33">SantaKid</attr>
+      <attr type="work" source="33">Virgin</attr>
+      <attr type="work" source="33">Daniel X: Alien Hunter: A Graphic Novel (Daniel X)</attr>
+      <attr type="work" source="33">Midnight Club</attr>
+      <attr type="work" source="33">Black Market</attr>
+      <attr type="work" source="33">The Final Warning (Maximum Ride, Book 4)</attr>
+      <attr type="occupation" source="33">Author</attr>
+      <attr type="occupation" source="33">Authors</attr>
+      <attr type="work" source="33">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="33">Along Came a Spider</attr>
+      <attr type="work" source="33">The Day America Told the Truth: What People Really Believe About Everything That Really Matters</attr>
+      <attr type="work" source="33">Double Cross (Alex Cross)</attr>
+      <attr type="work" source="33">Jack and Jill</attr>
+      <attr type="location" source="32">Westchester County, N.Y.</attr>
+      <attr type="occupation" source="32">author</attr>
+      <attr type="occupation" source="32">writer</attr>
+      <attr type="major" source="32">English</attr>
+      <attr type="location" source="32">Palm Beach, Fla</attr>
+      <attr type="occupation" source="32">advertising executive</attr>
+      <attr type="occupation" source="32">CEO</attr>
+      <attr type="work" source="32">Mary, Mary</attr>
+      <attr type="work" source="32">Along Came a Spider</attr>
+      <attr type="affiliation" source="32">James Patterson Entertainment</attr>
+      <attr type="work" source="32">The Thomas Berryman Number</attr>
+      <attr type="award" source="32">Edgar Award</attr>
+      <attr type="school" source="32">Manhattan College</attr>
+      <attr type="work" source="32">Step on a Crack</attr>
+      <attr type="affiliation" source="32">J. Walter Thompson</attr>
+      <attr type="occupation" source="16">Author</attr>
+      <attr type="work" source="16">Kiss the Girls</attr>
+      <attr type="work" source="16">Along Came a Spider</attr>
+      <attr type="othername" source="60">king of page-turners</attr>
+      <attr type="work" source="60">3rd Degree</attr>
+      <attr type="work" source="60">Along Came a Spider</attr>
+      <attr type="affiliation" source="60">J. Walter Thompson, North America</attr>
+      <attr type="work" source="60">London Bridges</attr>
+      <attr type="work" source="60">The Lake House</attr>
+      <attr type="relatives" source="60">Isabelle</attr>
+      <attr type="work" source="60">The Big Bad Wolf</attr>
+      <attr type="degree" source="60">B.A.</attr>
+      <attr type="affiliation" source="60">McLean Hospital</attr>
+      <attr type="work" source="60">Mary, Mary</attr>
+      <attr type="work" source="60">The 5th Horseman</attr>
+      <attr type="school" source="60">Manhattan College</attr>
+      <attr type="work" source="60">Judge &amp; Jury (Large Print)</attr>
+      <attr type="work" source="60">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="60">Maximum Ride #2: School&apos;s Out Forever</attr>
+      <attr type="award" source="60">Edgar Award for Best First Mystery Novel</attr>
+      <attr type="work" source="60">Season of the Machete</attr>
+      <attr type="dateofbirth" source="60">1947</attr>
+      <attr type="location" source="60">Westchester County, New York</attr>
+      <attr type="degree" source="60">M.A.</attr>
+      <attr type="occupation" source="60">chief executive officer</attr>
+      <attr type="major" source="60">English</attr>
+      <attr type="work" source="60">The Thomas Berryman Number</attr>
+      <attr type="occupation" source="60">junior copywriter</attr>
+      <attr type="location" source="60">Palm Beach County, Florida</attr>
+      <attr type="occupation" source="60">senior</attr>
+      <attr type="work" source="60">When the Wind Blows</attr>
+      <attr type="school" source="60">Vanderbilt University</attr>
+      <attr type="work" source="60">Black Friday</attr>
+      <attr type="relatives" source="60">Charles</attr>
+      <attr type="occupation" source="60">author</attr>
+      <attr type="occupation" source="60">executive creative director</attr>
+      <attr type="work" source="56">Four Blind Mice</attr>
+      <attr type="work" source="56">Roses Are Red</attr>
+      <attr type="website" source="56">www.jamespatterson.com</attr>
+      <attr type="occupation" source="56">Author</attr>
+      <attr type="work" source="62">Kiss the Girls</attr>
+      <attr type="occupation" source="62">Author</attr>
+      <attr type="work" source="62">Along Came a Spider</attr>
+      <attr type="work" source="67">When the Wind Blows</attr>
+      <attr type="work" source="67">Mary, Mary</attr>
+      <attr type="work" source="67">Hide &amp; Seek</attr>
+      <attr type="work" source="67">Cross</attr>
+      <attr type="work" source="67">The 5th Horseman</attr>
+      <attr type="work" source="67">Season of the Machete</attr>
+      <attr type="work" source="67">Kiss The Girls</attr>
+      <attr type="work" source="67">Pop! Goes the Weasel</attr>
+      <attr type="work" source="67">Seventh Heaven</attr>
+      <attr type="work" source="67">Step on a Crack</attr>
+      <attr type="work" source="67">The Quickie</attr>
+      <attr type="work" source="67">School&apos;s Out - Forever</attr>
+      <attr type="work" source="67">Honeymoon</attr>
+      <attr type="work" source="67">Roses Are Red</attr>
+      <attr type="work" source="67">London Bridges</attr>
+      <attr type="work" source="67">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="67">Black Friday</attr>
+      <attr type="work" source="67">The 6th Target</attr>
+      <attr type="work" source="67">Miracle on the 17th Green</attr>
+      <attr type="work" source="67">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="67">3rd Degree</attr>
+      <attr type="work" source="67">Midnight Club</attr>
+      <attr type="work" source="67">Four Blind Mice</attr>
+      <attr type="work" source="67">Cat and Mouse</attr>
+      <attr type="work" source="67">The Beach Road</attr>
+      <attr type="work" source="67">Black Market</attr>
+      <attr type="work" source="67">Jack &amp; Jill</attr>
+      <attr type="work" source="67">You&apos;ve Been Warned</attr>
+      <attr type="work" source="67">Judge &amp; Jury</attr>
+      <attr type="work" source="67">4th of July</attr>
+      <attr type="work" source="67">The Midnight Club</attr>
+      <attr type="work" source="67">The Angel Experiment</attr>
+      <attr type="work" source="67">The Final Warning</attr>
+      <attr type="work" source="67">The Lake House</attr>
+      <attr type="work" source="67">Double Cross</attr>
+      <attr type="work" source="67">The Dangerous Days of Daniel X &apos;08</attr>
+      <attr type="work" source="67">1st to Die</attr>
+      <attr type="work" source="67">Sail</attr>
+      <attr type="work" source="67">The Beach House</attr>
+      <attr type="work" source="67">Thriller</attr>
+      <attr type="work" source="67">Virgin</attr>
+      <attr type="work" source="67">Along Came A Spider</attr>
+      <attr type="work" source="67">The Jester</attr>
+      <attr type="work" source="67">Down Will Come Baby</attr>
+      <attr type="work" source="67">Cradle and All</attr>
+      <attr type="work" source="67">2nd Chance</attr>
+      <attr type="work" source="67">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="67">Saving the World &amp; Other Extreme Sports</attr>
+      <attr type="work" source="67">Lifeguard</attr>
+      <attr type="work" source="67">The Thomas Berryman Number</attr>
+      <attr type="work" source="67">Violets Are Blue</attr>
+      <attr type="work" source="67">The Big Bad Wolf</attr>
+      <attr type="work" source="67">See How They Run</attr>
+      <attr type="work" source="71">Mary, Mary</attr>
+      <attr type="work" source="71">The Thomas Berryman Number</attr>
+      <attr type="work" source="71">2nd Chance</attr>
+      <attr type="work" source="71">Pop Goes the Weasel</attr>
+      <attr type="work" source="71">Along Came a Spider</attr>
+      <attr type="work" source="71">Season of The Machete</attr>
+      <attr type="work" source="71">When the Wind Blows</attr>
+      <attr type="work" source="71">The Big Bad Wolf</attr>
+      <attr type="work" source="71">The Jester</attr>
+      <attr type="work" source="71">1st To Die</attr>
+      <attr type="work" source="71">Fourth Of July</attr>
+      <attr type="work" source="71">Kiss the Girls</attr>
+      <attr type="work" source="71">Violets Are Blue</attr>
+      <attr type="work" source="71">Roses Are Red</attr>
+      <attr type="work" source="71">London Bridges</attr>
+      <attr type="work" source="71">Cat and Mouse</attr>
+      <attr type="work" source="71">Four Blind Mice</attr>
+      <attr type="work" source="71">Hide and Seek</attr>
+      <attr type="work" source="71">The Midnight Club</attr>
+      <attr type="work" source="71">The Lake House</attr>
+      <attr type="work" source="71">Cross</attr>
+      <attr type="work" source="71">Black Friday</attr>
+      <attr type="work" source="71">See How They Run</attr>
+      <attr type="work" source="71">Jack and Jill</attr>
+      <attr type="work" source="106">Miracle on the 17th Green</attr>
+      <attr type="work" source="106">Kiss the Girls</attr>
+      <attr type="work" source="106">Along Came a Spider</attr>
+      <attr type="othername" source="106">JP</attr>
+      <attr type="work" source="106">Virgin</attr>
+      <attr type="school" source="106">Vanderbilt</attr>
+      <attr type="affiliation" source="106">J. Walter Thompson agency</attr>
+      <attr type="work" source="106">When the Wind Blows</attr>
+      <attr type="work" source="106">Cradle and All</attr>
+      <attr type="occupation" source="106">writer</attr>
+      <attr type="othername" source="73">James B. Patterson</attr>
+      <attr type="dateofbirth" source="73">March 22 1947</attr>
+      <attr type="occupation" source="73">author</attr>
+      <attr type="award" source="73">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="occupation" source="73">writers</attr>
+      <attr type="nationality" source="73">American</attr>
+      <attr type="award" source="73">Edgar</attr>
+      <attr type="work" source="73">The 6th Target</attr>
+      <attr type="award" source="73">International Thriller of the Year award</attr>
+      <attr type="work" source="4">Mary, Mary</attr>
+      <attr type="school" source="4">Manhattan College</attr>
+      <attr type="birthplace" source="4">Newburgh, New York</attr>
+      <attr type="work" source="4">Maximum Ride: The Angel Experiment</attr>
+      <attr type="occupation" source="4">author</attr>
+      <attr type="work" source="4">1st to Die</attr>
+      <attr type="website" source="4">www.jamespatterson.com</attr>
+      <attr type="work" source="4">4th of July</attr>
+      <attr type="work" source="4">Lifeguard</attr>
+      <attr type="major" source="4">English</attr>
+      <attr type="work" source="4">3rd Degree</attr>
+      <attr type="award" source="4">Edgar Award for Best First Mystery</attr>
+      <attr type="website" source="4">www.pattersonpageturner.org</attr>
+      <attr type="award" source="4">BCA Mystery Guild&apos;s Thriller of the Year Award</attr>
+      <attr type="occupation" source="4">storyteller</attr>
+      <attr type="occupation" source="4">writer</attr>
+      <attr type="work" source="4">Maximum Ride</attr>
+      <attr type="work" source="4">Along Came a Spider</attr>
+      <attr type="award" source="4">International Thriller of the Year for 2005</attr>
+      <attr type="work" source="4">Kiss the Girls</attr>
+      <attr type="work" source="4">santaKid</attr>
+      <attr type="award" source="4">2004 Readers&apos; Digest Readers&apos; Choice Award</attr>
+      <attr type="location" source="4">Palm Beach, Florida</attr>
+      <attr type="work" source="4">2nd Chance</attr>
+      <attr type="school" source="4">The Graduate School at Vanderbilt University</attr>
+      <attr type="dateofbirth" source="77">March 22, 1947</attr>
+      <attr type="occupation" source="77">CEO</attr>
+      <attr type="occupation" source="77">author</attr>
+      <attr type="work" source="77">1st to Die</attr>
+      <attr type="occupation" source="77">advertising executive</attr>
+      <attr type="work" source="77">Kiss the Girls</attr>
+      <attr type="work" source="77">Along Came a Spider</attr>
+      <attr type="affiliation" source="77">J. Walter Thompson</attr>
+      <attr type="work" source="64">Pop Goes The Weasel</attr>
+      <attr type="work" source="64">6th Target, The</attr>
+      <attr type="work" source="64">Kiss The Girls</attr>
+      <attr type="work" source="64">Thomas Berryman Number</attr>
+      <attr type="dateofbirth" source="64">March 22, 1947</attr>
+      <attr type="work" source="64">Maximum Ride Book #3 (Maximum Ride)</attr>
+      <attr type="work" source="64">Jester, The</attr>
+      <attr type="work" source="64">Beach Road</attr>
+      <attr type="work" source="64">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="64">3rd Degree</attr>
+      <attr type="nationality" source="64">American</attr>
+      <attr type="work" source="64">Mary Mary</attr>
+      <attr type="work" source="64">Sam&apos;s Letters To Jennifer</attr>
+      <attr type="work" source="64">Lake House</attr>
+      <attr type="work" source="64">London Bridges</attr>
+      <attr type="award" source="64">Edgar</attr>
+      <attr type="work" source="64">Cross</attr>
+      <attr type="othername" source="64">the man who can&apos;t miss</attr>
+      <attr type="work" source="64">Thriller - Stories to Keep You Up All Night</attr>
+      <attr type="award" source="64">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="work" source="64">Honeymoon</attr>
+      <attr type="work" source="64">Lifeguard</attr>
+      <attr type="work" source="64">Big Bad Wolf</attr>
+      <attr type="work" source="64">Season of the Machete</attr>
+      <attr type="othername" source="64">James B. Patterson</attr>
+      <attr type="work" source="64">4th Of July</attr>
+      <attr type="work" source="64">Step on a Crack</attr>
+      <attr type="work" source="64">5th Horseman</attr>
+      <attr type="work" source="64">Judge and Jury</attr>
+      <attr type="work" source="64">Suzanne&apos;s Diary For Nicholas</attr>
+      <attr type="work" source="64">When The Wind Blows</attr>
+      <attr type="award" source="64">International Thriller of the Year award</attr>
+      <attr type="occupation" source="64">author</attr>
+      <attr type="work" source="64">Maximum Ride: The Angel Experiment</attr>
+      <attr type="work" source="64">Maximum Ride: Saving The World and Other Extreme Sports</attr>
+      <attr type="work" source="29">4th of July</attr>
+      <attr type="work" source="29">The Beach House</attr>
+      <attr type="birthplace" source="29">Newburgh, New York, United States</attr>
+      <attr type="work" source="29">1st to Die (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="29">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="website" source="29">http://www.jamespatterson.com/</attr>
+      <attr type="occupation" source="29">author</attr>
+      <attr type="work" source="29">2nd Chance</attr>
+      <attr type="work" source="29">Along Came a Spider (Alex Cross, Book 1)</attr>
+      <attr type="work" source="29">Kiss the Girls (Alex Cross, Book 2)</attr>
+      <attr type="work" source="29">Pop Goes the Weasel</attr>
+      <attr type="dateofbirth" source="29">March 22, 1947</attr>
+      <attr type="work" source="29">3rd Degree</attr>
+      <attr type="work" source="29">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="47">Kiss The Girls</attr>
+      <attr type="work" source="47">Jester, The (Abridged)</attr>
+      <attr type="work" source="47">Maximum Ride</attr>
+      <attr type="work" source="47">Maximum Ride: The Angel Experiment</attr>
+      <attr type="work" source="47">Suzanne&apos;s Diary For Nicholas</attr>
+      <attr type="work" source="47">You&apos;ve Been Warned</attr>
+      <attr type="work" source="47">Beach Road</attr>
+      <attr type="work" source="47">Along Came a Spider</attr>
+      <attr type="work" source="47">3rd Degree</attr>
+      <attr type="work" source="47">santaKid</attr>
+      <attr type="work" source="47">When The Wind Blows</attr>
+      <attr type="work" source="47">London Bridges</attr>
+      <attr type="work" source="47">Lake House, The</attr>
+      <attr type="award" source="47">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="occupation" source="47">author</attr>
+      <attr type="work" source="47">Mary Mary</attr>
+      <attr type="work" source="47">Thriller - Stories to Keep You Up All Night</attr>
+      <attr type="work" source="47">Sam&apos;s Letters To Jennifer</attr>
+      <attr type="work" source="47">5th Horseman (Unabridged)</attr>
+      <attr type="work" source="47">Women&apos;s Murder Club</attr>
+      <attr type="work" source="47">Jester, The (Unabridged)</attr>
+      <attr type="work" source="47">Big Bad Wolf</attr>
+      <attr type="award" source="47">International Thriller of the Year award</attr>
+      <attr type="work" source="47">Kiss the Girls</attr>
+      <attr type="work" source="47">4th Of July</attr>
+      <attr type="work" source="47">The 5th Horseman</attr>
+      <attr type="othername" source="47">The Man Who Can&apos;t Miss</attr>
+      <attr type="award" source="47">Edgar</attr>
+      <attr type="work" source="47">Honeymoon</attr>
+      <attr type="work" source="47">Thomas Berryman Number</attr>
+      <attr type="work" source="47">Lifeguard</attr>
+      <attr type="work" source="99">The Dangerous Days of Daniel X</attr>
+      <attr type="occupation" source="99">novelist</attr>
+      <attr type="occupation" source="99">authors</attr>
+      <attr type="location" source="99">Palm Beach</attr>
+      <attr type="relatives" source="99">Sue</attr>
+      <attr type="location" source="99">Briarcliff Manor</attr>
+      <attr type="relatives" source="99">Jack</attr>
+      <attr type="occupation" source="99">author</attr>
+      <attr type="work" source="99">Daniel X</attr>
+      <attr type="work" source="72">The Jester</attr>
+      <attr type="work" source="72">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="affiliation" source="72">J. Walter Thompson</attr>
+      <attr type="major" source="72">English</attr>
+      <attr type="occupation" source="72">Author</attr>
+      <attr type="school" source="72">Manhattan College</attr>
+      <attr type="work" source="72">Along Came a Spider</attr>
+      <attr type="work" source="72">You&apos;ve Been Warned</attr>
+      <attr type="birthplace" source="72">Newburgh, N.Y.</attr>
+      <attr type="occupation" source="72">author</attr>
+      <attr type="work" source="72">2nd Chance</attr>
+      <attr type="work" source="72">Mary, Mary</attr>
+      <attr type="occupation" source="72">CEO</attr>
+      <attr type="work" source="72">1st to Die</attr>
+      <attr type="school" source="72">Vanderbilt University</attr>
+      <attr type="occupation" source="72">writer</attr>
+      <attr type="occupation" source="22">author</attr>
+      <attr type="work" source="22">santaKid</attr>
+      <attr type="relatives" source="22">Jack</attr>
+      <attr type="work" source="22">ALONG CAME A SPIDER</attr>
+      <attr type="work" source="22">SUZANNE&apos;S DIARY FOR NICHOLAS</attr>
+      <attr type="location" source="22">Florida</attr>
+      <attr type="work" source="37">Mary, Mary</attr>
+      <attr type="work" source="37">Along Came a Spider</attr>
+      <attr type="work" source="37">Thriller</attr>
+      <attr type="work" source="37">The Thomas Berryman Number</attr>
+      <attr type="dateofbirth" source="37">March 22, 1947</attr>
+      <attr type="school" source="37">Manhattan College</attr>
+      <attr type="work" source="37">James Patterson</attr>
+      <attr type="work" source="37">Honeymoon</attr>
+      <attr type="school" source="37">Vanderbilt University</attr>
+      <attr type="award" source="37">Edgar Award for Best First Mystery</attr>
+      <attr type="work" source="37">Maximum Ride</attr>
+      <attr type="work" source="37">Lifeguard</attr>
+      <attr type="birthplace" source="37">Newburgh, New York</attr>
+      <attr type="work" source="37">The 5th Horseman</attr>
+      <attr type="degree" source="37">M. A.</attr>
+      <attr type="occupation" source="37">author</attr>
+      <attr type="work" source="37">Kiss the Girls</attr>
+      <attr type="work" source="81">Charlie Rose with Joan Sutherland; Howard Blum; James Patterson; Michael Murphy</attr>
+      <attr type="work" source="94">Thriller</attr>
+      <attr type="work" source="94">Maximum Ride: The Angel Experiment</attr>
+      <attr type="work" source="94">James Patterson Special Edition Reader Digital Book</attr>
+      <attr type="work" source="70">Four Blind Mice</attr>
+      <attr type="relatives" source="70">Susan</attr>
+      <attr type="work" source="70">Against Medical Advice</attr>
+      <attr type="work" source="70">Along Came A Spider</attr>
+      <attr type="work" source="70">Cross</attr>
+      <attr type="occupation" source="70">chairman</attr>
+      <attr type="work" source="70">7th Heaven</attr>
+      <attr type="work" source="70">Double Cross</attr>
+      <attr type="work" source="70">Mary, Mary</attr>
+      <attr type="work" source="70">The Beach House</attr>
+      <attr type="work" source="70">The Big Bad Wolf</attr>
+      <attr type="work" source="70">The Jester</attr>
+      <attr type="work" source="70">4th of July</attr>
+      <attr type="relatives" source="70">Jack</attr>
+      <attr type="affiliation" source="70">J. W. Thompson</attr>
+      <attr type="work" source="70">Suzanne&apos;s Diary For Nicholas</attr>
+      <attr type="occupation" source="70">author</attr>
+      <attr type="work" source="70">Saving the World and Other Extreme Sports</attr>
+      <attr type="location" source="70">Palm Beach, Florida</attr>
+      <attr type="affiliation" source="70">James Patterson PageTurner Awards</attr>
+      <attr type="work" source="70">Thriller</attr>
+      <attr type="work" source="70">Maximum Ride</attr>
+      <attr type="work" source="70">The Thomas Berryman Number</attr>
+      <attr type="work" source="70">Pop Goes The Weasel</attr>
+      <attr type="work" source="70">When The Wind Blows</attr>
+      <attr type="work" source="70">2nd Chance</attr>
+      <attr type="award" source="70">Edgar Award for Best First Mystery Novel</attr>
+      <attr type="work" source="70">Violets Are Blue</attr>
+      <attr type="work" source="70">Cross Country</attr>
+      <attr type="work" source="70">1st To Die</attr>
+      <attr type="work" source="70">Roses Are Red</attr>
+      <attr type="work" source="55">Maximum Ride</attr>
+      <attr type="occupation" source="55">thriller-churner-outer</attr>
+      <attr type="relatives" source="55">Jack</attr>
+      <attr type="work" source="55">The Simpsons</attr>
+      <attr type="occupation" source="55">writers</attr>
+      <attr type="occupation" source="91">Author</attr>
+      <attr type="work" source="91">4th of July</attr>
+      <attr type="location" source="91">Florida</attr>
+      <attr type="work" source="91">London Bridges</attr>
+      <attr type="othername" source="91">Patterson, James</attr>
+      <attr type="work" source="38">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="38">The Thomas Berryman Number</attr>
+      <attr type="work" source="38">Miracle on the 17th Green: A Novel about Life, Love, Family, Miracles ... and Golf</attr>
+      <attr type="work" source="38">SantaKid</attr>
+      <attr type="work" source="38">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="38">The Big Bad Wolf</attr>
+      <attr type="work" source="38">The Midnight Club</attr>
+      <attr type="work" source="38">Violets Are Blue</attr>
+      <attr type="work" source="38">When the Wind Blows</attr>
+      <attr type="work" source="38">Mary, Mary</attr>
+      <attr type="work" source="38">The 6th Target</attr>
+      <attr type="work" source="38">Cat &amp; Mouse</attr>
+      <attr type="work" source="38">Cradle and All</attr>
+      <attr type="work" source="38">Black Friday</attr>
+      <attr type="work" source="38">4th of July (Women&apos;s Murder Club (Paperback))</attr>
+      <attr type="work" source="38">Double Cross (Alex Cross)</attr>
+      <attr type="work" source="38">Judge &amp; Jury</attr>
+      <attr type="work" source="38">3rd Degree (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="38">Honeymoon</attr>
+      <attr type="work" source="38">Beach Road</attr>
+      <attr type="work" source="38">You&apos;ve Been Warned</attr>
+      <attr type="work" source="38">The Final Warning: A Maximum Ride Novel</attr>
+      <attr type="work" source="38">The Jester</attr>
+      <attr type="work" source="38">2nd Chance</attr>
+      <attr type="work" source="38">Cross Country</attr>
+      <attr type="work" source="38">The Beach House</attr>
+      <attr type="work" source="38">The 5th Horseman (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="38">7th Heaven (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="38">Hide &amp; Seek</attr>
+      <attr type="work" source="38">Maximum Ride: The Angel Experiment (Maximum Ride)</attr>
+      <attr type="work" source="38">Step on a Crack</attr>
+      <attr type="work" source="38">Along Came a Spider</attr>
+      <attr type="work" source="38">The Quickie</attr>
+      <attr type="work" source="38">Season of the Machete</attr>
+      <attr type="work" source="38">Pop Goes the Weasel</attr>
+      <attr type="work" source="38">Kiss the Girls</attr>
+      <attr type="work" source="38">Maximum Ride Book #3: Saving the World and Other Extreme Sports (Maximum Ride)</attr>
+      <attr type="work" source="38">Lifeguard</attr>
+      <attr type="work" source="38">Jack &amp; Jill</attr>
+      <attr type="work" source="38">1st to Die (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="38">Four Blind Mice</attr>
+      <attr type="work" source="38">Roses Are Red</attr>
+      <attr type="work" source="38">See How They Run</attr>
+      <attr type="work" source="38">London Bridges</attr>
+      <attr type="work" source="38">Maximum Ride: School&apos;s Out Forever</attr>
+      <attr type="work" source="38">Cross</attr>
+      <attr type="work" source="38">Sail</attr>
+      <attr type="work" source="38">8th Confession</attr>
+      <attr type="work" source="38">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="38">The Lake House (Large Print)</attr>
+      <attr type="work" source="88">The 6th Target</attr>
+      <attr type="othername" source="88">James B. Patterson</attr>
+      <attr type="work" source="88">Step on a Crack</attr>
+      <attr type="work" source="88">Roses Are Red (Alex Cross Novels)</attr>
+      <attr type="affiliation" source="88">J. W. Thompson</attr>
+      <attr type="occupation" source="88">author</attr>
+      <attr type="occupation" source="88">chairman</attr>
+      <attr type="award" source="88">Edgar</attr>
+      <attr type="award" source="88">International Thriller of the Year award</attr>
+      <attr type="work" source="88">1st to Die: A Novel</attr>
+      <attr type="work" source="88">You&apos;ve Been Warned</attr>
+      <attr type="work" source="88">2nd Chance (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="88">The Final Warning: A Maximum Ride Novel</attr>
+      <attr type="work" source="88">Sunday&apos;s at Tiffany&apos;s</attr>
+      <attr type="work" source="88">The Quickie</attr>
+      <attr type="award" source="88">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="work" source="88">Cross</attr>
+      <attr type="nationality" source="88">American</attr>
+      <attr type="work" source="88">Double Cross (Alex Cross)</attr>
+      <attr type="work" source="88">7th Heaven (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="88">3rd Degree (Women&apos;s Murder Club)</attr>
+      <attr type="work" source="88">Along Came a Spider</attr>
+      <attr type="work" source="88">Maximum Ride: School&apos;s Out - Forever (Maximum Ride)</attr>
+      <attr type="work" source="61">Cross</attr>
+      <attr type="work" source="61">Mary, Mary</attr>
+      <attr type="work" source="61">Kiss the Girls</attr>
+      <attr type="work" source="61">Jack and Jill</attr>
+      <attr type="school" source="61">Manhattan College</attr>
+      <attr type="dateofbirth" source="61">March 22, 1947</attr>
+      <attr type="school" source="61">Vanderbilt University</attr>
+      <attr type="work" source="61">Four Blind Mice</attr>
+      <attr type="work" source="61">Pop Goes the Weasel</attr>
+      <attr type="work" source="61">London Bridges</attr>
+      <attr type="work" source="61">The Thomas Berryman Number</attr>
+      <attr type="birthplace" source="61">Newburgh, New York</attr>
+      <attr type="work" source="61">Double Cross</attr>
+      <attr type="award" source="61">Edgar Award for Best First Mystery Novel</attr>
+      <attr type="work" source="61">Along Came a Spider</attr>
+      <attr type="work" source="61">The 6th Target</attr>
+      <attr type="work" source="61">Thriller: Stories to Keep You Up All Night</attr>
+      <attr type="work" source="61">Cat &amp; Mouse</attr>
+      <attr type="work" source="61">The Big Bad Wolf</attr>
+      <attr type="location" source="61">Palm Beach, Florida</attr>
+      <attr type="work" source="61">Violets Are Blue</attr>
+      <attr type="work" source="61">Roses Are Red</attr>
+      <attr type="degree" source="61">B.A.</attr>
+      <attr type="degree" source="61">M.A.</attr>
+      <attr type="occupation" source="9">chairman</attr>
+      <attr type="work" source="9">The Beach House</attr>
+      <attr type="work" source="9">The Day America Told the Truth</attr>
+      <attr type="work" source="9">Cradle and All</attr>
+      <attr type="school" source="9">Manhattan College</attr>
+      <attr type="major" source="9">English</attr>
+      <attr type="work" source="9">When the Wind Blows</attr>
+      <attr type="work" source="9">The Lake House</attr>
+      <attr type="occupation" source="9">executive creative director</attr>
+      <attr type="work" source="9">Along Came a Spider</attr>
+      <attr type="work" source="9">Cat &amp; Mouse</attr>
+      <attr type="work" source="9">Jack &amp; Jill</attr>
+      <attr type="school" source="9">Vanderbilt University</attr>
+      <attr type="work" source="9">2nd Chance</attr>
+      <attr type="occupation" source="9">chief executive officer</attr>
+      <attr type="work" source="9">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="9">Pop Goes the Weasel</attr>
+      <attr type="work" source="9">1st to Die</attr>
+      <attr type="work" source="9">Four Blind Mice</attr>
+      <attr type="work" source="9">Hide &amp; Seek</attr>
+      <attr type="award" source="9">Edgar Award for the best first mystery novel</attr>
+      <attr type="occupation" source="9">novelists</attr>
+      <attr type="degree" source="9">B.A.</attr>
+      <attr type="location" source="9">Palm Beach County, Florida</attr>
+      <attr type="occupation" source="9">copywriter</attr>
+      <attr type="degree" source="9">M.A.</attr>
+      <attr type="affiliation" source="9">J. Walter Thompson, North America</attr>
+      <attr type="work" source="9">The Thomas Berryman Number</attr>
+      <attr type="work" source="9">Kiss the Girls</attr>
+      <attr type="work" source="9">Violets Are Blue</attr>
+      <attr type="occupation" source="9">junior copywriter</attr>
+      <attr type="work" source="9">Miracle on the 17th Green</attr>
+      <attr type="work" source="9">Roses Are Red</attr>
+      <attr type="work" source="9">The Jester</attr>
+      <attr type="work" source="41">Thomas Berryman Number</attr>
+      <attr type="work" source="41">Along Came a Spider</attr>
+      <attr type="occupation" source="41">copywriter</attr>
+      <attr type="affiliation" source="41">JWT</attr>
+      <attr type="work" source="41">The 5th Horseman</attr>
+      <attr type="relatives" source="41">Susan Solie</attr>
+      <attr type="work" source="41">First to Die</attr>
+      <attr type="othername" source="41">James B Patterson</attr>
+      <attr type="occupation" source="41">author</attr>
+      <attr type="occupation" source="41">writers</attr>
+      <attr type="location" source="41">Palm Beach, Florida</attr>
+      <attr type="relatives" source="41">Jack</attr>
+      <attr type="birthplace" source="41">upstate New York</attr>
+      <attr type="occupation" source="41">advertising executive</attr>
+      <attr type="occupation" source="41">writer</attr>
+      <attr type="affiliation" source="41">J. Walter Thompson</attr>
+      <attr type="work" source="41">Cat and Mouse</attr>
+      <attr type="nationality" source="41">American</attr>
+      <attr type="location" source="41">Westchester, NY</attr>
+      <attr type="work" source="41">2nd Chance</attr>
+      <attr type="award" source="41">Edgar Award</attr>
+      <attr type="occupation" source="41">chairman</attr>
+      <attr type="work" source="39">The Quickie</attr>
+      <attr type="work" source="39">Cross: Library Edition</attr>
+      <attr type="work" source="39">Women&apos;s Murder Club</attr>
+      <attr type="work" source="39">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="39">Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="39">Maximum Ride: The Angel Experiment</attr>
+      <attr type="work" source="39">Mary, Mary: A Novel</attr>
+      <attr type="work" source="39">Sail</attr>
+      <attr type="work" source="39">The Angel Experiment</attr>
+      <attr type="work" source="39">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="39">The Final Warning: A Maximum Ride Novel</attr>
+      <attr type="work" source="39">4th of July</attr>
+      <attr type="work" source="39">The 5th Horseman: Library Edition</attr>
+      <attr type="work" source="39">School&apos;s Out - Forever</attr>
+      <attr type="work" source="39">Mary, Mary</attr>
+      <attr type="work" source="39">Beach Road: Library Edition</attr>
+      <attr type="work" source="39">The 5th Horseman</attr>
+      <attr type="work" source="39">Lifeguard</attr>
+      <attr type="work" source="39">Step on a Crack</attr>
+      <attr type="work" source="31">You&apos;ve Been Warned</attr>
+      <attr type="work" source="31">SUNDAYS AT TIFFANY&apos;S</attr>
+      <attr type="work" source="31">Double Cross</attr>
+      <attr type="occupation" source="97">junior copywriter</attr>
+      <attr type="work" source="97">When the Wind Blows</attr>
+      <attr type="othername" source="97">Patterson, James</attr>
+      <attr type="occupation" source="97">novelists</attr>
+      <attr type="work" source="97">Lake House</attr>
+      <attr type="occupation" source="97">Author</attr>
+      <attr type="work" source="97">Beach House</attr>
+      <attr type="work" source="110">Kiss the Girls</attr>
+      <attr type="work" source="110">Along Came a Spider</attr>
+      <attr type="relatives" source="110">Sue</attr>
+      <attr type="occupation" source="110">Author</attr>
+      <attr type="location" source="110">Florida</attr>
+      <attr type="work" source="110">The Thomas Berryman Number</attr>
+      <attr type="occupation" source="110">author</attr>
+      <attr type="work" source="110">Against Medical Advice</attr>
+      <attr type="school" source="110">St. Patrick&apos;s Christian Brothers school</attr>
+      <attr type="relatives" source="110">Jack</attr>
+      <attr type="work" source="110">Sail</attr>
+      <attr type="work" source="11">Final Warning</attr>
+      <attr type="work" source="11">School&apos;s Out Forever</attr>
+      <attr type="othername" source="11">JP</attr>
+      <attr type="work" source="26">The Jester</attr>
+      <attr type="work" source="26">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="26">6th Target, the</attr>
+      <attr type="work" source="26">Midnight Club, the</attr>
+      <attr type="work" source="26">Cat &amp; Mouse</attr>
+      <attr type="work" source="26">Lifeguard</attr>
+      <attr type="work" source="26">Sundays at Tiffany&apos;s</attr>
+      <attr type="location" source="26">Palm Beach County, Florida</attr>
+      <attr type="work" source="26">Jester, the</attr>
+      <attr type="work" source="26">5th Horseman, the</attr>
+      <attr type="work" source="26">When the Wind Blows</attr>
+      <attr type="award" source="26">Edgar Award for the best first mystery novel</attr>
+      <attr type="work" source="26">Double Cross</attr>
+      <attr type="work" source="26">Pop Goes the Weasel</attr>
+      <attr type="work" source="26">4th of July</attr>
+      <attr type="school" source="26">Vanderbilt University</attr>
+      <attr type="work" source="26">Miracle on the 17th Green</attr>
+      <attr type="work" source="26">Hide &amp; Seek</attr>
+      <attr type="work" source="26">Maximum Ride: Saving the World and Other Extreme Sports</attr>
+      <attr type="occupation" source="26">junior copywriter</attr>
+      <attr type="work" source="26">Four Blind Mice</attr>
+      <attr type="work" source="26">The Day America Told the Truth</attr>
+      <attr type="work" source="26">London Bridges</attr>
+      <attr type="work" source="26">Violets Are Blue</attr>
+      <attr type="work" source="26">Kiss the Girls</attr>
+      <attr type="work" source="26">Maximum Ride: The Angel Experiment</attr>
+      <attr type="occupation" source="26">executive creative director</attr>
+      <attr type="work" source="26">Along Came a Spider</attr>
+      <attr type="work" source="26">Mary, Mary</attr>
+      <attr type="work" source="26">Thomas Berryman Number, the</attr>
+      <attr type="work" source="26">Beach House, the</attr>
+      <attr type="work" source="26">Black Friday</attr>
+      <attr type="occupation" source="26">chairman</attr>
+      <attr type="work" source="26">Cradle and All</attr>
+      <attr type="work" source="26">1st To Die</attr>
+      <attr type="work" source="26">santaKid</attr>
+      <attr type="work" source="26">SantaKid</attr>
+      <attr type="degree" source="26">B.A.</attr>
+      <attr type="work" source="26">Virgin</attr>
+      <attr type="work" source="26">Sail</attr>
+      <attr type="work" source="26">Dangerous Days of Daniel X, the</attr>
+      <attr type="school" source="26">Manhattan College</attr>
+      <attr type="work" source="26">7th Heaven</attr>
+      <attr type="work" source="26">3rd Degree</attr>
+      <attr type="work" source="26">Quickie, the</attr>
+      <attr type="work" source="26">Honeymoon</attr>
+      <attr type="work" source="26">Roses Are Red</attr>
+      <attr type="work" source="26">Jack &amp; Jill</attr>
+      <attr type="occupation" source="26">novelists</attr>
+      <attr type="work" source="26">Judge &amp; Jury</attr>
+      <attr type="affiliation" source="26">J. Walter Thompson, North America</attr>
+      <attr type="occupation" source="26">chief executive officer</attr>
+      <attr type="occupation" source="26">Author</attr>
+      <attr type="work" source="26">The Lake House</attr>
+      <attr type="work" source="26">Season of the Machete</attr>
+      <attr type="work" source="26">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="26">2nd Chance</attr>
+      <attr type="work" source="26">Cross</attr>
+      <attr type="work" source="26">The Thomas Berryman Number</attr>
+      <attr type="work" source="26">Maximum Ride: School&apos;s Out Forever</attr>
+      <attr type="work" source="26">Beach Road</attr>
+      <attr type="major" source="26">English</attr>
+      <attr type="work" source="26">Thriller: Stories To Keep You Up All Night</attr>
+      <attr type="degree" source="26">M.A.</attr>
+      <attr type="work" source="26">You&apos;ve Been Warned</attr>
+      <attr type="work" source="26">See How They Run</attr>
+      <attr type="work" source="26">Maximum Ride: The Final Warning</attr>
+      <attr type="work" source="26">Lake House, the</attr>
+      <attr type="work" source="26">Big Bad Wolf, the</attr>
+      <attr type="work" source="26">Step on a Crack</attr>
+      <attr type="work" source="19">You&apos;ve Been Warned</attr>
+      <attr type="work" source="19">Sail</attr>
+      <attr type="work" source="19">7th Heaven</attr>
+      <attr type="work" source="19">Double Cross (Alex Cross)</attr>
+      <attr type="occupation" source="45">crime writer</attr>
+      <attr type="work" source="45">Kiss the Girls</attr>
+      <attr type="nationality" source="45">American</attr>
+      <attr type="work" source="45">The Lake House</attr>
+      <attr type="occupation" source="45">author</attr>
+      <attr type="award" source="45">Edgar</attr>
+      <attr type="award" source="45">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="work" source="45">Along Came A Spider</attr>
+      <attr type="othername" source="45">James B. Patterson</attr>
+      <attr type="award" source="45">International Thriller of the Year award</attr>
+      <attr type="work" source="83">The Simpsons</attr>
+      <attr type="award" source="83">International Thriller of the Year award</attr>
+      <attr type="occupation" source="83">author</attr>
+      <attr type="occupation" source="83">Author</attr>
+      <attr type="award" source="83">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="work" source="83">Maximum Ride</attr>
+      <attr type="award" source="83">Reader&#65533;fs Digest Reader&#65533;fs Choice Award</attr>
+      <attr type="work" source="83">Along Came a Spider</attr>
+      <attr type="othername" source="83">The Man Who Can&apos;t Miss</attr>
+      <attr type="work" source="83">Kiss the Girls</attr>
+      <attr type="work" source="83">Women&apos;s Murder Club</attr>
+      <attr type="work" source="83">Honeymoon</attr>
+      <attr type="award" source="83">Edgar</attr>
+      <attr type="work" source="83">The Thomas Berryman Number</attr>
+      <attr type="work" source="83">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="111">Kiss The Girls</attr>
+      <attr type="work" source="111">Women&#65533;fs Murder Club: Death in Scarlet</attr>
+      <attr type="work" source="111">Death In Scarlet</attr>
+      <attr type="work" source="111">Women&#65533;fs Murder Club</attr>
+      <attr type="work" source="111">Along Came A Spider</attr>
+      <attr type="occupation" source="111">author</attr>
+      <attr type="location" source="111">Palm Beach, Florida</attr>
+      <attr type="work" source="2">santaKid</attr>
+      <attr type="work" source="2">2nd Chance</attr>
+      <attr type="occupation" source="2">novelist</attr>
+      <attr type="work" source="2">Along Came a Spider</attr>
+      <attr type="award" source="2">International Thriller of the Year</attr>
+      <attr type="occupation" source="2">author</attr>
+      <attr type="occupation" source="2">storyteller</attr>
+      <attr type="award" source="2">Readers&apos; Digest Readers&apos; Choice Award</attr>
+      <attr type="work" source="2">Honeymoon</attr>
+      <attr type="work" source="2">MAXIMUM RIDE</attr>
+      <attr type="work" source="2">Maximum Ride</attr>
+      <attr type="award" source="2">International Thriller Writer&apos;s ThrillerMaster Award</attr>
+      <attr type="othername" source="2">the man who can&apos;t miss</attr>
+      <attr type="work" source="2">4th of July</attr>
+      <attr type="award" source="2">BCA Mystery Guild&apos;s Thriller of the Year award</attr>
+      <attr type="work" source="2">Miracle on the 17th Green</attr>
+      <attr type="work" source="2">The Thomas Berryman Number</attr>
+      <attr type="work" source="2">Step on a Crack</attr>
+      <attr type="work" source="2">The Big Bad Wolf</attr>
+      <attr type="work" source="2">Women&apos;s Murder Club</attr>
+      <attr type="work" source="2">3rd Degree</attr>
+      <attr type="award" source="2">Edgar Award for Best First Mystery</attr>
+      <attr type="work" source="2">The Day America Told the Truth</attr>
+      <attr type="work" source="2">Kiss the Girls</attr>
+      <attr type="work" source="2">1st to Die</attr>
+      <attr type="occupation" source="14">Author</attr>
+      <attr type="work" source="14">When the Wind Blows</attr>
+      <attr type="work" source="10">The Final Warning</attr>
+      <attr type="work" source="10">The Angel Experiment</attr>
+      <attr type="work" source="10">Beach Road</attr>
+      <attr type="work" source="10">Mary Mary</attr>
+      <attr type="work" source="10">School&apos;s Out-- Forever</attr>
+      <attr type="work" source="10">Black Market</attr>
+      <attr type="work" source="10">Against Medical Advice: A True Story</attr>
+      <attr type="work" source="10">Run for Your LIfe</attr>
+      <attr type="work" source="10">The Lake House</attr>
+      <attr type="work" source="10">Double Cross</attr>
+      <attr type="work" source="10">Torn Apart: The Heartbreaking Story of a Childhood Lost</attr>
+      <attr type="work" source="10">See How They Run</attr>
+      <attr type="work" source="10">The Thomas Berryman Number</attr>
+      <attr type="work" source="10">Cat and Mouse / 1st to Die</attr>
+      <attr type="work" source="10">1st to Die</attr>
+      <attr type="work" source="10">2nd Chance</attr>
+      <attr type="occupation" source="10">writers</attr>
+      <attr type="work" source="10">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="10">Four Blind Mice</attr>
+      <attr type="work" source="10">Black Market / Hide and Seek</attr>
+      <attr type="work" source="10">Step on a Crack</attr>
+      <attr type="work" source="10">Dangerous Days of Daniel X</attr>
+      <attr type="location" source="10">Florida</attr>
+      <attr type="occupation" source="10">author</attr>
+      <attr type="work" source="10">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="10">You&apos;ve Been Warned</attr>
+      <attr type="work" source="10">Miracle on the 17th Green</attr>
+      <attr type="work" source="10">8th Confession (Women&apos;s Murder Club, book 8)</attr>
+      <attr type="work" source="10">Virgin</attr>
+      <attr type="work" source="10">A Women&apos;s Murder Club Omnibus</attr>
+      <attr type="dateofbirth" source="10">1947</attr>
+      <attr type="work" source="10">Santakid</attr>
+      <attr type="work" source="10">Cross Country</attr>
+      <attr type="work" source="10">Daniel X Alien Hunter</attr>
+      <attr type="work" source="10">Run for Your Life (Michael Bennett, book 2)</attr>
+      <attr type="work" source="10">The Beach House</attr>
+      <attr type="work" source="10">Season of the Machete</attr>
+      <attr type="work" source="10">Water Wings (Maximum Ride, book 5)</attr>
+      <attr type="work" source="10">8th Confession</attr>
+      <attr type="work" source="10">Thriller: Stories To Keep You Up All Night</attr>
+      <attr type="work" source="10">Water Wings</attr>
+      <attr type="work" source="10">The Jericho Commandment</attr>
+      <attr type="work" source="10">Honeymoon</attr>
+      <attr type="work" source="10">7th Heaven (Women&apos;s Murder Club, book 7)</attr>
+      <attr type="work" source="10">Judge and Jury</attr>
+      <attr type="work" source="10">The Midnight Club</attr>
+      <attr type="work" source="10">Cradle and All</attr>
+      <attr type="work" source="10">The 6th Target</attr>
+      <attr type="work" source="10">Hide and Seek</attr>
+      <attr type="work" source="10">Maximum Ride, Vol. 1 Manga</attr>
+      <attr type="work" source="10">The Lifeguard</attr>
+      <attr type="work" source="10">Cat and Mouse / Pop Goes the Weasel</attr>
+      <attr type="work" source="10">Roses Are Red / Violets Are Blue (Alex Cross Omnibus)</attr>
+      <attr type="work" source="10">Roses Are Red</attr>
+      <attr type="work" source="10">When the Wind Blows and The Lake House</attr>
+      <attr type="work" source="10">Jack and Jill</attr>
+      <attr type="work" source="10">3rd Degree</attr>
+      <attr type="work" source="10">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="10">7th Heaven</attr>
+      <attr type="work" source="10">Along Came a Spider</attr>
+      <attr type="work" source="10">Cross Country (Alex Cross, book 14)</attr>
+      <attr type="work" source="10">Daniel X: Alien Hunter</attr>
+      <attr type="work" source="10">Cross</attr>
+      <attr type="work" source="10">The Big Bad Wolf</attr>
+      <attr type="work" source="10">Saving the World: And Other Extreme Sports</attr>
+      <attr type="work" source="10">4th of July</attr>
+      <attr type="work" source="10">The Jester</attr>
+      <attr type="work" source="10">Roses Are Red / Violets Are Blue</attr>
+      <attr type="work" source="10">Cat and Mouse</attr>
+      <attr type="work" source="10">Black Friday</attr>
+      <attr type="work" source="10">Kiss the Girls</attr>
+      <attr type="work" source="10">The Quickie</attr>
+      <attr type="work" source="10">Violets Are Blue</attr>
+      <attr type="work" source="10">The 5th Horseman</attr>
+      <attr type="work" source="10">Against Medical Advice A True Story</attr>
+      <attr type="award" source="10">Edgar award</attr>
+      <attr type="work" source="10">London Bridges</attr>
+      <attr type="work" source="10">Pop! Goes the Weasel</attr>
+      <attr type="work" source="10">Sail</attr>
+      <attr type="work" source="10">Torn Apart The Heartbreaking Story of a Childhood Lost</attr>
+      <attr type="work" source="10">When the Wind Blows</attr>
+      <attr type="work" source="7">You&apos;ve Been Warned</attr>
+      <attr type="work" source="7">santaKid</attr>
+      <attr type="othername" source="7">James B. Patterson</attr>
+      <attr type="work" source="7">The Fifth Horseman</attr>
+      <attr type="award" source="7">International Thriller of the Year award</attr>
+      <attr type="affiliation" source="7">J. W. Thompson</attr>
+      <attr type="work" source="7">Lifeguard</attr>
+      <attr type="occupation" source="7">chairman</attr>
+      <attr type="award" source="7">Edgar</attr>
+      <attr type="dateofbirth" source="7">March 22, 1947</attr>
+      <attr type="othername" source="7">the man who can&apos;t miss</attr>
+      <attr type="work" source="7">Along Came A Spider</attr>
+      <attr type="work" source="7">Maximum Ride</attr>
+      <attr type="award" source="7">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="nationality" source="7">American</attr>
+      <attr type="work" source="7">Honeymoon</attr>
+      <attr type="location" source="7">Palm Beach, Florida</attr>
+      <attr type="occupation" source="7">author</attr>
+      <attr type="relatives" source="7">Jack</attr>
+      <attr type="work" source="48">ALONG CAME A SPIDER</attr>
+      <attr type="work" source="48">KISS THE GIRLS</attr>
+      <attr type="work" source="48">HIDE AND SEEK</attr>
+      <attr type="work" source="48">SEE HOW THEY RUN</attr>
+      <attr type="work" source="48">BLACK MARKET</attr>
+      <attr type="work" source="48">The Day America Told the Truth</attr>
+      <attr type="major" source="48">English</attr>
+      <attr type="work" source="48">POP GOES THE WEASEL</attr>
+      <attr type="work" source="48">WHEN THE WIND BLOWS</attr>
+      <attr type="work" source="48">The Jericho Commandment</attr>
+      <attr type="work" source="48">1ST TO DIE</attr>
+      <attr type="occupation" source="48">junior copywriter</attr>
+      <attr type="work" source="48">THE BEACH HOUSE</attr>
+      <attr type="award" source="48">Edgar Award for best first mystery novel</attr>
+      <attr type="work" source="48">JACK AND JILL</attr>
+      <attr type="work" source="48">FOUR BLIND MICE</attr>
+      <attr type="occupation" source="48">chairman</attr>
+      <attr type="school" source="48">Manhattan College</attr>
+      <attr type="work" source="48">2ND CHANCE</attr>
+      <attr type="work" source="48">ROSES ARE RED</attr>
+      <attr type="work" source="48">THE SEASON OF THE MACHETE</attr>
+      <attr type="work" source="48">Along Came a Spider</attr>
+      <attr type="work" source="48">THE THOMAS BERRYMAN NUMBER</attr>
+      <attr type="work" source="48">The Thomas Berryman Number</attr>
+      <attr type="work" source="48">CRADLE AND ALL</attr>
+      <attr type="work" source="48">THE MIDNIGHT CLUB</attr>
+      <attr type="work" source="48">CAT AND MOUSE</attr>
+      <attr type="work" source="48">VIOLETS ARE BLUE</attr>
+      <attr type="work" source="48">Virgin</attr>
+      <attr type="work" source="5">Richard &amp; Judy</attr>
+      <attr type="work" source="5">And the Truth Will (Sometimes) Set You Free</attr>
+      <attr type="work" source="5">Kiss the Girls</attr>
+      <attr type="work" source="5">When the Wind Blows</attr>
+      <attr type="school" source="5">Manhattan College</attr>
+      <attr type="work" source="5">James Patterson&apos;s Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="5">Along Came a Spider</attr>
+      <attr type="work" source="5">1st to Die</attr>
+      <attr type="work" source="5">Child of Darkness, Child of Light</attr>
+      <attr type="work" source="5">The Making of &apos;Along Came a Spider</attr>
+      <attr type="work" source="5">Today</attr>
+      <attr type="work" source="5">Miracle on the 17th Green</attr>
+      <attr type="birthplace" source="5">Newburgh, New York, USA</attr>
+      <attr type="work" source="5">The Simpsons</attr>
+      <attr type="work" source="5">Review</attr>
+      <attr type="work" source="5">Father&apos;s Day</attr>
+      <attr type="occupation" source="5">executive producer</attr>
+      <attr type="work" source="5">Im Netz der Spinne</attr>
+      <attr type="work" source="5">Never Tell</attr>
+      <attr type="work" source="5">Forbes Celebrity 100: Who Made Bank?</attr>
+      <attr type="work" source="5">James Patterson&apos;s F1rst to Die</attr>
+      <attr type="work" source="5">Yokel Chords</attr>
+      <attr type="dateofbirth" source="5">22 March 1947</attr>
+      <attr type="work" source="5">FBI Guy</attr>
+      <attr type="work" source="5">The Today Show</attr>
+      <attr type="work" source="5">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="degree" source="5">BA</attr>
+      <attr type="work" source="5">Maximum Ride</attr>
+      <attr type="work" source="5">Newsnight Review</attr>
+      <attr type="work" source="5">Breakfast</attr>
+      <attr type="work" source="5">First to Die</attr>
+      <attr type="work" source="5">Virgin</attr>
+      <attr type="major" source="5">English</attr>
+      <attr type="work" source="5">To Drag &amp; to Hold</attr>
+      <attr type="work" source="5">Women&apos;s Murder Club</attr>
+      <attr type="work" source="5">Amazon Fishbowl with Bill Maher</attr>
+      <attr type="occupation" source="5">Writer</attr>
+      <attr type="work" source="5">Masque de l&apos;araign?e, Le</attr>
+      <attr type="occupation" source="5">Producer</attr>
+      <attr type="work" source="5">NBC News Today</attr>
+      <attr type="work" source="5">F1rst to Die</attr>
+      <attr type="location" source="75">FL, US</attr>
+      <attr type="dateofbirth" source="75">1947</attr>
+      <attr type="work" source="75">Max: A Maximum Ride Novel</attr>
+      <attr type="work" source="75">Maximum Ride: The Final Warning</attr>
+      <attr type="work" source="75">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="75">You&apos;ve Been Warned</attr>
+      <attr type="work" source="75">Double Cross</attr>
+      <attr type="work" source="75">Run for Your Life</attr>
+      <attr type="work" source="75">Against Medical Advice: One Family&apos;s Struggle with an Agonizing Medical Mystery</attr>
+      <attr type="occupation" source="75">author</attr>
+      <attr type="work" source="75">Cross Country</attr>
+      <attr type="work" source="75">Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="75">Sundays at Tiffany&apos;s</attr>
+      <attr type="work" source="98">James Patterson&apos;s Nursery Rhyme Thrillers</attr>
+      <attr type="work" source="98">Reader&apos;s Digest Select Editions Large Print Vol 135</attr>
+      <attr type="work" source="98">The Midnight Club</attr>
+      <attr type="work" source="98">2nd Chance</attr>
+      <attr type="work" source="98">The Jester</attr>
+      <attr type="work" source="98">Miracle on the 17th Green : A Novel about Life, Love, Family, Miracles ... and Golf</attr>
+      <attr type="work" source="98">The Thirteen</attr>
+      <attr type="work" source="98">Suzanne&apos;s Diary for Nicholas</attr>
+      <attr type="work" source="98">Black Friday</attr>
+      <attr type="work" source="98">America in the 20th Century</attr>
+      <attr type="work" source="98">Cradle and All</attr>
+      <attr type="work" source="98">Lifeguard</attr>
+      <attr type="work" source="98">The Lazarus Pit</attr>
+      <attr type="work" source="98">Season of the Machete</attr>
+      <attr type="othername" source="98">Patterson, James</attr>
+      <attr type="work" source="98">Beach Road</attr>
+      <attr type="work" source="98">Sphinxes</attr>
+      <attr type="work" source="98">The Big Bad Wolf</attr>
+      <attr type="birthplace" source="98">Newburgh, New York, USA</attr>
+      <attr type="work" source="98">4th of July</attr>
+      <attr type="work" source="98">The Thomas Berryman Number</attr>
+      <attr type="work" source="98">The Lake House</attr>
+      <attr type="occupation" source="98">Author</attr>
+      <attr type="work" source="98">The Beach House</attr>
+      <attr type="work" source="98">The Dangerous Days of Daniel X</attr>
+      <attr type="work" source="98">Hide &amp; Seek</attr>
+      <attr type="work" source="98">Cat &amp; Mouse</attr>
+      <attr type="work" source="98">Roses are Red</attr>
+      <attr type="work" source="98">The Final Warning</attr>
+      <attr type="work" source="98">See How They Run</attr>
+      <attr type="work" source="98">Jack &amp; Jill</attr>
+      <attr type="work" source="98">Four Blind Mice</attr>
+      <attr type="work" source="98">The Second American Revolution</attr>
+      <attr type="work" source="98">The Day America Told the Truth: What People Really Believe About Everything That Really Matters</attr>
+      <attr type="work" source="98">School&apos;s Out Forever</attr>
+      <attr type="work" source="98">Violets are Blue</attr>
+      <attr type="work" source="98">Pop Goes the Weasel</attr>
+      <attr type="work" source="98">Sam&apos;s Letters to Jennifer</attr>
+      <attr type="work" source="98">Patterson Summer Audio Twinpack</attr>
+      <attr type="work" source="98">The 5th Horseman</attr>
+      <attr type="work" source="98">3rd Degree</attr>
+      <attr type="work" source="98">Judge &amp; Jury</attr>
+      <attr type="work" source="98">Mid-Night Club</attr>
+      <attr type="work" source="98">Thriller: Stories To Keep You Up All Night</attr>
+      <attr type="work" source="98">When the Wind Blows</attr>
+      <attr type="work" source="98">London Bridges</attr>
+      <attr type="work" source="98">1st to Die</attr>
+      <attr type="work" source="98">Saving the World and Other Extreme Sports</attr>
+      <attr type="work" source="98">You&apos;ve Been Warned</attr>
+      <attr type="work" source="98">The Angel Experiment</attr>
+      <attr type="work" source="98">Honeymoon</attr>
+      <attr type="work" source="98">Along Came a Spider</attr>
+      <attr type="work" source="98">Virgin</attr>
+      <attr type="work" source="98">Mary, Mary</attr>
+      <attr type="work" source="98">The Jericho commandment: A novel</attr>
+      <attr type="dateofbirth" source="98">22 March 1947</attr>
+      <attr type="work" source="98">Kiss the Girls</attr>
+      <attr type="affiliation" source="23">J. W.</attr>
+      <attr type="nationality" source="23">American</attr>
+      <attr type="occupation" source="23">author</attr>
+      <attr type="occupation" source="23">chairman</attr>
+      <attr type="degree" source="92">MA</attr>
+      <attr type="major" source="92">English</attr>
+      <attr type="relatives" source="92">Isabelle</attr>
+      <attr type="website" source="92">http://www.jamespatterson.com/</attr>
+      <attr type="othername" source="92">James B. Patterson</attr>
+      <attr type="school" source="92">Vanderbilt University</attr>
+      <attr type="degree" source="92">BA</attr>
+      <attr type="dateofbirth" source="92">22-Mar-1947</attr>
+      <attr type="relatives" source="92">Charles</attr>
+      <attr type="occupation" source="92">Author</attr>
+      <attr type="school" source="92">Manhattan College</attr>
+      <attr type="nationality" source="92">United States</attr>
+      <attr type="birthplace" source="92">Newburgh, NY</attr>
+      <attr type="award" source="85">Thrillermaster Award</attr>
+      <attr type="birthplace" source="85">Newburgh New York</attr>
+      <attr type="award" source="85">Best First Novel</attr>
+      <attr type="occupation" source="85">author</attr>
+      <attr type="occupation" source="85">writers</attr>
+      <attr type="work" source="85">Maximum Ride</attr>
+      <attr type="work" source="85">Thomas Berryman Number</attr>
+      <attr type="school" source="85">Vanderbilt University</attr>
+      <attr type="award" source="85">Edgar Award</attr>
+      <attr type="work" source="85">Step on a Crack</attr>
+      <attr type="dateofbirth" source="85">1947</attr>
+      <attr type="award" source="85">Edgar</attr>
+      <attr type="occupation" source="85">Writer</attr>
+      <attr type="work" source="85">6th Target</attr>
+      <attr type="award" source="85">BCA Mystery Guild&apos;s</attr>
+      <attr type="occupation" source="85">advertising executive</attr>
+      <attr type="work" source="85">Cross</attr>
+      <attr type="occupation" source="58">authors</attr>
+      <attr type="occupation" source="27">author</attr>
+      <attr type="othername" source="27">JP</attr>
+      <attr type="work" source="27">Women&apos;s Murder Club</attr>
+      <attr type="occupation" source="27">writer</attr>
+      <attr type="othername" source="27">The Man Who Can&apos;t Miss</attr>
+      <attr type="work" source="27">Maximum Ride</attr>
+      <attr type="work" source="27">LIFEGUARD</attr>
+      <attr type="work" source="27">Along Came A Spide</attr>
+      <attr type="work" source="27">KISS THE GIRLS</attr>
+      <attr type="award" source="27">Edgar</attr>
+      <attr type="work" source="27">SANTAKID</attr>
+      <attr type="work" source="27">HONEYMOON</attr>
+      <attr type="work" source="27">SUZANNE&apos;S DIARY FOR NICHOLAS</attr>
+      <attr type="work" source="27">1st TO DIE</attr>
+      <attr type="work" source="27">YOU&apos;VE BEEN WARNED</attr>
+      <attr type="work" source="27">1ST TO DIE</attr>
+      <attr type="work" source="27">ALONG CAME A SPIDER</attr>
+      <attr type="award" source="27">International Thriller of the Year award</attr>
+      <attr type="work" source="27">ROSES ARE RED</attr>
+      <attr type="work" source="27">WHEN THE WIND BLOWS</attr>
+      <attr type="work" source="27">VIOLETS ARE BLUE</attr>
+      <attr type="work" source="27">The Simpsons</attr>
+      <attr type="work" source="27">THE THOMAS BERRYMAN NUMBER</attr>
+      <attr type="award" source="27">BCA Mystery Guild&apos;s Thriller of the Year</attr>
+      <attr type="occupation" source="95">novelist</attr>
+      <attr type="work" source="95">The Final Warning</attr>
+      <attr type="relatives" source="95">Jack</attr>
+      <attr type="occupation" source="95">author</attr>
+      <attr type="occupation" source="54">Authors</attr>
+      <attr type="occupation" source="54">mystery writer</attr>
+      <attr type="occupation" source="54">ad executive</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="18" />
+      <doc rank="49" />
+      <doc rank="104" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="49">On The Beat</attr>
+      <attr type="website" source="49">www.flickr.com/groups/catchandrelease/</attr>
+      <attr type="affiliation" source="49">Best of On The Beat</attr>
+      <attr type="affiliation" source="49">Go, Leafs, Go!</attr>
+      <attr type="affiliation" source="49">Catch and Release</attr>
+      <attr type="website" source="49">www.flickr.com/groups/goleafsgo/</attr>
+      <attr type="website" source="49">www.flickr.com/groups/bestofonthebeat/</attr>
+      <attr type="website" source="49">www.flickr.com/groups/onthebeat/</attr>
+      <attr type="work" source="104">First Day At Agility Class</attr>
+      <attr type="work" source="104">Getting While The Getting Is Good&#65533;c</attr>
+      <attr type="work" source="104">Sugar Sugar</attr>
+      <attr type="work" source="104">American Dream</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="69">Nancy Younger</attr>
+      <attr type="relatives" source="69">Nancy YOUNGER</attr>
+      <attr type="location" source="69">Moccasin, Effingham, Illinois, USA</attr>
+      <attr type="birthplace" source="69">Ohio, USA</attr>
+      <attr type="othername" source="69">James W. Patterson</attr>
+      <attr type="occupation" source="69">farmer</attr>
+      <attr type="dateofbirth" source="69">1851</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="24" />
+    </documents>
+    <attributes>
+      <attr type="work" source="24">Astrology</attr>
+    </attributes>
+  </entity>
+</clustering>

@@ -1,0 +1,808 @@
+<clustering searchString="THEODORE SMITH">
+  <entity id="1">
+    <documents>
+      <doc rank="13" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="13">businessman</attr>
+      <attr type="dateofbirth" source="13">1894</attr>
+      <attr type="occupation" source="13">alderman</attr>
+      <attr type="occupation" source="13">representatives</attr>
+      <attr type="affiliation" source="13">Conway Rotary Club</attr>
+      <attr type="affiliation" source="13">Conway Development Corporation</attr>
+      <attr type="school" source="13">University of Illinois</attr>
+      <attr type="affiliation" source="13">Warrior football team</attr>
+      <attr type="relatives" source="13">Ellen Smith</attr>
+      <attr type="occupation" source="13">charter member</attr>
+      <attr type="affiliation" source="13">the Conway Development Corporation</attr>
+      <attr type="occupation" source="13">civic leader</attr>
+      <attr type="occupation" source="13">community activist</attr>
+      <attr type="school" source="13">Hendrix College</attr>
+      <attr type="affiliation" source="13">Army</attr>
+      <attr type="relatives" source="13">Kathrine Hayes</attr>
+      <attr type="othername" source="13">S. Theodore Smith</attr>
+      <attr type="affiliation" source="13">Smith automobile business</attr>
+      <attr type="affiliation" source="13">First United Methodist Church</attr>
+      <attr type="relatives" source="13">S. G. Smith</attr>
+      <attr type="school" source="13">the University of Illinois</attr>
+      <attr type="occupation" source="13">mayor</attr>
+      <attr type="relatives" source="13">Ros Smith</attr>
+      <attr type="birthplace" source="13">Conway</attr>
+      <attr type="occupation" source="13">chairman</attr>
+      <attr type="affiliation" source="13">Conway Corp. Board of Directors</attr>
+      <attr type="occupation" source="13">second lieutenant</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="80" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="80">Ted Smith</attr>
+      <attr type="work" source="80">The Fourth</attr>
+      <attr type="degree" source="80">M.S.</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="125" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="125">Allan</attr>
+      <attr type="relatives" source="125">Catherine Smith</attr>
+      <attr type="relatives" source="125">Cynthia Jeffries</attr>
+      <attr type="relatives" source="125">Eleanor E. Smith</attr>
+      <attr type="othername" source="125">Allan Theodore Smith</attr>
+      <attr type="relatives" source="125">Susan Bauer</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="115" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="115">Chester V. Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="136" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="136">Kevin M. Smith</attr>
+      <attr type="othername" source="136">R. Theodore Smith</attr>
+      <attr type="relatives" source="136">Patricia A Smith</attr>
+      <attr type="relatives" source="136">Jeffrey Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="60" />
+      <doc rank="41" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="60">Eric Smith</attr>
+      <attr type="relatives" source="41">Smith</attr>
+      <attr type="relatives" source="41">SMITH, ERIC ALLAN</attr>
+      <attr type="relatives" source="41">Eric Smith</attr>
+      <attr type="relatives" source="41">Eric Allan Smith</attr>
+      <attr type="relatives" source="41">Eric A. Smith</attr>
+      <attr type="relatives" source="41">Eric</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="106" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="90">858-583-2271</attr>
+      <attr type="affiliation" source="90">the Windansea Surf Club</attr>
+      <attr type="othername" source="90">Theodore Kenneth Smith</attr>
+      <attr type="school" source="90">Maui Community College</attr>
+      <attr type="affiliation" source="90">La Jolla real estate</attr>
+      <attr type="affiliation" source="90">Windansea Surf Club</attr>
+      <attr type="school" source="90">San Diego State University</attr>
+      <attr type="school" source="90">La Jolla High</attr>
+      <attr type="occupation" source="90">Real Estate Agents</attr>
+      <attr type="relatives" source="90">Robin, Theodore</attr>
+      <attr type="location" source="90">UCSD area</attr>
+      <attr type="affiliation" source="90">Team De Jourday</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="27" />
+      <doc rank="102" />
+      <doc rank="71" />
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="27">BA degree</attr>
+      <attr type="affiliation" source="27">United Nations After-school Program</attr>
+      <attr type="occupation" source="27">teacher</attr>
+      <attr type="affiliation" source="27">Department of Education</attr>
+      <attr type="degree" source="27">BS degree</attr>
+      <attr type="affiliation" source="27">WPAT Multi-cultural Broadcasting</attr>
+      <attr type="othername" source="27">Theodore</attr>
+      <attr type="school" source="27">Fordham University</attr>
+      <attr type="affiliation" source="27">Beacon School</attr>
+      <attr type="affiliation" source="27">High School of Art &amp; Design</attr>
+      <attr type="occupation" source="27">account manager</attr>
+      <attr type="affiliation" source="27">WTBQ AM/FM</attr>
+      <attr type="affiliation" source="27">Central Broadcasting</attr>
+      <attr type="mentor" source="27">Uehling</attr>
+      <attr type="occupation" source="27">on-air personality</attr>
+      <attr type="affiliation" source="27">the New York Museum School</attr>
+      <attr type="degree" source="27">MA</attr>
+      <attr type="school" source="27">Sarah Lawrence</attr>
+      <attr type="school" source="27">Hampshire College</attr>
+      <attr type="othername" source="27">Theodore (Teddy) Smith</attr>
+      <attr type="school" source="27">Goddard College</attr>
+      <attr type="affiliation" source="27">WGHT</attr>
+      <attr type="occupation" source="27">public school teacher</attr>
+      <attr type="othername" source="27">Teddy</attr>
+      <attr type="birthplace" source="27">Suffern, New York</attr>
+      <attr type="affiliation" source="27">The Museum School</attr>
+      <attr type="othername" source="27">Teddy Smith</attr>
+      <attr type="affiliation" source="27">Chelsea High School</attr>
+      <attr type="mentor" source="27">Lindley Uehling</attr>
+      <attr type="affiliation" source="27">the Department of Education</attr>
+      <attr type="school" source="27">Empire State College</attr>
+      <attr type="occupation" source="27">physical education and health teacher</attr>
+      <attr type="degree" source="102">MA</attr>
+      <attr type="affiliation" source="102">the Department of Education</attr>
+      <attr type="othername" source="102">Teddy</attr>
+      <attr type="occupation" source="102">on-air personality</attr>
+      <attr type="occupation" source="102">physical education and martial arts teacher</attr>
+      <attr type="othername" source="102">Teddy Smith</attr>
+      <attr type="othername" source="102">Theodore (Teddy) Smith</attr>
+      <attr type="occupation" source="102">teacher</attr>
+      <attr type="othername" source="102">Theodore</attr>
+      <attr type="occupation" source="102">physical education and health teacher</attr>
+      <attr type="affiliation" source="102">The Museum School</attr>
+      <attr type="affiliation" source="102">Department of Education</attr>
+      <attr type="degree" source="102">BS degree</attr>
+      <attr type="affiliation" source="102">United Nations After-school Program</attr>
+      <attr type="occupation" source="102">special student</attr>
+      <attr type="birthplace" source="102">Suffern, New York</attr>
+      <attr type="school" source="102">Hampshire College</attr>
+      <attr type="occupation" source="102">public school teacher</attr>
+      <attr type="degree" source="102">BA degree</attr>
+      <attr type="school" source="102">Sarah Lawrence</attr>
+      <attr type="school" source="102">Fordham University</attr>
+      <attr type="affiliation" source="102">WTBQ AM/FM</attr>
+      <attr type="affiliation" source="102">WGHT</attr>
+      <attr type="affiliation" source="102">Central Broadcasting</attr>
+      <attr type="affiliation" source="102">the United Nations After-school Program</attr>
+      <attr type="occupation" source="102">account manager</attr>
+      <attr type="school" source="102">Empire State College</attr>
+      <attr type="affiliation" source="102">WPAT Multi-cultural Broadcasting</attr>
+      <attr type="school" source="102">Goddard College</attr>
+      <attr type="affiliation" source="71">United Federation of Teachers</attr>
+      <attr type="occupation" source="71">Teacher</attr>
+      <attr type="affiliation" source="71">the United Federation of Teachers</attr>
+      <attr type="affiliation" source="71">New York City Museum School</attr>
+      <attr type="affiliation" source="73">The Museum School</attr>
+      <attr type="affiliation" source="73">the Department of Education</attr>
+      <attr type="othername" source="73">Teddy</attr>
+      <attr type="school" source="73">Goddard College</attr>
+      <attr type="degree" source="73">MA</attr>
+      <attr type="birthplace" source="73">Suffern, New York</attr>
+      <attr type="affiliation" source="73">WTBQ AM/FM</attr>
+      <attr type="affiliation" source="73">WPAT Multi-cultural Broadcasting</attr>
+      <attr type="affiliation" source="73">Central Broadcasting</attr>
+      <attr type="affiliation" source="73">the United Nations After-school Program</attr>
+      <attr type="occupation" source="73">physical education and health teacher</attr>
+      <attr type="othername" source="73">Teddy Smith</attr>
+      <attr type="othername" source="73">Theodore</attr>
+      <attr type="school" source="73">Hampshire College</attr>
+      <attr type="degree" source="73">BS degree</attr>
+      <attr type="occupation" source="73">teacher</attr>
+      <attr type="school" source="73">Empire State College</attr>
+      <attr type="affiliation" source="73">WGHT</attr>
+      <attr type="affiliation" source="73">United Nations After-school Program</attr>
+      <attr type="degree" source="73">BA degree</attr>
+      <attr type="school" source="73">Fordham University</attr>
+      <attr type="occupation" source="73">account manager</attr>
+      <attr type="school" source="73">Sarah Lawrence</attr>
+      <attr type="affiliation" source="73">Department of Education</attr>
+      <attr type="othername" source="73">Theodore (Teddy) Smith</attr>
+      <attr type="occupation" source="73">special student</attr>
+      <attr type="affiliation" source="73">New York City Museum School</attr>
+      <attr type="occupation" source="73">physical education and martial arts teacher</attr>
+      <attr type="occupation" source="73">public school teacher</attr>
+      <attr type="occupation" source="73">on-air personality</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="2" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="2">Danville Elementary</attr>
+      <attr type="occupation" source="2">administrator</attr>
+      <attr type="affiliation" source="2">Georgia Prison System</attr>
+      <attr type="occupation" source="2">test administrator</attr>
+      <attr type="affiliation" source="2">Governor???s Council for Planning of Inclusion Education</attr>
+      <attr type="affiliation" source="2">Special Education Advisory Panel of the Georgia Department of Education</attr>
+      <attr type="occupation" source="2">teacher</attr>
+      <attr type="affiliation" source="2">Testing Unit Review Panel</attr>
+      <attr type="occupation" source="2">instructor</attr>
+      <attr type="affiliation" source="2">Central State Prison</attr>
+      <attr type="affiliation" source="2"> Governor?s Council for Planning of Inclusion Education</attr>
+      <attr type="affiliation" source="2">Georgia Public Education</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="5" />
+    </documents>
+    <attributes>
+      <attr type="school" source="5">Yonkers High School</attr>
+      <attr type="affiliation" source="5">Milrose A.A</attr>
+      <attr type="birthplace" source="5">Yonkers</attr>
+      <attr type="affiliation" source="5">St. Paul College</attr>
+      <attr type="othername" source="5">Ted</attr>
+      <attr type="occupation" source="5">director</attr>
+      <attr type="affiliation" source="5">Yonkers Police Athletic League</attr>
+      <attr type="award" source="5">Tom Keane Award</attr>
+      <attr type="occupation" source="5">track team captain</attr>
+      <attr type="affiliation" source="5">AME Zion Senior Basketball Team</attr>
+      <attr type="school" source="5">Syracuse</attr>
+      <attr type="dateofbirth" source="5">March 23, 1905</attr>
+      <attr type="affiliation" source="5">Hollywood Inn Club</attr>
+      <attr type="othername" source="5">Theodore H. Smith</attr>
+      <attr type="affiliation" source="5">1932 Olympic team in the running broad jump</attr>
+      <attr type="othername" source="5">Tedo</attr>
+      <attr type="school" source="5">Syracuse University</attr>
+      <attr type="school" source="5">Gorton High School</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="68" />
+      <doc rank="66" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="68">ted smith</attr>
+      <attr type="othername" source="66">ted smith</attr>
+      <attr type="othername" source="66">tedsmi</attr>
+      <attr type="location" source="66">Birmingham, AL USA</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="32" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="32">odore L. Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="39">Larry Smith</attr>
+      <attr type="occupation" source="39">deliveryman</attr>
+      <attr type="affiliation" source="39">Dalia&apos;s Pizza</attr>
+      <attr type="occupation" source="39">deliverymen</attr>
+      <attr type="othername" source="39">Theodore Othellis Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="38" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="112" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="112">New Hampshire Association of Chiefs of Police</attr>
+      <attr type="affiliation" source="112">Lincoln Police Department</attr>
+      <attr type="occupation" source="112">Chief</attr>
+      <attr type="othername" source="112">Theodore P Smith</attr>
+      <attr type="affiliation" source="112">NH Association of Chiefs of Police</attr>
+      <attr type="occupation" source="112">President</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="81" />
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="dateofbirth" source="81">05/23/1986</attr>
+      <attr type="othername" source="81">SHEFRIN THEODORE SMITH</attr>
+      <attr type="othername" source="29">SHEFRIN THEODORE SMITH</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="120" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="116" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="116">Teddy</attr>
+      <attr type="othername" source="116">Teddy Bear</attr>
+      <attr type="relatives" source="116">Maita Smith</attr>
+      <attr type="othername" source="116">Theodore</attr>
+      <attr type="award" source="116">Boy of the Year</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="122" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="122">seniors</attr>
+      <attr type="mentor" source="122">Steven Coghlan</attr>
+      <attr type="affiliation" source="122">SUNY-ESF</attr>
+      <attr type="email" source="122">tsmith03@syr.edu</attr>
+      <attr type="mentor" source="122">Neil Ringler</attr>
+      <attr type="affiliation" source="122">SUNY College of Environmental Science and Forestry</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="16" />
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="school" source="16">King&apos;s College</attr>
+      <attr type="location" source="16">Charlotte, North Carolina Area</attr>
+      <attr type="affiliation" source="16">Perry Manufacturing</attr>
+      <attr type="affiliation" source="16">Mohawk Industries</attr>
+      <attr type="occupation" source="16">Applications Manager</attr>
+      <attr type="affiliation" source="16">Deloitte Consulting</attr>
+      <attr type="occupation" source="16">Director Informatoin Technology</attr>
+      <attr type="affiliation" source="16">CMD Systems</attr>
+      <attr type="occupation" source="16">Project Manager</attr>
+      <attr type="affiliation" source="16">Lowes</attr>
+      <attr type="occupation" source="16">Sr Business Analyst</attr>
+      <attr type="occupation" source="16">Application Project Manager</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="129" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="77" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="location" source="86">Malvern, PA 19355</attr>
+      <attr type="fax" source="86">(610)648-0201</attr>
+      <attr type="location" source="86">49 East Lancaster Avenue</attr>
+      <attr type="occupation" source="86">Agent</attr>
+      <attr type="phone" source="86">(610)647-2600</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="62" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="20" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="20">Technical Sergeant</attr>
+      <attr type="birthplace" source="20">CT</attr>
+      <attr type="affiliation" source="20">Air Force</attr>
+      <attr type="othername" source="20">Smith, Theodore</attr>
+      <attr type="occupation" source="20">Veteran</attr>
+      <attr type="occupation" source="20">jet aircraft mechanic</attr>
+      <attr type="affiliation" source="20">5th Air Force</attr>
+      <attr type="dateofbirth" source="20">1935</attr>
+      <attr type="birthplace" source="20">Putnam, CT</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="26" />
+      <doc rank="18" />
+      <doc rank="8" />
+    </documents>
+    <attributes>
+      <attr type="work" source="26">Little Nicky</attr>
+      <attr type="occupation" source="26">lab technician</attr>
+      <attr type="occupation" source="26">Line Producer</attr>
+      <attr type="work" source="26">UFOs Uncovered</attr>
+      <attr type="affiliation" source="18">EFX Group Inc</attr>
+      <attr type="work" source="18">Little Nicky</attr>
+      <attr type="occupation" source="18">lab technician</attr>
+      <attr type="work" source="8">Singapore Sling</attr>
+      <attr type="occupation" source="8">Actor</attr>
+      <attr type="work" source="8">Scandalous Behavior</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="44" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="7" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="34" />
+      <doc rank="14" />
+      <doc rank="33" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="31">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="93">pioneer Noble</attr>
+      <attr type="affiliation" source="93">William Snow/Joseph Young Company</attr>
+      <attr type="occupation" source="93">Noble</attr>
+      <attr type="dateofbirth" source="93">6 Aug. 1840</attr>
+    </attributes>
+  </entity>
+  <entity id="32">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="110">Ted</attr>
+      <attr type="school" source="110">Boonville High School</attr>
+      <attr type="affiliation" source="110">Knights of Columbus</attr>
+      <attr type="occupation" source="110">mechanic</attr>
+      <attr type="othername" source="110">Brian Theodore Smith</attr>
+      <attr type="dateofbirth" source="110">Sept. 26, 1984</attr>
+      <attr type="relatives" source="110">Amy Fredrick</attr>
+      <attr type="affiliation" source="110">S.S. Peter and Paul Catholic Church</attr>
+      <attr type="affiliation" source="110">the Knights of Columbus</attr>
+      <attr type="affiliation" source="110">the S.S. Peter and Paul Catholic Church</attr>
+      <attr type="occupation" source="110">angler</attr>
+      <attr type="occupation" source="110">hunter</attr>
+      <attr type="birthplace" source="110">Columbia</attr>
+      <attr type="othername" source="110">Brian T. Smith</attr>
+      <attr type="occupation" source="110">3rd degree member</attr>
+      <attr type="relatives" source="110">Martha Rustemeyer Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="33">
+    <documents>
+      <doc rank="131" />
+    </documents>
+    <attributes>
+      <attr type="work" source="131">Life Without Art</attr>
+      <attr type="work" source="131">Slaveship</attr>
+      <attr type="affiliation" source="131">One World Media Center</attr>
+      <attr type="affiliation" source="131">The Discovery Communications</attr>
+      <attr type="work" source="131">2nd Language Advantage</attr>
+      <attr type="occupation" source="131">B.O.D. member</attr>
+      <attr type="affiliation" source="131">OWMC</attr>
+      <attr type="affiliation" source="131">One World Media Center, Inc.</attr>
+      <attr type="work" source="131">History of DOO-WOP</attr>
+      <attr type="occupation" source="131">documentary producer</attr>
+      <attr type="work" source="131">World War II: True Colors</attr>
+      <attr type="work" source="131">Building Your Future-Math in the Public Schools</attr>
+      <attr type="occupation" source="131">staff</attr>
+      <attr type="work" source="131">Nefertiti: Egypt&apos;s Mysterious Queen</attr>
+    </attributes>
+  </entity>
+  <entity id="34">
+    <documents>
+      <doc rank="92" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="92">Yavapai Indian reservation, Camp Verde, Arizona</attr>
+      <attr type="othername" source="92">Ted</attr>
+      <attr type="occupation" source="92">tribal council member</attr>
+      <attr type="school" source="92">Bacone Indian University</attr>
+      <attr type="othername" source="92">THEODORE SMITH, SR.</attr>
+      <attr type="affiliation" source="92">45th Infantry Division, 180th Infantry, Company I</attr>
+      <attr type="occupation" source="92">tribal chairman</attr>
+      <attr type="major" source="92">Economics</attr>
+      <attr type="major" source="92">Business</attr>
+    </attributes>
+  </entity>
+  <entity id="35">
+    <documents>
+      <doc rank="53" />
+    </documents>
+    <attributes>
+      <attr type="work" source="53">Alfred</attr>
+      <attr type="affiliation" source="53">Ebury Chapel</attr>
+      <attr type="nationality" source="53">Ferman</attr>
+      <attr type="dateofbirth" source="53">1740</attr>
+      <attr type="occupation" source="53">composer</attr>
+      <attr type="nationality" source="53">English</attr>
+      <attr type="occupation" source="53">organist</attr>
+    </attributes>
+  </entity>
+  <entity id="36">
+    <documents>
+      <doc rank="132" />
+      <doc rank="128" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="37">
+    <documents>
+      <doc rank="121" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="121">purchasing director</attr>
+      <attr type="affiliation" source="121">Rouse Polymerics International Inc.</attr>
+      <attr type="othername" source="121">C. Theodore ``Teddy&apos;&apos; Smith</attr>
+      <attr type="othername" source="121">C. Theodore Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="38">
+    <documents>
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="43">Murrells Inlet Lodge 368 AFM</attr>
+      <attr type="relatives" source="43">T. A. Rheuark Jr</attr>
+      <attr type="relatives" source="43">Addie McNair</attr>
+      <attr type="affiliation" source="43">Board of Directors of Horry Production Credit Association</attr>
+      <attr type="affiliation" source="43">the Murrells Inlet Lodge 368 AFM</attr>
+      <attr type="relatives" source="43">Helen Allen Smith</attr>
+      <attr type="occupation" source="43">retired farmer</attr>
+      <attr type="relatives" source="43">Ella Anderson Smith</attr>
+      <attr type="othername" source="43">Jesse Theodore</attr>
+      <attr type="affiliation" source="43">the Murrells Inlet Baptist Church</attr>
+      <attr type="affiliation" source="43">Murrells Inlet Baptist Church</attr>
+      <attr type="othername" source="43">Jesse Theodore Smith</attr>
+      <attr type="birthplace" source="43">Horry County</attr>
+      <attr type="dateofbirth" source="43">September 4, 1888</attr>
+      <attr type="relatives" source="43">John T.</attr>
+      <attr type="affiliation" source="43">Board of Commissioners</attr>
+    </attributes>
+  </entity>
+  <entity id="39">
+    <documents>
+      <doc rank="123" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="123">Linda</attr>
+      <attr type="relatives" source="123">Emerald Topaz Smith</attr>
+      <attr type="relatives" source="123">Emerald Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="40">
+    <documents>
+      <doc rank="95" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="95">Executive Director</attr>
+      <attr type="affiliation" source="95">Henry P. Kendall Foundation</attr>
+    </attributes>
+  </entity>
+  <entity id="41">
+    <documents>
+      <doc rank="23" />
+      <doc rank="75" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="23">R. Theodore Smith</attr>
+      <attr type="phone" source="23">(212) 283-5222</attr>
+      <attr type="occupation" source="23">Associate Clinical Professor of Ophthalmology</attr>
+      <attr type="degree" source="23">M.D.</attr>
+      <attr type="degree" source="23">Ph.D.</attr>
+      <attr type="school" source="23">Rice University</attr>
+      <attr type="occupation" source="75">PI</attr>
+      <attr type="degree" source="75">PhD</attr>
+      <attr type="affiliation" source="75">Eye Institute</attr>
+      <attr type="fax" source="75">212-342-3187</attr>
+      <attr type="occupation" source="75">medical retinal specialist</attr>
+      <attr type="occupation" source="75">Associate Clinical Professor of Ophthalmology</attr>
+      <attr type="affiliation" source="75">the Eye Institute</attr>
+      <attr type="degree" source="75">MD</attr>
+      <attr type="phone" source="75">212-283-5222</attr>
+      <attr type="othername" source="75">R Theodore Smith</attr>
+      <attr type="occupation" source="75">MD</attr>
+    </attributes>
+  </entity>
+  <entity id="42">
+    <documents>
+      <doc rank="65" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="43">
+    <documents>
+      <doc rank="9" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="9">M.D.</attr>
+      <attr type="othername" source="9">Smith T</attr>
+      <attr type="othername" source="9">Smith TR</attr>
+    </attributes>
+  </entity>
+  <entity id="44">
+    <documents>
+      <doc rank="137" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="137">Dr.</attr>
+      <attr type="othername" source="137">Roland Smith</attr>
+      <attr type="relatives" source="137">Paula Smith</attr>
+      <attr type="relatives" source="137">Paula Judith Smith</attr>
+      <attr type="relatives" source="137">Roland Smith</attr>
+      <attr type="othername" source="137">Roland Theodore Smith</attr>
+    </attributes>
+  </entity>
+  <entity id="45">
+    <documents>
+      <doc rank="30" />
+      <doc rank="31" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="46">
+    <documents>
+      <doc rank="4" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="47">
+    <documents>
+      <doc rank="135" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="135">United States Committee for the United Nations</attr>
+      <attr type="occupation" source="135">Executive Director</attr>
+    </attributes>
+  </entity>
+  <entity id="48">
+    <documents>
+      <doc rank="35" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="35">186th Infantry</attr>
+      <attr type="relatives" source="35">Shirley Gilges</attr>
+      <attr type="othername" source="35">Theodore K.</attr>
+      <attr type="relatives" source="35">Nancy Mitchell</attr>
+      <attr type="relatives" source="35">Larry Smith</attr>
+      <attr type="affiliation" source="35">Mid-America Dairyman&apos;s Association</attr>
+      <attr type="relatives" source="35">Mary B. Kirkman Smith</attr>
+      <attr type="relatives" source="35">Lois E. Thorsland</attr>
+      <attr type="relatives" source="35">Silas J. Smith</attr>
+      <attr type="affiliation" source="35">the Mid-America Dairyman&apos;s Association</attr>
+      <attr type="relatives" source="35">Debra Croucher</attr>
+      <attr type="affiliation" source="35">Greenwood Baptist Church</attr>
+      <attr type="relatives" source="35">Linda Reed</attr>
+      <attr type="relatives" source="35">Betty Heinlein</attr>
+      <attr type="relatives" source="35">Billy Smith</attr>
+      <attr type="school" source="35">Pomona High School</attr>
+      <attr type="dateofbirth" source="35">Nov. 10, 1918</attr>
+      <attr type="birthplace" source="35">Williamsburg</attr>
+      <attr type="occupation" source="35">trustee</attr>
+      <attr type="affiliation" source="35">Greenwood Grange</attr>
+      <attr type="affiliation" source="35">Greenwood Township</attr>
+      <attr type="relatives" source="35">Cleda Rea</attr>
+      <attr type="affiliation" source="35">Army</attr>
+      <attr type="affiliation" source="35">Post No. 5901 of the Veterans of Foreign Wars</attr>
+    </attributes>
+  </entity>
+  <entity id="49">
+    <documents>
+      <doc rank="130" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="50">
+    <documents>
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="12">licensed attorney</attr>
+      <attr type="othername" source="12">Theodore M. Smith</attr>
+      <attr type="occupation" source="12">attorney</attr>
+      <attr type="occupation" source="12">lawyer</attr>
+      <attr type="othername" source="12">THEODORE M. SMITH</attr>
+    </attributes>
+  </entity>
+  <entity id="51">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+      <attr type="school" source="111">Gloucester Catholic Schools</attr>
+      <attr type="affiliation" source="111">the Garden State Racetrack</attr>
+      <attr type="occupation" source="111">mutual clerk</attr>
+      <attr type="othername" source="111">Theodore</attr>
+      <attr type="affiliation" source="111">Garden State Racetrack</attr>
+      <attr type="othername" source="111">Smith, Theodore</attr>
+    </attributes>
+  </entity>
+  <entity id="52">
+    <documents>
+      <doc rank="119" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="119">the First National Bank of River Falls-Prescott</attr>
+      <attr type="othername" source="119">George Theodore Smith</attr>
+      <attr type="relatives" source="119">Jeff</attr>
+      <attr type="occupation" source="119">President</attr>
+      <attr type="occupation" source="119">businessman</attr>
+      <attr type="occupation" source="119">mayor</attr>
+      <attr type="relatives" source="119">Jeff Smith</attr>
+      <attr type="othername" source="119">George Theo. Smith</attr>
+      <attr type="affiliation" source="119">the First National</attr>
+      <attr type="affiliation" source="119">the First National Bank</attr>
+      <attr type="othername" source="119">G.T.</attr>
+      <attr type="occupation" source="119">bank president</attr>
+      <attr type="relatives" source="119">Jefferson Franklin Smith</attr>
+      <attr type="othername" source="119">G.T. Smith</attr>
+      <attr type="affiliation" source="119">First National Bank</attr>
+      <attr type="occupation" source="119">Directors</attr>
+      <attr type="occupation" source="119">owner</attr>
+      <attr type="affiliation" source="119">First National Bank of River Falls-Prescott</attr>
+    </attributes>
+  </entity>
+  <entity id="53">
+    <documents>
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="51">municipal judge</attr>
+      <attr type="affiliation" source="51">13th District Court</attr>
+      <attr type="occupation" source="51">Honorable</attr>
+      <attr type="occupation" source="51">13th District Court Judge</attr>
+      <attr type="occupation" source="51">Hon.</attr>
+      <attr type="occupation" source="51">Judge</attr>
+    </attributes>
+  </entity>
+  <entity id="54">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="69">Gerald Theodore Smith</attr>
+    </attributes>
+  </entity>
+</clustering>

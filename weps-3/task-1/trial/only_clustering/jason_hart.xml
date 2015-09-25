@@ -1,0 +1,182 @@
+<clustering searchString="JASON HART">
+  <entity id="1">
+    <documents>
+      <doc rank="111" />
+    </documents>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="55" />
+      <doc rank="100" />
+      <doc rank="107" />
+      <doc rank="66" />
+    </documents>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="116" />
+      <doc rank="69" />
+      <doc rank="9" />
+    </documents>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="21" />
+      <doc rank="10" />
+    </documents>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="57" />
+      <doc rank="90" />
+      <doc rank="71" />
+      <doc rank="65" />
+      <doc rank="113" />
+      <doc rank="39" />
+      <doc rank="112" />
+      <doc rank="106" />
+      <doc rank="14" />
+      <doc rank="87" />
+      <doc rank="45" />
+      <doc rank="35" />
+      <doc rank="26" />
+      <doc rank="31" />
+      <doc rank="46" />
+      <doc rank="83" />
+      <doc rank="98" />
+      <doc rank="16" />
+      <doc rank="101" />
+      <doc rank="32" />
+      <doc rank="51" />
+      <doc rank="48" />
+      <doc rank="37" />
+      <doc rank="49" />
+      <doc rank="60" />
+      <doc rank="79" />
+      <doc rank="76" />
+      <doc rank="52" />
+      <doc rank="3" />
+      <doc rank="20" />
+      <doc rank="85" />
+      <doc rank="17" />
+      <doc rank="61" />
+      <doc rank="44" />
+      <doc rank="27" />
+      <doc rank="122" />
+      <doc rank="75" />
+      <doc rank="110" />
+      <doc rank="12" />
+      <doc rank="6" />
+      <doc rank="4" />
+      <doc rank="2" />
+      <doc rank="92" />
+      <doc rank="42" />
+      <doc rank="22" />
+      <doc rank="1" />
+      <doc rank="59" />
+      <doc rank="97" />
+      <doc rank="63" />
+      <doc rank="7" />
+      <doc rank="13" />
+      <doc rank="33" />
+      <doc rank="53" />
+      <doc rank="99" />
+      <doc rank="15" />
+    </documents>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="23" />
+    </documents>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="67" />
+    </documents>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="86" />
+    </documents>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="54" />
+      <doc rank="80" />
+      <doc rank="74" />
+      <doc rank="62" />
+    </documents>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="89" />
+    </documents>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="28" />
+    </documents>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="93" />
+    </documents>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="30" />
+    </documents>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="91" />
+    </documents>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="109" />
+    </documents>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="11" />
+    </documents>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="36" />
+    </documents>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="56" />
+    </documents>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="47" />
+      <doc rank="24" />
+    </documents>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="43" />
+      <doc rank="41" />
+      <doc rank="38" />
+      <doc rank="19" />
+      <doc rank="114" />
+      <doc rank="64" />
+      <doc rank="58" />
+    </documents>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="8" />
+    </documents>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="72" />
+    </documents>
+  </entity>
+</clustering>

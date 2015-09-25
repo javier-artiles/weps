@@ -1,0 +1,903 @@
+<clustering searchString="JASON HART">
+  <entity id="1">
+    <documents>
+      <doc rank="36" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="36">special effects assistant</attr>
+      <attr type="work" source="36">Midnight Man</attr>
+      <attr type="work" source="36">Blood for Blood</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="116" />
+      <doc rank="9" />
+      <doc rank="69" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="28">Owner</attr>
+      <attr type="phone" source="28">321.698.0099</attr>
+      <attr type="fax" source="28">321.452.5990</attr>
+      <attr type="location" source="28">2955 Pineda Causeway Suite 101 | Melbourne, Florida 32940</attr>
+      <attr type="email" source="28">HartAgent@aol.com</attr>
+      <attr type="phone" source="28">800. 607.HART (4278)</attr>
+      <attr type="phone" source="28">321.693.2672</attr>
+      <attr type="occupation" source="28">Realtor</attr>
+      <attr type="affiliation" source="28">Commercial Division</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="30">board of directors of Arroyo Grande Rotary Club</attr>
+      <attr type="phone" source="30">805-481-9010</attr>
+      <attr type="affiliation" source="30">Hart Commercial Real Estate</attr>
+      <attr type="school" source="30">California Polytechnic State University</attr>
+      <attr type="affiliation" source="30">RECS</attr>
+      <attr type="occupation" source="30">principal</attr>
+      <attr type="relatives" source="30">Gianni</attr>
+      <attr type="school" source="30">School of Business</attr>
+      <attr type="affiliation" source="30">CAA</attr>
+      <attr type="affiliation" source="30">LeMay &amp; Hart Real Estate Investments</attr>
+      <attr type="email" source="30">Jason@HartCRE.com</attr>
+      <attr type="relatives" source="30">Lucca</attr>
+      <attr type="relatives" source="30">Shelli</attr>
+      <attr type="affiliation" source="30">board of directors for the Boys &amp; Girls Club of South San Luis Obispo</attr>
+      <attr type="affiliation" source="30">NAA</attr>
+      <attr type="affiliation" source="30">National Apartment Association</attr>
+      <attr type="affiliation" source="30">PCAOR</attr>
+      <attr type="affiliation" source="30">Real Estate CyberSpace Society</attr>
+      <attr type="affiliation" source="30">National Assocaition of Realtors</attr>
+      <attr type="affiliation" source="30">LHI</attr>
+      <attr type="affiliation" source="30">NAR</attr>
+      <attr type="affiliation" source="30">California Apartment Association</attr>
+      <attr type="location" source="30">Nipomo</attr>
+      <attr type="affiliation" source="30">Pismo Coast Asocation of Realtors</attr>
+      <attr type="affiliation" source="30">LHI Apartment Brokers</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="107" />
+      <doc rank="66" />
+      <doc rank="100" />
+      <doc rank="55" />
+    </documents>
+    <attributes>
+      <attr type="work" source="107">Iggy Woo</attr>
+      <attr type="work" source="66">Biker Build-Off</attr>
+      <attr type="work" source="66">Brian Klock vs. Jason Hart</attr>
+      <attr type="work" source="66">Chasing the Dream</attr>
+      <attr type="work" source="100">Biker Build Off Season 3 - Episode 11: Brian Klock vs. Jason Hart</attr>
+      <attr type="location" source="55">Providence</attr>
+      <attr type="work" source="55">The Blue Room</attr>
+      <attr type="school" source="55">Brown/Trinity Consortium MFA acting program</attr>
+      <attr type="affiliation" source="55">Pace University</attr>
+      <attr type="work" source="55">Little Shop of Horrors</attr>
+      <attr type="work" source="55">Big Love</attr>
+      <attr type="work" source="55">The Jude&apos;s Law</attr>
+      <attr type="degree" source="55">MFA</attr>
+      <attr type="work" source="55">Iggy Woo</attr>
+      <attr type="work" source="55">Glengarry Glen Ross</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="school" source="23">Middle Tennessee State University</attr>
+      <attr type="affiliation" source="23">Metropolitan Council of Nashville and Davidson County</attr>
+      <attr type="affiliation" source="23">Education Committee</attr>
+      <attr type="school" source="23">U.S. Army Medical Specialist College</attr>
+      <attr type="affiliation" source="23">U.S. Army</attr>
+      <attr type="affiliation" source="23">Attorney&apos;s Office</attr>
+      <attr type="occupation" source="23">Combat Medic</attr>
+      <attr type="occupation" source="23">Vice Chair</attr>
+      <attr type="occupation" source="23">investigator</attr>
+      <attr type="degree" source="23">Bachelor of Science degree</attr>
+      <attr type="affiliation" source="23">Health, Hospitals, and Social Services Committee</attr>
+      <attr type="affiliation" source="23">Public Safety - Beer and Regulated Beverages Committee</attr>
+      <attr type="affiliation" source="23">Davidson County Sheriff&apos;s Office</attr>
+      <attr type="occupation" source="23">deputy</attr>
+      <attr type="occupation" source="23">legislators</attr>
+      <attr type="occupation" source="23">legislator</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="24" />
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="24">(970) 453-2200</attr>
+      <attr type="phone" source="24">(800) 774-7970</attr>
+      <attr type="fax" source="24">(970) 453-5412</attr>
+      <attr type="phone" source="24">1-800-774-7970</attr>
+      <attr type="email" source="24">info@BreckenridgeFineHomes.com</attr>
+      <attr type="location" source="24">Breckenridge &amp; Summit County</attr>
+      <attr type="email" source="24">info@breckenridgefinehomes.com</attr>
+      <attr type="affiliation" source="24">Breckenridge Associates Real Estate</attr>
+      <attr type="phone" source="24">(970) 376-7599</attr>
+      <attr type="occupation" source="47">partner</attr>
+      <attr type="email" source="47">jason@breckenridgeassociates.com</attr>
+      <attr type="occupation" source="47">listing broker</attr>
+      <attr type="relatives" source="47">McKenzie</attr>
+      <attr type="phone" source="47">(800) 774-7970</attr>
+      <attr type="affiliation" source="47">Breckenridge Associates Real Estate</attr>
+      <attr type="relatives" source="47">Aldyn</attr>
+      <attr type="occupation" source="47">real estate professionals</attr>
+      <attr type="affiliation" source="47">Breckenridge Associates</attr>
+      <attr type="occupation" source="47">Broker Associate</attr>
+      <attr type="award" source="47">Chairman&#65533;fs Circle Award</attr>
+      <attr type="school" source="47">St. Lawrence University</attr>
+      <attr type="website" source="47">http://www.breckenridgefinehomes.com/</attr>
+      <attr type="occupation" source="47">co-listing broker</attr>
+      <attr type="occupation" source="47">licensed broker</attr>
+      <attr type="affiliation" source="47">Prudential Timberhill Real Estate</attr>
+      <attr type="affiliation" source="47">Summit County Investment Company</attr>
+      <attr type="occupation" source="47">brokers</attr>
+      <attr type="affiliation" source="47">Swan River Ranch</attr>
+      <attr type="major" source="47">Economics</attr>
+      <attr type="degree" source="47">Bachelor of Arts</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="67" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="67">first baseman</attr>
+      <attr type="affiliation" source="67">RedHawks</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="86" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="work" source="109">The Magic Flute</attr>
+      <attr type="occupation" source="109">staff accompanist</attr>
+      <attr type="occupation" source="109">seasoned recitalist</attr>
+      <attr type="work" source="109">Into the Woods</attr>
+      <attr type="work" source="109">Hansel and Gretel</attr>
+      <attr type="school" source="109">American Institute of Musical Studies</attr>
+      <attr type="occupation" source="109">pianist</attr>
+      <attr type="work" source="109">Les Miserables</attr>
+      <attr type="location" source="109">New York</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="11">Jason Hart Klein</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="91" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="91">USS Saratoga (CV 60), Operations Department, Operations Information Division</attr>
+      <attr type="othername" source="91">Hart, Jason</attr>
+      <attr type="occupation" source="91">Petty Officer Third Class, E-4</attr>
+      <attr type="occupation" source="91">Operations Specialist</attr>
+      <attr type="birthplace" source="91">TN</attr>
+      <attr type="dateofbirth" source="91">1970</attr>
+      <attr type="affiliation" source="91">Mayport Naval Air Station</attr>
+      <attr type="othername" source="91">Jason W. Hart</attr>
+      <attr type="occupation" source="91">Veteran</attr>
+      <attr type="birthplace" source="91">Chattanooga, TN</attr>
+      <attr type="affiliation" source="91">Navy</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="email" source="89">jasonhart6@hotmail.com</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="19" />
+      <doc rank="41" />
+      <doc rank="38" />
+      <doc rank="43" />
+      <doc rank="64" />
+      <doc rank="58" />
+      <doc rank="114" />
+    </documents>
+    <attributes>
+      <attr type="school" source="19">Fair Grove (MO) HS</attr>
+      <attr type="affiliation" source="19">Oklahoma Redhawks</attr>
+      <attr type="birthplace" source="19">Walnut Creek, CA</attr>
+      <attr type="dateofbirth" source="19">September 5, 1977</attr>
+      <attr type="affiliation" source="19">Oakland</attr>
+      <attr type="award" source="19">Topps 2000 Player-Of-Year</attr>
+      <attr type="othername" source="19">Jason Wyatt Hart</attr>
+      <attr type="affiliation" source="19">Oakland A&apos;s</attr>
+      <attr type="award" source="19">Northwest League MVP</attr>
+      <attr type="award" source="19">Texas League Player of the Week 5/15-5/21</attr>
+      <attr type="school" source="19">Southwest Missouri State</attr>
+      <attr type="affiliation" source="19">Oklahoma</attr>
+      <attr type="occupation" source="19">1B</attr>
+      <attr type="affiliation" source="19">Texas Rangers</attr>
+      <attr type="affiliation" source="19">Texas Ranger</attr>
+      <attr type="award" source="19">AA #3 Best Hitter</attr>
+      <attr type="location" source="19">Springfield, Missouri</attr>
+      <attr type="award" source="19">Midland Rockhounds Play of the Year</attr>
+      <attr type="affiliation" source="41">Midland</attr>
+      <attr type="affiliation" source="41">Texas</attr>
+      <attr type="affiliation" source="41">Modesto</attr>
+      <attr type="affiliation" source="41">Texas Rangers</attr>
+      <attr type="occupation" source="41">Player</attr>
+      <attr type="affiliation" source="41">Minnesota Twins</attr>
+      <attr type="affiliation" source="41">Oakland Athletics</attr>
+      <attr type="award" source="41">Most Valuable Player</attr>
+      <attr type="affiliation" source="41">Frisco</attr>
+      <attr type="affiliation" source="41">Oklahoma</attr>
+      <attr type="affiliation" source="41">Sacramento</attr>
+      <attr type="affiliation" source="41">South Oregon</attr>
+      <attr type="dateofbirth" source="41">November 30, 1999</attr>
+      <attr type="dateofbirth" source="38">09/05/1977</attr>
+      <attr type="occupation" source="38">1B</attr>
+      <attr type="affiliation" source="38">Oklahmoa</attr>
+      <attr type="birthplace" source="38">Walnut Creek, CA</attr>
+      <attr type="occupation" source="38">first baseman</attr>
+      <attr type="affiliation" source="38">Texas Rangers</attr>
+      <attr type="affiliation" source="38">Midland</attr>
+      <attr type="affiliation" source="38">Sou Oregon</attr>
+      <attr type="affiliation" source="38">Rochester</attr>
+      <attr type="affiliation" source="38">Sacramento</attr>
+      <attr type="affiliation" source="38">Minnesota Twins</attr>
+      <attr type="affiliation" source="38">Rangers</attr>
+      <attr type="affiliation" source="38">Texas</attr>
+      <attr type="occupation" source="38">First Basemen</attr>
+      <attr type="affiliation" source="38">Modesto</attr>
+      <attr type="school" source="38">Southwest Missouri State</attr>
+      <attr type="affiliation" source="38">Minnesota</attr>
+      <attr type="affiliation" source="38">Frisco</attr>
+      <attr type="dateofbirth" source="43">Sep 5, 1977</attr>
+      <attr type="affiliation" source="43">TEX</attr>
+      <attr type="birthplace" source="43">Walnut Creek, California</attr>
+      <attr type="affiliation" source="64">Modesto A&apos;s</attr>
+      <attr type="affiliation" source="64">Midland RockHounds</attr>
+      <attr type="affiliation" source="64">Southern Oregon Timberjacks</attr>
+      <attr type="birthplace" source="58">Springfield</attr>
+      <attr type="affiliation" source="58">Frisco RoughRiders</attr>
+      <attr type="affiliation" source="58">Bears</attr>
+      <attr type="award" source="58">Missouri Valley Conference MVP</attr>
+      <attr type="school" source="58">Missouri State</attr>
+      <attr type="affiliation" source="114">Texas Rangers</attr>
+      <attr type="affiliation" source="114">RoughRiders</attr>
+      <attr type="affiliation" source="114">Frisco RoughRiders</attr>
+      <attr type="occupation" source="114">first baseman</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="62" />
+      <doc rank="54" />
+      <doc rank="74" />
+      <doc rank="80" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="62">Protocom</attr>
+      <attr type="affiliation" source="62">sales and marketing</attr>
+      <attr type="occupation" source="62">chief executive officer</attr>
+      <attr type="occupation" source="62">senior manager</attr>
+      <attr type="affiliation" source="62">ACTI</attr>
+      <attr type="affiliation" source="62">board of directors</attr>
+      <attr type="occupation" source="62">CEO</attr>
+      <attr type="affiliation" source="62">ActivCard Corp.</attr>
+      <attr type="affiliation" source="62">ActivIdentity</attr>
+      <attr type="occupation" source="62">senior vice president</attr>
+      <attr type="occupation" source="54">Senior Vice President</attr>
+      <attr type="occupation" source="54">Director</attr>
+      <attr type="occupation" source="54">Chief Executive Officer</attr>
+      <attr type="location" source="54">Fremont, California</attr>
+      <attr type="affiliation" source="54">Board of Directors</attr>
+      <attr type="affiliation" source="54">Sales</attr>
+      <attr type="occupation" source="54">independent investor</attr>
+      <attr type="affiliation" source="54">Protocom Development Systems Pty. Ltd.</attr>
+      <attr type="occupation" source="54">Directors</attr>
+      <attr type="affiliation" source="54">ActivIdentity Corporation</attr>
+      <attr type="affiliation" source="54">Protocom</attr>
+      <attr type="website" source="80">www.actividentity.com</attr>
+      <attr type="occupation" source="80">chief executive office</attr>
+      <attr type="award" source="80">Ernst &amp; Young Australian Young Entrepreneur Of The Year</attr>
+      <attr type="location" source="80">Silicon Valley</attr>
+      <attr type="occupation" source="80">Entrepreneur</attr>
+      <attr type="affiliation" source="80">Protocom</attr>
+      <attr type="affiliation" source="80">ActivIdentity? Corporation</attr>
+      <attr type="affiliation" source="80">ActivIdentity</attr>
+      <attr type="affiliation" source="80">ACTI</attr>
+      <attr type="occupation" source="80">CEO</attr>
+      <attr type="affiliation" source="80">ActivIdentity&amp;#174; Corporation</attr>
+      <attr type="nationality" source="80">Australian</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="72">(214) 540-2727</attr>
+      <attr type="phone" source="72">(817) 944-6382</attr>
+      <attr type="website" source="72">http://www.dfwrealtors.com</attr>
+      <attr type="affiliation" source="72">MetroTex Association of REALTORS</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="8" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="10" />
+      <doc rank="21" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="10">Jason Hart Racing</attr>
+      <attr type="occupation" source="10">driving instructor</attr>
+      <attr type="affiliation" source="10">Panoz Racing School</attr>
+      <attr type="phone" source="10">(972) 898-3952</attr>
+      <attr type="email" source="10">jason@jasonhartracing.com</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="location" source="56">Greater Los Angeles Area</attr>
+      <attr type="affiliation" source="56">Gibson, Dunn &amp; Crutcher</attr>
+      <attr type="affiliation" source="56">Universal Music Group</attr>
+      <attr type="occupation" source="56">Senior Manager HRIS</attr>
+      <attr type="occupation" source="56">Webmaster</attr>
+      <attr type="school" source="56">University of California, Riverside</attr>
+      <attr type="occupation" source="56">Financial Systems Admin.</attr>
+      <attr type="affiliation" source="56">EMI Music / Capitol Records</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="65" />
+      <doc rank="13" />
+      <doc rank="83" />
+      <doc rank="22" />
+      <doc rank="57" />
+      <doc rank="4" />
+      <doc rank="79" />
+      <doc rank="51" />
+      <doc rank="33" />
+      <doc rank="87" />
+      <doc rank="113" />
+      <doc rank="122" />
+      <doc rank="85" />
+      <doc rank="59" />
+      <doc rank="27" />
+      <doc rank="76" />
+      <doc rank="16" />
+      <doc rank="90" />
+      <doc rank="26" />
+      <doc rank="32" />
+      <doc rank="98" />
+      <doc rank="1" />
+      <doc rank="75" />
+      <doc rank="106" />
+      <doc rank="53" />
+      <doc rank="99" />
+      <doc rank="6" />
+      <doc rank="52" />
+      <doc rank="101" />
+      <doc rank="112" />
+      <doc rank="14" />
+      <doc rank="61" />
+      <doc rank="110" />
+      <doc rank="63" />
+      <doc rank="42" />
+      <doc rank="71" />
+      <doc rank="49" />
+      <doc rank="20" />
+      <doc rank="3" />
+      <doc rank="48" />
+      <doc rank="2" />
+      <doc rank="35" />
+      <doc rank="97" />
+      <doc rank="7" />
+      <doc rank="31" />
+      <doc rank="44" />
+      <doc rank="45" />
+      <doc rank="46" />
+      <doc rank="37" />
+      <doc rank="15" />
+      <doc rank="92" />
+      <doc rank="17" />
+      <doc rank="39" />
+      <doc rank="12" />
+      <doc rank="60" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="13">LAC</attr>
+      <attr type="affiliation" source="13">MIL</attr>
+      <attr type="affiliation" source="13">SA</attr>
+      <attr type="affiliation" source="13">UTA</attr>
+      <attr type="affiliation" source="13">CHA</attr>
+      <attr type="affiliation" source="13">SAC</attr>
+      <attr type="affiliation" source="13">Utah Jazz</attr>
+      <attr type="occupation" source="13">PG</attr>
+      <attr type="school" source="13">Syracuse</attr>
+      <attr type="dateofbirth" source="13">Apr 29, 1978</attr>
+      <attr type="affiliation" source="83">Bobcats</attr>
+      <attr type="occupation" source="83">guard</attr>
+      <attr type="occupation" source="83">point guard</attr>
+      <attr type="affiliation" source="83">Sacramento</attr>
+      <attr type="school" source="83">Syracuse</attr>
+      <attr type="affiliation" source="83">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="83">Charlotte</attr>
+      <attr type="affiliation" source="22">Milwaukee Bucks</attr>
+      <attr type="affiliation" source="22">Sacramento Kings</attr>
+      <attr type="affiliation" source="22">San Antonio Spurs</attr>
+      <attr type="school" source="22">Inglewood High School</attr>
+      <attr type="othername" source="22">J-Hart</attr>
+      <attr type="affiliation" source="22">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="22">Charlotte Bobcats</attr>
+      <attr type="affiliation" source="22">Utah Jazz</attr>
+      <attr type="affiliation" source="22">Bucks</attr>
+      <attr type="dateofbirth" source="22">April 29, 1978</attr>
+      <attr type="school" source="22">Syracuse University</attr>
+      <attr type="affiliation" source="22">Makedonikos</attr>
+      <attr type="birthplace" source="22">Los Angeles, California</attr>
+      <attr type="occupation" source="22">professional basketball player</attr>
+      <attr type="othername" source="22">Jason Keema Hart</attr>
+      <attr type="dateofbirth" source="22">April 29, 1979</attr>
+      <attr type="occupation" source="22">Guard</attr>
+      <attr type="affiliation" source="57">Milwaukee</attr>
+      <attr type="affiliation" source="57">Jazz</attr>
+      <attr type="affiliation" source="57">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="57">Utah Jazz</attr>
+      <attr type="affiliation" source="57">Sacramento</attr>
+      <attr type="affiliation" source="57">Charlotte</attr>
+      <attr type="occupation" source="57">guard</attr>
+      <attr type="affiliation" source="57">San Antonio</attr>
+      <attr type="birthplace" source="4">Los Angeles, California</attr>
+      <attr type="affiliation" source="4">LAC</attr>
+      <attr type="affiliation" source="4">UTA</attr>
+      <attr type="occupation" source="4">Guard</attr>
+      <attr type="affiliation" source="4">SAC</attr>
+      <attr type="occupation" source="4">Point Guard</attr>
+      <attr type="affiliation" source="4">Los Angeles Clippers</attr>
+      <attr type="occupation" source="4">Player</attr>
+      <attr type="school" source="4">Syracuse</attr>
+      <attr type="dateofbirth" source="4">Apr 29, 1978</attr>
+      <attr type="occupation" source="79">PG</attr>
+      <attr type="affiliation" source="79">Utah Jazz</attr>
+      <attr type="affiliation" source="87">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="87">Clippers</attr>
+      <attr type="affiliation" source="87">Jazz</attr>
+      <attr type="occupation" source="87">veteran guard</attr>
+      <attr type="occupation" source="87">guard</attr>
+      <attr type="occupation" source="113">point guard</attr>
+      <attr type="occupation" source="113">guard</attr>
+      <attr type="affiliation" source="113">Milwaukee</attr>
+      <attr type="affiliation" source="113">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="113">Sacramento</attr>
+      <attr type="affiliation" source="113">Utah Jazz</attr>
+      <attr type="affiliation" source="113">San Antonio</attr>
+      <attr type="affiliation" source="113">Charlotte</attr>
+      <attr type="affiliation" source="113">Jazz</attr>
+      <attr type="occupation" source="122">point guards</attr>
+      <attr type="affiliation" source="122">Bobcats</attr>
+      <attr type="affiliation" source="122">Los Angeles</attr>
+      <attr type="affiliation" source="122">Utah</attr>
+      <attr type="affiliation" source="122">kings</attr>
+      <attr type="affiliation" source="122">Jazz</attr>
+      <attr type="affiliation" source="122">Clippers</attr>
+      <attr type="affiliation" source="85">Utah Jazz</attr>
+      <attr type="affiliation" source="85">Clippers</attr>
+      <attr type="affiliation" source="85">Sacramento</attr>
+      <attr type="mentor" source="85">Eric Musselman</attr>
+      <attr type="affiliation" source="85">Jazz</attr>
+      <attr type="occupation" source="85">player</attr>
+      <attr type="affiliation" source="85">Charlotte</attr>
+      <attr type="affiliation" source="85">Bobcats</attr>
+      <attr type="mentor" source="85">Dunleavy</attr>
+      <attr type="mentor" source="85">Mike Dunleavy</attr>
+      <attr type="school" source="59">Syracuse</attr>
+      <attr type="dateofbirth" source="59">04/29/1978</attr>
+      <attr type="birthplace" source="59">Los Angeles, CA</attr>
+      <attr type="affiliation" source="59">Milwaukee</attr>
+      <attr type="affiliation" source="59">San Antonio</attr>
+      <attr type="affiliation" source="59">Sacramento</attr>
+      <attr type="affiliation" source="59">SAC</attr>
+      <attr type="affiliation" source="59">Los Angeles</attr>
+      <attr type="affiliation" source="59">LAC</attr>
+      <attr type="affiliation" source="59">Charlotte</attr>
+      <attr type="occupation" source="27">PG</attr>
+      <attr type="school" source="27">Syracuse</attr>
+      <attr type="affiliation" source="27">SA</attr>
+      <attr type="affiliation" source="27">MIL</attr>
+      <attr type="affiliation" source="27">CHA</attr>
+      <attr type="affiliation" source="27">SAC</attr>
+      <attr type="affiliation" source="27">LAC</attr>
+      <attr type="dateofbirth" source="27">Apr 29 1978</attr>
+      <attr type="affiliation" source="27">Utah Jazz</attr>
+      <attr type="affiliation" source="27">UTA</attr>
+      <attr type="occupation" source="76">Guard</attr>
+      <attr type="dateofbirth" source="76">Apr 29 1978</attr>
+      <attr type="affiliation" source="76">Los Angeles Clippers</attr>
+      <attr type="school" source="76">Syracuse</attr>
+      <attr type="affiliation" source="16">Los Angeles Clippers</attr>
+      <attr type="birthplace" source="16">Los Angeles, California</attr>
+      <attr type="dateofbirth" source="16">Apr 29, 1978</attr>
+      <attr type="occupation" source="16">Point Guard</attr>
+      <attr type="school" source="16">Syracuse</attr>
+      <attr type="school" source="90">Syracuse</attr>
+      <attr type="occupation" source="90">Guard</attr>
+      <attr type="affiliation" source="90">Utah Jazz</attr>
+      <attr type="school" source="26">Syracuse</attr>
+      <attr type="othername" source="26">Glass Jaw</attr>
+      <attr type="occupation" source="26">freshman</attr>
+      <attr type="occupation" source="26">senior</attr>
+      <attr type="major" source="26">Sociology</attr>
+      <attr type="occupation" source="26">G</attr>
+      <attr type="dateofbirth" source="26">04/29/78</attr>
+      <attr type="location" source="26">Los Angeles</attr>
+      <attr type="affiliation" source="26">Spurs</attr>
+      <attr type="affiliation" source="32">Charlotte</attr>
+      <attr type="affiliation" source="32">Milwaukee</attr>
+      <attr type="affiliation" source="32">Sacramento</attr>
+      <attr type="affiliation" source="32">Clippers</attr>
+      <attr type="affiliation" source="32">Utah Jazz</attr>
+      <attr type="affiliation" source="32">San Antonio</attr>
+      <attr type="affiliation" source="32">Bobcats</attr>
+      <attr type="affiliation" source="32">Asheville Altitude</attr>
+      <attr type="school" source="32">Syracuse</attr>
+      <attr type="occupation" source="32">guard</attr>
+      <attr type="affiliation" source="32">Jazz</attr>
+      <attr type="affiliation" source="32">Los Angeles Clippers</attr>
+      <attr type="mentor" source="98">Rick Adelman</attr>
+      <attr type="mentor" source="98">Adelman</attr>
+      <attr type="occupation" source="98">point guard</attr>
+      <attr type="affiliation" source="98">Charlotte Bobcats</attr>
+      <attr type="affiliation" source="1">UTA</attr>
+      <attr type="school" source="1">Syracuse</attr>
+      <attr type="occupation" source="1">Player</attr>
+      <attr type="dateofbirth" source="1">Apr 29, 1978</attr>
+      <attr type="occupation" source="1">Guard</attr>
+      <attr type="affiliation" source="75">Clips</attr>
+      <attr type="affiliation" source="75">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="75">Jazz</attr>
+      <attr type="affiliation" source="75">Utah Jazz</attr>
+      <attr type="occupation" source="75">guard</attr>
+      <attr type="occupation" source="75">backup PG</attr>
+      <attr type="occupation" source="75">PG</attr>
+      <attr type="affiliation" source="75">Utah</attr>
+      <attr type="occupation" source="75">G</attr>
+      <attr type="affiliation" source="75">LAC</attr>
+      <attr type="affiliation" source="75">Clippers</attr>
+      <attr type="affiliation" source="106">Los Angeles</attr>
+      <attr type="affiliation" source="106">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="106">Utah</attr>
+      <attr type="affiliation" source="106">Jazz</attr>
+      <attr type="affiliation" source="106">Charlotte</attr>
+      <attr type="occupation" source="106">point guards</attr>
+      <attr type="affiliation" source="106">Utah Jazz</attr>
+      <attr type="affiliation" source="106">Clippers</attr>
+      <attr type="affiliation" source="106">Sacramento Kings</attr>
+      <attr type="birthplace" source="53">Los Angeles, California</attr>
+      <attr type="occupation" source="53">point guard</attr>
+      <attr type="dateofbirth" source="53">April 29 1978</attr>
+      <attr type="nationality" source="53">American</attr>
+      <attr type="affiliation" source="53">Utah Jazz.</attr>
+      <attr type="occupation" source="53">professional basketball player</attr>
+      <attr type="dateofbirth" source="53">April 29, 1978</attr>
+      <attr type="school" source="99">Syracuse</attr>
+      <attr type="school" source="99">SU</attr>
+      <attr type="dateofbirth" source="6">April 29, 1978</attr>
+      <attr type="school" source="6">Syracuse</attr>
+      <attr type="occupation" source="6">PG</attr>
+      <attr type="birthplace" source="6">Los Angeles, CA</attr>
+      <attr type="occupation" source="52">PG</attr>
+      <attr type="occupation" source="52">G</attr>
+      <attr type="dateofbirth" source="52">04/29/1978</attr>
+      <attr type="affiliation" source="52">Clippers</attr>
+      <attr type="affiliation" source="101">Clippers</attr>
+      <attr type="affiliation" source="101">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="112">San Antonio Spurs</attr>
+      <attr type="affiliation" source="112">Charlotte Bobcats</attr>
+      <attr type="affiliation" source="112">Sacramento Kings</attr>
+      <attr type="affiliation" source="112">Orange</attr>
+      <attr type="affiliation" source="112">Jazz</attr>
+      <attr type="affiliation" source="112">Utah Jazz</attr>
+      <attr type="affiliation" source="112">Los Angeles Clippers</attr>
+      <attr type="school" source="112">Syracuse</attr>
+      <attr type="affiliation" source="112">Clippers</attr>
+      <attr type="birthplace" source="112">California</attr>
+      <attr type="school" source="112">SU</attr>
+      <attr type="affiliation" source="14">Los Angeles Clippers</attr>
+      <attr type="occupation" source="14">point guard</attr>
+      <attr type="school" source="14">Syracuse</attr>
+      <attr type="occupation" source="14">PG</attr>
+      <attr type="dateofbirth" source="14">4/29/78</attr>
+      <attr type="affiliation" source="14">Asheville Altitude</attr>
+      <attr type="affiliation" source="14">Charlotte Bobcats</attr>
+      <attr type="affiliation" source="14">Utah Jazz</attr>
+      <attr type="affiliation" source="14">Sacramento Kings</attr>
+      <attr type="affiliation" source="14">San Antonio Spurs</attr>
+      <attr type="affiliation" source="14">Milwaukee Bucks</attr>
+      <attr type="affiliation" source="14">Makedonikos</attr>
+      <attr type="affiliation" source="61">Jazz</attr>
+      <attr type="occupation" source="61">backup point guard</attr>
+      <attr type="affiliation" source="61">Clippers</attr>
+      <attr type="affiliation" source="110">Utah Jazz</attr>
+      <attr type="affiliation" source="110">Utah</attr>
+      <attr type="occupation" source="110">point guards</attr>
+      <attr type="affiliation" source="110">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="110">Jazz</attr>
+      <attr type="affiliation" source="110">Sacramento Kings</attr>
+      <attr type="school" source="110">SU</attr>
+      <attr type="affiliation" source="110">Los Angeles</attr>
+      <attr type="affiliation" source="110">Charlotte</attr>
+      <attr type="affiliation" source="110">Clippers</attr>
+      <attr type="occupation" source="63">guard</attr>
+      <attr type="affiliation" source="63">Kings</attr>
+      <attr type="occupation" source="63">senior</attr>
+      <attr type="affiliation" source="63">San Antonio</attr>
+      <attr type="affiliation" source="63">Bucks</attr>
+      <attr type="affiliation" source="63">Clippers</attr>
+      <attr type="affiliation" source="63">Sacramento Kings</attr>
+      <attr type="affiliation" source="63">Los Angeles Clippers</attr>
+      <attr type="occupation" source="63">point guard</attr>
+      <attr type="affiliation" source="63">Asheville Altitude</attr>
+      <attr type="affiliation" source="63">Milwaukee</attr>
+      <attr type="affiliation" source="63">San Antonio Spurs</attr>
+      <attr type="affiliation" source="63">Spurs</attr>
+      <attr type="school" source="63">Syracuse</attr>
+      <attr type="school" source="63">Inglewood High School</attr>
+      <attr type="affiliation" source="63">Charlotte</attr>
+      <attr type="birthplace" source="63">Los Angeles</attr>
+      <attr type="school" source="63">Syracuse University</attr>
+      <attr type="affiliation" source="63">Sacramento</attr>
+      <attr type="affiliation" source="42">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="42">Clips</attr>
+      <attr type="dateofbirth" source="42">April 29, 1978</attr>
+      <attr type="occupation" source="42">G</attr>
+      <attr type="affiliation" source="42">Clippers</attr>
+      <attr type="school" source="71">Syracuse</attr>
+      <attr type="school" source="71">Syracuse University</attr>
+      <attr type="affiliation" source="71">Utah Jazz</attr>
+      <attr type="school" source="71">SU</attr>
+      <attr type="affiliation" source="71">San Antonio Spurs</attr>
+      <attr type="affiliation" source="71">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="71">Orangemen</attr>
+      <attr type="othername" source="71">Jason Keema Hart</attr>
+      <attr type="affiliation" source="71">Milwaukee Bucks</attr>
+      <attr type="affiliation" source="71">Charlotte Bobcats</attr>
+      <attr type="mentor" source="71">Jim Boeheim</attr>
+      <attr type="affiliation" source="71">Sacramento Kings</attr>
+      <attr type="affiliation" source="49">Los Angeles</attr>
+      <attr type="affiliation" source="49">Clippers</attr>
+      <attr type="affiliation" source="49">LA</attr>
+      <attr type="affiliation" source="20">SAC</attr>
+      <attr type="affiliation" source="20">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="20">Jazz</attr>
+      <attr type="occupation" source="20">G</attr>
+      <attr type="affiliation" source="20">LAC</attr>
+      <attr type="occupation" source="20">No. 3 point guard</attr>
+      <attr type="occupation" source="20">reserve guard</attr>
+      <attr type="affiliation" source="20">Clippers</attr>
+      <attr type="dateofbirth" source="20">4/29/1978</attr>
+      <attr type="affiliation" source="20">MLW</attr>
+      <attr type="affiliation" source="20">SA</attr>
+      <attr type="affiliation" source="20">UTA</attr>
+      <attr type="occupation" source="20">backup point guard</attr>
+      <attr type="affiliation" source="20">CHA</attr>
+      <attr type="school" source="3">Syracuse</attr>
+      <attr type="occupation" source="3">freshman</attr>
+      <attr type="affiliation" source="3">Kings</attr>
+      <attr type="nationality" source="3">USA</attr>
+      <attr type="affiliation" source="3">Milwaukee</attr>
+      <attr type="affiliation" source="3">Milwaukee Bucks</attr>
+      <attr type="occupation" source="3">senior</attr>
+      <attr type="affiliation" source="3">Spurs</attr>
+      <attr type="affiliation" source="3">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="3">Charlotte</attr>
+      <attr type="affiliation" source="3">Utah</attr>
+      <attr type="affiliation" source="3">San Antonio</attr>
+      <attr type="occupation" source="3">point guard</attr>
+      <attr type="affiliation" source="3">Bobcats</attr>
+      <attr type="affiliation" source="3">Asheville Altitude</attr>
+      <attr type="affiliation" source="3">Los Angeles</attr>
+      <attr type="nationality" source="3">American</attr>
+      <attr type="affiliation" source="3">San Antonio Spurs</attr>
+      <attr type="occupation" source="3">Point guard</attr>
+      <attr type="occupation" source="3">professional basketball player</attr>
+      <attr type="dateofbirth" source="3">April 29, 1978</attr>
+      <attr type="school" source="3">Syracuse University</attr>
+      <attr type="affiliation" source="3">Charlotte Bobcats</attr>
+      <attr type="affiliation" source="3">Sacramento Kings</attr>
+      <attr type="affiliation" source="3">Makedonikos BC</attr>
+      <attr type="affiliation" source="3">Utah Jazz</attr>
+      <attr type="birthplace" source="3">Los Angeles, California</attr>
+      <attr type="school" source="3">Inglewood</attr>
+      <attr type="affiliation" source="3">Sacramento</attr>
+      <attr type="occupation" source="3">backup guard</attr>
+      <attr type="occupation" source="48">guard</attr>
+      <attr type="affiliation" source="48">Los Angeles Clippers</attr>
+      <attr type="occupation" source="48">point guard</attr>
+      <attr type="affiliation" source="48">Utah Jazz</attr>
+      <attr type="affiliation" source="48">Clippers</attr>
+      <attr type="occupation" source="48">PG</attr>
+      <attr type="school" source="48">SU</attr>
+      <attr type="occupation" source="48">reserve point guard</attr>
+      <attr type="affiliation" source="48">L.A. Clippers</attr>
+      <attr type="birthplace" source="2">Los Angeles, CA</attr>
+      <attr type="dateofbirth" source="2">April 29, 1978</attr>
+      <attr type="school" source="2">Syracuse</attr>
+      <attr type="occupation" source="2">PG</attr>
+      <attr type="affiliation" source="35">Utah Jazz</attr>
+      <attr type="school" source="35">Syracuse</attr>
+      <attr type="occupation" source="35">point guards</attr>
+      <attr type="affiliation" source="35">Utah</attr>
+      <attr type="occupation" source="35">PG</attr>
+      <attr type="dateofbirth" source="35">04/29/1978</attr>
+      <attr type="affiliation" source="35">SAC</attr>
+      <attr type="affiliation" source="35">Milwaukee</attr>
+      <attr type="affiliation" source="35">San Antonio</attr>
+      <attr type="affiliation" source="35">Los Angeles</attr>
+      <attr type="affiliation" source="35">Charlotte</attr>
+      <attr type="affiliation" source="35">Sacramento</attr>
+      <attr type="birthplace" source="35">Los Angeles, CA</attr>
+      <attr type="affiliation" source="35">Jazz</attr>
+      <attr type="affiliation" source="35">Sacramento Kings</attr>
+      <attr type="affiliation" source="35">Clippers</attr>
+      <attr type="affiliation" source="97">Utah Jazz</attr>
+      <attr type="occupation" source="7">Guard</attr>
+      <attr type="affiliation" source="7">Jazz</attr>
+      <attr type="affiliation" source="7">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="7">UTA</attr>
+      <attr type="dateofbirth" source="7">4/29/1978</attr>
+      <attr type="occupation" source="7">Player</attr>
+      <attr type="affiliation" source="7">SAC</attr>
+      <attr type="affiliation" source="7">CHA</attr>
+      <attr type="affiliation" source="7">LAC</attr>
+      <attr type="occupation" source="7">G</attr>
+      <attr type="school" source="7">Syracuse</attr>
+      <attr type="affiliation" source="7">SA</attr>
+      <attr type="affiliation" source="7">Clippers</attr>
+      <attr type="affiliation" source="7">MLW</attr>
+      <attr type="affiliation" source="31">Sacramento Kings</attr>
+      <attr type="school" source="31">Syracuse University</attr>
+      <attr type="affiliation" source="31">MIL</attr>
+      <attr type="affiliation" source="31">Los Angeles Clippers</attr>
+      <attr type="occupation" source="31">Guard</attr>
+      <attr type="dateofbirth" source="31">April 29, 1978</attr>
+      <attr type="affiliation" source="31">LAC</attr>
+      <attr type="affiliation" source="31">Utah Jazz</attr>
+      <attr type="birthplace" source="31">Los Angeles, California</attr>
+      <attr type="affiliation" source="31">Milwaukee Bucks</attr>
+      <attr type="affiliation" source="31">SAC</attr>
+      <attr type="affiliation" source="31">CHA</attr>
+      <attr type="affiliation" source="31">UTA</attr>
+      <attr type="school" source="31">syracuse</attr>
+      <attr type="affiliation" source="31">Charlotte Bobcats</attr>
+      <attr type="school" source="31">Inglewood</attr>
+      <attr type="othername" source="31">Jason Keema Hart</attr>
+      <attr type="affiliation" source="31">SAS</attr>
+      <attr type="affiliation" source="31">San Antonio Spurs</attr>
+      <attr type="affiliation" source="44">Utah</attr>
+      <attr type="dateofbirth" source="44">4/29/1978</attr>
+      <attr type="occupation" source="44">G</attr>
+      <attr type="affiliation" source="44">Clippers</attr>
+      <attr type="occupation" source="44">point guard</attr>
+      <attr type="affiliation" source="44">Los Angeles Clippers</attr>
+      <attr type="occupation" source="44">Player</attr>
+      <attr type="school" source="44">Syracuse</attr>
+      <attr type="occupation" source="45">Point Guard</attr>
+      <attr type="affiliation" source="45">Charlotte Bobcats</attr>
+      <attr type="birthplace" source="45">Los Angeles, California</attr>
+      <attr type="affiliation" source="45">Charlotte</attr>
+      <attr type="affiliation" source="45">Sacramento Kings</attr>
+      <attr type="affiliation" source="45">Sacramento</attr>
+      <attr type="affiliation" source="45">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="45">Milwaukee</attr>
+      <attr type="affiliation" source="45">Milwaukee Bucks</attr>
+      <attr type="dateofbirth" source="45">April 29, 1978</attr>
+      <attr type="affiliation" source="45">Sac</attr>
+      <attr type="affiliation" source="45">Utah Jazz</attr>
+      <attr type="affiliation" source="45">San Antonio Spurs</attr>
+      <attr type="affiliation" source="45">Utah</attr>
+      <attr type="affiliation" source="45">LA Clippers</attr>
+      <attr type="affiliation" source="45">LAC</attr>
+      <attr type="affiliation" source="45">San Antonio</attr>
+      <attr type="affiliation" source="45">Seattle SuperSonics</attr>
+      <attr type="school" source="45">Syracuse</attr>
+      <attr type="occupation" source="46">No. 3 point guard</attr>
+      <attr type="occupation" source="46">player</attr>
+      <attr type="affiliation" source="46">Jazz</attr>
+      <attr type="affiliation" source="37">Jazz</attr>
+      <attr type="dateofbirth" source="37">April 29, 1976</attr>
+      <attr type="affiliation" source="37">Utah Jazz</attr>
+      <attr type="school" source="37">Syracuse</attr>
+      <attr type="occupation" source="37">Point Guard</attr>
+      <attr type="affiliation" source="37">Clippers</attr>
+      <attr type="birthplace" source="15">Los Angeles, California</attr>
+      <attr type="occupation" source="15">player</attr>
+      <attr type="occupation" source="15">Point Guard</attr>
+      <attr type="dateofbirth" source="15">4/29/1978</attr>
+      <attr type="occupation" source="15">PG</attr>
+      <attr type="affiliation" source="15">LOS ANGELES CLIPPERS</attr>
+      <attr type="affiliation" source="15">Clippers</attr>
+      <attr type="school" source="15">Syracuse</attr>
+      <attr type="affiliation" source="92">Utah</attr>
+      <attr type="occupation" source="92">guard</attr>
+      <attr type="affiliation" source="92">Los Angeles Clippers</attr>
+      <attr type="affiliation" source="92">Clippers</attr>
+      <attr type="occupation" source="92">backup point guards</attr>
+      <attr type="occupation" source="17">point guards</attr>
+      <attr type="affiliation" source="17">Spurs</attr>
+      <attr type="mentor" source="17">Bickerstaff</attr>
+      <attr type="mentor" source="17">Bernie Bickerstaff</attr>
+      <attr type="affiliation" source="17">Bobcats</attr>
+      <attr type="affiliation" source="39">Los Angeles Clippers</attr>
+      <attr type="occupation" source="39">guard</attr>
+      <attr type="affiliation" source="39">Clippers</attr>
+      <attr type="affiliation" source="39">Utah</attr>
+      <attr type="occupation" source="39">backup point guards</attr>
+      <attr type="affiliation" source="12">Clippers</attr>
+      <attr type="occupation" source="12">point guards</attr>
+      <attr type="affiliation" source="12">Los Angeles Clippers</attr>
+      <attr type="occupation" source="12">Point Guards</attr>
+      <attr type="affiliation" source="12">L.A.C.</attr>
+      <attr type="affiliation" source="60">LOS ANGELES CLIPPERS</attr>
+      <attr type="occupation" source="60">Point Guard</attr>
+      <attr type="affiliation" source="60">Los Angeles Clippers</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="93">sophomore</attr>
+      <attr type="location" source="93">Saratoga, New York</attr>
+      <attr type="school" source="93">University of Wisconsin-Whitewater</attr>
+      <attr type="occupation" source="93">USAT Level 1 Certified Triathlon Coach</attr>
+      <attr type="email" source="93">Jason@milehighmultisport.com</attr>
+      <attr type="occupation" source="93">Coach</attr>
+    </attributes>
+  </entity>
+</clustering>

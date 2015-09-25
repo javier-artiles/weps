@@ -1,0 +1,993 @@
+<clustering searchString="HELEN THOMAS">
+  <entity id="1">
+    <documents>
+      <doc rank="39" />
+      <doc rank="48" />
+      <doc rank="45" />
+      <doc rank="99" />
+      <doc rank="102" />
+      <doc rank="69" />
+      <doc rank="25" />
+      <doc rank="101" />
+      <doc rank="105" />
+      <doc rank="11" />
+      <doc rank="2" />
+      <doc rank="65" />
+      <doc rank="113" />
+      <doc rank="95" />
+      <doc rank="98" />
+      <doc rank="122" />
+      <doc rank="96" />
+      <doc rank="77" />
+      <doc rank="116" />
+      <doc rank="120" />
+      <doc rank="70" />
+      <doc rank="54" />
+      <doc rank="7" />
+      <doc rank="78" />
+      <doc rank="57" />
+      <doc rank="10" />
+      <doc rank="75" />
+      <doc rank="72" />
+      <doc rank="85" />
+      <doc rank="40" />
+      <doc rank="82" />
+      <doc rank="35" />
+      <doc rank="62" />
+      <doc rank="68" />
+      <doc rank="114" />
+      <doc rank="5" />
+      <doc rank="73" />
+      <doc rank="59" />
+      <doc rank="84" />
+      <doc rank="109" />
+      <doc rank="100" />
+      <doc rank="31" />
+      <doc rank="61" />
+      <doc rank="110" />
+      <doc rank="121" />
+      <doc rank="18" />
+      <doc rank="97" />
+      <doc rank="90" />
+      <doc rank="12" />
+      <doc rank="80" />
+      <doc rank="86" />
+      <doc rank="92" />
+      <doc rank="13" />
+      <doc rank="46" />
+      <doc rank="22" />
+      <doc rank="106" />
+      <doc rank="58" />
+      <doc rank="63" />
+      <doc rank="4" />
+      <doc rank="1" />
+      <doc rank="16" />
+      <doc rank="118" />
+      <doc rank="107" />
+      <doc rank="74" />
+      <doc rank="47" />
+      <doc rank="19" />
+      <doc rank="89" />
+      <doc rank="119" />
+      <doc rank="52" />
+      <doc rank="88" />
+      <doc rank="81" />
+      <doc rank="112" />
+      <doc rank="64" />
+      <doc rank="108" />
+      <doc rank="93" />
+      <doc rank="111" />
+      <doc rank="14" />
+      <doc rank="8" />
+      <doc rank="38" />
+      <doc rank="103" />
+      <doc rank="3" />
+      <doc rank="44" />
+      <doc rank="87" />
+      <doc rank="76" />
+      <doc rank="43" />
+      <doc rank="32" />
+      <doc rank="71" />
+      <doc rank="66" />
+      <doc rank="79" />
+      <doc rank="67" />
+      <doc rank="83" />
+      <doc rank="94" />
+      <doc rank="21" />
+      <doc rank="91" />
+      <doc rank="24" />
+      <doc rank="60" />
+      <doc rank="6" />
+      <doc rank="104" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="39">dean</attr>
+      <attr type="affiliation" source="39">the White House press corps</attr>
+      <attr type="occupation" source="48">journalist</attr>
+      <attr type="occupation" source="48">reporter</attr>
+      <attr type="occupation" source="45">White House columnist</attr>
+      <attr type="email" source="45">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="45">Hearst</attr>
+      <attr type="affiliation" source="45">Hearst Newspapers</attr>
+      <attr type="occupation" source="99">chief</attr>
+      <attr type="occupation" source="99">correspondent</attr>
+      <attr type="occupation" source="99">columnist</attr>
+      <attr type="occupation" source="99">White House journalist</attr>
+      <attr type="affiliation" source="99">White House bureau</attr>
+      <attr type="othername" source="99">First Lady of the Press</attr>
+      <attr type="affiliation" source="99">United Press International</attr>
+      <attr type="occupation" source="99">Author</attr>
+      <attr type="affiliation" source="99">Hearst Newspapers</attr>
+      <attr type="occupation" source="69">journalists</attr>
+      <attr type="affiliation" source="69">the White House press corps</attr>
+      <attr type="occupation" source="69">White House correspondent</attr>
+      <attr type="affiliation" source="69">Hearst newspapers</attr>
+      <attr type="occupation" source="69">reporters</attr>
+      <attr type="affiliation" source="69">White House Correspondents&apos; Association</attr>
+      <attr type="affiliation" source="69">National Press Club</attr>
+      <attr type="occupation" source="69">&quot;&quot;the first lady&quot; of the press&quot;</attr>
+      <attr type="affiliation" source="25">Hearst Newspapers</attr>
+      <attr type="occupation" source="25">White House columnist</attr>
+      <attr type="email" source="25">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="25">Hearst</attr>
+      <attr type="occupation" source="101">Chief</attr>
+      <attr type="birthplace" source="101">Winchester, Kentucky</attr>
+      <attr type="occupation" source="101">copy girl</attr>
+      <attr type="affiliation" source="101">Hearst Newspapers</attr>
+      <attr type="affiliation" source="101">UPI</attr>
+      <attr type="affiliation" source="101">United Press International</attr>
+      <attr type="othername" source="101">The First Lady of the Press</attr>
+      <attr type="occupation" source="101">print journalist</attr>
+      <attr type="occupation" source="101">syndicated columnist</attr>
+      <attr type="work" source="101">Front Row at the White House: My Life and Times</attr>
+      <attr type="affiliation" source="101">White House Bureau</attr>
+      <attr type="work" source="101">Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House</attr>
+      <attr type="work" source="101">Watchdogs of Democracy</attr>
+      <attr type="occupation" source="101">White House correspondent</attr>
+      <attr type="occupation" source="101">reporters</attr>
+      <attr type="school" source="101">Wayne State University</attr>
+      <attr type="affiliation" source="101">Washington Daily News</attr>
+      <attr type="affiliation" source="101">Washington Press Corps</attr>
+      <attr type="occupation" source="105">officer</attr>
+      <attr type="occupation" source="105">president</attr>
+      <attr type="occupation" source="105">reporter</attr>
+      <attr type="school" source="105">Wayne University</attr>
+      <attr type="affiliation" source="105">National Press Club</attr>
+      <attr type="occupation" source="105">White House correspondent</attr>
+      <attr type="affiliation" source="105">UPI</attr>
+      <attr type="occupation" source="105">Consumer Advocate</attr>
+      <attr type="occupation" source="105">print journalist</attr>
+      <attr type="relatives" source="105">George Thomas</attr>
+      <attr type="work" source="105">Front Row at the White House: My Life and Times</attr>
+      <attr type="affiliation" source="105">UPI&apos;s White House bureau</attr>
+      <attr type="relatives" source="105">Mary Thomas</attr>
+      <attr type="occupation" source="105">chief</attr>
+      <attr type="birthplace" source="105">Winchester, Kentucky</attr>
+      <attr type="affiliation" source="105">Gridiron Club</attr>
+      <attr type="dateofbirth" source="105">August 4, 1920</attr>
+      <attr type="affiliation" source="11">White House press corps</attr>
+      <attr type="occupation" source="11">journalist</attr>
+      <attr type="occupation" source="11">dean</attr>
+      <attr type="affiliation" source="11">Hearst Newspapers</attr>
+      <attr type="occupation" source="65">White House columnist</attr>
+      <attr type="affiliation" source="65">Hearst Newspapers</attr>
+      <attr type="email" source="65">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="65">Hearst</attr>
+      <attr type="occupation" source="113">columnist</attr>
+      <attr type="affiliation" source="113">United Press International</attr>
+      <attr type="affiliation" source="113">White House Press Corps</attr>
+      <attr type="occupation" source="113">dean</attr>
+      <attr type="occupation" source="113">correspondent</attr>
+      <attr type="affiliation" source="113">Hearst newspapers</attr>
+      <attr type="affiliation" source="95">White House bureau</attr>
+      <attr type="affiliation" source="95">National Press Club</attr>
+      <attr type="occupation" source="95">chief</attr>
+      <attr type="affiliation" source="95">Hearst Newspapers</attr>
+      <attr type="occupation" source="95">officer</attr>
+      <attr type="occupation" source="95">columnist</attr>
+      <attr type="work" source="95">Watchdogs of Democracy? The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="affiliation" source="95">United Press International</attr>
+      <attr type="occupation" source="95">correspondent</attr>
+      <attr type="affiliation" source="98">White House bureau</attr>
+      <attr type="affiliation" source="98">UPI</attr>
+      <attr type="affiliation" source="98">the Whitehouse press corps</attr>
+      <attr type="affiliation" source="98">White House press corps</attr>
+      <attr type="occupation" source="98">president</attr>
+      <attr type="affiliation" source="98">the White House Correspondents Association</attr>
+      <attr type="occupation" source="98">officer</attr>
+      <attr type="affiliation" source="98">United Press International</attr>
+      <attr type="affiliation" source="98">Hearst Newspapers</attr>
+      <attr type="occupation" source="98">journalist</attr>
+      <attr type="work" source="98">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="98">reporter</attr>
+      <attr type="affiliation" source="98">White House Press Corps</attr>
+      <attr type="affiliation" source="98">the National Press Club</attr>
+      <attr type="occupation" source="98">White House reporter</attr>
+      <attr type="occupation" source="98">chief</attr>
+      <attr type="occupation" source="98">activist</attr>
+      <attr type="occupation" source="98">journalists</attr>
+      <attr type="affiliation" source="98">WH Press corp</attr>
+      <attr type="occupation" source="98">correspondent</attr>
+      <attr type="dateofbirth" source="98">August 4, 1920</attr>
+      <attr type="occupation" source="98">columnist</attr>
+      <attr type="affiliation" source="98">NPR</attr>
+      <attr type="affiliation" source="98">Gridiron Club</attr>
+      <attr type="occupation" source="98">news service reporter</attr>
+      <attr type="affiliation" source="98">WH Press Corps</attr>
+      <attr type="affiliation" source="122">United Press International</attr>
+      <attr type="othername" source="122">The First Lady of the Press</attr>
+      <attr type="occupation" source="122">White House correspondent</attr>
+      <attr type="affiliation" source="122">Hearst Newspapers</attr>
+      <attr type="occupation" source="122">reporters</attr>
+      <attr type="occupation" source="122">Chief</attr>
+      <attr type="work" source="122">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="122">syndicated columnist</attr>
+      <attr type="occupation" source="122">White House Correspondent</attr>
+      <attr type="affiliation" source="122">White House Bureau</attr>
+      <attr type="occupation" source="96">reporter</attr>
+      <attr type="affiliation" source="96">White House bureau</attr>
+      <attr type="affiliation" source="96">National Press Club</attr>
+      <attr type="occupation" source="96">chief</attr>
+      <attr type="occupation" source="96">officer</attr>
+      <attr type="affiliation" source="96">White House Press Corps</attr>
+      <attr type="occupation" source="96">correspondent</attr>
+      <attr type="affiliation" source="96">Hearst Newspapers</attr>
+      <attr type="occupation" source="96">columnist</attr>
+      <attr type="occupation" source="96">White House reporter</attr>
+      <attr type="award" source="96">Helen Thomas Lifetime Achievement Award</attr>
+      <attr type="nationality" source="96">American</attr>
+      <attr type="affiliation" source="96">UPI</attr>
+      <attr type="affiliation" source="96">United Press International</attr>
+      <attr type="work" source="96">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="77">Dean</attr>
+      <attr type="occupation" source="77">liberal journalist</attr>
+      <attr type="affiliation" source="77">White House press corps</attr>
+      <attr type="affiliation" source="116">Hearst News Service</attr>
+      <attr type="occupation" source="116">Journalist</attr>
+      <attr type="affiliation" source="116">White House bureau</attr>
+      <attr type="affiliation" source="116">UPI</attr>
+      <attr type="work" source="116">Dateline: White House</attr>
+      <attr type="occupation" source="116">print journalist</attr>
+      <attr type="occupation" source="116">reporter</attr>
+      <attr type="affiliation" source="116">United Press International</attr>
+      <attr type="occupation" source="116">Syndicated columnist</attr>
+      <attr type="affiliation" source="116">Gridiron Club</attr>
+      <attr type="work" source="116">Front Row at the White House: My Life and Times</attr>
+      <attr type="occupation" source="116">White House correspondent</attr>
+      <attr type="affiliation" source="116">Hearst</attr>
+      <attr type="occupation" source="116">dean</attr>
+      <attr type="occupation" source="116">chief</attr>
+      <attr type="affiliation" source="116"> Washington press corps</attr>
+      <attr type="affiliation" source="116">Hearst Newspapers</attr>
+      <attr type="occupation" source="116">journalist</attr>
+      <attr type="affiliation" source="116">National Press Club</attr>
+      <attr type="occupation" source="116">officer</attr>
+      <attr type="dateofbirth" source="116">8/4/20</attr>
+      <attr type="occupation" source="116">columnist</attr>
+      <attr type="affiliation" source="116">the White House press corps</attr>
+      <attr type="othername" source="116">First Lady of the press</attr>
+      <attr type="affiliation" source="116">White House Correspondents Association</attr>
+      <attr type="school" source="116">Wayne University</attr>
+      <attr type="birthplace" source="116">Winchester, Kentucky</attr>
+      <attr type="relatives" source="120">Bronwen</attr>
+      <attr type="relatives" source="120">Ann</attr>
+      <attr type="relatives" source="120">Edward</attr>
+      <attr type="relatives" source="120">Merfyn</attr>
+      <attr type="work" source="120">World Without End</attr>
+      <attr type="work" source="120">As it Was</attr>
+      <attr type="relatives" source="120">Edward Thomas</attr>
+      <attr type="relatives" source="120">Myfanwy Thomas</attr>
+      <attr type="relatives" source="120">Myfanwy</attr>
+      <attr type="occupation" source="54">journalist</attr>
+      <attr type="affiliation" source="54">Washington Press Corps</attr>
+      <attr type="affiliation" source="7">White House journalistic corps</attr>
+      <attr type="occupation" source="7">media veteran</attr>
+      <attr type="occupation" source="7">journalist</attr>
+      <attr type="occupation" source="7">columnist</attr>
+      <attr type="affiliation" source="7">Hearst Newspapers</attr>
+      <attr type="occupation" source="78">hostess</attr>
+      <attr type="school" source="78">Wayne University</attr>
+      <attr type="nationality" source="78">American</attr>
+      <attr type="relatives" source="78">George</attr>
+      <attr type="occupation" source="78">senior White House correspondent</attr>
+      <attr type="occupation" source="78">reporter</attr>
+      <attr type="affiliation" source="78">UPI</attr>
+      <attr type="occupation" source="78">copygirl</attr>
+      <attr type="affiliation" source="78">Washington Daily News</attr>
+      <attr type="occupation" source="78">copyboy</attr>
+      <attr type="othername" source="78">the First Lady of American journalism</attr>
+      <attr type="affiliation" source="78">White House Press Corp</attr>
+      <attr type="occupation" source="78">Chief White House Correspondent</attr>
+      <attr type="relatives" source="78">Mary</attr>
+      <attr type="occupation" source="78">reporters</attr>
+      <attr type="affiliation" source="78">White House Press Corps</attr>
+      <attr type="occupation" source="78">columnist</attr>
+      <attr type="occupation" source="78">White House correspondent</attr>
+      <attr type="affiliation" source="78">United Press International</attr>
+      <attr type="email" source="57">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="57">Hearst Newspapers</attr>
+      <attr type="occupation" source="57">White House columnist</attr>
+      <attr type="affiliation" source="57">Hearst</attr>
+      <attr type="occupation" source="10">former/retired news service reporter</attr>
+      <attr type="nationality" source="10">US</attr>
+      <attr type="affiliation" source="10">UPI</attr>
+      <attr type="affiliation" source="10">White House Press Corps</attr>
+      <attr type="occupation" source="10">correspondent</attr>
+      <attr type="occupation" source="10">columnist</attr>
+      <attr type="occupation" source="10">liberal reporter</attr>
+      <attr type="occupation" source="10">wire reporter</attr>
+      <attr type="dateofbirth" source="10">1920</attr>
+      <attr type="occupation" source="10">reporters</attr>
+      <attr type="occupation" source="10">journalist</attr>
+      <attr type="occupation" source="10">reporter</attr>
+      <attr type="work" source="10">Front Row at the White House : My Life and Times</attr>
+      <attr type="dateofbirth" source="10">August 4, 1920</attr>
+      <attr type="nationality" source="10">American</attr>
+      <attr type="affiliation" source="10">Hearst Newspapers</attr>
+      <attr type="occupation" source="75">White House columnist</attr>
+      <attr type="affiliation" source="75">Hearst</attr>
+      <attr type="email" source="75">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="75">Hearst Newspapers</attr>
+      <attr type="affiliation" source="72">White House Correspondents&apos; Association</attr>
+      <attr type="occupation" source="72">wire service reporters</attr>
+      <attr type="affiliation" source="72">Hearst newspapers</attr>
+      <attr type="affiliation" source="72">UPI</attr>
+      <attr type="occupation" source="72">White House correspondent</attr>
+      <attr type="occupation" source="72">correspondent</attr>
+      <attr type="othername" source="72">the first lady of the press</attr>
+      <attr type="affiliation" source="72">UPI White House bureau</attr>
+      <attr type="affiliation" source="72">United Press International</attr>
+      <attr type="affiliation" source="72">National Press Club</attr>
+      <attr type="work" source="72">Front Row at the White House</attr>
+      <attr type="occupation" source="72">chief</attr>
+      <attr type="occupation" source="72">journalist</attr>
+      <attr type="email" source="85">hthomas@hearstdc.com</attr>
+      <attr type="phone" source="85">202-263-6400</attr>
+      <attr type="occupation" source="40">White House reporter</attr>
+      <attr type="occupation" source="40">reporter</attr>
+      <attr type="occupation" source="40">syndicated columnist</attr>
+      <attr type="affiliation" source="40">Hearst Newspapers</attr>
+      <attr type="affiliation" source="35">White House press corps</attr>
+      <attr type="occupation" source="35">journalist</attr>
+      <attr type="occupation" source="35">dean</attr>
+      <attr type="occupation" source="35">columnist</attr>
+      <attr type="affiliation" source="35">Hearst Newspapers</attr>
+      <attr type="occupation" source="62">journalists</attr>
+      <attr type="email" source="62">hthomas@hearstdc.com</attr>
+      <attr type="othername" source="62">HT</attr>
+      <attr type="occupation" source="62">journalist</attr>
+      <attr type="affiliation" source="62">Washington corps</attr>
+      <attr type="occupation" source="62">reporter</attr>
+      <attr type="affiliation" source="62">White House Press Corps</attr>
+      <attr type="affiliation" source="62">the White House Press Corps(e,)</attr>
+      <attr type="occupation" source="62">White House reporter</attr>
+      <attr type="occupation" source="68">columnist</attr>
+      <attr type="affiliation" source="68">United Press</attr>
+      <attr type="affiliation" source="68">UPI</attr>
+      <attr type="affiliation" source="68">Hearst News Service</attr>
+      <attr type="occupation" source="68">White House reporter</attr>
+      <attr type="affiliation" source="68">the White House bureau for United Press International</attr>
+      <attr type="occupation" source="68">reporter</attr>
+      <attr type="affiliation" source="68">Hearst</attr>
+      <attr type="occupation" source="68">head</attr>
+      <attr type="occupation" source="68">journalist</attr>
+      <attr type="occupation" source="68">dean</attr>
+      <attr type="affiliation" source="68">White House press corps</attr>
+      <attr type="occupation" source="68">White House correspondent</attr>
+      <attr type="occupation" source="5">reporters</attr>
+      <attr type="affiliation" source="5">White House Bureau</attr>
+      <attr type="birthplace" source="5">Winchester, Kentucky</attr>
+      <attr type="work" source="5">Watchdogs of Democracy</attr>
+      <attr type="work" source="5">Front Row at the White House: My Life and Times</attr>
+      <attr type="occupation" source="5">syndicated columnist</attr>
+      <attr type="occupation" source="5">print journalist</attr>
+      <attr type="affiliation" source="5">the UPI team</attr>
+      <attr type="occupation" source="5">White House correspondent</attr>
+      <attr type="affiliation" source="5">Washington Daily News</attr>
+      <attr type="occupation" source="5">copy girl</attr>
+      <attr type="occupation" source="5">Chief</attr>
+      <attr type="affiliation" source="5">Hearst Newspapers</attr>
+      <attr type="affiliation" source="5">United Press International</attr>
+      <attr type="school" source="5">Wayne State University</attr>
+      <attr type="affiliation" source="5">UPI</attr>
+      <attr type="affiliation" source="5">Washington Press Corps</attr>
+      <attr type="work" source="5">Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House</attr>
+      <attr type="othername" source="5">The First Lady of the Press</attr>
+      <attr type="occupation" source="73">reporter</attr>
+      <attr type="nationality" source="73">American</attr>
+      <attr type="occupation" source="73">journalist</attr>
+      <attr type="affiliation" source="73">White House Press Corp.</attr>
+      <attr type="occupation" source="73">journalists</attr>
+      <attr type="occupation" source="73">news reporter</attr>
+      <attr type="occupation" source="59">senior member</attr>
+      <attr type="affiliation" source="59">the White House press corps</attr>
+      <attr type="school" source="59">Siena College</attr>
+      <attr type="occupation" source="59">journalists</attr>
+      <attr type="occupation" source="59">journalist</attr>
+      <attr type="occupation" source="59">opinion writer</attr>
+      <attr type="award" source="59">International Women&apos;s Media Foundation Lifetime Achievement Award</attr>
+      <attr type="affiliation" source="59">Hearst Newspapers</attr>
+      <attr type="degree" source="59">honorary Doctor of Humane Letters</attr>
+      <attr type="award" source="59">Helen Thomas Lifetime Achievement Award</attr>
+      <attr type="occupation" source="59">reporter</attr>
+      <attr type="occupation" source="84">White House columnist</attr>
+      <attr type="affiliation" source="84">Hearst Newspapers</attr>
+      <attr type="affiliation" source="84">Hearst</attr>
+      <attr type="email" source="84">hthomas@hearstddc.com</attr>
+      <attr type="affiliation" source="109">Hearst</attr>
+      <attr type="email" source="109">hthomas@hearstddc.com</attr>
+      <attr type="occupation" source="109">White House columnist</attr>
+      <attr type="occupation" source="100">reporter</attr>
+      <attr type="affiliation" source="100">Hearst Newspapers</attr>
+      <attr type="affiliation" source="100">UPI</attr>
+      <attr type="occupation" source="100">dean</attr>
+      <attr type="occupation" source="100">reporters</attr>
+      <attr type="affiliation" source="100">White House press corps</attr>
+      <attr type="affiliation" source="100">the Washington press corps</attr>
+      <attr type="affiliation" source="100">United Press International</attr>
+      <attr type="occupation" source="100">journalists</attr>
+      <attr type="occupation" source="100">journalist</attr>
+      <attr type="occupation" source="31">White House reporter</attr>
+      <attr type="occupation" source="31">senior columnist</attr>
+      <attr type="affiliation" source="31">United Press International</attr>
+      <attr type="occupation" source="31">officer</attr>
+      <attr type="affiliation" source="31">National Press Club</attr>
+      <attr type="nationality" source="31">Americans</attr>
+      <attr type="affiliation" source="31">White House Correspondents&#65533;f Association</attr>
+      <attr type="occupation" source="31">correspondent</attr>
+      <attr type="occupation" source="31">president</attr>
+      <attr type="nationality" source="31">American</attr>
+      <attr type="affiliation" source="31">Gridiron Club</attr>
+      <attr type="occupation" source="31">journalist</attr>
+      <attr type="occupation" source="31">journalists</attr>
+      <attr type="occupation" source="61">reporters</attr>
+      <attr type="othername" source="61">HT</attr>
+      <attr type="occupation" source="61">White House correspondent</attr>
+      <attr type="affiliation" source="61">White House press corps</attr>
+      <attr type="affiliation" source="61">UPI</attr>
+      <attr type="occupation" source="61">wire service reporter</attr>
+      <attr type="work" source="61">Watchdogs for Democracy?</attr>
+      <attr type="occupation" source="61">journalists</attr>
+      <attr type="occupation" source="61">columnist</attr>
+      <attr type="affiliation" source="110">Hearst Newspapers</attr>
+      <attr type="occupation" source="110">White House correspondent</attr>
+      <attr type="affiliation" source="110">Washington Daily News</attr>
+      <attr type="affiliation" source="110">Washington Press Corps</attr>
+      <attr type="occupation" source="110">print journalist</attr>
+      <attr type="occupation" source="110">copy girl</attr>
+      <attr type="occupation" source="110">syndicated columnist</attr>
+      <attr type="birthplace" source="110">Winchester, Kentucky</attr>
+      <attr type="occupation" source="110">reporters</attr>
+      <attr type="school" source="110">Wayne State University</attr>
+      <attr type="othername" source="110">The First Lady of the Press</attr>
+      <attr type="affiliation" source="110">UPI</attr>
+      <attr type="affiliation" source="110">United Press International</attr>
+      <attr type="affiliation" source="110">the UPI team</attr>
+      <attr type="work" source="110">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="110">author</attr>
+      <attr type="occupation" source="121">reporter</attr>
+      <attr type="occupation" source="121">journalist</attr>
+      <attr type="occupation" source="121">reporters</attr>
+      <attr type="affiliation" source="18">White House Correspondents Association</attr>
+      <attr type="relatives" source="18">Tommy</attr>
+      <attr type="relatives" source="18">Isabelle</attr>
+      <attr type="relatives" source="18">Josephine</attr>
+      <attr type="affiliation" source="18">Gridiron Club</attr>
+      <attr type="relatives" source="18">Douglas B. Cornell</attr>
+      <attr type="school" source="18">Wayne State University</attr>
+      <attr type="birthplace" source="18">Winchester, KY</attr>
+      <attr type="school" source="18">Eastern High School</attr>
+      <attr type="occupation" source="18">print journalist</attr>
+      <attr type="nationality" source="18">United States</attr>
+      <attr type="affiliation" source="18">National Press Club</attr>
+      <attr type="work" source="18">Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House</attr>
+      <attr type="relatives" source="18">Matry</attr>
+      <attr type="relatives" source="18">Katharine</attr>
+      <attr type="relatives" source="18">Anne</attr>
+      <attr type="relatives" source="18">Genevieve</attr>
+      <attr type="affiliation" source="18">White House press corps</attr>
+      <attr type="relatives" source="18">Sabe</attr>
+      <attr type="occupation" source="18">Journalist</attr>
+      <attr type="occupation" source="18">White House reporter</attr>
+      <attr type="relatives" source="18">George Antonious</attr>
+      <attr type="work" source="18">Front Row at the White House: My Life and Times</attr>
+      <attr type="relatives" source="18">George Thomas</attr>
+      <attr type="degree" source="18">BA</attr>
+      <attr type="othername" source="18">Helen A. Thomas</attr>
+      <attr type="relatives" source="18">Mary</attr>
+      <attr type="relatives" source="18">Barbara</attr>
+      <attr type="occupation" source="18">reporter</attr>
+      <attr type="dateofbirth" source="18">4-Aug-1920</attr>
+      <attr type="affiliation" source="97">Hearst</attr>
+      <attr type="email" source="97">hthomas@hearstddc.com</attr>
+      <attr type="occupation" source="97">White House columnist</attr>
+      <attr type="occupation" source="90">White House columnist</attr>
+      <attr type="affiliation" source="90">Hearst</attr>
+      <attr type="email" source="90">hthomas@hearstddc.com</attr>
+      <attr type="occupation" source="12">senior member</attr>
+      <attr type="affiliation" source="12">White House press corps</attr>
+      <attr type="affiliation" source="80">HEARST NEWSPAPERS</attr>
+      <attr type="email" source="80">helent@hearstdc.com</attr>
+      <attr type="occupation" source="80">columnist</attr>
+      <attr type="affiliation" source="80">Hearst Newspapers</attr>
+      <attr type="affiliation" source="13">Hearst News Service</attr>
+      <attr type="affiliation" source="13">U.P.I. team</attr>
+      <attr type="work" source="13">Dateline: White House</attr>
+      <attr type="award" source="13">International Women&#65533;fs Media Foundation Lifetime Achievement Award</attr>
+      <attr type="work" source="13">Thanks for the Memories, Mr. President</attr>
+      <attr type="award" source="13">Columbia University Journalism Award</attr>
+      <attr type="school" source="13">Wayne State University</attr>
+      <attr type="occupation" source="13">officer</attr>
+      <attr type="occupation" source="13">columnist</attr>
+      <attr type="birthplace" source="13">Winchester, Kentucky</attr>
+      <attr type="relatives" source="13">Douglas Cornell</attr>
+      <attr type="dateofbirth" source="13">August 4, 1920</attr>
+      <attr type="affiliation" source="13">Women&apos;s National Press Club</attr>
+      <attr type="award" source="13">Wayne State University Journalism Award</attr>
+      <attr type="award" source="13">Newspaper Woman of Washington</attr>
+      <attr type="award" source="13">University of Texas Journalism Award</attr>
+      <attr type="school" source="13">the George Washington University</attr>
+      <attr type="work" source="13">Front Row at the White House</attr>
+      <attr type="award" source="13">Glamour Woman of the Year Lifetime Achievement Award</attr>
+      <attr type="award" source="13">Matrix Award</attr>
+      <attr type="school" source="13">Brown University</attr>
+      <attr type="award" source="13">William Allen White Journalism Award</attr>
+      <attr type="affiliation" source="13">National Press Club</attr>
+      <attr type="school" source="13">St. Bonaventure University</attr>
+      <attr type="occupation" source="13">copy girl</attr>
+      <attr type="affiliation" source="13">Gridiron Club</attr>
+      <attr type="affiliation" source="13">United Press International</attr>
+      <attr type="school" source="13">Michigan State University</attr>
+      <attr type="award" source="13">National Press Club Fourth Estate Award</attr>
+      <attr type="relatives" source="13">Cornell</attr>
+      <attr type="occupation" source="13">President</attr>
+      <attr type="award" source="13">Society of Professional Journalists First Lifetime Award</attr>
+      <attr type="affiliation" source="13">Washington Daily News</attr>
+      <attr type="degree" source="13">honorary doctorate degrees</attr>
+      <attr type="affiliation" source="13">White House Correspondents Association</attr>
+      <attr type="award" source="13">Woman of the Year</attr>
+      <attr type="award" source="13">Ohio University Journalism Award</attr>
+      <attr type="award" source="13">Bob Considine Award</attr>
+      <attr type="affiliation" source="13">U.P.I.</attr>
+      <attr type="work" source="13">Watchdogs of Democracy? The Waning Washington Press Corps &amp; How It Has Failed the Public</attr>
+      <attr type="award" source="13">Aldo Beckman Award</attr>
+      <attr type="occupation" source="46">reporter</attr>
+      <attr type="affiliation" source="46">UPI</attr>
+      <attr type="occupation" source="46">reporters</attr>
+      <attr type="affiliation" source="46">United Press</attr>
+      <attr type="work" source="46">Front Row at the White House</attr>
+      <attr type="affiliation" source="46">White House bureau</attr>
+      <attr type="work" source="46">Thanks for the Memories, Mr. President</attr>
+      <attr type="occupation" source="46">chief</attr>
+      <attr type="occupation" source="46">White House correspondent</attr>
+      <attr type="work" source="46">Watchdogs of Democracy?</attr>
+      <attr type="school" source="22">Wayne University</attr>
+      <attr type="affiliation" source="22">Washington press corps</attr>
+      <attr type="occupation" source="22">dean</attr>
+      <attr type="occupation" source="22">White House correspondent</attr>
+      <attr type="affiliation" source="22">White House Correspondents Association</attr>
+      <attr type="dateofbirth" source="22">8/4/1920</attr>
+      <attr type="affiliation" source="22">Gridiron Club</attr>
+      <attr type="occupation" source="22">print journalist</attr>
+      <attr type="occupation" source="22">officer</attr>
+      <attr type="birthplace" source="22">Winchester, Kentucky</attr>
+      <attr type="affiliation" source="22">United Press International</attr>
+      <attr type="affiliation" source="22">UPI</attr>
+      <attr type="occupation" source="22">chief</attr>
+      <attr type="work" source="22">Dateline: White House</attr>
+      <attr type="affiliation" source="22">National Press Club</attr>
+      <attr type="dateofbirth" source="22">August 4</attr>
+      <attr type="affiliation" source="22">White House bureau</attr>
+      <attr type="work" source="22">Front Row at the White House: My Life and Times</attr>
+      <attr type="award" source="106">Helen Thomas Lifetime Achievement Award</attr>
+      <attr type="othername" source="106">First Lady of the Press</attr>
+      <attr type="affiliation" source="106">White House Bureau</attr>
+      <attr type="occupation" source="106">Chief</attr>
+      <attr type="dateofbirth" source="106">&quot;August 4, 1920&quot;</attr>
+      <attr type="affiliation" source="106">Gridiron Club</attr>
+      <attr type="occupation" source="106">officer</attr>
+      <attr type="affiliation" source="106">United Press International</attr>
+      <attr type="occupation" source="106">print journalist</attr>
+      <attr type="school" source="106">Wayne State University</attr>
+      <attr type="affiliation" source="106">National Press Club</attr>
+      <attr type="school" source="106">Detroit Public Schools</attr>
+      <attr type="degree" source="106">honorary degrees</attr>
+      <attr type="occupation" source="106">reporters</attr>
+      <attr type="birthplace" source="106">Detroit, MI</attr>
+      <attr type="affiliation" source="58">the Washington bureau of United Press International</attr>
+      <attr type="work" source="58">Watchdogs of Democracy.</attr>
+      <attr type="affiliation" source="58">White House Press Corps</attr>
+      <attr type="occupation" source="63">White House correspondent</attr>
+      <attr type="occupation" source="63">reporter</attr>
+      <attr type="affiliation" source="63">United Press International</attr>
+      <attr type="affiliation" source="63">Washington press corps</attr>
+      <attr type="affiliation" source="63">Hearst</attr>
+      <attr type="award" source="4">Helen Thomas Lifetime Achievement Award</attr>
+      <attr type="relatives" source="4">Douglas B. Cornell</attr>
+      <attr type="nationality" source="4">U.S.</attr>
+      <attr type="dateofbirth" source="4">Aug. 4, 1920</attr>
+      <attr type="occupation" source="4">copygirl</attr>
+      <attr type="work" source="4">Dateline: White House</attr>
+      <attr type="occupation" source="4">president</attr>
+      <attr type="relatives" source="4">George and Mary Thomas</attr>
+      <attr type="birthplace" source="4">Winchester, Ky., U.S.</attr>
+      <attr type="dateofbirth" source="4">August 4, 1920</attr>
+      <attr type="affiliation" source="4">White House Press Corps</attr>
+      <attr type="affiliation" source="4">White House Correspondents Association</attr>
+      <attr type="othername" source="4">Thomas, Helen</attr>
+      <attr type="work" source="4">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="affiliation" source="4">Women&apos;s National Press Club</attr>
+      <attr type="occupation" source="4">chief</attr>
+      <attr type="relatives" source="4">George Thomas</attr>
+      <attr type="award" source="4">International Women&apos;s Media Foundation Lifetime Achievement Award</attr>
+      <attr type="degree" source="4">bachelor&apos;s degree</attr>
+      <attr type="work" source="4">Front Row at the White House: My Life and Times</attr>
+      <attr type="othername" source="4">The Devastator</attr>
+      <attr type="occupation" source="4">chief White House correspondent</attr>
+      <attr type="occupation" source="4">journalist</attr>
+      <attr type="occupation" source="4">columnist</attr>
+      <attr type="affiliation" source="4">UPI</attr>
+      <attr type="affiliation" source="4">Gridiron Club</attr>
+      <attr type="occupation" source="4">dean</attr>
+      <attr type="occupation" source="4">reporter</attr>
+      <attr type="occupation" source="4">Bureau Chief</attr>
+      <attr type="affiliation" source="4">the Washington press corps</attr>
+      <attr type="work" source="4">Names in the News</attr>
+      <attr type="school" source="4">Wayne University</attr>
+      <attr type="affiliation" source="4">Hearst Corporation</attr>
+      <attr type="major" source="4">English</attr>
+      <attr type="occupation" source="4">writer</attr>
+      <attr type="othername" source="4">Sitting Buddha</attr>
+      <attr type="affiliation" source="4">White House bureau</attr>
+      <attr type="affiliation" source="4">Hearst Newspapers</attr>
+      <attr type="occupation" source="4">copy girl</attr>
+      <attr type="birthplace" source="4">Winchester, Kentucky</attr>
+      <attr type="affiliation" source="4">Daily News</attr>
+      <attr type="occupation" source="4">bureau chief</attr>
+      <attr type="award" source="4">Intrepid Award</attr>
+      <attr type="occupation" source="4">officer</attr>
+      <attr type="occupation" source="4">journalists</attr>
+      <attr type="occupation" source="4">correspondent</attr>
+      <attr type="occupation" source="4">reporters</attr>
+      <attr type="dateofbirth" source="4">1920</attr>
+      <attr type="affiliation" source="4">UPI&apos;s White House bureau</attr>
+      <attr type="affiliation" source="4">Washington Daily News</attr>
+      <attr type="affiliation" source="4">King Features Syndicate</attr>
+      <attr type="affiliation" source="4">National Press Club</attr>
+      <attr type="occupation" source="4">news service reporter</attr>
+      <attr type="affiliation" source="4">United Press International</attr>
+      <attr type="occupation" source="4">cub reporter</attr>
+      <attr type="othername" source="1">Sitting Buddha</attr>
+      <attr type="work" source="1">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="1">president</attr>
+      <attr type="affiliation" source="1">Washington Daily News</attr>
+      <attr type="affiliation" source="1">Women&apos;s National Press Club</attr>
+      <attr type="nationality" source="1">American</attr>
+      <attr type="occupation" source="1">columnist</attr>
+      <attr type="work" source="1">Dave</attr>
+      <attr type="occupation" source="1">reporter</attr>
+      <attr type="work" source="1">The West Wing</attr>
+      <attr type="birthplace" source="1">Winchester, Kentucky</attr>
+      <attr type="occupation" source="1">copygirl</attr>
+      <attr type="affiliation" source="1">United Press International</attr>
+      <attr type="affiliation" source="1">White House Correspondents Association</attr>
+      <attr type="award" source="1">Friend of Freedom Award</attr>
+      <attr type="occupation" source="1">cub reporter</attr>
+      <attr type="occupation" source="1">print journalist</attr>
+      <attr type="affiliation" source="1">UPI</attr>
+      <attr type="award" source="1">Intrepid Award</attr>
+      <attr type="award" source="1">International Women&apos;s Media Foundation Lifetime Achievement Award</attr>
+      <attr type="occupation" source="1">officer</attr>
+      <attr type="occupation" source="1">correspondent</attr>
+      <attr type="affiliation" source="1">White House Press Corps</attr>
+      <attr type="school" source="1">Wayne University</attr>
+      <attr type="work" source="1">Backstairs at the White House</attr>
+      <attr type="affiliation" source="1">Hearst Newspapers</attr>
+      <attr type="degree" source="1">bachelor&apos;s degree</attr>
+      <attr type="school" source="1">Wayne State University</attr>
+      <attr type="award" source="1">Helen Thomas Lifetime Achievement Award</attr>
+      <attr type="occupation" source="1">White House bureau chief</attr>
+      <attr type="affiliation" source="1">National Press Club</attr>
+      <attr type="dateofbirth" source="1">August 4, 1920</attr>
+      <attr type="occupation" source="1">news service reporter</attr>
+      <attr type="affiliation" source="1">Gridiron Club</attr>
+      <attr type="occupation" source="16">dean</attr>
+      <attr type="occupation" source="16">reporter</attr>
+      <attr type="affiliation" source="16">King Features Syndicate</attr>
+      <attr type="affiliation" source="16">White House press corps</attr>
+      <attr type="occupation" source="16">columnist</attr>
+      <attr type="occupation" source="16">White House correspondent</attr>
+      <attr type="dateofbirth" source="16">August 4, 1920</attr>
+      <attr type="affiliation" source="16">Hearst News Service</attr>
+      <attr type="affiliation" source="118">White House Correspondents Association</attr>
+      <attr type="work" source="118">Front Row at the White House</attr>
+      <attr type="occupation" source="118">chief</attr>
+      <attr type="affiliation" source="118">the Washington Daily News</attr>
+      <attr type="occupation" source="118">president</attr>
+      <attr type="occupation" source="118">copy girl</attr>
+      <attr type="affiliation" source="118">White House bureau</attr>
+      <attr type="affiliation" source="118">White House Press Corps</attr>
+      <attr type="occupation" source="118">officer</attr>
+      <attr type="occupation" source="118">reporter</attr>
+      <attr type="affiliation" source="118">National Press Club</attr>
+      <attr type="occupation" source="107">White House correspondent</attr>
+      <attr type="occupation" source="107">officer</attr>
+      <attr type="affiliation" source="107">D.C. press corps</attr>
+      <attr type="affiliation" source="107">White House Press Corps</attr>
+      <attr type="occupation" source="107">columnist</attr>
+      <attr type="occupation" source="107">journalist</attr>
+      <attr type="affiliation" source="107">Gridiron Club</attr>
+      <attr type="affiliation" source="107">UPI</attr>
+      <attr type="affiliation" source="107">National Press Club</attr>
+      <attr type="affiliation" source="107">White House Correspondents Association</attr>
+      <attr type="affiliation" source="107">Hearst Newspapers</attr>
+      <attr type="occupation" source="107">president</attr>
+      <attr type="occupation" source="107">reporter</attr>
+      <attr type="occupation" source="74">correspondent</attr>
+      <attr type="affiliation" source="74">National Press Club</attr>
+      <attr type="affiliation" source="74">White House Correspondents Association</attr>
+      <attr type="affiliation" source="74">White House Press Corps</attr>
+      <attr type="affiliation" source="74">United Press International</attr>
+      <attr type="occupation" source="74">columnist</attr>
+      <attr type="occupation" source="74">news service reporter</attr>
+      <attr type="work" source="74">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="74">officer</attr>
+      <attr type="affiliation" source="74">Hearst Newspapers</attr>
+      <attr type="occupation" source="74">Hearst Newspapers</attr>
+      <attr type="occupation" source="74">Public Servant</attr>
+      <attr type="occupation" source="74">Journalist</attr>
+      <attr type="occupation" source="74">Correspondent</attr>
+      <attr type="occupation" source="74">chief</attr>
+      <attr type="affiliation" source="74">Gridiron Club</attr>
+      <attr type="occupation" source="74">president</attr>
+      <attr type="affiliation" source="74">UPI</attr>
+      <attr type="occupation" source="74">White House correspondent</attr>
+      <attr type="affiliation" source="74">White House bureau</attr>
+      <attr type="occupation" source="19">White House correspondent</attr>
+      <attr type="affiliation" source="19">Hearst</attr>
+      <attr type="occupation" source="19">reporter</attr>
+      <attr type="affiliation" source="19">the White House press corps</attr>
+      <attr type="affiliation" source="19">UPI</attr>
+      <attr type="occupation" source="19">print journalist</attr>
+      <attr type="occupation" source="19">dean</attr>
+      <attr type="occupation" source="19">reporters</attr>
+      <attr type="affiliation" source="19">Hearst newspapers</attr>
+      <attr type="occupation" source="19">White House reporter</attr>
+      <attr type="occupation" source="19">correspondent</attr>
+      <attr type="affiliation" source="19">Hearst Newspapers</attr>
+      <attr type="occupation" source="19">columnist</attr>
+      <attr type="occupation" source="19">anti-war protester</attr>
+      <attr type="occupation" source="19">author</attr>
+      <attr type="occupation" source="19">journalist</attr>
+      <attr type="affiliation" source="19">United Press International</attr>
+      <attr type="email" source="89">hthomas@hearstddc.com</attr>
+      <attr type="occupation" source="89">White House columnist</attr>
+      <attr type="affiliation" source="89">Hearst</attr>
+      <attr type="school" source="119">Wayne State University</attr>
+      <attr type="affiliation" source="119">United Press International</attr>
+      <attr type="occupation" source="119">copy girl</attr>
+      <attr type="birthplace" source="119">Winchester, Ky</attr>
+      <attr type="occupation" source="119">print journalist</attr>
+      <attr type="occupation" source="119">columnist</attr>
+      <attr type="affiliation" source="119">White House bureau</attr>
+      <attr type="occupation" source="119">correspondent</attr>
+      <attr type="work" source="119">Thanks for the Memories, Mr. President</attr>
+      <attr type="occupation" source="119">chief</attr>
+      <attr type="work" source="119">Front Row at the White House</attr>
+      <attr type="affiliation" source="119">Hearst newspaper</attr>
+      <attr type="affiliation" source="119">Washington Daily News</attr>
+      <attr type="occupation" source="119">journalist</attr>
+      <attr type="birthplace" source="52">Kentucky</attr>
+      <attr type="affiliation" source="52">United Press International</attr>
+      <attr type="dateofbirth" source="52">August</attr>
+      <attr type="othername" source="52">First Lady of the Press</attr>
+      <attr type="occupation" source="52">White House correspondent</attr>
+      <attr type="occupation" source="52">reporter</attr>
+      <attr type="award" source="52">Intrepid Award</attr>
+      <attr type="occupation" source="52">columnist</attr>
+      <attr type="othername" source="52">grande dame of American journalism</attr>
+      <attr type="affiliation" source="52">Hearst Newspapers</attr>
+      <attr type="work" source="52">Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House</attr>
+      <attr type="award" source="52">Arab American Institute Foundation&apos;s 5th Annual Kahlil Gibran Spirit of Humanity Awards</attr>
+      <attr type="affiliation" source="52">White House press corps</attr>
+      <attr type="nationality" source="52">American</attr>
+      <attr type="affiliation" source="52">UPI</attr>
+      <attr type="occupation" source="88">columnist</attr>
+      <attr type="affiliation" source="88">United Press International</attr>
+      <attr type="occupation" source="88">professional</attr>
+      <attr type="affiliation" source="88">UPI</attr>
+      <attr type="occupation" source="88">journalist</attr>
+      <attr type="occupation" source="88">Washington journalist</attr>
+      <attr type="occupation" source="88">reporter</attr>
+      <attr type="occupation" source="88">national reporter</attr>
+      <attr type="affiliation" source="88">White House Press Corp</attr>
+      <attr type="occupation" source="81">journalist</attr>
+      <attr type="degree" source="81">honorary degrees</attr>
+      <attr type="award" source="81">Helen Thomas Award for Lifetime Achievement</attr>
+      <attr type="occupation" source="81">White House reporters</attr>
+      <attr type="affiliation" source="81">Hearst</attr>
+      <attr type="affiliation" source="81">UPI</attr>
+      <attr type="occupation" source="81">Reporters</attr>
+      <attr type="affiliation" source="81">United Press International</attr>
+      <attr type="occupation" source="81">White House reporter</attr>
+      <attr type="occupation" source="81">columnist</attr>
+      <attr type="occupation" source="81">bureau chief</attr>
+      <attr type="work" source="81">Front Row at the White House</attr>
+      <attr type="work" source="81">Front Row</attr>
+      <attr type="relatives" source="81">Douglas Cornell</attr>
+      <attr type="occupation" source="81">reporter</attr>
+      <attr type="affiliation" source="112">United Press International&apos;s Washington bureau</attr>
+      <attr type="occupation" source="112">journalist</attr>
+      <attr type="affiliation" source="112">White House press corps</attr>
+      <attr type="occupation" source="112">White House correspondent</attr>
+      <attr type="affiliation" source="64">Hearst Corporation</attr>
+      <attr type="occupation" source="64">journalists</attr>
+      <attr type="othername" source="64">dean of journalism</attr>
+      <attr type="occupation" source="108">author</attr>
+      <attr type="occupation" source="108">White House journalist</attr>
+      <attr type="affiliation" source="93">Hearst Newspapers</attr>
+      <attr type="occupation" source="93">White House reporter</attr>
+      <attr type="occupation" source="93">columnist</attr>
+      <attr type="occupation" source="93">journalist</attr>
+      <attr type="occupation" source="93">news reporter</attr>
+      <attr type="affiliation" source="111">the White House Press Corps</attr>
+      <attr type="occupation" source="111">journalist</attr>
+      <attr type="occupation" source="111">journalists</attr>
+      <attr type="occupation" source="111">Columnist</attr>
+      <attr type="affiliation" source="111">Hearst Newspapers</attr>
+      <attr type="occupation" source="111">reporter</attr>
+      <attr type="affiliation" source="111">WH press corps</attr>
+      <attr type="affiliation" source="14">United Press International</attr>
+      <attr type="award" source="14">Lifetime Achievement Award</attr>
+      <attr type="occupation" source="14">journalists</attr>
+      <attr type="occupation" source="14">dean</attr>
+      <attr type="occupation" source="14">journalist</attr>
+      <attr type="occupation" source="14">columnist</attr>
+      <attr type="occupation" source="14">reporter</attr>
+      <attr type="affiliation" source="14">Hearst Newspapers</attr>
+      <attr type="affiliation" source="14">UPI</attr>
+      <attr type="affiliation" source="14">White House press corps</attr>
+      <attr type="work" source="14">Watchdogs of Democracy?</attr>
+      <attr type="affiliation" source="14">Hearst</attr>
+      <attr type="occupation" source="14">correspondent</attr>
+      <attr type="occupation" source="14">print journalist</attr>
+      <attr type="occupation" source="14">opinion writer</attr>
+      <attr type="affiliation" source="14">UPI&#65533;fs White House bureau</attr>
+      <attr type="occupation" source="14">chief</attr>
+      <attr type="occupation" source="8">reporter</attr>
+      <attr type="occupation" source="8">news writer</attr>
+      <attr type="affiliation" source="8">White House press corps</attr>
+      <attr type="affiliation" source="8">Hearst News Service</attr>
+      <attr type="affiliation" source="8">UPI</attr>
+      <attr type="occupation" source="38">dean</attr>
+      <attr type="occupation" source="38">columnist</attr>
+      <attr type="affiliation" source="38">White House press corps</attr>
+      <attr type="affiliation" source="38">Hearst newspapers</attr>
+      <attr type="occupation" source="103">White House correspondent</attr>
+      <attr type="occupation" source="103">reporter</attr>
+      <attr type="affiliation" source="103">White House press corps</attr>
+      <attr type="website" source="103">www.liberalgirls4stuffyrepublicanmen.com</attr>
+      <attr type="occupation" source="3">journalist</attr>
+      <attr type="work" source="3">The Great White House Breakout</attr>
+      <attr type="work" source="3">Thanks for the Memories, Mr. Preside...</attr>
+      <attr type="work" source="3">Watchdogs of Democracy?</attr>
+      <attr type="occupation" source="3">author</attr>
+      <attr type="work" source="3">Front Row at the White House</attr>
+      <attr type="occupation" source="44">journalist</attr>
+      <attr type="occupation" source="44">journalists</attr>
+      <attr type="affiliation" source="44">the White House press corps</attr>
+      <attr type="occupation" source="44">professional journalist</attr>
+      <attr type="affiliation" source="87">United Press International</attr>
+      <attr type="occupation" source="87">reporter</attr>
+      <attr type="occupation" source="87">Washington correspondents</attr>
+      <attr type="affiliation" source="87">UPI</attr>
+      <attr type="occupation" source="87">senior White House correspondent</attr>
+      <attr type="occupation" source="76">journalism veteran</attr>
+      <attr type="school" source="76">Wayne State University</attr>
+      <attr type="affiliation" source="76">White House press corps</attr>
+      <attr type="occupation" source="43">journalist</attr>
+      <attr type="othername" source="43">The First Lady of the Press</attr>
+      <attr type="occupation" source="43">senior member</attr>
+      <attr type="work" source="43">Watchdogs of Democracy?: The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="43">White House Correspondent</attr>
+      <attr type="affiliation" source="43">the White House press corps</attr>
+      <attr type="occupation" source="32">opinion columnist</attr>
+      <attr type="work" source="32">Watchdogs of Democracy? The Waning Washington Press Corps and How It Has Failed the Public</attr>
+      <attr type="occupation" source="32">journalist</attr>
+      <attr type="affiliation" source="32">United Press International</attr>
+      <attr type="affiliation" source="32">White House press corps</attr>
+      <attr type="occupation" source="32">White House correspondent</attr>
+      <attr type="affiliation" source="32">the White House Press Corp</attr>
+      <attr type="occupation" source="32">chief White House correspondent</attr>
+      <attr type="affiliation" source="32">Hearst Newspapers</attr>
+      <attr type="affiliation" source="71">Hearst Newspapers</attr>
+      <attr type="occupation" source="71">reporter</attr>
+      <attr type="occupation" source="71">columnist</attr>
+      <attr type="occupation" source="71">White House correspondent</attr>
+      <attr type="occupation" source="66">White House columnist</attr>
+      <attr type="affiliation" source="66">Hearst Newspapers</attr>
+      <attr type="email" source="66">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="66">Hearst</attr>
+      <attr type="affiliation" source="79">Hearst Newspapers</attr>
+      <attr type="occupation" source="79">White House columnist</attr>
+      <attr type="email" source="79">hthomas@hearstdc.com</attr>
+      <attr type="affiliation" source="79">Hearst</attr>
+      <attr type="affiliation" source="67">National Press Club</attr>
+      <attr type="affiliation" source="67">Hearst Newspapers</attr>
+      <attr type="award" source="67">Helen Thomas Lifetime Achievement Award</attr>
+      <attr type="occupation" source="67"> chief</attr>
+      <attr type="occupation" source="67">president</attr>
+      <attr type="affiliation" source="67">Gridiron Club</attr>
+      <attr type="affiliation" source="67">United Press International</attr>
+      <attr type="affiliation" source="67">White House bureau</attr>
+      <attr type="award" source="67">International Women&apos;s Media Foundation Lifetime Achievement Award</attr>
+      <attr type="occupation" source="67">correspondent</attr>
+      <attr type="occupation" source="67">officer</attr>
+      <attr type="affiliation" source="67">White House Correspondents Association</attr>
+      <attr type="occupation" source="67">columnist</attr>
+      <attr type="occupation" source="83">White House correspondent</attr>
+      <attr type="occupation" source="83">journalist</attr>
+      <attr type="occupation" source="21">White House columnist</attr>
+      <attr type="affiliation" source="21">Hearst</attr>
+      <attr type="email" source="21">hthomas@hearstdc.com</attr>
+      <attr type="birthplace" source="91">Winchester, Kentucky</attr>
+      <attr type="othername" source="91">The First Lady of the Press</attr>
+      <attr type="occupation" source="91">syndicated columnist</attr>
+      <attr type="affiliation" source="91">UPI team</attr>
+      <attr type="affiliation" source="91">UPI</attr>
+      <attr type="work" source="91">Thanks for the Memories Mr. President: Wit and Wisdom from the Front Row at the White House</attr>
+      <attr type="affiliation" source="91">Hearst Newspapers</attr>
+      <attr type="occupation" source="91">print journalist</attr>
+      <attr type="occupation" source="91">Chief</attr>
+      <attr type="occupation" source="91">journalist</attr>
+      <attr type="school" source="91">Wayne State University</attr>
+      <attr type="affiliation" source="91">Washington Daily News</attr>
+      <attr type="occupation" source="91">copy girl</attr>
+      <attr type="affiliation" source="91">United Press International</attr>
+      <attr type="affiliation" source="91">Washington press corps</attr>
+      <attr type="affiliation" source="91">UPI White House Bureau</attr>
+      <attr type="affiliation" source="24">White House Press Corps</attr>
+      <attr type="othername" source="24">First Lady of the Press</attr>
+      <attr type="occupation" source="24">reporter</attr>
+      <attr type="occupation" source="24">journalist</attr>
+      <attr type="affiliation" source="24">United Press International</attr>
+      <attr type="occupation" source="24">chief</attr>
+      <attr type="dateofbirth" source="24">1920</attr>
+      <attr type="affiliation" source="24">UPI</attr>
+      <attr type="occupation" source="60">White House correspondent</attr>
+      <attr type="nationality" source="60">American</attr>
+      <attr type="occupation" source="60">senior member</attr>
+      <attr type="affiliation" source="60">White House press corps</attr>
+      <attr type="affiliation" source="60">U.P.I.</attr>
+      <attr type="occupation" source="60">White House Correspondent</attr>
+      <attr type="othername" source="60">The First Lady of the Press</attr>
+      <attr type="affiliation" source="60">Hearst newspapers</attr>
+      <attr type="affiliation" source="60">United Press International</attr>
+      <attr type="work" source="60">Front Row at the White House: Thanks for the Memories, Mr. President</attr>
+      <attr type="dateofbirth" source="6">4 August 1920</attr>
+      <attr type="birthplace" source="6">Winchester, Kentucky, USA</attr>
+      <attr type="work" source="6">Thank You, Mr. President: Helen Thomas at the White House</attr>
+      <attr type="occupation" source="6">dean</attr>
+      <attr type="affiliation" source="6">White House press corps</attr>
+      <attr type="occupation" source="104">White House columnist</attr>
+      <attr type="email" source="104">hthomas@hearstddc.com</attr>
+      <attr type="affiliation" source="104">Hearst</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="15" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="15">DC</attr>
+      <attr type="degree" source="15">Dr.</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="117" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

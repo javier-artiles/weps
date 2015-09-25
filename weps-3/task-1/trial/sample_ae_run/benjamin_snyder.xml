@@ -1,0 +1,306 @@
+<clustering searchString="BENJAMIN SNYDER">
+  <entity id="1">
+    <documents>
+      <doc rank="139" />
+    </documents>
+    <attributes>
+      <attr type="school" source="139">Western Tech</attr>
+      <attr type="affiliation" source="139">HOOD COLLEGE</attr>
+      <attr type="othername" source="139">Ben Snyder</attr>
+      <attr type="award" source="139">All-Division III Academic Team honors</attr>
+      <attr type="occupation" source="139">Sr</attr>
+      <attr type="relatives" source="139">Joel Snyder</attr>
+      <attr type="major" source="139">business management</attr>
+      <attr type="birthplace" source="139">Baltimore Md</attr>
+      <attr type="dateofbirth" source="139">Sept. 7 1983</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="6" />
+      <doc rank="150" />
+      <doc rank="13" />
+    </documents>
+    <attributes>
+      <attr type="award" source="6">1998-1999 Richard Reeve Baxtor Award</attr>
+      <attr type="degree" source="6">Bachelors of Business Administration</attr>
+      <attr type="fax" source="6">302.674.5864</attr>
+      <attr type="school" source="6">Dickinson School of Law of The Pennsylvania State University</attr>
+      <attr type="occupation" source="6">Associate</attr>
+      <attr type="affiliation" source="6">Dover office</attr>
+      <attr type="email" source="6">dbsnyder@prickett.com</attr>
+      <attr type="location" source="6">11 North State Street Dover, DE 19901</attr>
+      <attr type="major" source="6">Economics</attr>
+      <attr type="othername" source="6">D. Benjamin Snyder</attr>
+      <attr type="phone" source="6">302.674.3841</attr>
+      <attr type="website" source="13">http://www.prickett.com</attr>
+      <attr type="dateofbirth" source="13">December 23 1974</attr>
+      <attr type="birthplace" source="13">Dover Delaware</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="125" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="125">Psychiatrist-in-Chief</attr>
+      <attr type="affiliation" source="125">MIT</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="19" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="19">513-366-3600</attr>
+      <attr type="othername" source="19">David Benjamin Snyder</attr>
+      <attr type="affiliation" source="19">NM</attr>
+      <attr type="degree" source="19">J.D</attr>
+      <attr type="occupation" source="19">Insurance Agent</attr>
+      <attr type="location" source="19">3805 Edwards Rd Ste 200, Cincinnati, OH 45209-1939</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="102" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="102">DeWayne Snyder</attr>
+      <attr type="affiliation" source="102">VDOT</attr>
+      <attr type="othername" source="102">Norman Benjamin Snyder</attr>
+      <attr type="dateofbirth" source="102">Oct. 16 1925</attr>
+      <attr type="occupation" source="102">Veteran</attr>
+      <attr type="birthplace" source="102">Lynchburg</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="40" />
+    </documents>
+    <attributes>
+      <attr type="location" source="40">Asheville, North Carolina</attr>
+      <attr type="othername" source="40">bigrnurs24</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="134" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="134">bartender</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="42" />
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="12">Peter Benjamin Snyder</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="121" />
+      <doc rank="39" />
+      <doc rank="15" />
+      <doc rank="10" />
+      <doc rank="87" />
+      <doc rank="9" />
+      <doc rank="105" />
+      <doc rank="69" />
+      <doc rank="143" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="121">P</attr>
+      <attr type="affiliation" source="121">Augusta</attr>
+      <attr type="dateofbirth" source="15">July 20 1985</attr>
+      <attr type="othername" source="10">Ben Snyder</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="90" />
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="work" source="11">Swimming to the Moon</attr>
+      <attr type="occupation" source="11">Editor</attr>
+      <attr type="affiliation" source="11">Subcreations Productions</attr>
+      <attr type="othername" source="11">B.C. (Ben) Snyder</attr>
+      <attr type="dateofbirth" source="11">17 November 1979</attr>
+      <attr type="birthplace" source="11">USA</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="100" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="120" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="120">gunmen</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="47">Louise Clah</attr>
+      <attr type="location" source="47">Chinle</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="28">Player</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="103" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="109" />
+      <doc rank="66" />
+      <doc rank="31" />
+      <doc rank="79" />
+      <doc rank="3" />
+      <doc rank="124" />
+      <doc rank="149" />
+      <doc rank="26" />
+      <doc rank="67" />
+      <doc rank="44" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="66">third year PhD student</attr>
+      <attr type="affiliation" source="66">Computer Science and Artificial Intelligence Laboratory at MIT</attr>
+      <attr type="major" source="3">Electrical Engineering and Computer Science</attr>
+      <attr type="othername" source="3">Ben Snyder</attr>
+      <attr type="mentor" source="3">Regina Barzilay</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="91" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="91">David Benjamin Snyder</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="46" />
+      <doc rank="96" />
+      <doc rank="62" />
+    </documents>
+    <attributes>
+      <attr type="fax" source="46">603 650-1202</attr>
+      <attr type="affiliation" source="46">Dartmouth Medical School</attr>
+      <attr type="location" source="46">1 Rope Ferry Road ? Hanover, NH 03755-1404</attr>
+      <attr type="occupation" source="46">Vice President</attr>
+      <attr type="othername" source="96">Ben Snyder</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="136" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="136">Captain(s)</attr>
+      <attr type="affiliation" source="136">ASDFGHJKL</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="16">OU Shotokan Karate Club</attr>
+      <attr type="occupation" source="16">webmaster</attr>
+      <attr type="major" source="16">mechanical engineering</attr>
+      <attr type="mentor" source="16">Bob Williams</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="85" />
+      <doc rank="122" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="85">Angela</attr>
+      <attr type="location" source="85">New Paris</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="7" />
+      <doc rank="65" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="7">New York State Police</attr>
+      <attr type="othername" source="7">Richard Benjamin Snyder</attr>
+      <attr type="occupation" source="7">Investigator</attr>
+      <attr type="relatives" source="65">ED SNYDER</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="81" />
+      <doc rank="118" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="81">SNYDER BENJAMIN</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="137" />
+      <doc rank="4" />
+    </documents>
+    <attributes>
+      <attr type="location" source="4">Boston, ma, United States</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="140" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="24" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="14" />
+    </documents>
+    <attributes>
+      <attr type="location" source="14">Houston, Texas</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="35" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

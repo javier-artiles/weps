@@ -1,0 +1,351 @@
+<clustering searchString="SHARON CUMMINGS">
+  <entity id="1">
+    <documents>
+      <doc rank="42" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="42">M.A.G.M.A.</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="40" />
+      <doc rank="79" />
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="location" source="40">Southern Indiana</attr>
+      <attr type="affiliation" source="79">Labs of Blaircroft</attr>
+      <attr type="phone" source="72">(812) 985-5175</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="105" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="105">Magistrate</attr>
+      <attr type="affiliation" source="105">Eastern Caribbean Supreme Court</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="88" />
+    </documents>
+    <attributes>
+      <attr type="location" source="88"> Consumer Protection Division Law Department U.S. Postal Service Washington, DC 20260-1100</attr>
+      <attr type="affiliation" source="88">Consumer Protection Division Law Department U.S. Postal Service</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="27">SassyInIowa</attr>
+      <attr type="occupation" source="27">Message Board Administrators</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="52" />
+    </documents>
+    <attributes>
+      <attr type="location" source="52">Ashland</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="29" />
+      <doc rank="21" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="29">Consolidated Publishing Facility</attr>
+      <attr type="occupation" source="29">Pre-Press Service Technician</attr>
+      <attr type="othername" source="29">SHARON K. CUMMINGS</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="90">Dean&#65533;fs Executive Staff</attr>
+      <attr type="phone" source="90">713-500-9041</attr>
+      <attr type="affiliation" source="90">The University of Texas School of Public Health</attr>
+      <attr type="email" source="90">Sharon.S.Cummings@uth.tmc.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="119" />
+      <doc rank="118" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="45" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="45">Co-President</attr>
+      <attr type="affiliation" source="45">Executive Board</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="85">Public Relations Manager</attr>
+      <attr type="affiliation" source="85">SCSO</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="location" source="23">6227 Jefferson Street</attr>
+      <attr type="email" source="23">srina49@verizon.net</attr>
+      <attr type="occupation" source="23">Customer Service Representative</attr>
+      <attr type="affiliation" source="23">quest diagnostics</attr>
+      <attr type="school" source="23">ETI International</attr>
+      <attr type="phone" source="23">(215) 473-4549</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="109">Four Mile Elementary</attr>
+      <attr type="location" source="109">670 SE 68th St. Pleasant Hill, IA 50327</attr>
+      <attr type="occupation" source="109">Principal</attr>
+      <attr type="phone" source="109">515-265-1972</attr>
+      <attr type="fax" source="109">515-262-1933</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="44" />
+      <doc rank="76" />
+      <doc rank="35" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="44">Public Employee Relations Board</attr>
+      <attr type="othername" source="44">Sharon Cummings Giles</attr>
+      <attr type="occupation" source="44">Board Members</attr>
+      <attr type="degree" source="35">J.D.</attr>
+      <attr type="mentor" source="35">Herbert F. Murray</attr>
+      <attr type="location" source="35">1801 K Street, N.W. Suite 1200 Washington, D.C. 20006</attr>
+      <attr type="phone" source="35">(202) 775-0725</attr>
+      <attr type="school" source="35">Georgetown University Law Center</attr>
+      <attr type="email" source="35">scgiles@rkmc.com</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="87" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="139" />
+      <doc rank="34" />
+      <doc rank="24" />
+      <doc rank="13" />
+      <doc rank="63" />
+      <doc rank="60" />
+      <doc rank="26" />
+      <doc rank="15" />
+      <doc rank="54" />
+      <doc rank="37" />
+      <doc rank="36" />
+      <doc rank="62" />
+      <doc rank="22" />
+      <doc rank="14" />
+      <doc rank="18" />
+      <doc rank="56" />
+      <doc rank="121" />
+      <doc rank="112" />
+      <doc rank="7" />
+      <doc rank="2" />
+      <doc rank="11" />
+      <doc rank="31" />
+      <doc rank="80" />
+      <doc rank="20" />
+      <doc rank="16" />
+      <doc rank="4" />
+    </documents>
+    <attributes>
+      <attr type="work" source="139">Labor Of Love series</attr>
+      <attr type="affiliation" source="34">Terrace Gallery</attr>
+      <attr type="degree" source="34">MA</attr>
+      <attr type="othername" source="24">Sharon A Aal-Cummings</attr>
+      <attr type="major" source="13">Fine Art</attr>
+      <attr type="occupation" source="13">full time professional artist</attr>
+      <attr type="website" source="26">http://TerraceGallery.boundlessgallery.com</attr>
+      <attr type="location" source="15">Tampa, FL 33617  United States</attr>
+      <attr type="phone" source="15">(813) 983-9241</attr>
+      <attr type="email" source="54">ttgallery_47@yahoo.com</attr>
+      <attr type="school" source="62">Universtiy of Tampa</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="115" />
+    </documents>
+    <attributes>
+      <attr type="location" source="115">Louisville, Kentucky</attr>
+      <attr type="affiliation" source="115">L&amp;N Federal Credit Union</attr>
+      <attr type="fax" source="115">(502) 515-8390</attr>
+      <attr type="phone" source="115">(502) 515-8329</attr>
+      <attr type="occupation" source="115">Vice President</attr>
+      <attr type="email" source="115">Sharon.Cummings@lnfcu.com</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="89">William Bishop</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="64" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="64">GLENN DALE VINSON</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="38" />
+      <doc rank="69" />
+      <doc rank="123" />
+      <doc rank="43" />
+      <doc rank="49" />
+      <doc rank="10" />
+      <doc rank="3" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="43">SRAO</attr>
+      <attr type="othername" source="43">Sharon (Vander Ven) Cummings</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="65" />
+      <doc rank="111" />
+      <doc rank="73" />
+      <doc rank="129" />
+      <doc rank="104" />
+      <doc rank="12" />
+      <doc rank="67" />
+      <doc rank="58" />
+      <doc rank="59" />
+      <doc rank="8" />
+      <doc rank="106" />
+      <doc rank="66" />
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="work" source="12">Palm Warbler, breeding</attr>
+      <attr type="location" source="12">502 Madison Avenue Suite 11 Toledo, OH 43604</attr>
+      <attr type="affiliation" source="67">TOLEDO CAMERA CLUB</attr>
+      <attr type="website" source="58">www.sharoncummings.net</attr>
+      <attr type="occupation" source="58">freelance photographer</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="33" />
+      <doc rank="48" />
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="work" source="33">One Love</attr>
+      <attr type="occupation" source="33">chief executive officer</attr>
+      <attr type="affiliation" source="33">Deja Vu Theatre Productions</attr>
+      <attr type="birthplace" source="33">Jamaica</attr>
+      <attr type="location" source="17">Jacksonville</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="74" />
+      <doc rank="61" />
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="74">UCSD&apos;S California Smokers&apos; Helpline</attr>
+      <attr type="occupation" source="74">research coordinator</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="55" />
+    </documents>
+    <attributes>
+      <attr type="location" source="55">Raleigh</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="82" />
+    </documents>
+    <attributes>
+      <attr type="location" source="82">Canyon Country</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="19" />
+    </documents>
+    <attributes>
+      <attr type="location" source="19">London, United Kingdom</attr>
+      <attr type="occupation" source="19">Deputy Director</attr>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="101" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="101">St. Barnabas&#65533;f Church</attr>
+      <attr type="phone" source="101">(301) 249-5000</attr>
+      <attr type="occupation" source="101">Convention Deligates</attr>
+      <attr type="location" source="101">St. Barnabas&#65533;f Church 14111 Oak Grove Rd. Post Office Box 4528 Upper Marlboro, MD 20775</attr>
+      <attr type="fax" source="101">(301) 249-3838</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="135" />
+      <doc rank="102" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="135">attorney</attr>
+    </attributes>
+  </entity>
+</clustering>

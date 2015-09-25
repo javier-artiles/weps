@@ -1,0 +1,247 @@
+<clustering searchString="HUI FANG">
+  <entity id="1">
+    <documents>
+      <doc rank="22" />
+      <doc rank="43" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="75" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="75">Dr</attr>
+      <attr type="location" source="75">Cincinnati, Ohio 45229</attr>
+      <attr type="affiliation" source="75">Shriners Hospital for Children</attr>
+      <attr type="othername" source="75">Cheng-Hui Fang</attr>
+      <attr type="email" source="75">cfang@shrinenet.org</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="125" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="125">Treasurer</attr>
+      <attr type="affiliation" source="125">Special Interest Group</attr>
+      <attr type="othername" source="125">Ng Hui Fang</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="20" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="150" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="74" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="74">Hui Fang ZHAO</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="128" />
+      <doc rank="129" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="128">Rachel Raffles Girl&#65533;fs Sec Sch</attr>
+      <attr type="othername" source="128">Koh Hui Fang</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="4" />
+      <doc rank="52" />
+      <doc rank="48" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="4">Quantitative Analyst Intern</attr>
+      <attr type="degree" source="4">Phd</attr>
+      <attr type="affiliation" source="4">Countrywide Securities Corporation</attr>
+      <attr type="major" source="4">Distributed Control and Optimization</attr>
+      <attr type="location" source="4">Greater Los Angeles Area</attr>
+      <attr type="school" source="4">University of Science and Technology of China</attr>
+      <attr type="nationality" source="52">China</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="13" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="13">international student</attr>
+      <attr type="othername" source="13">Ying-Hui Fang</attr>
+      <attr type="location" source="13">Hawthorne, CA</attr>
+      <attr type="affiliation" source="13">Loyola Marymount University</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="19" />
+      <doc rank="142" />
+      <doc rank="131" />
+      <doc rank="82" />
+      <doc rank="116" />
+      <doc rank="89" />
+      <doc rank="61" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="19">Centre for East Asian Archaeology Shandong University</attr>
+      <attr type="occupation" source="19">Professor</attr>
+      <attr type="degree" source="131">Dr</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="135" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="135">&quot;Chinese&quot; Candy</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="46" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="46">Tianjin China</attr>
+      <attr type="degree" source="46">M.S</attr>
+      <attr type="fax" source="46">412-624-1668</attr>
+      <attr type="phone" source="46">412-624-8523</attr>
+      <attr type="school" source="46">Nankai University</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="37" />
+      <doc rank="120" />
+      <doc rank="53" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="21" />
+      <doc rank="113" />
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="location" source="21">S69 E- D (Basement of Engineering Building)</attr>
+      <attr type="affiliation" source="21">Department of Mechanical Engineering University of Houston</attr>
+      <attr type="phone" source="21">713-743-4548</attr>
+      <attr type="fax" source="21">713-743-4503</attr>
+      <attr type="email" source="21">hfang@uh.edu</attr>
+      <attr type="degree" source="21">Dr</attr>
+      <attr type="occupation" source="21">Research Assistant Professor</attr>
+      <attr type="school" source="113">University of Houston</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="9" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="49" />
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="email" source="49">hui.fan_@_anderbilt.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="110" />
+      <doc rank="3" />
+      <doc rank="79" />
+      <doc rank="18" />
+      <doc rank="66" />
+      <doc rank="83" />
+      <doc rank="45" />
+      <doc rank="6" />
+      <doc rank="5" />
+      <doc rank="26" />
+      <doc rank="2" />
+      <doc rank="25" />
+      <doc rank="132" />
+      <doc rank="122" />
+      <doc rank="93" />
+      <doc rank="17" />
+      <doc rank="140" />
+      <doc rank="8" />
+      <doc rank="14" />
+      <doc rank="107" />
+      <doc rank="65" />
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="110">ACM-W</attr>
+      <attr type="occupation" source="110">advisor</attr>
+      <attr type="degree" source="79">Ph.D</attr>
+      <attr type="school" source="79">Ohio State University</attr>
+      <attr type="work" source="18">RotoTexture</attr>
+      <attr type="othername" source="66">Hui-Fang</attr>
+      <attr type="mentor" source="45">ChengXiang Zhai</attr>
+      <attr type="award" source="45">SIGIR 2004 Best Paper Award</attr>
+      <attr type="major" source="45">CS</attr>
+      <attr type="phone" source="6">217-333-9051</attr>
+      <attr type="location" source="6">3217 Siebel  Center, Department of Computer Science University of Illinois at Urbana Champaign</attr>
+      <attr type="email" source="6">huifang@uiuc.edu</attr>
+      <attr type="website" source="6">http://graphics.cs.uiuc.edu/~huifang</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="87" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="78" />
+      <doc rank="30" />
+      <doc rank="62" />
+      <doc rank="141" />
+      <doc rank="80" />
+      <doc rank="70" />
+    </documents>
+    <attributes>
+      <attr type="work" source="78">The Reunion</attr>
+      <attr type="othername" source="78">Hong Hui Fang</attr>
+      <attr type="award" source="30">Best Supporting Actress</attr>
+      <attr type="occupation" source="141">Artistes</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="112" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

@@ -1,0 +1,399 @@
+<clustering searchString="AMANDA LENTZ">
+  <entity id="1">
+    <documents>
+      <doc rank="86" />
+      <doc rank="2" />
+      <doc rank="6" />
+      <doc rank="60" />
+      <doc rank="3" />
+    </documents>
+    <attributes>
+      <attr type="location" source="2">Stony Point, North Carolina, United States</attr>
+      <attr type="location" source="2">North Carolina</attr>
+      <attr type="award" source="2">North Carolina Young Author Award</attr>
+      <attr type="email" source="2">alentz@wfubmc.edu</attr>
+      <attr type="affiliation" source="2">Emergency Communications</attr>
+      <attr type="affiliation" source="2">Wake Forest University Baptist Medical Center</attr>
+      <attr type="email" source="60">alentz@wfubmc.edu</attr>
+      <attr type="location" source="60">Statesville, NC</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="location" source="63">Conway</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="18">Junior</attr>
+      <attr type="occupation" source="18">College Students</attr>
+      <attr type="affiliation" source="18">Penn State University</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="87">Pittsburgh, PA</attr>
+      <attr type="occupation" source="87">Freshman</attr>
+      <attr type="major" source="87">Social Work</attr>
+      <attr type="affiliation" source="87">Philanthropy and VP of Public Relations</attr>
+      <attr type="othername" source="87">Cupcake</attr>
+      <attr type="dateofbirth" source="87">February 24th</attr>
+      <attr type="email" source="87">Rum5288@cup.edu</attr>
+      <attr type="mentor" source="87">Sue Shuemaker</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="29" />
+      <doc rank="22" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="29">Associate Degrees</attr>
+      <attr type="school" source="29">UW-WC</attr>
+      <attr type="school" source="29">University of Wisconsin - Washington County</attr>
+      <attr type="degree" source="29"> two-year associate degrees</attr>
+      <attr type="occupation" source="29">Students</attr>
+      <attr type="school" source="29">UW-Washington County</attr>
+      <attr type="occupation" source="29">STUDENTS</attr>
+      <attr type="location" source="22">West Bend</attr>
+      <attr type="occupation" source="22">Students</attr>
+      <attr type="affiliation" source="22">University of Wisconsin-Washington County</attr>
+      <attr type="affiliation" source="22">UW-Washington County</attr>
+      <attr type="occupation" source="22">Full time students</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="45" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="73" />
+      <doc rank="66" />
+      <doc rank="51" />
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="73">Petersen</attr>
+      <attr type="affiliation" source="73">HHS</attr>
+      <attr type="mentor" source="73">Larry Petersen</attr>
+      <attr type="affiliation" source="73">Huron High School</attr>
+      <attr type="mentor" source="73">Laura</attr>
+      <attr type="mentor" source="66">Mitch Gaffer</attr>
+      <attr type="occupation" source="51">Student workers</attr>
+      <attr type="mentor" source="17">Mitch Gaffer</attr>
+      <attr type="affiliation" source="17">Huron debate team</attr>
+      <attr type="affiliation" source="17">Huron</attr>
+      <attr type="affiliation" source="17">Huron High School</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="52" />
+      <doc rank="92" />
+      <doc rank="44" />
+      <doc rank="67" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="52">Lance Jewell</attr>
+      <attr type="location" source="52">Kalamazoo</attr>
+      <attr type="location" source="92">Canton  MI</attr>
+      <attr type="affiliation" source="44">Kalamazoo Comstock High School</attr>
+      <attr type="affiliation" source="67">Comstock High School</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="25" />
+    </documents>
+    <attributes>
+      <attr type="location" source="25">Alburtis</attr>
+      <attr type="affiliation" source="25">Lehigh Carbon Community College</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="42" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="42">SHAKOPEE JR. HIGH</attr>
+      <attr type="occupation" source="42">Teacher</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="location" source="85">Juneau</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="1" />
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="work" source="1">Rosa Was Here</attr>
+      <attr type="occupation" source="1">Actress</attr>
+      <attr type="occupation" source="16">Actress</attr>
+      <attr type="work" source="16">Rosa Was Here</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="26">MSU</attr>
+      <attr type="affiliation" source="26">MN State University</attr>
+      <attr type="affiliation" source="26">MN State University, Mankato</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="5" />
+      <doc rank="89" />
+      <doc rank="37" />
+      <doc rank="38" />
+      <doc rank="36" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="5">MS</attr>
+      <attr type="school" source="5">Virginia Tech</attr>
+      <attr type="major" source="5">Art History</attr>
+      <attr type="school" source="5">Virginia Commonwealth University</attr>
+      <attr type="occupation" source="5">4th year Ph.D. candidate</attr>
+      <attr type="degree" source="5">BS</attr>
+      <attr type="major" source="5">Biology</attr>
+      <attr type="affiliation" source="5">Biological Sciences Program at Virginia Tech</attr>
+      <attr type="location" source="89">Richmond, VA 23284 USA</attr>
+      <attr type="affiliation" source="89">Department of Biology, Virginia Commonwealth University</attr>
+      <attr type="degree" source="37">Dr.</attr>
+      <attr type="occupation" source="37">Faculty</attr>
+      <attr type="affiliation" source="38">Longwood University</attr>
+      <attr type="occupation" source="38">Graduate Students</attr>
+      <attr type="degree" source="38">PhD</attr>
+      <attr type="school" source="38">Virginia Tech</attr>
+      <attr type="occupation" source="38">instructor</attr>
+      <attr type="occupation" source="36">FACULTY</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="90">NEW HAMPSHIRE TECHNICAL INSTITUTE</attr>
+      <attr type="location" source="90">Concord</attr>
+      <attr type="major" source="90">Dental Assisting</attr>
+      <attr type="affiliation" source="90">New Hampshire Technical Institute</attr>
+      <attr type="occupation" source="90">students</attr>
+      <attr type="location" source="90">NASHUA</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="104" />
+      <doc rank="99" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="113" />
+      <doc rank="56" />
+      <doc rank="109" />
+      <doc rank="41" />
+      <doc rank="84" />
+      <doc rank="106" />
+      <doc rank="114" />
+      <doc rank="33" />
+      <doc rank="58" />
+      <doc rank="11" />
+      <doc rank="82" />
+      <doc rank="91" />
+      <doc rank="80" />
+      <doc rank="53" />
+      <doc rank="8" />
+      <doc rank="39" />
+      <doc rank="123" />
+      <doc rank="116" />
+    </documents>
+    <attributes>
+      <attr type="nationality" source="113">USA</attr>
+      <attr type="affiliation" source="56">Silvia&apos;s Gymnastics</attr>
+      <attr type="nationality" source="109">USA</attr>
+      <attr type="occupation" source="41">tumbler</attr>
+      <attr type="affiliation" source="84">Silvia&apos;s Gymnastics</attr>
+      <attr type="occupation" source="114">athletes</attr>
+      <attr type="nationality" source="114">USA</attr>
+      <attr type="nationality" source="33">usa</attr>
+      <attr type="affiliation" source="58">USAIGC</attr>
+      <attr type="occupation" source="58">Gymnast</attr>
+      <attr type="mentor" source="11">Marilyn Downing</attr>
+      <attr type="affiliation" source="11">Marilyn Upside Downers</attr>
+      <attr type="birthplace" source="11">Seminole</attr>
+      <attr type="occupation" source="11">tumbler</attr>
+      <attr type="affiliation" source="11">South Plains College</attr>
+      <attr type="occupation" source="11">student</attr>
+      <attr type="occupation" source="11">gymnast</attr>
+      <attr type="affiliation" source="82">Silvia&apos;s</attr>
+      <attr type="affiliation" source="91">Silvia&apos;s</attr>
+      <attr type="location" source="80">Seminole</attr>
+      <attr type="occupation" source="53">national team member</attr>
+      <attr type="affiliation" source="8">United States Power Tumbling Team</attr>
+      <attr type="affiliation" source="8">Talent Plus</attr>
+      <attr type="nationality" source="8">US</attr>
+      <attr type="location" source="8">Lubbock</attr>
+      <attr type="nationality" source="39">USA</attr>
+      <attr type="nationality" source="116">USA</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="61" />
+      <doc rank="78" />
+      <doc rank="96" />
+      <doc rank="13" />
+      <doc rank="75" />
+      <doc rank="79" />
+      <doc rank="23" />
+      <doc rank="10" />
+      <doc rank="70" />
+      <doc rank="47" />
+      <doc rank="28" />
+      <doc rank="24" />
+      <doc rank="71" />
+      <doc rank="35" />
+      <doc rank="14" />
+      <doc rank="9" />
+      <doc rank="76" />
+      <doc rank="68" />
+      <doc rank="83" />
+      <doc rank="62" />
+      <doc rank="81" />
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="61">Player</attr>
+      <attr type="affiliation" source="61">Penn State</attr>
+      <attr type="affiliation" source="61">PENN</attr>
+      <attr type="occupation" source="78">D</attr>
+      <attr type="occupation" source="78">players</attr>
+      <attr type="occupation" source="78">Soph</attr>
+      <attr type="affiliation" source="78">Nittany Lions</attr>
+      <attr type="mentor" source="78">Paula Wilkins</attr>
+      <attr type="affiliation" source="78">Penn State</attr>
+      <attr type="affiliation" source="96">the Lions</attr>
+      <attr type="occupation" source="96">Defenders</attr>
+      <attr type="affiliation" source="96">Penn State</attr>
+      <attr type="mentor" source="96">Paul Wilkins</attr>
+      <attr type="occupation" source="96">sophomore</attr>
+      <attr type="affiliation" source="96">the Nittany Lions</attr>
+      <attr type="mentor" source="96">Tim Rosenfeld</attr>
+      <attr type="mentor" source="96">Melissa Mitchell</attr>
+      <attr type="affiliation" source="96">PSU</attr>
+      <attr type="occupation" source="75">PLAYER</attr>
+      <attr type="affiliation" source="75">Plymouth Canton</attr>
+      <attr type="affiliation" source="79">Lady Lions</attr>
+      <attr type="affiliation" source="79">Penn State</attr>
+      <attr type="affiliation" source="79">The Nittany Lions</attr>
+      <attr type="affiliation" source="79">State</attr>
+      <attr type="affiliation" source="23">Penn State</attr>
+      <attr type="affiliation" source="23">Penn State&apos;s women&apos;s soccer team</attr>
+      <attr type="mentor" source="23">Wilkins</attr>
+      <attr type="affiliation" source="23">PSU</attr>
+      <attr type="mentor" source="23">Paula Wilkins</attr>
+      <attr type="affiliation" source="23">Lions</attr>
+      <attr type="affiliation" source="23">Nittany Lion</attr>
+      <attr type="occupation" source="10">D</attr>
+      <attr type="occupation" source="10">Player</attr>
+      <attr type="affiliation" source="10">PENNST</attr>
+      <attr type="affiliation" source="10">Penn State</attr>
+      <attr type="affiliation" source="10">PENN STATE</attr>
+      <attr type="affiliation" source="70">Penn State</attr>
+      <attr type="affiliation" source="47">Penn State</attr>
+      <attr type="affiliation" source="47">The Lady Lions</attr>
+      <attr type="affiliation" source="47">Lions</attr>
+      <attr type="occupation" source="47">senior</attr>
+      <attr type="affiliation" source="47">State</attr>
+      <attr type="affiliation" source="28">Nittany Lions</attr>
+      <attr type="affiliation" source="28">Lions</attr>
+      <attr type="occupation" source="28">midfielder</attr>
+      <attr type="affiliation" source="28">Penn State women&apos;s soccer team</attr>
+      <attr type="occupation" source="28">senior</attr>
+      <attr type="affiliation" source="28">Penn State</attr>
+      <attr type="mentor" source="28">Wilkins</attr>
+      <attr type="affiliation" source="24">Penn State</attr>
+      <attr type="affiliation" source="24">Nittany Lions</attr>
+      <attr type="occupation" source="71">senior</attr>
+      <attr type="affiliation" source="71">Nittany Lions</attr>
+      <attr type="occupation" source="71">midfielder</attr>
+      <attr type="affiliation" source="71">Lions</attr>
+      <attr type="affiliation" source="71">Penn State squad</attr>
+      <attr type="affiliation" source="71">Penn State</attr>
+      <attr type="affiliation" source="35">PC</attr>
+      <attr type="affiliation" source="35">Plymouth Canton</attr>
+      <attr type="affiliation" source="14">Santa Clara</attr>
+      <attr type="affiliation" source="9">Penn State</attr>
+      <attr type="occupation" source="9">D</attr>
+      <attr type="affiliation" source="9">PENN STATE</attr>
+      <attr type="affiliation" source="9">PENNST</attr>
+      <attr type="occupation" source="9">Player</attr>
+      <attr type="fax" source="76">(605) 353-7807</attr>
+      <attr type="location" source="76">Huron, SD 57350-0949</attr>
+      <attr type="phone" source="76">(605) 353-7800</attr>
+      <attr type="mentor" source="76">Mitch Gaffer</attr>
+      <attr type="mentor" source="76">Marge Hansen</attr>
+      <attr type="mentor" source="76">Pam Hollibaugh</attr>
+      <attr type="occupation" source="76">Students</attr>
+      <attr type="mentor" source="76">Betty Kopischke</attr>
+      <attr type="mentor" source="76">Mitch Gaffer - Forensic</attr>
+      <attr type="affiliation" source="76">Huron HS</attr>
+      <attr type="affiliation" source="68">Penn State</attr>
+      <attr type="mentor" source="68">Paula Wilkins</attr>
+      <attr type="affiliation" source="68">Lions</attr>
+      <attr type="occupation" source="68">sophomore</attr>
+      <attr type="affiliation" source="68">Nittany Lions</attr>
+      <attr type="affiliation" source="68">PSU</attr>
+      <attr type="affiliation" source="62">Penn State</attr>
+      <attr type="affiliation" source="62">Lions</attr>
+      <attr type="affiliation" source="81">M</attr>
+      <attr type="affiliation" source="81">Michigan Hawks</attr>
+      <attr type="location" source="81">Livonia</attr>
+      <attr type="affiliation" source="12">the Lions</attr>
+      <attr type="occupation" source="12">midfielder</attr>
+      <attr type="affiliation" source="12">PSU</attr>
+      <attr type="affiliation" source="12">Penn State</attr>
+      <attr type="affiliation" source="12">Nittany Lions</attr>
+    </attributes>
+  </entity>
+</clustering>

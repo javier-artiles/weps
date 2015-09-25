@@ -1,0 +1,317 @@
+<clustering searchString="OTIS LEE">
+  <entity id="1">
+    <documents>
+      <doc rank="126" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="126">Otis Lee Walker</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="64" />
+      <doc rank="129" />
+      <doc rank="120" />
+      <doc rank="104" />
+      <doc rank="85" />
+      <doc rank="124" />
+      <doc rank="8" />
+      <doc rank="87" />
+      <doc rank="12" />
+      <doc rank="74" />
+      <doc rank="51" />
+      <doc rank="133" />
+      <doc rank="92" />
+      <doc rank="2" />
+      <doc rank="109" />
+      <doc rank="102" />
+      <doc rank="77" />
+      <doc rank="20" />
+      <doc rank="121" />
+      <doc rank="118" />
+      <doc rank="70" />
+      <doc rank="3" />
+      <doc rank="106" />
+      <doc rank="53" />
+      <doc rank="5" />
+      <doc rank="93" />
+      <doc rank="88" />
+      <doc rank="56" />
+      <doc rank="52" />
+      <doc rank="107" />
+      <doc rank="105" />
+      <doc rank="81" />
+      <doc rank="28" />
+      <doc rank="11" />
+      <doc rank="62" />
+      <doc rank="60" />
+      <doc rank="84" />
+      <doc rank="13" />
+      <doc rank="18" />
+      <doc rank="65" />
+      <doc rank="48" />
+      <doc rank="49" />
+      <doc rank="27" />
+      <doc rank="117" />
+      <doc rank="115" />
+      <doc rank="123" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="40" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="40">Mattie Robinson</attr>
+      <attr type="othername" source="40">Otis Lee Robinson</attr>
+      <attr type="occupation" source="40">custodian</attr>
+      <attr type="birthplace" source="40">Madison County</attr>
+      <attr type="affiliation" source="40">Cedar Shoals High School</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="43">Matty/Wray</attr>
+      <attr type="othername" source="43">Otis Lee/Rhodes</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="69">ALFORD OTIS</attr>
+      <attr type="dateofbirth" source="69">1968-11-08</attr>
+      <attr type="location" source="69">Horry</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="36" />
+      <doc rank="4" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="36">Artists</attr>
+      <attr type="othername" source="4">Otis Lee, Jr.</attr>
+      <attr type="dateofbirth" source="4">December 1,1974</attr>
+      <attr type="location" source="4">NORCROSS, Georgia, United States</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+      <attr type="dateofbirth" source="26">1918</attr>
+      <attr type="affiliation" source="26">95th Engineer Regiment</attr>
+      <attr type="birthplace" source="26">Baltimore</attr>
+      <attr type="occupation" source="26">Staff Sergeant</attr>
+      <attr type="othername" source="26">Otis Edward Lee, Sr.</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="33" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="72" />
+      <doc rank="111" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="72">Allen, Otis Lee</attr>
+      <attr type="dateofbirth" source="111">03/28/1982</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="29" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="113" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="113">James</attr>
+      <attr type="othername" source="113">Otis Lee Williams</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="66" />
+      <doc rank="119" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="66">Otis Lee IV</attr>
+      <attr type="relatives" source="66">Mallory Lee</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="112" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="112">Otis Lee Coley</attr>
+      <attr type="location" source="112">106 Courtyard Circle, Goldsboro NC</attr>
+      <attr type="dateofbirth" source="112">02/22/1973</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="79" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="79">Otis Lee Hayden</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="19" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="19">PFC</attr>
+      <attr type="dateofbirth" source="19">March 2nd, 1948</attr>
+      <attr type="othername" source="19">Otis Lee Allen</attr>
+      <attr type="affiliation" source="19">Marine Corps</attr>
+      <attr type="birthplace" source="19">Steele, Missouri</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="63">Cooper</attr>
+      <attr type="othername" source="63">Otis Lee Cooper</attr>
+      <attr type="occupation" source="63">President</attr>
+      <attr type="location" source="63">348 E 113th St, Los Angeles, CA 90061-3020, United States</attr>
+      <attr type="phone" source="63">(323) 374-0444</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="14" />
+      <doc rank="34" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="46" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="23">Owner</attr>
+      <attr type="location" source="23">Washington D.C. Metro Area</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="47">freshman</attr>
+      <attr type="mentor" source="47">Brown</attr>
+      <attr type="award" source="47">January 2008 Student-Athletes of the Month</attr>
+      <attr type="location" source="47">Atlanta, GA</attr>
+      <attr type="affiliation" source="47">South Atlanta HS</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="15" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="15">ML Pickett</attr>
+      <attr type="dateofbirth" source="15">August 11, 1922</attr>
+      <attr type="affiliation" source="15">Hormel&#65533;fs</attr>
+      <attr type="birthplace" source="15">Lauderdale, MS</attr>
+      <attr type="othername" source="15">Otis L. Pickett</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="86" />
+      <doc rank="45" />
+      <doc rank="22" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="86">Boston Celtics</attr>
+      <attr type="othername" source="86">Bird</attr>
+      <attr type="school" source="86">University of Houston</attr>
+      <attr type="birthplace" source="86">Winter Haven, Florida</attr>
+      <attr type="occupation" source="86">Guard</attr>
+      <attr type="dateofbirth" source="86">December 9, 1955</attr>
+      <attr type="award" source="45">Southwest Conference Player of the Year</attr>
+      <attr type="nationality" source="45">American</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="30">writer</attr>
+      <attr type="work" source="30">I Will Return</attr>
+      <attr type="affiliation" source="30">Cobras</attr>
+      <attr type="relatives" source="30">Nate</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="38" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="38">770-564-2600</attr>
+      <attr type="degree" source="38">B.A.</attr>
+      <attr type="fax" source="38">(770) 564-2267</attr>
+      <attr type="dateofbirth" source="38">1972</attr>
+      <attr type="affiliation" source="38">Georgia Bar Association</attr>
+      <attr type="school" source="38">University of Mississippi School of Law</attr>
+      <attr type="email" source="38">clee@deminglaw.com</attr>
+      <attr type="location" source="38">4851 Jimmy Carter Blvd Norcross, Georgia 30093-3641</attr>
+      <attr type="othername" source="38">Charles Otis Lee</attr>
+      <attr type="birthplace" source="38">Jackson, MS</attr>
+      <attr type="occupation" source="38">Associate</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="75" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="75">USN</attr>
+      <attr type="othername" source="75">Dennis</attr>
+      <attr type="birthplace" source="75">Scottsville, KY.</attr>
+      <attr type="occupation" source="75">RM3</attr>
+      <attr type="dateofbirth" source="75">26 March 1913</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="108" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="108">Richard Alvin Lee</attr>
+    </attributes>
+  </entity>
+</clustering>

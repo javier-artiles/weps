@@ -1,0 +1,1041 @@
+<clustering searchString="HERB RITTS">
+  <entity id="1">
+    <documents>
+      <doc rank="34" />
+      <doc rank="62" />
+      <doc rank="58" />
+      <doc rank="48" />
+      <doc rank="109" />
+      <doc rank="112" />
+      <doc rank="60" />
+      <doc rank="118" />
+      <doc rank="3" />
+      <doc rank="67" />
+      <doc rank="49" />
+      <doc rank="88" />
+      <doc rank="107" />
+      <doc rank="28" />
+      <doc rank="72" />
+      <doc rank="69" />
+      <doc rank="8" />
+      <doc rank="32" />
+      <doc rank="13" />
+      <doc rank="56" />
+      <doc rank="63" />
+      <doc rank="12" />
+      <doc rank="111" />
+      <doc rank="76" />
+      <doc rank="42" />
+      <doc rank="92" />
+      <doc rank="79" />
+      <doc rank="55" />
+      <doc rank="81" />
+      <doc rank="90" />
+      <doc rank="73" />
+      <doc rank="11" />
+      <doc rank="117" />
+      <doc rank="99" />
+      <doc rank="65" />
+      <doc rank="53" />
+      <doc rank="27" />
+      <doc rank="52" />
+      <doc rank="75" />
+      <doc rank="19" />
+      <doc rank="54" />
+      <doc rank="113" />
+      <doc rank="108" />
+      <doc rank="9" />
+      <doc rank="106" />
+      <doc rank="51" />
+      <doc rank="29" />
+      <doc rank="94" />
+      <doc rank="16" />
+      <doc rank="1" />
+      <doc rank="74" />
+      <doc rank="2" />
+      <doc rank="37" />
+      <doc rank="43" />
+      <doc rank="4" />
+      <doc rank="102" />
+      <doc rank="15" />
+      <doc rank="33" />
+      <doc rank="101" />
+      <doc rank="38" />
+      <doc rank="47" />
+      <doc rank="66" />
+      <doc rank="46" />
+      <doc rank="98" />
+      <doc rank="61" />
+      <doc rank="105" />
+      <doc rank="41" />
+      <doc rank="95" />
+      <doc rank="23" />
+      <doc rank="82" />
+      <doc rank="70" />
+      <doc rank="5" />
+      <doc rank="59" />
+      <doc rank="68" />
+      <doc rank="97" />
+      <doc rank="35" />
+      <doc rank="20" />
+      <doc rank="14" />
+      <doc rank="36" />
+      <doc rank="6" />
+      <doc rank="115" />
+      <doc rank="10" />
+      <doc rank="96" />
+      <doc rank="87" />
+      <doc rank="45" />
+      <doc rank="21" />
+      <doc rank="78" />
+      <doc rank="44" />
+      <doc rank="114" />
+      <doc rank="7" />
+      <doc rank="24" />
+      <doc rank="25" />
+      <doc rank="104" />
+      <doc rank="83" />
+      <doc rank="39" />
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="work" source="34">Notorious</attr>
+      <attr type="work" source="34">Africa</attr>
+      <attr type="work" source="34">Jump</attr>
+      <attr type="work" source="58">Dance</attr>
+      <attr type="occupation" source="58">Celebrity photographer</attr>
+      <attr type="occupation" source="58">Photographer</attr>
+      <attr type="occupation" source="58">celebrity photographer</attr>
+      <attr type="affiliation" source="58">Vogue</attr>
+      <attr type="relatives" source="58">Shirley Ritts</attr>
+      <attr type="affiliation" source="58">Vanity Fair</attr>
+      <attr type="school" source="48">Bard College</attr>
+      <attr type="award" source="48">MTV Video Music Awards</attr>
+      <attr type="location" source="48"> California</attr>
+      <attr type="location" source="48">New York</attr>
+      <attr type="affiliation" source="48">Rolling Stone</attr>
+      <attr type="location" source="48">&apos;August 13, 1952</attr>
+      <attr type="major" source="48">economics</attr>
+      <attr type="nationality" source="48">American</attr>
+      <attr type="location" source="48">Los Angeles</attr>
+      <attr type="work" source="48">Naomi</attr>
+      <attr type="affiliation" source="48">Vanity Fair</attr>
+      <attr type="affiliation" source="48">Vogue</attr>
+      <attr type="work" source="48"> herb ritts</attr>
+      <attr type="occupation" source="48">sales representative</attr>
+      <attr type="occupation" source="48">fashion photographer</attr>
+      <attr type="affiliation" source="48">Harper&apos;s Bazaar</attr>
+      <attr type="birthplace" source="48">Los Angeles, California</attr>
+      <attr type="dateofbirth" source="48">August 13, 1952</attr>
+      <attr type="work" source="109">Murder in the First (1995), Mike Kelly</attr>
+      <attr type="relatives" source="60">Christy Thrasher</attr>
+      <attr type="location" source="60">Beverly Hills</attr>
+      <attr type="school" source="60">Bard College</attr>
+      <attr type="birthplace" source="60">Los Angeles</attr>
+      <attr type="location" source="60">New York</attr>
+      <attr type="dateofbirth" source="60">1952</attr>
+      <attr type="occupation" source="60">Celebrity photographer</attr>
+      <attr type="work" source="60">Madonna</attr>
+      <attr type="work" source="60">Richard Gere</attr>
+      <attr type="occupation" source="60">Video Director</attr>
+      <attr type="occupation" source="60">Photographer</attr>
+      <attr type="relatives" source="60">Rory</attr>
+      <attr type="award" source="60">Best Male Video and Best Female Video at the 1991 MTV Video Music Awards</attr>
+      <attr type="relatives" source="60">Shirley Ritts</attr>
+      <attr type="location" source="60">Los Angeles</attr>
+      <attr type="major" source="60">economics</attr>
+      <attr type="occupation" source="118">fashion photographers</attr>
+      <attr type="occupation" source="118">image maker</attr>
+      <attr type="occupation" source="118">photographer</attr>
+      <attr type="location" source="118">Los Angeles</attr>
+      <attr type="work" source="3">Djimon with Octopus</attr>
+      <attr type="work" source="3">Nude with Tumbleweed</attr>
+      <attr type="work" source="3">Versace Dress</attr>
+      <attr type="work" source="3">Alek Wek</attr>
+      <attr type="work" source="3">Stephanie with Flower</attr>
+      <attr type="work" source="3">Male Nude with Bubble</attr>
+      <attr type="work" source="3">Backflip</attr>
+      <attr type="location" source="67">Los Angeles</attr>
+      <attr type="occupation" source="67">photographers</attr>
+      <attr type="affiliation" source="67">Vanity Fair</attr>
+      <attr type="occupation" source="67">imagemaker</attr>
+      <attr type="affiliation" source="67">Vogue</attr>
+      <attr type="occupation" source="49">photographer</attr>
+      <attr type="occupation" source="49">fashion photographers</attr>
+      <attr type="work" source="49">Work</attr>
+      <attr type="occupation" source="49">image maker</attr>
+      <attr type="work" source="88">Fred with Tires</attr>
+      <attr type="work" source="88">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="occupation" source="107">celebrity photographer</attr>
+      <attr type="occupation" source="107">photographer</attr>
+      <attr type="work" source="107">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="relatives" source="107">Shirley</attr>
+      <attr type="relatives" source="107">Shirley Ritts</attr>
+      <attr type="award" source="72">best female and best male video</attr>
+      <attr type="award" source="72">1991 MTV awards</attr>
+      <attr type="work" source="72">herb ritts</attr>
+      <attr type="occupation" source="72">photographer</attr>
+      <attr type="othername" source="69">Ritts, Herb</attr>
+      <attr type="occupation" source="69">photographer</attr>
+      <attr type="website" source="32">www.herbritts.com</attr>
+      <attr type="work" source="32">herb ritts</attr>
+      <attr type="occupation" source="32">photographer</attr>
+      <attr type="work" source="32">Paul - Torso</attr>
+      <attr type="work" source="13">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="work" source="13">Female Nude Detail</attr>
+      <attr type="othername" source="13">Ritts Herb</attr>
+      <attr type="work" source="13">Duo IV</attr>
+      <attr type="work" source="13">Duo</attr>
+      <attr type="work" source="13">Fred with Tires</attr>
+      <attr type="occupation" source="13">Artist</attr>
+      <attr type="work" source="56">Untitled</attr>
+      <attr type="nationality" source="56">American</attr>
+      <attr type="work" source="56">Versace dress, back view</attr>
+      <attr type="work" source="56">Fred</attr>
+      <attr type="work" source="56">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="work" source="56">Rupaul III</attr>
+      <attr type="work" source="56">Sandra Bernhard</attr>
+      <attr type="work" source="56">Prince</attr>
+      <attr type="dateofbirth" source="56">1952</attr>
+      <attr type="work" source="56">Matthew McConaughey</attr>
+      <attr type="work" source="56">Fred with Tires II</attr>
+      <attr type="birthplace" source="56">Brentwood, USA</attr>
+      <attr type="work" source="12">Nelson Mandela</attr>
+      <attr type="work" source="12">Duo</attr>
+      <attr type="work" source="12">Jackie Joyner-Kersee</attr>
+      <attr type="work" source="12">Richard Gere</attr>
+      <attr type="occupation" source="12">image maker</attr>
+      <attr type="affiliation" source="12">Vogue</attr>
+      <attr type="occupation" source="12">photographer</attr>
+      <attr type="work" source="12">Woman in Sea</attr>
+      <attr type="work" source="12">Backflip</attr>
+      <attr type="work" source="12">Jack Nicholson</attr>
+      <attr type="work" source="12">Africa</attr>
+      <attr type="affiliation" source="12">Rolling Stone</attr>
+      <attr type="work" source="12">Madonna</attr>
+      <attr type="work" source="12">Men/Women</attr>
+      <attr type="work" source="12">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="work" source="12">Jim Carrey</attr>
+      <attr type="affiliation" source="12">Vanity Fair</attr>
+      <attr type="work" source="12">Stephanie</attr>
+      <attr type="work" source="12">Jump</attr>
+      <attr type="dateofbirth" source="12">1952</attr>
+      <attr type="work" source="12">Naomi</attr>
+      <attr type="work" source="12">Sean Connery</attr>
+      <attr type="work" source="12">Tina Turner</attr>
+      <attr type="birthplace" source="12">Southern California</attr>
+      <attr type="occupation" source="111">Video Director</attr>
+      <attr type="award" source="111">Best Male Video and Best Female Video at the 1991 MTV Video Music Awards</attr>
+      <attr type="location" source="111">New York</attr>
+      <attr type="dateofbirth" source="111">1952</attr>
+      <attr type="relatives" source="111">Rory</attr>
+      <attr type="birthplace" source="111">Los Angeles</attr>
+      <attr type="occupation" source="111">Celebrity photographer</attr>
+      <attr type="school" source="111">Bard College</attr>
+      <attr type="relatives" source="111">Shirley Ritts</attr>
+      <attr type="occupation" source="111">Photographer</attr>
+      <attr type="major" source="111">economics</attr>
+      <attr type="relatives" source="111">Christy Thrasher</attr>
+      <attr type="work" source="76">herb ritts</attr>
+      <attr type="affiliation" source="76">Vogue</attr>
+      <attr type="major" source="76">economics</attr>
+      <attr type="affiliation" source="76">Harpers Bazaar</attr>
+      <attr type="work" source="76">Duo IV</attr>
+      <attr type="birthplace" source="76">Los Angeles</attr>
+      <attr type="work" source="76">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="affiliation" source="76">Elle</attr>
+      <attr type="dateofbirth" source="76">1952</attr>
+      <attr type="occupation" source="76">fashion photographer</attr>
+      <attr type="school" source="76">Bard College</attr>
+      <attr type="work" source="76">Men with Kelp</attr>
+      <attr type="location" source="76">Los Angeles</attr>
+      <attr type="work" source="42">David with Lampshade</attr>
+      <attr type="work" source="42">Clay Face</attr>
+      <attr type="work" source="42">Clay \(Detail\)</attr>
+      <attr type="work" source="42">Djimon</attr>
+      <attr type="location" source="42">Los Angeles</attr>
+      <attr type="work" source="42">Djimon - Censored</attr>
+      <attr type="work" source="42">Boot</attr>
+      <attr type="work" source="42">Clay Nude on Mantle</attr>
+      <attr type="work" source="42">Bob Paris</attr>
+      <attr type="work" source="42">Curved Torso</attr>
+      <attr type="occupation" source="92">Photographer</attr>
+      <attr type="work" source="92">Dance</attr>
+      <attr type="work" source="92">madonna</attr>
+      <attr type="award" source="92">Best Male Video and Best Female Video at the 1991 MTV Video Music Awards</attr>
+      <attr type="occupation" source="92">Video Director</attr>
+      <attr type="location" source="92">Los Angeles</attr>
+      <attr type="relatives" source="92">Rory</attr>
+      <attr type="relatives" source="92">Christy Thrasher</attr>
+      <attr type="occupation" source="92">Celebrity photographer</attr>
+      <attr type="work" source="92">Richard Gere</attr>
+      <attr type="major" source="92">economics</attr>
+      <attr type="relatives" source="92">Shirley Ritts</attr>
+      <attr type="dateofbirth" source="92">1952</attr>
+      <attr type="birthplace" source="92">Los Angeles</attr>
+      <attr type="location" source="92">Beverly Hills</attr>
+      <attr type="award" source="92">MTV Video Music Awards</attr>
+      <attr type="school" source="92">Bard College</attr>
+      <attr type="location" source="92">New York</attr>
+      <attr type="work" source="79">Pictures</attr>
+      <attr type="work" source="79">Duo</attr>
+      <attr type="occupation" source="79">Author</attr>
+      <attr type="work" source="79">Notorious</attr>
+      <attr type="work" source="79">Madonna</attr>
+      <attr type="work" source="79">Africa</attr>
+      <attr type="work" source="79">Work</attr>
+      <attr type="work" source="79">Kazu</attr>
+      <attr type="work" source="79">Men/Women</attr>
+      <attr type="location" source="55"> California</attr>
+      <attr type="dateofbirth" source="55">1952</attr>
+      <attr type="occupation" source="55">celebrity photographers</attr>
+      <attr type="occupation" source="55">photographer</attr>
+      <attr type="location" source="55">Los Angeles</attr>
+      <attr type="work" source="55">Djimon with Octopus</attr>
+      <attr type="work" source="55">Africa</attr>
+      <attr type="location" source="55">Beverly Hills</attr>
+      <attr type="work" source="55">Notorious</attr>
+      <attr type="relatives" source="73">Christy</attr>
+      <attr type="relatives" source="73">Shirley Ritts</attr>
+      <attr type="relatives" source="73">Rory</attr>
+      <attr type="dateofbirth" source="73">1952</attr>
+      <attr type="birthplace" source="73">Los Angeles</attr>
+      <attr type="occupation" source="73">Celeb Photographer</attr>
+      <attr type="location" source="73"> California</attr>
+      <attr type="occupation" source="73">sales representative</attr>
+      <attr type="major" source="73">economics</attr>
+      <attr type="occupation" source="73">fashion and celebrity photographers</attr>
+      <attr type="occupation" source="73">celebrity photographer</attr>
+      <attr type="school" source="73">Bard College</attr>
+      <attr type="affiliation" source="11">Rolling Stone</attr>
+      <attr type="affiliation" source="11">Interview</attr>
+      <attr type="affiliation" source="11">Vogue</attr>
+      <attr type="occupation" source="11">celebrity photographer</attr>
+      <attr type="occupation" source="11">photographer</attr>
+      <attr type="affiliation" source="11">Vanity Fair</attr>
+      <attr type="affiliation" source="11">Board of Directors for The Elton John Aids Foundation</attr>
+      <attr type="occupation" source="11">charter member</attr>
+      <attr type="occupation" source="117">artist</attr>
+      <attr type="location" source="117"> Californian</attr>
+      <attr type="affiliation" source="117">Vanity Fair</attr>
+      <attr type="occupation" source="117">photographer</attr>
+      <attr type="nationality" source="117">American</attr>
+      <attr type="work" source="117">Wrestling Torsos</attr>
+      <attr type="dateofbirth" source="117">1952</attr>
+      <attr type="affiliation" source="117">Vogue</attr>
+      <attr type="location" source="117">Los Angeles</attr>
+      <attr type="affiliation" source="117">Rolling Stone</attr>
+      <attr type="work" source="99">Pictures</attr>
+      <attr type="work" source="99">Work</attr>
+      <attr type="work" source="99">Men/Women</attr>
+      <attr type="work" source="99">Duo</attr>
+      <attr type="work" source="99">Madonna</attr>
+      <attr type="work" source="99">Kazu</attr>
+      <attr type="work" source="99">Male Nude</attr>
+      <attr type="work" source="99">Africa</attr>
+      <attr type="occupation" source="27">celebrity photographers</attr>
+      <attr type="affiliation" source="27">Vanity Fair</attr>
+      <attr type="location" source="27">Los Angeles</attr>
+      <attr type="work" source="27">Africa</attr>
+      <attr type="work" source="27">Fred With Tires</attr>
+      <attr type="work" source="27">Tina Turner</attr>
+      <attr type="location" source="27">New York</attr>
+      <attr type="affiliation" source="27">Vogue</attr>
+      <attr type="occupation" source="27">photographers</attr>
+      <attr type="work" source="27">Fred</attr>
+      <attr type="work" source="27">notorious</attr>
+      <attr type="occupation" source="27">imagemaker</attr>
+      <attr type="work" source="27">Dizzy Gillespie</attr>
+      <attr type="work" source="27">Duo</attr>
+      <attr type="occupation" source="27">fashion photographer</attr>
+      <attr type="work" source="52">Madonna</attr>
+      <attr type="othername" source="52">Herb Ritt</attr>
+      <attr type="occupation" source="52">photographers</attr>
+      <attr type="location" source="75">East Coast</attr>
+      <attr type="school" source="75">Bard College</attr>
+      <attr type="occupation" source="75">photographers</attr>
+      <attr type="birthplace" source="75">Los Angeles</attr>
+      <attr type="occupation" source="75">photographer</attr>
+      <attr type="dateofbirth" source="75">1952</attr>
+      <attr type="location" source="75">New York</attr>
+      <attr type="major" source="75">economics</attr>
+      <attr type="major" source="19">economics</attr>
+      <attr type="dateofbirth" source="19">August 13, 1952</attr>
+      <attr type="location" source="19">New York</attr>
+      <attr type="occupation" source="19">photographer</attr>
+      <attr type="work" source="19">Fred with Tires</attr>
+      <attr type="work" source="19">Duo</attr>
+      <attr type="location" source="19"> California</attr>
+      <attr type="work" source="19">Notorious</attr>
+      <attr type="othername" source="19">Herbert Ritts, Jr.</attr>
+      <attr type="dateofbirth" source="19">1952</attr>
+      <attr type="occupation" source="19">sales representative</attr>
+      <attr type="work" source="19">Work</attr>
+      <attr type="work" source="19">Pictures</attr>
+      <attr type="location" source="19">Beverly Hills</attr>
+      <attr type="work" source="19">Africa</attr>
+      <attr type="affiliation" source="19">Esquire</attr>
+      <attr type="nationality" source="19">American</attr>
+      <attr type="school" source="19">Bard College</attr>
+      <attr type="location" source="19">Santa Catalina Island</attr>
+      <attr type="othername" source="19">Ritts, Herb</attr>
+      <attr type="work" source="19">&apos;August 13, 1952</attr>
+      <attr type="relatives" source="54">Rory</attr>
+      <attr type="nationality" source="54">American</attr>
+      <attr type="occupation" source="54">photographer</attr>
+      <attr type="occupation" source="54">Celebrity photographer</attr>
+      <attr type="dateofbirth" source="54">1952</attr>
+      <attr type="location" source="54">Los Angeles</attr>
+      <attr type="occupation" source="54">celebrity photographer</attr>
+      <attr type="relatives" source="54">Shirley</attr>
+      <attr type="relatives" source="54">Christy</attr>
+      <attr type="work" source="108">Wrapped Torso</attr>
+      <attr type="nationality" source="9">American</attr>
+      <attr type="occupation" source="9">salesman</attr>
+      <attr type="occupation" source="9">photographer</attr>
+      <attr type="mentor" source="9">Steve McQueen</attr>
+      <attr type="dateofbirth" source="9">August 13, 1952</attr>
+      <attr type="occupation" source="9">Photographer</attr>
+      <attr type="major" source="9">economics</attr>
+      <attr type="work" source="106">Duo</attr>
+      <attr type="occupation" source="106">photographer</attr>
+      <attr type="work" source="106">Waterfall IV</attr>
+      <attr type="work" source="106">Versace Veiled Dress</attr>
+      <attr type="work" source="106">Versace Dress Backview</attr>
+      <attr type="nationality" source="106">American</attr>
+      <attr type="work" source="106">Jack Nicholson</attr>
+      <attr type="work" source="106">Dizzy Gillespie</attr>
+      <attr type="work" source="51">Men with Kelp</attr>
+      <attr type="work" source="51">Woman in Sea</attr>
+      <attr type="work" source="51">Fred with Tires II</attr>
+      <attr type="work" source="51">Fred with Tires I</attr>
+      <attr type="work" source="51">Duo IV</attr>
+      <attr type="work" source="51">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="work" source="51">Fred with Tires</attr>
+      <attr type="work" source="51">Fred</attr>
+      <attr type="work" source="51">Duo</attr>
+      <attr type="location" source="29">New York</attr>
+      <attr type="location" source="29"> California</attr>
+      <attr type="affiliation" source="29">Interview</attr>
+      <attr type="occupation" source="29">photographer</attr>
+      <attr type="occupation" source="29">contributing photographer</attr>
+      <attr type="occupation" source="94">Photographer</attr>
+      <attr type="occupation" source="94">photographers</attr>
+      <attr type="work" source="16">Work</attr>
+      <attr type="affiliation" source="16">Vogue</attr>
+      <attr type="occupation" source="16">fashion and celebrity photographer</attr>
+      <attr type="occupation" source="16">Director</attr>
+      <attr type="dateofbirth" source="16">1952</attr>
+      <attr type="affiliation" source="16">Versace</attr>
+      <attr type="affiliation" source="16">Rolling Stone</attr>
+      <attr type="location" source="16">New York</attr>
+      <attr type="affiliation" source="16">Harper&apos;s Bazaar</attr>
+      <attr type="work" source="16">Djimon</attr>
+      <attr type="school" source="16">Bard College</attr>
+      <attr type="birthplace" source="16">Los Angeles, California</attr>
+      <attr type="nationality" source="16">American</attr>
+      <attr type="dateofbirth" source="16">August 13, 1952</attr>
+      <attr type="occupation" source="16">fashion photographer</attr>
+      <attr type="othername" source="16">Ritts, Herb</attr>
+      <attr type="affiliation" source="16">Vanity Fair</attr>
+      <attr type="birthplace" source="16">Los Angeles</attr>
+      <attr type="affiliation" source="16">Armani</attr>
+      <attr type="occupation" source="16">sales representative</attr>
+      <attr type="major" source="16">economics</attr>
+      <attr type="major" source="2">economics</attr>
+      <attr type="othername" source="2">Herbert Ritts</attr>
+      <attr type="major" source="2">art history</attr>
+      <attr type="affiliation" source="2">Vanity Fair</attr>
+      <attr type="affiliation" source="2">Interview</attr>
+      <attr type="work" source="2">Making The Video, episode 86: Underneath Your Clothes, as himself</attr>
+      <attr type="work" source="2">Diary, episode 8: Diary Of Britney Spears, as himself</attr>
+      <attr type="work" source="2">Intimate Portrait, episode: Cindy Crawford, as himself</attr>
+      <attr type="affiliation" source="2">Harper&apos;s Bazaar</attr>
+      <attr type="work" source="2">The Ellen Show, episode 4: Vanity Hair, as the photographer</attr>
+      <attr type="work" source="2">Herb Ritts</attr>
+      <attr type="affiliation" source="2">Vogue</attr>
+      <attr type="occupation" source="2">Actor</attr>
+      <attr type="nationality" source="2">American</attr>
+      <attr type="work" source="2">Notorious</attr>
+      <attr type="work" source="2">Men/Women</attr>
+      <attr type="occupation" source="2">Celebrity/Fashion Photographer</attr>
+      <attr type="work" source="2">Africa</attr>
+      <attr type="occupation" source="2">celebrity photographer</attr>
+      <attr type="location" source="2">East Coast</attr>
+      <attr type="work" source="2">Work</attr>
+      <attr type="dateofbirth" source="2">August 13, 1952</attr>
+      <attr type="occupation" source="2">Photographer</attr>
+      <attr type="school" source="2">Bard College</attr>
+      <attr type="birthplace" source="2">Los Angeles, California</attr>
+      <attr type="affiliation" source="2">Rolling Stone</attr>
+      <attr type="work" source="2">Duo</attr>
+      <attr type="work" source="2">Pictures</attr>
+      <attr type="award" source="2">MTV Video Awards</attr>
+      <attr type="occupation" source="2">fashion photographer</attr>
+      <attr type="work" source="2">Behind The Music, episode 6: Imagemakers, as himself</attr>
+      <attr type="work" source="2">Murder In The First, as Mike Kelly</attr>
+      <attr type="affiliation" source="2">Elle</attr>
+      <attr type="affiliation" source="2">GQ</attr>
+      <attr type="work" source="37">Duo IV</attr>
+      <attr type="work" source="37"> Female Nude</attr>
+      <attr type="work" source="37">Men with Kelp</attr>
+      <attr type="work" source="37">Fred</attr>
+      <attr type="work" source="37">Cindy and Company</attr>
+      <attr type="work" source="37">Female Nude</attr>
+      <attr type="work" source="37">Duo</attr>
+      <attr type="work" source="4">Africa</attr>
+      <attr type="work" source="4">Work</attr>
+      <attr type="work" source="4">Pictures</attr>
+      <attr type="work" source="4">Kazu</attr>
+      <attr type="work" source="4">Herb Ritts</attr>
+      <attr type="work" source="4">Duo</attr>
+      <attr type="work" source="4">Notorious</attr>
+      <attr type="work" source="4">Men/Women</attr>
+      <attr type="location" source="102">New York</attr>
+      <attr type="relatives" source="102">Christy Thrasher</attr>
+      <attr type="award" source="102">Best Male Video and Best Female Video at the 1991 MTV Video Music Awards</attr>
+      <attr type="occupation" source="102">Celebrity photographer</attr>
+      <attr type="relatives" source="102">Shirley Ritts</attr>
+      <attr type="work" source="102">Work</attr>
+      <attr type="occupation" source="102">Video Director</attr>
+      <attr type="relatives" source="102">Rory</attr>
+      <attr type="work" source="102">Boot</attr>
+      <attr type="occupation" source="102">Photographer</attr>
+      <attr type="birthplace" source="102">Los Angeles</attr>
+      <attr type="work" source="102">Richard Gere</attr>
+      <attr type="school" source="102">Bard College</attr>
+      <attr type="dateofbirth" source="102">1952</attr>
+      <attr type="major" source="102">economics</attr>
+      <attr type="occupation" source="15">photographer</attr>
+      <attr type="occupation" source="15">image maker</attr>
+      <attr type="work" source="33">Men with Kelp</attr>
+      <attr type="work" source="101">Men/Women</attr>
+      <attr type="work" source="101">Duo</attr>
+      <attr type="work" source="101">Africa</attr>
+      <attr type="nationality" source="101">American</attr>
+      <attr type="location" source="101">New York</attr>
+      <attr type="occupation" source="101">international photographer</attr>
+      <attr type="occupation" source="101">photographer</attr>
+      <attr type="work" source="101">Fred</attr>
+      <attr type="work" source="101">Fred With Tires</attr>
+      <attr type="nationality" source="38">American</attr>
+      <attr type="work" source="38">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="relatives" source="38">Shirley</attr>
+      <attr type="location" source="38">Los Angeles</attr>
+      <attr type="work" source="38">Work</attr>
+      <attr type="occupation" source="38">photographer</attr>
+      <attr type="occupation" source="38">celebrity photographer</attr>
+      <attr type="dateofbirth" source="38">1952</attr>
+      <attr type="work" source="47">Fred</attr>
+      <attr type="occupation" source="47">photographer</attr>
+      <attr type="work" source="47">Pictures</attr>
+      <attr type="location" source="47">Beverly Hills</attr>
+      <attr type="location" source="47"> California</attr>
+      <attr type="dateofbirth" source="47">August 13, 1952</attr>
+      <attr type="location" source="47">&apos;August 13, 1952</attr>
+      <attr type="nationality" source="47">USA</attr>
+      <attr type="dateofbirth" source="47">1952</attr>
+      <attr type="location" source="47">Los Angeles</attr>
+      <attr type="othername" source="47">RITTS, HERB</attr>
+      <attr type="work" source="47">Africa</attr>
+      <attr type="award" source="47">MTV Award</attr>
+      <attr type="work" source="47">Work</attr>
+      <attr type="work" source="47">Fred with Tires</attr>
+      <attr type="work" source="47">Notorious</attr>
+      <attr type="work" source="47">Bob Paris</attr>
+      <attr type="othername" source="47">Herbert Ritts, Jr.</attr>
+      <attr type="work" source="47">Duo</attr>
+      <attr type="location" source="47">Santa Catalina Island</attr>
+      <attr type="affiliation" source="47">Esquire</attr>
+      <attr type="work" source="66">Duo</attr>
+      <attr type="work" source="66">Notorious</attr>
+      <attr type="affiliation" source="66">Elle</attr>
+      <attr type="affiliation" source="66">Vogue</attr>
+      <attr type="work" source="66">Richard Gere</attr>
+      <attr type="work" source="66">Madonna</attr>
+      <attr type="work" source="66">Jump</attr>
+      <attr type="dateofbirth" source="66">1952</attr>
+      <attr type="affiliation" source="66">Harper&apos;s Bazaar</attr>
+      <attr type="occupation" source="66">sales representative</attr>
+      <attr type="work" source="66">Africa</attr>
+      <attr type="award" source="66">Best Male Video</attr>
+      <attr type="occupation" source="66">celebrity portraitist</attr>
+      <attr type="work" source="66">Men/Women</attr>
+      <attr type="occupation" source="66">Celebrity Photographer</attr>
+      <attr type="award" source="66">MTV awards for Best Female Video</attr>
+      <attr type="affiliation" source="66">Interview</attr>
+      <attr type="occupation" source="66">commercial photographer</attr>
+      <attr type="occupation" source="66">Photographer</attr>
+      <attr type="location" source="66"> California</attr>
+      <attr type="school" source="66">Bard College</attr>
+      <attr type="location" source="66">Los Angeles</attr>
+      <attr type="birthplace" source="66">Los Angeles</attr>
+      <attr type="major" source="66">economics</attr>
+      <attr type="occupation" source="66">photographer</attr>
+      <attr type="location" source="46">California</attr>
+      <attr type="occupation" source="98">celebrity photographer</attr>
+      <attr type="occupation" source="61">photographer</attr>
+      <attr type="location" source="61">Los Angeles</attr>
+      <attr type="affiliation" source="61">Interview</attr>
+      <attr type="location" source="61">Shirley and Herb Ritts</attr>
+      <attr type="work" source="61">Africa</attr>
+      <attr type="affiliation" source="61">Rolling Stone</attr>
+      <attr type="occupation" source="61">celebrity and fashion photographers</attr>
+      <attr type="affiliation" source="61">Harper&apos;s Bazaar</attr>
+      <attr type="occupation" source="61">Celebrity photographer</attr>
+      <attr type="affiliation" source="61">Vogue</attr>
+      <attr type="birthplace" source="61">southern California</attr>
+      <attr type="location" source="61"> California</attr>
+      <attr type="work" source="61">Bill T. Jones</attr>
+      <attr type="affiliation" source="61">Elle</attr>
+      <attr type="work" source="61">Men/Women</attr>
+      <attr type="work" source="61">Cindy Crawford</attr>
+      <attr type="school" source="61">Bard College</attr>
+      <attr type="relatives" source="61">Shirley Ritts</attr>
+      <attr type="relatives" source="61">Christy Thrasher</attr>
+      <attr type="relatives" source="61">Rory</attr>
+      <attr type="occupation" source="61">video director</attr>
+      <attr type="location" source="61">New York</attr>
+      <attr type="occupation" source="61">Photographer</attr>
+      <attr type="work" source="105">Men with Kelp</attr>
+      <attr type="work" source="105">Herb Ritts</attr>
+      <attr type="work" source="105">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="work" source="105">Duo IV</attr>
+      <attr type="work" source="95">Notorious</attr>
+      <attr type="work" source="95">Africa</attr>
+      <attr type="work" source="95">Work</attr>
+      <attr type="relatives" source="23">Christy Thrasher</attr>
+      <attr type="relatives" source="23">Rory</attr>
+      <attr type="affiliation" source="23">Vogue</attr>
+      <attr type="location" source="23">Los Angeles</attr>
+      <attr type="affiliation" source="23">Ritts Co.</attr>
+      <attr type="occupation" source="23">photographer</attr>
+      <attr type="dateofbirth" source="23">1952</attr>
+      <attr type="affiliation" source="23">Vanity Fair</attr>
+      <attr type="award" source="23">MTV Video Music Awards</attr>
+      <attr type="work" source="23">Duo</attr>
+      <attr type="occupation" source="23">sales representative</attr>
+      <attr type="major" source="23">economics</attr>
+      <attr type="school" source="23">Bard College</attr>
+      <attr type="occupation" source="23">artist</attr>
+      <attr type="affiliation" source="23">Elle</attr>
+      <attr type="affiliation" source="23">Interview</attr>
+      <attr type="birthplace" source="23">Los Angeles</attr>
+      <attr type="location" source="23">New York</attr>
+      <attr type="relatives" source="23">Shirley Ritts</attr>
+      <attr type="occupation" source="23">celebrity and fashion photographer</attr>
+      <attr type="affiliation" source="23">Harper&apos;s Bazaar</attr>
+      <attr type="affiliation" source="23">Rolling Stone</attr>
+      <attr type="birthplace" source="82">Los Angeles,  USA</attr>
+      <attr type="dateofbirth" source="82">1952</attr>
+      <attr type="work" source="82">Africa</attr>
+      <attr type="location" source="82">Los Angeles</attr>
+      <attr type="work" source="70">Loriki with Spear</attr>
+      <attr type="work" source="5">William S. Burroughs with Glasses</attr>
+      <attr type="work" source="5">Wrestling Torsos</attr>
+      <attr type="work" source="5">Two Male Nudes</attr>
+      <attr type="work" source="5">Cindy Crawford</attr>
+      <attr type="work" source="5">Dance</attr>
+      <attr type="occupation" source="5">Photographer</attr>
+      <attr type="work" source="5">Alek Wek</attr>
+      <attr type="work" source="5">Africa</attr>
+      <attr type="work" source="5">Neith with Shadows, Font View</attr>
+      <attr type="work" source="5">Versace Veiled Dress</attr>
+      <attr type="work" source="5">Tony with Black Face, Profile</attr>
+      <attr type="work" source="5">Fred with Tires</attr>
+      <attr type="work" source="5">Stephanie</attr>
+      <attr type="work" source="5">Darati</attr>
+      <attr type="work" source="5">Dan and Fred</attr>
+      <attr type="work" source="5">Fred With Tires</attr>
+      <attr type="work" source="5">Fred with Tires II</attr>
+      <attr type="work" source="5">Male Nudes</attr>
+      <attr type="work" source="5">Denzel Washington</attr>
+      <attr type="work" source="5">Louise Bourgeois</attr>
+      <attr type="work" source="5">Naomi Campbell</attr>
+      <attr type="work" source="5">Stephanie with Flower</attr>
+      <attr type="work" source="5">Amy Van Dyken, American Athlete</attr>
+      <attr type="work" source="5">Richard Gere</attr>
+      <attr type="work" source="5">Fred with tires</attr>
+      <attr type="work" source="5">William S. Burroughs with Basket</attr>
+      <attr type="work" source="5">Fred with Tyres</attr>
+      <attr type="work" source="5">Woman in Sea</attr>
+      <attr type="work" source="5">Merce Cunningham, Standing</attr>
+      <attr type="work" source="5">Duo</attr>
+      <attr type="work" source="5">Female Nude with Black Sand</attr>
+      <attr type="work" source="5">Marie- Jo Prec</attr>
+      <attr type="work" source="5">Dustin Hoffman</attr>
+      <attr type="work" source="5">Four Works</attr>
+      <attr type="work" source="5">k.d. Lang and Cindy Crawford</attr>
+      <attr type="work" source="5">Jacqui Agyepong, English Athlete</attr>
+      <attr type="work" source="5">George Wallace II</attr>
+      <attr type="work" source="5">Men with Kelp</attr>
+      <attr type="work" source="5">Female Torso with Veil</attr>
+      <attr type="work" source="5">Tatjana Veiled Head, Tight View</attr>
+      <attr type="work" source="5">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="work" source="5">Sandra Bernhardt</attr>
+      <attr type="work" source="5">Roy Lichtenstein</attr>
+      <attr type="work" source="5">Amy Von Dyken</attr>
+      <attr type="work" source="5">Woman in Sea Hawaii</attr>
+      <attr type="work" source="5">Man on top of a Ttree Trunk</attr>
+      <attr type="work" source="5">Female Nude with Tumbleweed</attr>
+      <attr type="work" source="5">Back Flip</attr>
+      <attr type="work" source="5">Dan O&apos;Brien</attr>
+      <attr type="work" source="5">Neith with Shadows, Rear View</attr>
+      <attr type="work" source="5">Duo IV</attr>
+      <attr type="work" source="5">Mask</attr>
+      <attr type="work" source="5">Djimon with Octopus</attr>
+      <attr type="work" source="5">Untitled</attr>
+      <attr type="work" source="5">Nangini</attr>
+      <attr type="nationality" source="5">American</attr>
+      <attr type="work" source="5">Madonna</attr>
+      <attr type="work" source="5">Wrapped Torso</attr>
+      <attr type="work" source="5">Pictures</attr>
+      <attr type="work" source="5">Nandoye and Nangini, Hands Joined</attr>
+      <attr type="work" source="5">Jackie Joyner-Kersee</attr>
+      <attr type="work" source="5"> Female Nude</attr>
+      <attr type="work" source="5">Michael Jordon</attr>
+      <attr type="work" source="5">Versace Dress</attr>
+      <attr type="work" source="5">Female Nude with Veil</attr>
+      <attr type="work" source="5">Male Nude</attr>
+      <attr type="work" source="5">Merce Cunningham, Detail</attr>
+      <attr type="work" source="5">Djimon</attr>
+      <attr type="dateofbirth" source="5">1952</attr>
+      <attr type="work" source="5">Maasai Woman and Child</attr>
+      <attr type="work" source="5">Fred with Tires I</attr>
+      <attr type="work" source="5">Neith with Tumbleweed</attr>
+      <attr type="work" source="5">Jack Nicholson</attr>
+      <attr type="work" source="5">Tina Turner</attr>
+      <attr type="work" source="5">Nude with Tumbleweed</attr>
+      <attr type="work" source="5">Naomi</attr>
+      <attr type="work" source="5">George Wallace I</attr>
+      <attr type="work" source="5">Male Nude on Log</attr>
+      <attr type="work" source="5">Touch Me</attr>
+      <attr type="work" source="5">Waterfall IV</attr>
+      <attr type="work" source="5">Dale Chihuly, Seated</attr>
+      <attr type="work" source="5">Versace Dress, Back View</attr>
+      <attr type="work" source="5">Sinead O&apos;Connor</attr>
+      <attr type="work" source="5">Dizzy Gillespie</attr>
+      <attr type="work" source="5">Cindy and Company</attr>
+      <attr type="work" source="5">Jump</attr>
+      <attr type="location" source="59">New York</attr>
+      <attr type="occupation" source="59">director</attr>
+      <attr type="work" source="59">Darati</attr>
+      <attr type="work" source="59">Work</attr>
+      <attr type="award" source="59">Infinity Award for Applied Photography</attr>
+      <attr type="occupation" source="59">fashion/personality and fine arts photographer</attr>
+      <attr type="occupation" source="59">commercial directors</attr>
+      <attr type="award" source="59">Best Video</attr>
+      <attr type="location" source="59"> California</attr>
+      <attr type="occupation" source="59">photographers</attr>
+      <attr type="occupation" source="59">photographer</attr>
+      <attr type="affiliation" source="59">French Vogue</attr>
+      <attr type="affiliation" source="59">L&apos;Uomo Vogue</attr>
+      <attr type="location" source="59">Los Angeles</attr>
+      <attr type="degree" source="68">economics</attr>
+      <attr type="award" source="68">MTV&apos;s video music awards</attr>
+      <attr type="relatives" source="68">Rory</attr>
+      <attr type="occupation" source="68">commercial photographer</attr>
+      <attr type="relatives" source="68">Shirley Ritts</attr>
+      <attr type="occupation" source="68">salesman</attr>
+      <attr type="dateofbirth" source="68">1952</attr>
+      <attr type="award" source="68">best video</attr>
+      <attr type="relatives" source="68">Christy</attr>
+      <attr type="birthplace" source="68">Los Angeles</attr>
+      <attr type="school" source="68">Bard College</attr>
+      <attr type="occupation" source="68">photographer</attr>
+      <attr type="relatives" source="97">Shirley Ritts</attr>
+      <attr type="relatives" source="97">Rory</attr>
+      <attr type="occupation" source="97">Celebrity photographer</attr>
+      <attr type="affiliation" source="97">Vanity Fair</attr>
+      <attr type="occupation" source="97">photographer</attr>
+      <attr type="relatives" source="97">Christy</attr>
+      <attr type="occupation" source="97">official in-house photographer</attr>
+      <attr type="birthplace" source="97">Los Angeles</attr>
+      <attr type="occupation" source="97">Celebrity Lensman</attr>
+      <attr type="location" source="97">New York</attr>
+      <attr type="work" source="35">Jump</attr>
+      <attr type="occupation" source="14">   Author</attr>
+      <attr type="work" source="14">Work</attr>
+      <attr type="work" source="36">Woman in Sea</attr>
+      <attr type="work" source="36">Fred</attr>
+      <attr type="work" source="36">Fred with Tyres</attr>
+      <attr type="work" source="36"> Female Nude</attr>
+      <attr type="work" source="36">Men with Kelp</attr>
+      <attr type="work" source="36">Duo IV</attr>
+      <attr type="work" source="36">Female Nude</attr>
+      <attr type="work" source="6">Pictures</attr>
+      <attr type="work" source="6">Work</attr>
+      <attr type="occupation" source="6">photographer</attr>
+      <attr type="work" source="6">Notorious</attr>
+      <attr type="work" source="6">Africa</attr>
+      <attr type="work" source="6">Kazu</attr>
+      <attr type="affiliation" source="6">Vanity Fair</attr>
+      <attr type="affiliation" source="6">Rolling Stone</attr>
+      <attr type="occupation" source="6">photographers</attr>
+      <attr type="work" source="6">Duo</attr>
+      <attr type="affiliation" source="6">Vogue</attr>
+      <attr type="work" source="6">Men/Women</attr>
+      <attr type="work" source="10">Jim with Tyres</attr>
+      <attr type="dateofbirth" source="10">1952</attr>
+      <attr type="nationality" source="10">American</attr>
+      <attr type="award" source="10">best female video</attr>
+      <attr type="work" source="10">Duo</attr>
+      <attr type="award" source="10">MTV awards for best male video</attr>
+      <attr type="work" source="10">Cindy and Company</attr>
+      <attr type="work" source="10">Men with Kelp</attr>
+      <attr type="work" source="10">Work</attr>
+      <attr type="occupation" source="10">Photographer</attr>
+      <attr type="affiliation" source="87">Vogue</attr>
+      <attr type="location" source="87">East Coast</attr>
+      <attr type="affiliation" source="87">Interview</attr>
+      <attr type="school" source="87">Bard College</attr>
+      <attr type="occupation" source="87">Photographer</attr>
+      <attr type="affiliation" source="87">Elle</attr>
+      <attr type="location" source="87">Los Angeles</attr>
+      <attr type="relatives" source="87">Christy</attr>
+      <attr type="occupation" source="87">Celebrity photographer</attr>
+      <attr type="occupation" source="87">sales representative</attr>
+      <attr type="relatives" source="87">Shirley Ritts</attr>
+      <attr type="location" source="87"> California</attr>
+      <attr type="location" source="87">New York</attr>
+      <attr type="major" source="87">economics</attr>
+      <attr type="affiliation" source="87">Harper&apos;s Bazaar</attr>
+      <attr type="birthplace" source="87">Los Angeles</attr>
+      <attr type="dateofbirth" source="87">1952</attr>
+      <attr type="relatives" source="87">Rory</attr>
+      <attr type="affiliation" source="87">Vanity Fair</attr>
+      <attr type="occupation" source="45">Photographer</attr>
+      <attr type="location" source="45">Los Angeles</attr>
+      <attr type="work" source="21">Female Torso with Veil</attr>
+      <attr type="work" source="21">Fred with Tyres</attr>
+      <attr type="work" source="21">Men with Kelp</attr>
+      <attr type="othername" source="21">Ritts, Herb</attr>
+      <attr type="work" source="21">Stephanie</attr>
+      <attr type="work" source="21">Female Nude</attr>
+      <attr type="work" source="21">Djimon</attr>
+      <attr type="work" source="21">Marie-Jo Perec, French Athlete</attr>
+      <attr type="work" source="21">Cindy Crawford</attr>
+      <attr type="work" source="21">Fred</attr>
+      <attr type="work" source="21">Marie-Jo P.*rec, French Athlete</attr>
+      <attr type="work" source="21">Jacqui Agyepong, English Athlete</attr>
+      <attr type="work" source="21">Duo IV</attr>
+      <attr type="work" source="21">Nude with Tumbleweed</attr>
+      <attr type="work" source="21">Amy Van Dyken, American Athlete</attr>
+      <attr type="work" source="21">Work</attr>
+      <attr type="work" source="21">Duo</attr>
+      <attr type="work" source="21">Man on top of a Tree</attr>
+      <attr type="work" source="21">Untitled</attr>
+      <attr type="work" source="21">Cindy and Company</attr>
+      <attr type="occupation" source="78">celebrity photographer</attr>
+      <attr type="relatives" source="44">Shirley</attr>
+      <attr type="birthplace" source="44">Los Angeles</attr>
+      <attr type="dateofbirth" source="44">1952</attr>
+      <attr type="location" source="44">Los Angeles</attr>
+      <attr type="award" source="44">MTV awards</attr>
+      <attr type="location" source="44">New York</attr>
+      <attr type="major" source="44">economics</attr>
+      <attr type="occupation" source="44">sales rep</attr>
+      <attr type="occupation" source="44">Celebrity photographer</attr>
+      <attr type="occupation" source="44">Photographer</attr>
+      <attr type="relatives" source="44">Christy</attr>
+      <attr type="relatives" source="44">Rory</attr>
+      <attr type="school" source="44">Bard College</attr>
+      <attr type="award" source="44">best female and best male video</attr>
+      <attr type="location" source="44"> California</attr>
+      <attr type="affiliation" source="114">Vogue</attr>
+      <attr type="occupation" source="114">photographer</attr>
+      <attr type="school" source="114">Bard College</attr>
+      <attr type="occupation" source="114">portraitist</attr>
+      <attr type="relatives" source="114">Shirley Ritts</attr>
+      <attr type="relatives" source="114">Christy Thrasher</attr>
+      <attr type="dateofbirth" source="114">1952</attr>
+      <attr type="location" source="114">Los Angeles</attr>
+      <attr type="birthplace" source="114">Los Angeles</attr>
+      <attr type="location" source="114">New York</attr>
+      <attr type="relatives" source="114">Rory</attr>
+      <attr type="major" source="114">economics</attr>
+      <attr type="occupation" source="114">Photographer Of Celebrities</attr>
+      <attr type="occupation" source="114">commercial photographers</attr>
+      <attr type="work" source="7">No Doubt: Rock Steady Live (2003) (V) (uncredited) .... Himself</attr>
+      <attr type="birthplace" source="7">Los Angeles, California, USA</attr>
+      <attr type="occupation" source="7">still photographer</attr>
+      <attr type="dateofbirth" source="7">13 August 1952</attr>
+      <attr type="occupation" source="7">Director</attr>
+      <attr type="major" source="7">economics</attr>
+      <attr type="work" source="7">50 Sexiest Video Moments (2003) (TV) .... Himself</attr>
+      <attr type="work" source="7">Intimate Portrait .... Himself (1 episode)</attr>
+      <attr type="work" source="7">... aka Meurtre  Alcatraz (France)</attr>
+      <attr type="work" source="7">The Ellen Show .... The Photographer (1 episode, 2001)  - Vanity Hair (2001) TV episode .... The Photographer</attr>
+      <attr type="work" source="7">Murder in the First (1995) .... Mike Kelly</attr>
+      <attr type="work" source="7">Behind the Music .... Himself (1 episode, 1997)... aka VH1&apos;s Behind the Music (USA)    - Imagemakers (1997) TV episode .... Himself</attr>
+      <attr type="dateofbirth" source="7">1952</attr>
+      <attr type="birthplace" source="7">Los Angeles</attr>
+      <attr type="occupation" source="7">Actor</attr>
+      <attr type="occupation" source="24">commercial photographer</attr>
+      <attr type="major" source="24">economics</attr>
+      <attr type="work" source="24">pictures</attr>
+      <attr type="work" source="24"> herb ritts</attr>
+      <attr type="location" source="24">los angeles</attr>
+      <attr type="work" source="24">men \/ women</attr>
+      <attr type="work" source="24">work</attr>
+      <attr type="affiliation" source="24">harper&apos;s bazaar</attr>
+      <attr type="work" source="24"> duo</attr>
+      <attr type="affiliation" source="24">rolling stone</attr>
+      <attr type="work" source="24">sandra bernhard</attr>
+      <attr type="occupation" source="24">photographers</attr>
+      <attr type="work" source="24">notorious</attr>
+      <attr type="work" source="24">madonna</attr>
+      <attr type="work" source="24">stephanie</attr>
+      <attr type="work" source="24">stephanie, cindy, christy, tatjana, naomi</attr>
+      <attr type="birthplace" source="24">los angeles</attr>
+      <attr type="affiliation" source="24">elle</attr>
+      <attr type="school" source="24">bard college</attr>
+      <attr type="work" source="24">africa</attr>
+      <attr type="work" source="24">naomi</attr>
+      <attr type="affiliation" source="24">interview</attr>
+      <attr type="location" source="24"> california</attr>
+      <attr type="affiliation" source="24">vanity fair</attr>
+      <attr type="work" source="24">jack nicholson</attr>
+      <attr type="work" source="24">richard gere</attr>
+      <attr type="affiliation" source="24">vogue</attr>
+      <attr type="dateofbirth" source="24">1952</attr>
+      <attr type="occupation" source="24">commercial directors</attr>
+      <attr type="occupation" source="24">celebrity portraitist</attr>
+      <attr type="occupation" source="24">sales representative</attr>
+      <attr type="location" source="24">new york</attr>
+      <attr type="work" source="24">dizzy gillespie</attr>
+      <attr type="work" source="25">Man on top of a Tree</attr>
+      <attr type="work" source="25">Bill T. Jones</attr>
+      <attr type="work" source="25">Djimon \(Three Quarter Nude\)</attr>
+      <attr type="birthplace" source="25">California, US</attr>
+      <attr type="work" source="25">Pictures</attr>
+      <attr type="work" source="25">Richard Gere</attr>
+      <attr type="work" source="25">Untitled</attr>
+      <attr type="work" source="25">Man on top of a Tree Trunk</attr>
+      <attr type="work" source="25">Kazu</attr>
+      <attr type="affiliation" source="25">Interview</attr>
+      <attr type="work" source="25">Duo</attr>
+      <attr type="affiliation" source="25">Board of Directors for The Elton John Aids Foundation</attr>
+      <attr type="work" source="25">Notorious</attr>
+      <attr type="dateofbirth" source="25">1952</attr>
+      <attr type="location" source="25">Los Angeles</attr>
+      <attr type="work" source="25">Africa</attr>
+      <attr type="work" source="25">Male Torso With Veil</attr>
+      <attr type="location" source="25">Beverly Hills</attr>
+      <attr type="affiliation" source="25">Vogue</attr>
+      <attr type="work" source="25">Mask</attr>
+      <attr type="work" source="25">Tony with Blackface</attr>
+      <attr type="work" source="25">Djimon with Octopus</attr>
+      <attr type="work" source="25">Nude with Tumbleweed</attr>
+      <attr type="work" source="25">Dan &amp; tom</attr>
+      <attr type="work" source="25">Men with Kelp</attr>
+      <attr type="work" source="25">Fred</attr>
+      <attr type="work" source="25">Male Nude with Bubble</attr>
+      <attr type="work" source="25">Bill T. Jones (Ascent of Man)</attr>
+      <attr type="work" source="25">Male Nude</attr>
+      <attr type="work" source="25">Male Nude with Tumbleweed</attr>
+      <attr type="location" source="25"> California</attr>
+      <attr type="work" source="25">Untitled Nude II</attr>
+      <attr type="work" source="25">Jump</attr>
+      <attr type="work" source="25">Duo VII</attr>
+      <attr type="work" source="25">Stephanie</attr>
+      <attr type="work" source="25">Pierre and Yuri</attr>
+      <attr type="work" source="25">Male Nude with Shell II</attr>
+      <attr type="work" source="25">Djimon</attr>
+      <attr type="affiliation" source="25">Rolling Stone</attr>
+      <attr type="work" source="25">Paul, Torso</attr>
+      <attr type="occupation" source="25">charter member</attr>
+      <attr type="work" source="25">Mel Gibson</attr>
+      <attr type="work" source="25">Duo IV</attr>
+      <attr type="website" source="25">www.herbritts.com</attr>
+      <attr type="work" source="25">Fred with Tyres</attr>
+      <attr type="work" source="25">Work</attr>
+      <attr type="work" source="25">Boris Becker IV</attr>
+      <attr type="work" source="25">Male Nudes</attr>
+      <attr type="location" source="25">New York</attr>
+      <attr type="affiliation" source="25">Vanity Fair</attr>
+      <attr type="work" source="25">Waterfall IV</attr>
+      <attr type="work" source="25">Man With Chain</attr>
+      <attr type="location" source="83">Los Angeles</attr>
+      <attr type="birthplace" source="83">Los Angeles, CA (USA)</attr>
+      <attr type="nationality" source="83">American</attr>
+      <attr type="affiliation" source="83">Vanity Fair</attr>
+      <attr type="location" source="83">New York</attr>
+      <attr type="occupation" source="83">sales representative</attr>
+      <attr type="work" source="83">13-Aug-52</attr>
+      <attr type="affiliation" source="83">Vogue</attr>
+      <attr type="affiliation" source="83">Rolling Stone</attr>
+      <attr type="affiliation" source="83">Harper&apos;s Bazaar</attr>
+      <attr type="award" source="83">MTV awards</attr>
+      <attr type="occupation" source="83">salesman</attr>
+      <attr type="work" source="83">madonna</attr>
+      <attr type="birthplace" source="83">Los Angeles, CA</attr>
+      <attr type="work" source="83">Notorious</attr>
+      <attr type="work" source="83">Africa</attr>
+      <attr type="work" source="83">Work</attr>
+      <attr type="dateofbirth" source="83">1952</attr>
+      <attr type="occupation" source="83">fashion photographer</attr>
+      <attr type="work" source="83">Madonna</attr>
+      <attr type="location" source="83"> California</attr>
+      <attr type="occupation" source="83">photographer</attr>
+      <attr type="award" source="83">MTV Video Music Awards</attr>
+      <attr type="school" source="83">Bard College</attr>
+      <attr type="dateofbirth" source="83">August 13, 1952</attr>
+      <attr type="major" source="83">economics</attr>
+      <attr type="work" source="83">Backflip</attr>
+      <attr type="mentor" source="83">Steve McQueen</attr>
+      <attr type="occupation" source="39">Photographer</attr>
+      <attr type="work" source="39">Fred With Tires</attr>
+      <attr type="location" source="39">Los Angeles</attr>
+      <attr type="location" source="39">Beverly Hills</attr>
+      <attr type="location" source="39"> California</attr>
+      <attr type="affiliation" source="39">Vanity Fair</attr>
+      <attr type="work" source="39">Fred</attr>
+      <attr type="location" source="39">New York</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="117" />
+      <doc rank="38" />
+      <doc rank="107" />
+      <doc rank="72" />
+      <doc rank="78" />
+      <doc rank="52" />
+      <doc rank="113" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="117">artist</attr>
+      <attr type="location" source="117"> Californian</attr>
+      <attr type="affiliation" source="117">Vanity Fair</attr>
+      <attr type="occupation" source="117">photographer</attr>
+      <attr type="nationality" source="117">American</attr>
+      <attr type="work" source="117">Wrestling Torsos</attr>
+      <attr type="dateofbirth" source="117">1952</attr>
+      <attr type="affiliation" source="117">Vogue</attr>
+      <attr type="location" source="117">Los Angeles</attr>
+      <attr type="affiliation" source="117">Rolling Stone</attr>
+      <attr type="nationality" source="38">American</attr>
+      <attr type="work" source="38">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="relatives" source="38">Shirley</attr>
+      <attr type="location" source="38">Los Angeles</attr>
+      <attr type="work" source="38">Work</attr>
+      <attr type="occupation" source="38">photographer</attr>
+      <attr type="occupation" source="38">celebrity photographer</attr>
+      <attr type="dateofbirth" source="38">1952</attr>
+      <attr type="occupation" source="107">celebrity photographer</attr>
+      <attr type="occupation" source="107">photographer</attr>
+      <attr type="work" source="107">Stephanie, Cindy, Christy, Tatjana, Naomi</attr>
+      <attr type="relatives" source="107">Shirley</attr>
+      <attr type="relatives" source="107">Shirley Ritts</attr>
+      <attr type="award" source="72">best female and best male video</attr>
+      <attr type="award" source="72">1991 MTV awards</attr>
+      <attr type="work" source="72">herb ritts</attr>
+      <attr type="occupation" source="72">photographer</attr>
+      <attr type="occupation" source="78">celebrity photographer</attr>
+      <attr type="work" source="52">Madonna</attr>
+      <attr type="othername" source="52">Herb Ritt</attr>
+      <attr type="occupation" source="52">photographers</attr>
+    </attributes>
+  </entity>
+</clustering>

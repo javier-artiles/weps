@@ -1,0 +1,194 @@
+<clustering searchString="RITA FISHER">
+  <entity id="1">
+    <documents>
+      <doc rank="104" />
+    </documents>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="81" />
+    </documents>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="73" />
+    </documents>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="146" />
+      <doc rank="144" />
+      <doc rank="65" />
+      <doc rank="38" />
+    </documents>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="68" />
+    </documents>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="44" />
+    </documents>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="69" />
+    </documents>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="10" />
+    </documents>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="80" />
+    </documents>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="62" />
+      <doc rank="5" />
+      <doc rank="34" />
+    </documents>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="72" />
+    </documents>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="109" />
+      <doc rank="107" />
+    </documents>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="123" />
+      <doc rank="11" />
+      <doc rank="6" />
+      <doc rank="121" />
+      <doc rank="3" />
+    </documents>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="70" />
+    </documents>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="56" />
+    </documents>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="103" />
+    </documents>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="13" />
+      <doc rank="43" />
+    </documents>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="18" />
+      <doc rank="129" />
+      <doc rank="21" />
+      <doc rank="74" />
+    </documents>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="94" />
+      <doc rank="63" />
+      <doc rank="71" />
+      <doc rank="22" />
+      <doc rank="101" />
+      <doc rank="49" />
+      <doc rank="105" />
+      <doc rank="61" />
+      <doc rank="60" />
+      <doc rank="15" />
+      <doc rank="79" />
+      <doc rank="83" />
+      <doc rank="89" />
+      <doc rank="148" />
+      <doc rank="1" />
+      <doc rank="91" />
+      <doc rank="75" />
+      <doc rank="54" />
+      <doc rank="111" />
+      <doc rank="133" />
+      <doc rank="45" />
+      <doc rank="130" />
+      <doc rank="132" />
+      <doc rank="59" />
+      <doc rank="76" />
+      <doc rank="35" />
+      <doc rank="17" />
+      <doc rank="58" />
+      <doc rank="51" />
+      <doc rank="52" />
+      <doc rank="110" />
+      <doc rank="141" />
+      <doc rank="14" />
+      <doc rank="16" />
+      <doc rank="114" />
+      <doc rank="39" />
+      <doc rank="92" />
+      <doc rank="93" />
+      <doc rank="31" />
+      <doc rank="135" />
+      <doc rank="140" />
+      <doc rank="112" />
+      <doc rank="95" />
+      <doc rank="77" />
+      <doc rank="8" />
+      <doc rank="108" />
+      <doc rank="87" />
+      <doc rank="53" />
+      <doc rank="115" />
+      <doc rank="29" />
+      <doc rank="41" />
+      <doc rank="48" />
+      <doc rank="96" />
+      <doc rank="30" />
+      <doc rank="136" />
+      <doc rank="106" />
+      <doc rank="40" />
+    </documents>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="134" />
+    </documents>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="78" />
+      <doc rank="57" />
+    </documents>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="2" />
+      <doc rank="26" />
+    </documents>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="28" />
+    </documents>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="7" />
+    </documents>
+  </entity>
+</clustering>

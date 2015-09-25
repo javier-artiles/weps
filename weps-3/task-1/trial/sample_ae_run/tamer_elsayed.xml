@@ -1,0 +1,171 @@
+<clustering searchString="TAMER ELSAYED">
+  <entity id="1">
+    <documents>
+      <doc rank="139" />
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="139">Farous Salvage</attr>
+      <attr type="email" source="139">save@farous.com</attr>
+      <attr type="phone" source="139">+20121803265</attr>
+      <attr type="fax" source="139">+2034809350</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="104" />
+      <doc rank="52" />
+      <doc rank="72" />
+      <doc rank="32" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="104">CONNECTORS</attr>
+      <attr type="affiliation" source="104">Learn Dutch Connection</attr>
+      <attr type="location" source="104">EGYPT</attr>
+      <attr type="phone" source="52">968-9-5762155</attr>
+      <attr type="fax" source="52">39-02-700557299</attr>
+      <attr type="degree" source="32">BBA</attr>
+      <attr type="email" source="32">tsergio@geocities.com</attr>
+      <attr type="birthplace" source="32">Cairo Egypt</attr>
+      <attr type="website" source="32">http://www.geocities.com/Tropics/Shores/2283</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="3" />
+      <doc rank="18" />
+      <doc rank="44" />
+      <doc rank="77" />
+      <doc rank="145" />
+      <doc rank="53" />
+      <doc rank="4" />
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="3">Dr</attr>
+      <attr type="phone" source="18">626-676-5130</attr>
+      <attr type="email" source="18">tamer@caltech.edu</attr>
+      <attr type="location" source="18">Thomas 310C</attr>
+      <attr type="affiliation" source="18">Caltech Galcit</attr>
+      <attr type="mentor" source="77">Mike Vanier</attr>
+      <attr type="occupation" source="53">GRADUATE STUDENT</attr>
+      <attr type="website" source="4">http://www.aero.caltech.edu/~tamer/</attr>
+      <attr type="school" source="4">Graduate Student</attr>
+      <attr type="othername" source="4">T. El Sayed</attr>
+      <attr type="major" source="4">mechanical engineering</attr>
+      <attr type="award" source="4">Mamatics student of the year</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="location" source="6">Trieste Area, Italy</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="51" />
+      <doc rank="150" />
+      <doc rank="59" />
+      <doc rank="113" />
+      <doc rank="147" />
+      <doc rank="63" />
+      <doc rank="148" />
+      <doc rank="60" />
+      <doc rank="119" />
+    </documents>
+    <attributes>
+      <attr type="work" source="51">Ya-Rayi</attr>
+      <attr type="othername" source="51">Tamer Elsayed Ghoniem</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="107" />
+      <doc rank="120" />
+      <doc rank="105" />
+      <doc rank="57" />
+      <doc rank="140" />
+      <doc rank="7" />
+      <doc rank="94" />
+      <doc rank="41" />
+      <doc rank="137" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="57">PLAYER</attr>
+      <attr type="location" source="7">Riverside, CA, United States</attr>
+      <attr type="affiliation" source="41">Cal Tech</attr>
+      <attr type="birthplace" source="137">Riverside California</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="55" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="55">tamerinho</attr>
+      <attr type="location" source="55">Muscat, OM</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="21" />
+      <doc rank="108" />
+      <doc rank="62" />
+      <doc rank="1" />
+      <doc rank="93" />
+      <doc rank="142" />
+      <doc rank="75" />
+      <doc rank="127" />
+      <doc rank="28" />
+      <doc rank="136" />
+      <doc rank="66" />
+      <doc rank="12" />
+      <doc rank="101" />
+      <doc rank="8" />
+      <doc rank="22" />
+      <doc rank="125" />
+      <doc rank="118" />
+      <doc rank="10" />
+      <doc rank="76" />
+      <doc rank="58" />
+      <doc rank="71" />
+      <doc rank="68" />
+      <doc rank="70" />
+      <doc rank="56" />
+      <doc rank="98" />
+      <doc rank="17" />
+      <doc rank="46" />
+      <doc rank="42" />
+      <doc rank="78" />
+      <doc rank="2" />
+      <doc rank="9" />
+      <doc rank="73" />
+      <doc rank="91" />
+      <doc rank="134" />
+      <doc rank="88" />
+      <doc rank="61" />
+      <doc rank="97" />
+      <doc rank="138" />
+      <doc rank="110" />
+      <doc rank="131" />
+      <doc rank="109" />
+      <doc rank="34" />
+      <doc rank="123" />
+      <doc rank="11" />
+      <doc rank="115" />
+      <doc rank="133" />
+      <doc rank="65" />
+      <doc rank="84" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="62">University of Maryland College Park</attr>
+      <attr type="location" source="1">4132 A.V. Williams Bldg. College Park, MD 20742 University of Maryland</attr>
+      <attr type="othername" source="142">Tamer Elsayed Mohamed</attr>
+      <attr type="occupation" source="70">graduate student</attr>
+    </attributes>
+  </entity>
+</clustering>

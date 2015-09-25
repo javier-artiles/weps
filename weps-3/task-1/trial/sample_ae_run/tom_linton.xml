@@ -1,0 +1,194 @@
+<clustering searchString="TOM LINTON">
+  <entity id="1">
+    <documents>
+      <doc rank="99" />
+      <doc rank="48" />
+      <doc rank="17" />
+      <doc rank="56" />
+      <doc rank="40" />
+      <doc rank="63" />
+      <doc rank="72" />
+      <doc rank="4" />
+      <doc rank="27" />
+      <doc rank="34" />
+      <doc rank="36" />
+      <doc rank="58" />
+      <doc rank="24" />
+      <doc rank="91" />
+      <doc rank="12" />
+      <doc rank="7" />
+      <doc rank="102" />
+      <doc rank="33" />
+      <doc rank="42" />
+      <doc rank="67" />
+      <doc rank="78" />
+      <doc rank="93" />
+      <doc rank="82" />
+      <doc rank="6" />
+      <doc rank="51" />
+      <doc rank="132" />
+      <doc rank="10" />
+      <doc rank="53" />
+      <doc rank="14" />
+      <doc rank="3" />
+      <doc rank="59" />
+      <doc rank="9" />
+      <doc rank="71" />
+      <doc rank="55" />
+      <doc rank="100" />
+      <doc rank="46" />
+      <doc rank="92" />
+      <doc rank="65" />
+      <doc rank="77" />
+      <doc rank="20" />
+      <doc rank="83" />
+      <doc rank="15" />
+      <doc rank="21" />
+      <doc rank="87" />
+      <doc rank="57" />
+      <doc rank="1" />
+      <doc rank="62" />
+      <doc rank="89" />
+      <doc rank="8" />
+      <doc rank="26" />
+      <doc rank="32" />
+      <doc rank="30" />
+      <doc rank="47" />
+      <doc rank="109" />
+      <doc rank="68" />
+      <doc rank="98" />
+      <doc rank="74" />
+      <doc rank="60" />
+      <doc rank="52" />
+      <doc rank="69" />
+      <doc rank="81" />
+      <doc rank="107" />
+      <doc rank="61" />
+      <doc rank="25" />
+      <doc rank="88" />
+      <doc rank="106" />
+      <doc rank="39" />
+      <doc rank="105" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="99">Jimmy Eat World</attr>
+      <attr type="othername" source="17">tomlinton</attr>
+      <attr type="work" source="17">Chase This Light</attr>
+      <attr type="nationality" source="63">American</attr>
+      <attr type="dateofbirth" source="63">1976</attr>
+      <attr type="occupation" source="63">musician</attr>
+      <attr type="birthplace" source="4">Mesa, Arizona, USA</attr>
+      <attr type="relatives" source="91">Jimmy</attr>
+      <attr type="website" source="78">www.jimmyeatworld.net</attr>
+      <attr type="mentor" source="69">Scott Staley</attr>
+      <attr type="location" source="61">Arizona</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="28" />
+      <doc rank="2" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="28">Professor</attr>
+      <attr type="location" source="28">312 B Central Hall</attr>
+      <attr type="phone" source="28">(641) 628-5264</attr>
+      <attr type="email" source="28">lintont@central.edu</attr>
+      <attr type="affiliation" source="2">Moravian College</attr>
+      <attr type="fax" source="2">(641) 628-5316</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="66" />
+      <doc rank="41" />
+      <doc rank="75" />
+      <doc rank="31" />
+      <doc rank="96" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="66">president</attr>
+      <attr type="affiliation" source="66">Friends of Galveston Island State Park</attr>
+      <attr type="birthplace" source="41">East Texas</attr>
+      <attr type="email" source="75">sapeloga@msn.com</attr>
+      <attr type="phone" source="75">409-939-3800</attr>
+      <attr type="location" source="75">Houston, TX 77062-2245</attr>
+      <attr type="othername" source="75">LINTON, Tom</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="school" source="23">Boston University</attr>
+      <attr type="work" source="23">Two Keys Nested</attr>
+      <attr type="dateofbirth" source="23">1929</attr>
+      <attr type="major" source="23">Education</attr>
+      <attr type="othername" source="23">T. Linton</attr>
+      <attr type="degree" source="23">MFA</attr>
+      <attr type="birthplace" source="23">Boston, MA</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="108" />
+      <doc rank="70" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="5" />
+      <doc rank="80" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="5">Viking Multihull Club</attr>
+      <attr type="occupation" source="5">crew</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="85" />
+      <doc rank="35" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="85">John Linton</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="16" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="37" />
+      <doc rank="73" />
+      <doc rank="45" />
+      <doc rank="130" />
+      <doc rank="90" />
+      <doc rank="18" />
+      <doc rank="44" />
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="37">vice president</attr>
+      <attr type="affiliation" source="37">Freescale Semiconductor</attr>
+      <attr type="location" source="37">Singapore</attr>
+      <attr type="school" source="11">The University of Texas at Austin</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="84" />
+      <doc rank="64" />
+      <doc rank="101" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

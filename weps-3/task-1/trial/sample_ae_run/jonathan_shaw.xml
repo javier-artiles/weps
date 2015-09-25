@@ -1,0 +1,340 @@
+<clustering searchString="JONATHAN SHAW">
+  <entity id="1">
+    <documents>
+      <doc rank="67" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="93">Linda Shaw</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="22" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="45" />
+    </documents>
+    <attributes>
+      <attr type="location" source="45">Canada</attr>
+      <attr type="occupation" source="45">CEO</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="73">golfers</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="37" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="37">(317) 577-3222</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="13" />
+      <doc rank="95" />
+      <doc rank="89" />
+      <doc rank="75" />
+      <doc rank="20" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="13">PhD</attr>
+      <attr type="school" source="13">University of Michigan</attr>
+      <attr type="fax" source="13">919-660-7293</attr>
+      <attr type="phone" source="13">919-660-7372</attr>
+      <attr type="occupation" source="13">Professor</attr>
+      <attr type="location" source="13">331/332 Bio Sci</attr>
+      <attr type="othername" source="13">J. Shaw</attr>
+      <attr type="email" source="13">shaw@duke.edu</attr>
+      <attr type="affiliation" source="13">Duke Biology</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="57" />
+      <doc rank="121" />
+      <doc rank="35" />
+      <doc rank="105" />
+      <doc rank="6" />
+      <doc rank="29" />
+      <doc rank="113" />
+      <doc rank="21" />
+    </documents>
+    <attributes>
+      <attr type="website" source="57">http://www.jonathan-shaw.com/</attr>
+      <attr type="affiliation" source="57">North Warwickshire &amp; Hinckley College</attr>
+      <attr type="major" source="57">Computer Graphics</attr>
+      <attr type="occupation" source="57">principal lecturer</attr>
+      <attr type="award" source="57">Creative Ambitions Award</attr>
+      <attr type="work" source="57">Guide to Ecstacity</attr>
+      <attr type="degree" source="57">B.A.</attr>
+      <attr type="phone" source="57">+44 (0)24 7688 7198</attr>
+      <attr type="email" source="57">Jonathan.Shaw@coventry.ac.uk</attr>
+      <attr type="school" source="57">University of Central England Birmingham</attr>
+      <attr type="location" source="57">ET103</attr>
+      <attr type="othername" source="121">Shaw, Jonathan</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="10" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="10">Geologist</attr>
+      <attr type="affiliation" source="10">Groundwater and Natural Resources Protection Board</attr>
+      <attr type="othername" source="10">Jonathan E. Shaw</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="31" />
+      <doc rank="115" />
+      <doc rank="39" />
+      <doc rank="60" />
+      <doc rank="58" />
+      <doc rank="63" />
+      <doc rank="107" />
+      <doc rank="120" />
+      <doc rank="91" />
+      <doc rank="102" />
+      <doc rank="68" />
+      <doc rank="109" />
+      <doc rank="15" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="31">artists</attr>
+      <attr type="affiliation" source="115">British Society of Painters</attr>
+      <attr type="work" source="39">Crimson Contours I</attr>
+      <attr type="dateofbirth" source="39">1959</attr>
+      <attr type="birthplace" source="39">Leeds</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+      <attr type="location" source="26">Washington, DC</attr>
+      <attr type="occupation" source="26">Associate Editor</attr>
+      <attr type="major" source="26">History</attr>
+      <attr type="affiliation" source="26">Wiley, Rein &amp; Fielding</attr>
+      <attr type="email" source="26">jshaw@bsfllp.com</attr>
+      <attr type="mentor" source="26">Frank A. Kaufman</attr>
+      <attr type="degree" source="26">B.A.</attr>
+      <attr type="school" source="26">Johns Hopkins University</attr>
+      <attr type="phone" source="26">202 274 1123</attr>
+      <attr type="othername" source="26">Jonathan M. Shaw</attr>
+      <attr type="fax" source="26">202 237 6131</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="79" />
+      <doc rank="42" />
+      <doc rank="65" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="location" source="28">Indianapolis, Indiana Area</attr>
+      <attr type="affiliation" source="28">Utilimaster Corp</attr>
+      <attr type="major" source="28">Computer Sciences</attr>
+      <attr type="occupation" source="28">inventory control clerk</attr>
+      <attr type="school" source="28">Ivy Tech State College</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="87" />
+      <doc rank="9" />
+      <doc rank="19" />
+      <doc rank="85" />
+      <doc rank="8" />
+      <doc rank="4" />
+      <doc rank="14" />
+      <doc rank="118" />
+      <doc rank="3" />
+      <doc rank="52" />
+      <doc rank="33" />
+      <doc rank="53" />
+      <doc rank="41" />
+      <doc rank="101" />
+      <doc rank="114" />
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="87">Fun City Studio</attr>
+      <attr type="work" source="87">Tightrope</attr>
+      <attr type="occupation" source="87">tattoo artists</attr>
+      <attr type="birthplace" source="87">New York City</attr>
+      <attr type="relatives" source="9">Artie Shaw</attr>
+      <attr type="location" source="9">Rio De Janeiro</attr>
+      <attr type="othername" source="4">Jonathan Dowling Shaw</attr>
+      <attr type="mentor" source="4">Spider Webb</attr>
+      <attr type="dateofbirth" source="4">Independence Day 1953</attr>
+      <attr type="website" source="118">www.myspace.com/jsfuncity</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="117" />
+      <doc rank="69" />
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="117">Research Scientist II</attr>
+      <attr type="degree" source="117">B.A.</attr>
+      <attr type="major" source="117">Studio Art</attr>
+      <attr type="school" source="117">Georgia Institute of Technology</attr>
+      <attr type="affiliation" source="117">College of Architecture</attr>
+      <attr type="phone" source="117">404 894-4876</attr>
+      <attr type="location" source="117">217A</attr>
+      <attr type="email" source="69">shawj@cc.gatech.edu</attr>
+      <attr type="award" source="56">Best in Show</attr>
+      <attr type="othername" source="56">Jonathan Mac Shaw</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="5" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="location" source="86">Department of Biology, Ithaca College, Ithaca, NY 14850</attr>
+      <attr type="affiliation" source="86">Department of Biology, Ithaca College</attr>
+      <attr type="degree" source="86">Dr.</attr>
+      <attr type="fax" source="86">(607) 274-3474</attr>
+      <attr type="othername" source="86">A. Jonathan Shaw</attr>
+      <attr type="phone" source="86">(607) 274-3969</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="99" />
+      <doc rank="96" />
+      <doc rank="43" />
+      <doc rank="70" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="99">managing editor</attr>
+      <attr type="location" source="96">Indiana</attr>
+      <attr type="othername" source="70">The Juiceman</attr>
+      <attr type="affiliation" source="70">Too Nubian Entertainment</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="81" />
+      <doc rank="100" />
+      <doc rank="11" />
+      <doc rank="38" />
+      <doc rank="27" />
+      <doc rank="103" />
+      <doc rank="2" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="81">Minister</attr>
+      <attr type="affiliation" source="81">Environment</attr>
+      <attr type="website" source="38">www.jonathanshaw.org.uk</attr>
+      <attr type="dateofbirth" source="27">1966</attr>
+      <attr type="birthplace" source="27">Aylesford</attr>
+      <attr type="mentor" source="27">Ruth Kelly</attr>
+      <attr type="location" source="27">Snodland</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="36" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="106" />
+    </documents>
+    <attributes>
+      <attr type="location" source="106">365 nth 4th st baton rouge, la 70801</attr>
+      <attr type="email" source="106">jsarcla@bellsouth.net</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="74" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="46" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="46">President</attr>
+      <attr type="affiliation" source="46">E&amp;S</attr>
+      <attr type="othername" source="46">Jonathan A Shaw</attr>
+      <attr type="location" source="46">Salt Lake City, Utah</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="1" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="1">Kathy</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="34" />
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="website" source="34">http://www.cs.rochester.edu/jshaw</attr>
+      <attr type="affiliation" source="34">URCS Vision</attr>
+      <attr type="email" source="34">jshaw@cs.rochester.edu</attr>
+      <attr type="occupation" source="34">Graduate Student</attr>
+      <attr type="location" source="34">CSB 630 Department of Computer Science University of Rochester Rochester, NY 14627</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="47" />
+      <doc rank="7" />
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="work" source="47">Voices</attr>
+      <attr type="occupation" source="47">Editor</attr>
+      <attr type="othername" source="7">Jonathan P. Shaw</attr>
+    </attributes>
+  </entity>
+</clustering>

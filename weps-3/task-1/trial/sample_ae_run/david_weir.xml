@@ -1,0 +1,395 @@
+<clustering searchString="DAVID WEIR">
+  <entity id="1">
+    <documents>
+      <doc rank="42" />
+      <doc rank="24" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="42">Michael Peshkin</attr>
+      <attr type="occupation" source="42">Students</attr>
+      <attr type="degree" source="24">Masters</attr>
+      <attr type="affiliation" source="24">U.S. Naval Research Laboratory</attr>
+      <attr type="school" source="24">Northwestern University</attr>
+      <attr type="location" source="24">Tech B230 (LIMS)</attr>
+      <attr type="birthplace" source="24">Albuquerque New Mexico</attr>
+      <attr type="phone" source="24">(650) 488-4525</attr>
+      <attr type="major" source="24">Mechanical Engineering</attr>
+      <attr type="othername" source="24">David W. Weir</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="43">OSU</attr>
+      <attr type="mentor" source="43">Steve Todd</attr>
+      <attr type="occupation" source="43">rowers</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="52" />
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="work" source="56">Into Fwg.</attr>
+      <attr type="birthplace" source="56">West Craig&apos;s Lanarkshire</attr>
+      <attr type="location" source="56">Bathgate, UK</attr>
+      <attr type="occupation" source="56">PT Instructor</attr>
+      <attr type="affiliation" source="56">Army</attr>
+      <attr type="relatives" source="56">Betty</attr>
+      <attr type="dateofbirth" source="56">August 13th 19-28</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="32" />
+    </documents>
+    <attributes>
+      <attr type="work" source="32">Social problems of modern Britain</attr>
+      <attr type="othername" source="32">Weir David</attr>
+      <attr type="occupation" source="32">Editor</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="5" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="40" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="40">Brazos Valley Athletic Trainers Society</attr>
+      <attr type="mentor" source="40">Karl Kapchinski</attr>
+      <attr type="othername" source="40">Weir David</attr>
+      <attr type="relatives" source="40">Judy Bigbie</attr>
+      <attr type="occupation" source="40">chair</attr>
+      <attr type="birthplace" source="40">Brenham</attr>
+      <attr type="major" source="40">Kinesiology and Health</attr>
+      <attr type="school" source="40">Brenham High School</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="78" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="78">Mary</attr>
+      <attr type="location" source="78">New York City</attr>
+      <attr type="occupation" source="78">drug and alcohol rapist</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="113" />
+      <doc rank="67" />
+      <doc rank="48" />
+      <doc rank="119" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="113">CHRIS WEIR</attr>
+      <attr type="occupation" source="113">soldier</attr>
+      <attr type="location" source="113">Cleveland</attr>
+      <attr type="school" source="67">Oak Grove Elementary</attr>
+      <attr type="mentor" source="67">Roxanne Guinn</attr>
+      <attr type="nationality" source="48">American</attr>
+      <attr type="birthplace" source="48">Cleveland TN</attr>
+      <attr type="othername" source="48">DAVID THOMAS WEIR</attr>
+      <attr type="affiliation" source="48">101st Airborne</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="13" />
+      <doc rank="1" />
+    </documents>
+    <attributes>
+      <attr type="work" source="13">The Gold Robbers</attr>
+      <attr type="occupation" source="13">Writer</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="11">Carmen</attr>
+      <attr type="othername" source="11">David Allen Weir</attr>
+      <attr type="dateofbirth" source="11">September 2</attr>
+      <attr type="occupation" source="11">bartenders</attr>
+      <attr type="affiliation" source="11">Lucerna</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="93">DAVE</attr>
+      <attr type="relatives" source="93">Dwight Weir</attr>
+      <attr type="occupation" source="93">business merchant</attr>
+      <attr type="email" source="93">dav.weir24@hotmail.com</attr>
+      <attr type="location" source="93">United Kingdom</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="17" />
+      <doc rank="109" />
+      <doc rank="19" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="109">certified sex rapists</attr>
+      <attr type="relatives" source="109">Deb Weir</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="4" />
+      <doc rank="118" />
+      <doc rank="23" />
+      <doc rank="117" />
+      <doc rank="59" />
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="4">Population Studies Center</attr>
+      <attr type="phone" source="4">734-936-0314</attr>
+      <attr type="degree" source="4">Dr</attr>
+      <attr type="occupation" source="4">Research Professor</attr>
+      <attr type="othername" source="4">Weir David</attr>
+      <attr type="school" source="4">Stanford University</attr>
+      <attr type="major" source="23">History</attr>
+      <attr type="email" source="117">dweir@stanford.edu</attr>
+      <attr type="location" source="39">412 MAYNARD STREET ANN ARBOR, MI 48109-1399</attr>
+      <attr type="fax" source="39">(734) 764-7084</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="29">ASP</attr>
+      <attr type="affiliation" source="29">Disability Management Services</attr>
+      <attr type="major" source="29">Health and Safety</attr>
+      <attr type="degree" source="29">B.S</attr>
+      <attr type="school" source="29">Indiana University</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="81" />
+    </documents>
+    <attributes>
+      <attr type="school" source="81">Sligo Elementary School</attr>
+      <attr type="occupation" source="81">student</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="57" />
+      <doc rank="34" />
+      <doc rank="41" />
+      <doc rank="69" />
+      <doc rank="44" />
+    </documents>
+    <attributes>
+      <attr type="work" source="57">Decadence &amp; Making of Modernis</attr>
+      <attr type="affiliation" source="34">Cooper Union for  Advancement of Science and Art</attr>
+      <attr type="occupation" source="34">associate professor</attr>
+      <attr type="major" source="41">Comparative Literature</attr>
+      <attr type="school" source="41">New York University</attr>
+      <attr type="phone" source="41">(212) 353-4274</attr>
+      <attr type="degree" source="41">Ph.D</attr>
+      <attr type="email" source="41">weir@cooper.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="83" />
+      <doc rank="89" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="12">Senior E-Commerce Developer</attr>
+      <attr type="affiliation" source="12">Freedom Group</attr>
+      <attr type="school" source="12">University of Leeds</attr>
+      <attr type="major" source="12">Business Information Technology</attr>
+      <attr type="degree" source="12">HND</attr>
+      <attr type="location" source="12">Leeds, United Kingdom</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="54" />
+      <doc rank="2" />
+      <doc rank="91" />
+      <doc rank="84" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="54">Team David Weir</attr>
+      <attr type="location" source="54">Canada</attr>
+      <attr type="occupation" source="54">REALTORS</attr>
+      <attr type="website" source="54">www.davidweir.com</attr>
+      <attr type="phone" source="54">613.394.4837</attr>
+      <attr type="email" source="2">david@davidweir.com</attr>
+      <attr type="fax" source="84">(613) 394-2897</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="87" />
+      <doc rank="9" />
+      <doc rank="7" />
+      <doc rank="95" />
+      <doc rank="1" />
+      <doc rank="122" />
+      <doc rank="15" />
+      <doc rank="88" />
+      <doc rank="71" />
+      <doc rank="26" />
+      <doc rank="61" />
+      <doc rank="75" />
+      <doc rank="3" />
+      <doc rank="22" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="87">Salon.com</attr>
+      <attr type="occupation" source="87">content executive</attr>
+      <attr type="work" source="87">Raising Hell: How the Center for Investigative Reporting Gets Its Story</attr>
+      <attr type="email" source="15">dweir@stanford.edu</attr>
+      <attr type="website" source="15">www.stanford.edu/~dweir</attr>
+      <attr type="location" source="15">Rm.322 McClatchy Hall</attr>
+      <attr type="phone" source="15">(650) 725-2239</attr>
+      <attr type="othername" source="61">Weir David</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="21" />
+      <doc rank="62" />
+      <doc rank="90" />
+      <doc rank="16" />
+    </documents>
+    <attributes>
+      <attr type="email" source="21">davidw@sussex.ac.uk</attr>
+      <attr type="location" source="21">Department of Informatics University of Sussex Brighton, BN1 9QJ E. Sussex UK</attr>
+      <attr type="phone" source="21">+44 (0)1273 678294</attr>
+      <attr type="fax" source="21">+44 (0)1273 877873</attr>
+      <attr type="affiliation" source="21">Department of Informatics University of Sussex</attr>
+      <attr type="othername" source="90">Weir David</attr>
+      <attr type="school" source="90">University of Pennsylvania</attr>
+      <attr type="degree" source="90">PhD</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="location" source="18">WPEC 1100 Fairfield Drive West Palm Beach, FL 33407</attr>
+      <attr type="occupation" source="18">account executive</attr>
+      <attr type="affiliation" source="18">Federal Aviation Administration</attr>
+      <attr type="phone" source="18">(561) 841-4811</attr>
+      <attr type="work" source="18">Polo Highlights</attr>
+      <attr type="birthplace" source="18">Indianapolis Indiana</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="102" />
+      <doc rank="73" />
+      <doc rank="82" />
+      <doc rank="14" />
+      <doc rank="55" />
+      <doc rank="106" />
+      <doc rank="76" />
+      <doc rank="46" />
+      <doc rank="111" />
+      <doc rank="35" />
+      <doc rank="96" />
+      <doc rank="80" />
+      <doc rank="33" />
+      <doc rank="64" />
+      <doc rank="100" />
+      <doc rank="94" />
+      <doc rank="58" />
+      <doc rank="20" />
+      <doc rank="97" />
+      <doc rank="104" />
+      <doc rank="6" />
+      <doc rank="66" />
+      <doc rank="120" />
+      <doc rank="115" />
+      <doc rank="1" />
+      <doc rank="107" />
+      <doc rank="36" />
+      <doc rank="116" />
+      <doc rank="8" />
+      <doc rank="63" />
+      <doc rank="74" />
+      <doc rank="98" />
+      <doc rank="10" />
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="102">Walter Smith</attr>
+      <attr type="occupation" source="102">stand-in skipper</attr>
+      <attr type="affiliation" source="102">Gers</attr>
+      <attr type="school" source="82">University of Evansville</attr>
+      <attr type="nationality" source="14">Scotland</attr>
+      <attr type="birthplace" source="14">Falkirk</attr>
+      <attr type="dateofbirth" source="14">10/05/1970</attr>
+      <attr type="location" source="55">SCO</attr>
+      <attr type="othername" source="106">Davie</attr>
+      <attr type="award" source="96">Everton Supporters Player of  Year award</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="112" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="112">Jaime</attr>
+      <attr type="occupation" source="112">attorney</attr>
+      <attr type="affiliation" source="112">Marsh Enterprises</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="1" />
+      <doc rank="77" />
+      <doc rank="92" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="77">athlete</attr>
+      <attr type="location" source="77">Surrey</attr>
+      <attr type="nationality" source="77">British</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="47">doctorate</attr>
+      <attr type="affiliation" source="47">UD</attr>
+      <attr type="othername" source="47">David S. Weir</attr>
+      <attr type="school" source="47">University of Glasgow</attr>
+      <attr type="occupation" source="47">vice president for global research and development</attr>
+      <attr type="major" source="47">chemical physics</attr>
+    </attributes>
+  </entity>
+</clustering>

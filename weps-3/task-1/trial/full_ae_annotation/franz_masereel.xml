@@ -1,0 +1,239 @@
+<clustering searchString="FRANZ MASEREEL">
+  <entity id="1">
+    <documents>
+      <doc rank="41" />
+      <doc rank="79" />
+      <doc rank="21" />
+      <doc rank="23" />
+      <doc rank="27" />
+      <doc rank="93" />
+      <doc rank="91" />
+      <doc rank="92" />
+      <doc rank="85" />
+      <doc rank="25" />
+      <doc rank="18" />
+      <doc rank="20" />
+      <doc rank="30" />
+      <doc rank="56" />
+      <doc rank="37" />
+      <doc rank="115" />
+      <doc rank="101" />
+      <doc rank="97" />
+      <doc rank="24" />
+      <doc rank="39" />
+      <doc rank="88" />
+      <doc rank="42" />
+      <doc rank="113" />
+      <doc rank="12" />
+      <doc rank="86" />
+      <doc rank="95" />
+      <doc rank="81" />
+      <doc rank="59" />
+      <doc rank="22" />
+      <doc rank="89" />
+      <doc rank="64" />
+      <doc rank="65" />
+      <doc rank="105" />
+      <doc rank="62" />
+      <doc rank="35" />
+      <doc rank="49" />
+      <doc rank="5" />
+      <doc rank="107" />
+      <doc rank="54" />
+      <doc rank="96" />
+      <doc rank="109" />
+      <doc rank="36" />
+      <doc rank="26" />
+      <doc rank="82" />
+      <doc rank="52" />
+      <doc rank="58" />
+      <doc rank="32" />
+      <doc rank="108" />
+      <doc rank="99" />
+      <doc rank="8" />
+      <doc rank="110" />
+      <doc rank="75" />
+      <doc rank="28" />
+      <doc rank="19" />
+      <doc rank="11" />
+      <doc rank="70" />
+      <doc rank="74" />
+      <doc rank="6" />
+      <doc rank="117" />
+      <doc rank="61" />
+      <doc rank="100" />
+      <doc rank="45" />
+      <doc rank="72" />
+      <doc rank="9" />
+      <doc rank="77" />
+      <doc rank="111" />
+      <doc rank="114" />
+      <doc rank="13" />
+      <doc rank="76" />
+      <doc rank="14" />
+      <doc rank="84" />
+      <doc rank="17" />
+      <doc rank="106" />
+    </documents>
+    <attributes>
+      <attr type="work" source="23">Die Stadt</attr>
+      <attr type="work" source="93">Passionate Journey</attr>
+      <attr type="occupation" source="93">artist</attr>
+      <attr type="nationality" source="93">Belgian</attr>
+      <attr type="occupation" source="92">painter</attr>
+      <attr type="dateofbirth" source="92">1889</attr>
+      <attr type="nationality" source="92">Belgian</attr>
+      <attr type="occupation" source="92">graphic artist</attr>
+      <attr type="dateofbirth" source="85">1889</attr>
+      <attr type="occupation" source="85">painter</attr>
+      <attr type="occupation" source="85">graphic artist</attr>
+      <attr type="work" source="25">Passionate Journey</attr>
+      <attr type="work" source="18">The City</attr>
+      <attr type="nationality" source="56">Belgian</attr>
+      <attr type="occupation" source="56">illustrator</attr>
+      <attr type="dateofbirth" source="101">1889</attr>
+      <attr type="occupation" source="101">graphic artist</attr>
+      <attr type="occupation" source="101">painter</attr>
+      <attr type="dateofbirth" source="101">July 30th</attr>
+      <attr type="nationality" source="101">Belgian</attr>
+      <attr type="nationality" source="97">Belgian</attr>
+      <attr type="work" source="24">The City</attr>
+      <attr type="work" source="24">Die Stadt</attr>
+      <attr type="work" source="88">Landscape and Voices</attr>
+      <attr type="nationality" source="113">Belgian</attr>
+      <attr type="dateofbirth" source="113">1889</attr>
+      <attr type="occupation" source="113">graphic artist</attr>
+      <attr type="occupation" source="113">painter</attr>
+      <attr type="work" source="12">The Passion of a Man</attr>
+      <attr type="occupation" source="12">graphic artists</attr>
+      <attr type="occupation" source="12">artists</attr>
+      <attr type="occupation" source="86">artists</attr>
+      <attr type="occupation" source="81">artists</attr>
+      <attr type="nationality" source="81">Belgian</attr>
+      <attr type="occupation" source="81">engraver</attr>
+      <attr type="work" source="59">Der Traum des Madchens</attr>
+      <attr type="occupation" source="22">artists</attr>
+      <attr type="occupation" source="22">Woodcutters</attr>
+      <attr type="occupation" source="89">Artists</attr>
+      <attr type="occupation" source="64">woodcut artist</attr>
+      <attr type="nationality" source="64">Belgian</attr>
+      <attr type="nationality" source="62">Belgian</attr>
+      <attr type="occupation" source="62">woodblock artist</attr>
+      <attr type="dateofbirth" source="62">1889</attr>
+      <attr type="occupation" source="49">artist</attr>
+      <attr type="nationality" source="49">Belgian</attr>
+      <attr type="othername" source="5">the new Daumier</attr>
+      <attr type="location" source="5">Geneva</attr>
+      <attr type="occupation" source="5">Expressionist artist</attr>
+      <attr type="work" source="107">The Passion of a Man</attr>
+      <attr type="occupation" source="54">wood-cut artists</attr>
+      <attr type="occupation" source="54">lino-engravers</attr>
+      <attr type="work" source="54">Passions of a Man</attr>
+      <attr type="occupation" source="96">painters</attr>
+      <attr type="occupation" source="96">painter</attr>
+      <attr type="occupation" source="96">graphic artist</attr>
+      <attr type="dateofbirth" source="96">1889</attr>
+      <attr type="work" source="109">Passionate Journey</attr>
+      <attr type="occupation" source="36">woodcut artist</attr>
+      <attr type="occupation" source="36">artist</attr>
+      <attr type="dateofbirth" source="82">1889</attr>
+      <attr type="occupation" source="82">graphic artist</attr>
+      <attr type="occupation" source="82">painter</attr>
+      <attr type="work" source="8">Untitled (from Taches DOEncre)</attr>
+      <attr type="occupation" source="8">Artist</attr>
+      <attr type="location" source="75">Geneva</attr>
+      <attr type="nationality" source="19">Belgian</attr>
+      <attr type="occupation" source="19">Artist</attr>
+      <attr type="dateofbirth" source="11">1889</attr>
+      <attr type="birthplace" source="11">Blankenberghe - Belgium</attr>
+      <attr type="othername" source="70">Masereel, Franz</attr>
+      <attr type="occupation" source="70">Illustrator</attr>
+      <attr type="occupation" source="74">artist</attr>
+      <attr type="work" source="74">Passionate Journey</attr>
+      <attr type="nationality" source="74">Belgian</attr>
+      <attr type="dateofbirth" source="117">1889</attr>
+      <attr type="occupation" source="117">painter</attr>
+      <attr type="nationality" source="117">Belgian</attr>
+      <attr type="occupation" source="100">graphic artist</attr>
+      <attr type="occupation" source="100">painter</attr>
+      <attr type="dateofbirth" source="100">1889</attr>
+      <attr type="work" source="45">Passionate Journey</attr>
+      <attr type="dateofbirth" source="72">1889</attr>
+      <attr type="occupation" source="72">painter</attr>
+      <attr type="occupation" source="72">graphic artist</attr>
+      <attr type="nationality" source="72">Belgian</attr>
+      <attr type="dateofbirth" source="72">July 30, 1889</attr>
+      <attr type="othername" source="9">Masereel, Franz</attr>
+      <attr type="occupation" source="9">Illustrator</attr>
+      <attr type="othername" source="9">Masereel, Frans</attr>
+      <attr type="othername" source="9">MASEREEL, Franz</attr>
+      <attr type="occupation" source="111">graphic artist</attr>
+      <attr type="occupation" source="111">painter</attr>
+      <attr type="dateofbirth" source="111">1889</attr>
+      <attr type="dateofbirth" source="114">1889</attr>
+      <attr type="occupation" source="114">painters</attr>
+      <attr type="occupation" source="114">painter</attr>
+      <attr type="occupation" source="114">graphic artist</attr>
+      <attr type="dateofbirth" source="76">1889</attr>
+      <attr type="work" source="76">Story Without Words</attr>
+      <attr type="work" source="76">Landscapes and Voices</attr>
+      <attr type="work" source="76">The Sun</attr>
+      <attr type="work" source="76">Politische Zeichnungen</attr>
+      <attr type="work" source="76">The Idea</attr>
+      <attr type="occupation" source="76">woodcut novelist</attr>
+      <attr type="location" source="76">Geneva</attr>
+      <attr type="othername" source="76">Masereel, Frans</attr>
+      <attr type="work" source="76">Passionate Journey</attr>
+      <attr type="nationality" source="76">Belgian</attr>
+      <attr type="nationality" source="14">Belgian</attr>
+      <attr type="work" source="14">The City</attr>
+      <attr type="work" source="14">Passionate Journey</attr>
+      <attr type="occupation" source="14">woodblock artist</attr>
+      <attr type="dateofbirth" source="84">1889</attr>
+      <attr type="occupation" source="84">graphic artist</attr>
+      <attr type="occupation" source="84">painter</attr>
+      <attr type="work" source="17">The City</attr>
+      <attr type="nationality" source="17">Belgian</attr>
+      <attr type="occupation" source="106">German expressionist</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="78" />
+      <doc rank="16" />
+      <doc rank="69" />
+      <doc rank="63" />
+      <doc rank="31" />
+      <doc rank="102" />
+      <doc rank="53" />
+      <doc rank="67" />
+      <doc rank="68" />
+      <doc rank="66" />
+      <doc rank="104" />
+      <doc rank="46" />
+      <doc rank="71" />
+      <doc rank="44" />
+      <doc rank="48" />
+      <doc rank="57" />
+      <doc rank="40" />
+      <doc rank="15" />
+      <doc rank="83" />
+      <doc rank="98" />
+      <doc rank="29" />
+      <doc rank="87" />
+      <doc rank="80" />
+      <doc rank="51" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="90" />
+      <doc rank="7" />
+      <doc rank="33" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

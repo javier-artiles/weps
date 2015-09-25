@@ -1,0 +1,451 @@
+<clustering searchString="MIKE ROBERTSON">
+  <entity id="1">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+      <attr type="work" source="110">The Way of the Rite A Handbook for Members and Friends of the Odinic Rite</attr>
+      <attr type="location" source="110">Odinic Rite, BCM Runic, London WC1N 3XX, England</attr>
+      <attr type="affiliation" source="110">Odinic Rite</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="83" />
+      <doc rank="37" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="83">Smooth Country band</attr>
+      <attr type="work" source="37">Brown County Blues</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="website" source="43">www.okgazette.com</attr>
+      <attr type="affiliation" source="43">oklahoma Gazette</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="129" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="46" />
+    </documents>
+    <attributes>
+      <attr type="location" source="46">11505 S. Easley Road Columbia, Missouri 65203</attr>
+      <attr type="phone" source="46">(573) 443-8925</attr>
+      <attr type="email" source="46">mike@webguycomo.com</attr>
+      <attr type="affiliation" source="46">WebGuy</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="54" />
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="work" source="54">The Dinah Shore Show</attr>
+      <attr type="birthplace" source="54">Los Angeles, California, USA</attr>
+      <attr type="dateofbirth" source="54">22 February 1955</attr>
+      <attr type="occupation" source="54">Actor</attr>
+      <attr type="othername" source="54">Scott Robertson</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="102" />
+      <doc rank="108" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="102">Air Staff</attr>
+      <attr type="email" source="102">news@kkountry.com</attr>
+      <attr type="work" source="108">Ole Country Newscaster</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="57" />
+      <doc rank="127" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="57">Citibank</attr>
+      <attr type="occupation" source="57">chief operating officer</attr>
+      <attr type="nationality" source="57">American</attr>
+      <attr type="location" source="57">London</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="120" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="120">Eagles</attr>
+      <attr type="occupation" source="120">coach</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="22" />
+      <doc rank="62" />
+      <doc rank="60" />
+    </documents>
+    <attributes>
+      <attr type="nationality" source="22">British</attr>
+      <attr type="occupation" source="22">deep water soloist</attr>
+      <attr type="award" source="22">Banff award</attr>
+      <attr type="work" source="22">Deep Water</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="86" />
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="31">kick return specialist</attr>
+      <attr type="school" source="31">Boston College</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="81" />
+      <doc rank="49" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="30">Product Manager</attr>
+      <attr type="location" source="30">Toronto, Canada Area</attr>
+      <attr type="affiliation" source="30">Commport Communications</attr>
+      <attr type="school" source="30">Radio College of Canada</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="12">graphic designer</attr>
+      <attr type="email" source="12">mike@marvinjdesign.com</attr>
+      <attr type="phone" source="12">814.335.0010</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="58" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="92" />
+      <doc rank="123" />
+      <doc rank="40" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="92">MP3.com</attr>
+      <attr type="othername" source="92">Michael Robertson</attr>
+      <attr type="work" source="92">Linspire</attr>
+      <attr type="occupation" source="123">music industry executive</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="69" />
+      <doc rank="7" />
+      <doc rank="25" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="69">Associate Broker</attr>
+      <attr type="fax" source="69">346-1016</attr>
+      <attr type="affiliation" source="69">CHATELAIN REALTY</attr>
+      <attr type="phone" source="69">318- 305-3613</attr>
+      <attr type="email" source="69">mikere@bellsouth.net</attr>
+      <attr type="location" source="7">AVOYELLES PARISH</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="89">(618) 453-9264</attr>
+      <attr type="email" source="89">mike17@siu.edu</attr>
+      <attr type="affiliation" source="89">Aviation Flight</attr>
+      <attr type="location" source="89">OBYoung 3B</attr>
+      <attr type="occupation" source="89">Assistant Chief Flight Instructor</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="98" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="1" />
+    </documents>
+    <attributes>
+      <attr type="website" source="1">www.mikewrobertson.com</attr>
+      <attr type="fax" source="1">817.424.4008</attr>
+      <attr type="phone" source="1">817.424.3459</attr>
+      <attr type="location" source="1">Realty World - DFW 2615 E. Southlake Blvd. #160 Southlake, TX 76092</attr>
+      <attr type="email" source="1">mikewrobertson@aol.com</attr>
+      <attr type="othername" source="1">Mike W Robertson</attr>
+      <attr type="occupation" source="1">licensed Broker</attr>
+      <attr type="affiliation" source="1">Realty World - DFW</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="33" />
+      <doc rank="70" />
+      <doc rank="42" />
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="33">michael g robertson</attr>
+      <attr type="work" source="70">Casting Shadows: Short Stories</attr>
+      <attr type="occupation" source="70">Author</attr>
+      <attr type="relatives" source="28">Alicia Isdes</attr>
+      <attr type="school" source="28">Lee&apos;s Summit Senior High</attr>
+      <attr type="major" source="28">Creative Writing</attr>
+      <attr type="affiliation" source="28">Hospital Corps</attr>
+      <attr type="location" source="28">Easley River Road, south of Columbia, MO</attr>
+      <attr type="dateofbirth" source="28">1945</attr>
+      <attr type="birthplace" source="28">Kansas City Missouri</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="72" />
+      <doc rank="97" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="72">debt management expert</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="27">Canadian Snowboard team</attr>
+      <attr type="nationality" source="27">CAN</attr>
+      <attr type="location" source="27">CANMORE, AB CAN</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="3" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="3">228-275-7500</attr>
+      <attr type="occupation" source="3">REALTOR?</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="88" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="111">Managing Partner</attr>
+      <attr type="major" source="111">Natural Philosophy</attr>
+      <attr type="affiliation" source="111">Risk Solutions</attr>
+      <attr type="school" source="111">Warwick University</attr>
+      <attr type="degree" source="111">MBA</attr>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="80" />
+      <doc rank="67" />
+      <doc rank="9" />
+      <doc rank="10" />
+      <doc rank="45" />
+      <doc rank="14" />
+      <doc rank="73" />
+      <doc rank="38" />
+      <doc rank="29" />
+      <doc rank="36" />
+      <doc rank="65" />
+      <doc rank="126" />
+      <doc rank="130" />
+      <doc rank="55" />
+      <doc rank="6" />
+      <doc rank="32" />
+      <doc rank="24" />
+      <doc rank="93" />
+      <doc rank="17" />
+      <doc rank="13" />
+      <doc rank="77" />
+      <doc rank="107" />
+      <doc rank="19" />
+      <doc rank="121" />
+      <doc rank="44" />
+      <doc rank="52" />
+    </documents>
+    <attributes>
+      <attr type="work" source="80">Inside-Out</attr>
+      <attr type="occupation" source="80">hosts</attr>
+      <attr type="affiliation" source="10">USA Powerlifting</attr>
+      <attr type="major" source="10">Sports Biomechanics</attr>
+      <attr type="location" source="10">Indianapolis, Indiana</attr>
+      <attr type="degree" source="10">M.S.</attr>
+      <attr type="school" source="10">Human Performance Lab at Ball State University</attr>
+      <attr type="email" source="10">mike@robertsontrainingsystems.com</attr>
+      <attr type="mentor" source="45">Mel Siff</attr>
+      <attr type="website" source="45">www.robertsontrainingsystems.com</attr>
+      <attr type="othername" source="45">Mike R</attr>
+      <attr type="birthplace" source="45">Indianapolis, Indiana</attr>
+      <attr type="award" source="73">Senior of the Year</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="31">
+    <documents>
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="51">Site Manager</attr>
+      <attr type="email" source="51">mrob@u.washington.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="32">
+    <documents>
+      <doc rank="103" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="103">president</attr>
+      <attr type="affiliation" source="103">Specialty Graphic Imaging Assn.</attr>
+    </attributes>
+  </entity>
+  <entity id="33">
+    <documents>
+      <doc rank="47" />
+      <doc rank="68" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="68">Himmerhaul Services</attr>
+    </attributes>
+  </entity>
+  <entity id="34">
+    <documents>
+      <doc rank="100" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="100">Mt. Diablo Audubon</attr>
+    </attributes>
+  </entity>
+  <entity id="35">
+    <documents>
+      <doc rank="78" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="78">07930 398 407</attr>
+      <attr type="work" source="78">5 Guys Named Moe</attr>
+      <attr type="affiliation" source="78">Lighting Plan</attr>
+      <attr type="website" source="78">www.lightingplan.co.uk</attr>
+      <attr type="email" source="78">mike@lightingplan.co.uk</attr>
+      <attr type="location" source="78">Lighting Plan BAC Lavender Hill Battersea London SW11 5TN</attr>
+      <attr type="occupation" source="78">Designers</attr>
+      <attr type="school" source="78">Guildhall School of Music and Drama</attr>
+      <attr type="award" source="78">2007 Olivier Award</attr>
+    </attributes>
+  </entity>
+  <entity id="36">
+    <documents>
+      <doc rank="23" />
+      <doc rank="115" />
+      <doc rank="76" />
+      <doc rank="11" />
+      <doc rank="8" />
+      <doc rank="4" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="23">Norwich, Connecticut</attr>
+      <attr type="affiliation" source="23">CWS</attr>
+      <attr type="dateofbirth" source="23">Oct 9, 1970</attr>
+      <attr type="occupation" source="115">Player</attr>
+      <attr type="relatives" source="76">Tanya</attr>
+      <attr type="othername" source="8">Michael Francis Robertson</attr>
+      <attr type="school" source="8">University of Southern California</attr>
+    </attributes>
+  </entity>
+  <entity id="37">
+    <documents>
+      <doc rank="117" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="117">PPS</attr>
+      <attr type="location" source="117">Wilmington, North Carolina Area</attr>
+      <attr type="affiliation" source="117">Risk Management Services</attr>
+    </attributes>
+  </entity>
+  <entity id="38">
+    <documents>
+      <doc rank="61" />
+      <doc rank="16" />
+      <doc rank="122" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="61">Bright House</attr>
+      <attr type="occupation" source="61">president</attr>
+      <attr type="school" source="16">University of Tampa</attr>
+      <attr type="location" source="16">Florida</attr>
+      <attr type="degree" source="16">MBA</attr>
+    </attributes>
+  </entity>
+  <entity id="39">
+    <documents>
+      <doc rank="34" />
+    </documents>
+    <attributes>
+      <attr type="email" source="34">math-0328-01-004@calpoly.edu</attr>
+      <attr type="affiliation" source="34">CalPoly</attr>
+    </attributes>
+  </entity>
+</clustering>

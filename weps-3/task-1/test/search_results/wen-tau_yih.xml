@@ -1,0 +1,601 @@
+<corpus searchString="wen-tau yih" startIndex="0" maxNumResults="200" totalResults="954">
+	<doc rank="0" title="Scott Wen-tau Yih - Microsoft Research" url="http://scottyih.org/">
+	</doc>
+	<doc rank="1" title="DBLP: Wen-tau Yih" url="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/y/Yih:Wen=tau.html">
+		<snippet>Wen-tau Yih, Christopher Meek: Improving Similarity Measures for Short Segments of Text. ... Dan Roth, Wen-tau Yih: Relational Learning via Propositional Algorithms: An Information Extraction Case Study. ...</snippet>
+	</doc>
+	<doc rank="2" title="DBLife: Wen-tau Yih" url="http://dblife.cs.wisc.edu/person/Wen-tau_Yih">
+		<snippet>9. Integer linear programming inference for conditional random fields. Dan Roth, Wen-tau ... of Syntactic Parsing for Semantic Role Labeling. Vasin Punyakanok, Dan Roth, Wen-tau Yih. ...</snippet>
+	</doc>
+	<doc rank="3" title="Wen-tau Yih: Publications, bio, bibliography, etc" url="http://www.interaction-design.org/references/authors/wen-tau_yih.html">
+		<snippet>Wen-tau Yih: ... 22 Feb 2010: Enabled abstracts to be shown on Wen-tau Yih&apos;s author page. 09 Jul 2009: Author was edited. 30 May 2009: Author was added to the bibliography. Publication ...</snippet>
+	</doc>
+	<doc rank="4" title="Wen-Tau Yih - People / OSL @ UIUC" url="http://osl.cs.uiuc.edu/people?user=yih">
+		<snippet>Wen-Tau Yih. Collaborator. Select publications. Yih, Wen-Tau, Po-Hao ... Mining Online Deal Forums for Hot Deals,&quot; 2004 IEEE/WIC/ACM International Conference on ...</snippet>
+	</doc>
+	<doc rank="5" title="DBLP: Wen-tau Yih (selection)" url="http://dblp.uni-trier.de/rec/pers/y/Yih:Wen=tau/s/Moran:Liam_Gerard">
+		<snippet>Dan Roth, Gio Kao Kao, Xin Li, Ramya Nagarajan, Vasin Punyakanok, Nick Rizzolo, Wen-tau Yih, Cecilia Ovesdotter Alm, Liam Gerard Moran: Learning Components for A Question-Answering System. TREC 2001. Selection of 1 from 21 records - Wen-tau Yih has 27 coauthors ...</snippet>
+	</doc>
+	<doc rank="6" title="Scott Wen-tau Yih | Facebook" url="http://www.facebook.com/scott.yih">
+		<snippet>Scott Wen-tau Yih is on Facebook. Join Facebook to connect with Scott Wen-tau Yih and others you may know. Facebook gives people the power to share and makes the world more open and connected. Scott Wen-tau Yih has 163 friends on Facebook and ...</snippet>
+	</doc>
+	<doc rank="7" title="Wen-tau Yih - Storming Media" url="http://www.stormingmedia.us/authors/Yih__Wen_tau.html">
+		<snippet>Authors: Vasin Punyakanok; Dan Roth; Wen-tau Yih; Dav Zimak; ILLINOIS UNIV AT URBANA-CHAMPAIGN DEPT OF COMPUTER SCIENCE ... Authors: Vasin Punyakanok; Dan Roth; Wen-tau Yih; Dav Zimak; ILLINOIS UNIV AT URBANA-CHAMPAIGN DEPT OF COMPUTER SCIENCE. We present a system for the semantic role labeling task. ...</snippet>
+	</doc>
+	<doc rank="8" title="DBLP: Wen-tau Yih (selection)" url="http://dblp.uni-trier.de/rec/pers/y/Yih:Wen=tau/s/Chang:Ming=wei">
+		<snippet>Ming-wei Chang, Wen-tau Yih, Christopher Meek: Partitioned logistic regression for spam filtering. ... Selection of 1 from 21 records - Wen-tau Yih has 27 coauthors ...</snippet>
+	</doc>
+	<doc rank="9" title="HLT-NAACL 2006 Demonstration Program" url="http://nlp.cs.nyu.edu/hlt-naacl06/tut_yih2.html">
+		<snippet>Scott Wen-tau Yih and Kristina Toutanova. Description: The goal of semantic role labeling ... Scott Wen-tau Yih received his PhD in Computer Science from the University of Illinois at ...</snippet>
+	</doc>
+	<doc rank="10" title="CCG: People" url="http://l2r.cs.uiuc.edu/~cogcomp/people/Wen-tau_Yih.html">
+		<snippet>Research People Software Demos Publications Resources Schedule Login. Wen-tau Yih [home page] Alumni - Ph.D. Research Area: Artificial Intelligence, Machine Learning, and Natural Language Processing. Project Participation. Semantic Parsing (Semantic Role Labeling) Pipeline Models ...</snippet>
+	</doc>
+	<doc rank="11" title="Wen-tau Yih - Patent application" url="http://www.faqs.org/patents/inv/243677">
+		<snippet>Wen-tau Yih. REDMOND, WA US. 1. 20090319508 CONSISTENT PHRASE RELEVANCE MEASURES - Two methods for measuring keyword-document relevance are described 12-24-2009. 2. 20090240498 SIMILIARITY MEASURES FOR SHORT SEGMENTS OF TEXT 09-24-2009. 3. 20090157720 ...</snippet>
+	</doc>
+	<doc rank="12" title="BibSonomy" url="http://www.bibsonomy.org/author/Tau">
+		<snippet>Dan Roth and Wen tau Yih HLT-NAACL 2004 Workshop: Eighth Conference on Computational Natural Language ... Dan Roth and Wen tau Yih HLT-NAACL 2004 Workshop: Eighth Conference on Computational Natural Language ...</snippet>
+	</doc>
+	<doc rank="13" title="CCG: People" url="http://l2r.cs.uiuc.edu/~cogcomp/people_view.php?FirstName=Wen-tau&amp;LastName=Yih">
+		<snippet>Research People Software Demos Publications Resources Schedule Login. Wen-tau Yih [home page] Alumni - Ph.D. Project Participation. Semantic Parsing (Semantic Role Labeling) Pipeline Models. Named Entities and Relations. Software Development. Feature Extraction Language (FEX) Demos ...</snippet>
+	</doc>
+	<doc rank="14" title="CiteSeerX &#8212; ABSTRACT Improving Spam Filtering by Detecting ..." url="http://serv1.ist.psu.edu/viewdoc/summary?doi=10.1.1.73.2373">
+		<snippet>CiteSeerX - Document Details (Isaac Councill, Lee Giles): We address the problem of gray mail &#8211; messages that could reasonably be considered either spam or good. Email users often disagree on this mail, presenting serious challenges to spam ... by Wen-tau Yih ...</snippet>
+	</doc>
+	<doc rank="15" title="Wen-tau Yih - Patents &amp;amp; Inventors, bibliographic references" url="http://www.freshpatents.com/Wentau-Yih-Redmond-invdiry.php">
+		<snippet>The bibliographic references displayed about Wen-tau Yih&apos;s patent applications are for a recent sample of publicly published patent applications. ... If Wen-tau Yih filed recent patent applications under another name, spelling or location then those applications could be listed on an alternate page. ...</snippet>
+	</doc>
+	<doc rank="16" title="DBLP: Vasin Punyakanok" url="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/p/Punyakanok:Vasin.html">
+		<snippet>Vasin Punyakanok, Dan Roth, Mark Sammons, Wen-tau Yih: Demonstrating an Interactive Semantic Role Labeling System. ... Dan Roth, Gio Kao Kao, Xin Li, Ramya Nagarajan, Vasin Punyakanok, Nick Rizzolo, Wen-tau Yih, Cecilia Ovesdotter Alm, Liam Gerard Moran: Learning Components for A Question-Answering System. ...</snippet>
+	</doc>
+	<doc rank="17" title="GM-RKB: Dan Roth" url="http://www.gabormelli.com/RKB/?action=browse;oldid=D._Roth;id=Dan_Roth">
+		<snippet>(Punyakanok &amp;amp; al, 2004) =&amp;gt; V. Punyakanok, Dan Roth,Wen-tau Yih, and D. Zimak. ... (Roth &amp;amp; Yih, 2001) =&amp;gt; Dan Roth, and Wen-tau Yih. ( 2001). &quot; Relational Learning via Propositional Algorithms: An information extraction case study.&quot; In: Proceedings of the International Joint Conference on ...</snippet>
+	</doc>
+	<doc rank="18" title="PubZone - Vasin Punyakanok" url="http://www.pubzone.org/pages/publications/showAuthor.do?userId=62.6120">
+		<snippet>Vasin Punyakanok, Dan Roth, Wen-tau Yih. The Necessity of Syntactic Parsing for Semantic Role Labeling. IJCAI-05, Proceedings of ... Vasin Punyakanok, Dan Roth, Mark Sammons, Wen-tau Yih. Demonstrating an Interactive Semantic Role Labeling System. HLT/EMNLP 2005, Human Language Technology Conference ...</snippet>
+	</doc>
+	<doc rank="19" title="Machine Learning Seminary" url="http://www.lsi.upc.edu/~jgimenez/ML/">
+		<snippet>Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak (draft ILP) ... Vasin Punyakanok Dan Roth Wen-tau Yih Dav Zimak. Semantic Role Labeling via Integer Linear Programming ...</snippet>
+	</doc>
+	<doc rank="20" title="Learning Term-weighting Functions for Similarity Measures ..." url="http://research.microsoft.com/apps/pubs/default.aspx?id=81804">
+		<snippet>Wen-tau Yih. 7 August 2009. Measuring the similarity between two texts is a fundamental problem in many NLP and IR applications. Among the existing approaches, the cosine measure of the term vectors representing the original texts has been widely ...</snippet>
+	</doc>
+	<doc rank="21" title="Seminari de Recerca - NLP Research Group" url="http://www.lsi.upc.edu/~nlp/web/index.php?option=com_content&amp;task=view&amp;id=25&amp;Itemid=65">
+		<snippet>Vasin Punyakanok Dan Roth Wen-tau Yih Dav Zimak (draft ILP) ... Vasin Punyakanok Dan Roth Wen-tau Yih Dav Zimak. Semantic Role Labeling via Integer Linear Programming ...</snippet>
+	</doc>
+	<doc rank="22" title="Finding advertising keywords on web pages" url="http://portal.acm.org/citation.cfm?doid=1135777.1135813">
+		<snippet>Wen-tau Yih , Christopher Meek, Consistent phrase relevance measures, Proceedings of the 2nd International Workshop on Data Mining and Audience Intelligence for Advertising, p.37-44, August 24-24, 2008, Las Vegas, Nevada ... Wen-Tau Yih , Christopher Meek, Improving similarity measures for ...</snippet>
+	</doc>
+	<doc rank="23" title="CiteSeerX &#8212; Author Search Results &amp;amp;mdash; &quot;Vasin Punyakanok&quot;" url="http://citeseerx.ist.psu.edu/search?q=&quot;Vasin+Punyakanok&quot;&amp;t=auth">
+		<snippet>by Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak &#8212; 2004 &#8212; In Workshop on Learning Structured with Output, NIPS ... by Peter Koomen, Vasin Punyakanok, Dan Roth, Wen-tau Yih &#8212; 2005 &#8212; In Proceedings of the Ninth Conference on Computational Natural ...</snippet>
+	</doc>
+	<doc rank="24" title="Finding Advertising Keywords on Web Pages" url="http://www2006.org/programme/files/xhtml/533/fp533-yih/fp533-yih-xhtml.html">
+		<snippet>Finding advertising Keywords on Web Pages ... Finding Advertising Keywords on Web Pages. Wen-tau Yih. Microsoft Research. Redmond, WA, USA. scottyih@microsoft.com. Joshua Goodman. Microsoft Research ...</snippet>
+	</doc>
+	<doc rank="25" title="PubZone - Joshua Goodman" url="http://www.pubzone.org/pages/publications/showAuthor.do?userId=g.JoshuaGoodman">
+		<snippet>Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki. ... Wen-tau Yih, Joshua Goodman, Geoff Hulten. Learning at Low False Positive Rates. CEAS 2006 - The Third Conference on Email and Anti-Spam, July 27-28, 2006, Mountain View, ...</snippet>
+	</doc>
+	<doc rank="26" title="Po-Hao Chang: Publications, bio, bibliography, etc" url="http://www.interaction-design.org/references/authors/po-hao_chang.html">
+		<snippet>Po-Hao Chang: ... Wen-tau Yih:1. Other options. Learn more about Po-Hao Chang: - Google Scholar - ACM - CSB. Conference Calendar. May 12. UX Lx - UX Lisbon. May 17. GRAPP - 5th Intl. Conf. on Computer Graphics Theory and Applications ...</snippet>
+	</doc>
+	<doc rank="27" title="WWW2006 - Finding Advertising Keywords on Web Pages" url="http://www2006.org/programme/item.php?id=533">
+		<snippet>Finding Advertising Keywords on Web Pages. Wen-tau Yih, Microsoft Research, USA. Joshua Goodman, Microsoft ... A large and growing number of web pages display contextual advertising based on keywords automatically extracted from the text of ...</snippet>
+	</doc>
+	<doc rank="28" title="Conference on Email and Anti-Spam" url="http://www.ceas.cc/2006/">
+		<snippet>The 2006 Conference on Email and Anti-Spam, July 27-28 in Mountain View CA, covering all aspects of improving email systems and methods for stopping spam. ... Online Discriminative Spam Filter Training; Joshua Goodman, Wen-tau Yih ...</snippet>
+	</doc>
+	<doc rank="29" title="Program" url="http://adlab.microsoft.com/adkdd2008/Program.html">
+		<snippet>09:00am - 09:30am: An Empirical Analysis of Return on Investment Maximization in Sponsored Search Auctions, Jason Auerbach, Joel Galenson, Mukund ... Consistent Phrase Relevance Measures, Wen-tau Yih, Christopher Meek. ...</snippet>
+	</doc>
+	<doc rank="30" title="Hannaneh Hajishirzi - Research/CV" url="http://cs.uiuc.edu/homes/hajishir/Research.htm">
+		<snippet>&#183; Hannaneh Hajishirzi, Wen-tau Yih, and Aleksander Kolcz, Adaptive Near-Duplicate Detection via Similarity Learning, in Proceedings of the 33rd Annual ACM SIGIR Conference (SIGIR 2010), 2010. ... &#183; Research Intern, Microsoft Research, Redmond, Mentor: Wen-tau Yih, Manager: Chris Meek ...</snippet>
+	</doc>
+	<doc rank="31" title="Dan Roth | Facebook" url="http://www.facebook.com/people/Dan-Roth/695006239">
+		<snippet>Dan Roth is on Facebook. Join Facebook to connect with Dan Roth and others you may know. Facebook gives people the power to share and makes the world more open and connected. Dan Roth has 71 friends on Facebook. ... Scott Wen-tau Yih ...</snippet>
+	</doc>
+	<doc rank="32" title="CS775: Natural Language Processing Seminar" url="http://www.cs.cornell.edu/Courses/cs775/2004fa/">
+		<snippet>Seminar plans: This semester, we will convene to present and discuss research papers from recent (usually this year&apos;s) NLP conferences as well as to discuss ongoing work in Cornell&apos;s NLP group. ... Dan Roth and Wen-tau Yih. Linear Programming Formulation for Global Inference in Natural Language Tasks. ...</snippet>
+	</doc>
+	<doc rank="33" title="Extracting Product Information from Email Receipts using ..." url="http://alchemy.cs.washington.edu/papers/kok09b/">
+		<snippet>Stanley Kok and Wen-tau Yih. Abstract: Email receipts (e-receipts) frequently record e-commerce transactions between users and online retailers, and contain a wealth of product information. Such information could be used in a variety of applications if it could be reliably extracted. ...</snippet>
+	</doc>
+	<doc rank="34" title="CEAS 2006 Papers" url="http://www.ceas.cc/2006/list.html">
+		<snippet>Wen-tau Yih, Joshua Goodman, Geoff Hulten. Modeling Identity in Archival Collections of Email: A Preliminary ... Joshua Goodman, Wen-tau Yih. Sender Reputation in a Large Webmail Service. Bradley Taylor &quot; ...</snippet>
+	</doc>
+	<doc rank="35" title="WWW2006 - Finding Advertising Keywords on Web Pages" url="http://www.ra.ethz.ch/CDstore/www2006/devel-www2006.ecs.soton.ac.uk/programme/533.html">
+		<snippet>Finding Advertising Keywords on Web Pages. Wen-tau Yih, Microsoft Research, USA. Joshua Goodman, Microsoft ... Slot: 16:00-17:30, Wednesday 24th May. A large and growing number of web pages display contextual advertising based on keywords automatically ...</snippet>
+	</doc>
+	<doc rank="36" title="Publications" url="http://flake.cs.uiuc.edu/~mchang21/publication/publications.html">
+		<snippet>Ming-Wei Chang, Wen tau Yih, and Robert McCann. Personalized spam filtering for gray mail. ... Ming-Wei Chang, Wen tau Yih, and Christopher Meek. Partitioned ...</snippet>
+	</doc>
+	<doc rank="37" title="Learn Chinese Characters" url="http://www.nature-museum.org/about/images10/article595.html">
+		<snippet>As they turned their car around and were about to head up the hill Thumb Post Porn past the house of their good friend and ... Scott Wen-tau Yih. Oregon, Aug, 2003. email:. homepage:. office ...</snippet>
+	</doc>
+	<doc rank="38" title="8th AI and MATH Symposium - Special Topic Sessions" url="http://rutcor.rutgers.edu/~amai/aimath04/special.html">
+		<snippet>&quot;Minimax Regret Methods for Decision Making with Imprecise Utility Functions&quot; ... Dan Roth, Wen-tau Yih &quot;A Linear Programming Formulation for Global Inference in Natural Language Tasks&quot;, (PDF) ...</snippet>
+	</doc>
+	<doc rank="39" title="Publications by Jane Yung-jen Hsu" url="http://hugo.csie.ntu.edu.tw/~yjhsu/pubs/pub-conf.html">
+		<snippet>Jane Yung-jen Hsu and Wen-tau Yih. Template-based information mining from HTML documents. In: Proceedings of AAAI-97, pp. 256-262, Providence, USA, July 1997. ( Tsai-Yu Chang, Szu-Wen Kuo, and Jane Yung-jen Hsu. A Two-Phase Navigation System for Mobile Robots in Dynamic Environments. ...</snippet>
+	</doc>
+	<doc rank="40" title="CS 775 Spring 2006" url="http://www.cs.cornell.edu/courses/CS775/2006sp/index.htm">
+		<snippet>Seminar plans: This semester, we will convene to present and discuss research papers from recent (usually last year&apos;s) NLP conferences as well as to discuss ongoing work in Cornell&apos;s NLP group. ... Vasin Punyakanok, Dan Roth, and Wen-tau Yih, in Proceedings of the Annual Conference ...</snippet>
+	</doc>
+	<doc rank="41" title="People &#8212; LT World" url="http://www.lt-world.org/kb/players_and_teams/people?alpha=y">
+		<snippet>Language Technology World is an ontology-based virtual information center on the wide spectrum of technologies for dealing with human languages. It is a free service provided to the R &amp;amp; D community, potential ... Scott Wen-Tau Yih ...</snippet>
+	</doc>
+	<doc rank="42" title="CONSISTENT PHRASE RELEVANCE MEASURES - Patent application ..." url="http://www.faqs.org/patents/app/20090319508">
+		<snippet>Inventors: Christopher A. Meek Wen-tau Yih. Agents: MICROSOFT CORPORATION. Assignees: Microsoft Corporation ... Patent applications by Wen-tau Yih. Patent applications by Microsoft Corporation. Patent applications in class Query augmenting and ...</snippet>
+	</doc>
+	<doc rank="43" title="HLT-NAACL 2004: Conference on Computational Natural Language ..." url="http://www.cs.brandeis.edu/~marc/misc/proceedings/hlt-naacl-2004/conll04/index.html">
+		<snippet>Dan Roth and Wen-tau Yih. pp. 1-8. pdf. ps. bib. Semantic Lexicon Construction: Learning from Unlabeled Data via Spectral Analysis. Rie ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak and Yuancheng Tu ...</snippet>
+	</doc>
+	<doc rank="44" title="ACL Anthology &quot; J08" url="http://www.aclweb.org/anthology-new/J/J08/">
+		<snippet>Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue on Semantic Role Labeling ... J08-2005: Vasin Punyakanok; Dan Roth; Wen-tau Yih. The Importance of Syntactic Parsing and Inference in ...</snippet>
+	</doc>
+	<doc rank="45" title="DBLife: Learning and Inference over Constrained Output" url="http://dblife.cs.wisc.edu/publication/Learning_and_Inference_over_Constrained_Output">
+		<snippet>Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak. Download: http://www.ijcai.org/papers ... Developed by the Database Group at the University of Wisconsin and Yahoo! Research ...</snippet>
+	</doc>
+	<doc rank="46" title="ilp [UTCL Wiki]" url="http://comp.ling.utexas.edu/wiki/doku.php/ilp">
+		<snippet>A linear programming formulation for global inference in natural language tasks. Dan Roth and Wen-tau Yih, Proceedings of CoNLL 2004. Joint determination of anaphoricity and coreference resolution using integer programming. Pascal Denis and Jason Baldridge, Proceedings of NAACL/HLT 2007. ...</snippet>
+	</doc>
+	<doc rank="47" title="BibSonomy :: user :: hkorte :: relation_extraction ..." url="http://www.bibsonomy.org/user/hkorte/relation_extraction+named_entity_recognition">
+		<snippet>Webapplication of the Knowledge and Data Engineering Group, University of Kassel, Germany ... Dan Roth and Wen tau Yih HLT-NAACL 2004 Workshop: Eighth Conference on Computational Natural Language Learning CoNLL-2004, page 1 ...</snippet>
+	</doc>
+	<doc rank="48" title="Improving Similarity Measures for Short Segments of Text" url="https://www.aaai.org/Library/AAAI/2007/aaai07-236.php">
+		<snippet>AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. ... Wen-tau Yih, Christopher Meek. In this paper we improve previous work on measuring the similarity of short segments of text in two ...</snippet>
+	</doc>
+	<doc rank="49" title="Approximate Inference" url="http://www.stat.ucla.edu/~lzhu/survey/approximate_inference.htm">
+		<snippet>l Edge Deletion, Edge Correction, and the Bethe Free Energy(Extended Version) ... Dan Roth, Wen-tau Yih. l P3 &amp;amp; Beyond: Solving Energies with Higher Order Cliques. Pushmeet Kohli, M. Pawan Kumar, Philip H. S. Torr ...</snippet>
+	</doc>
+	<doc rank="50" title="Improving Similarity Measures for Short Segments of Text" url="https://www.aaai.org/Library/AAAI/2007/aaai07-236.php">
+		<snippet>AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. ... Wen-tau Yih, Christopher Meek. In this paper we improve previous work on measuring the similarity of short segments of text in two ...</snippet>
+	</doc>
+	<doc rank="51" title="Approximate Inference" url="http://www.stat.ucla.edu/~lzhu/survey/approximate_inference.htm">
+		<snippet>l Edge Deletion, Edge Correction, and the Bethe Free Energy(Extended Version) ... Dan Roth, Wen-tau Yih. l P3 &amp;amp; Beyond: Solving Energies with Higher Order Cliques. Pushmeet Kohli, M. Pawan Kumar, Philip H. S. Torr ...</snippet>
+	</doc>
+	<doc rank="52" title="Program - HLT/EMNLP 2005 Interactive Demonstrations" url="http://www.cs.brandeis.edu/~marc/misc/proceedings/hlt-emnlp-2005/EMNLP_HLT/HLT-Demo/program.html">
+		<snippet>Automatic Detection of Translation Errors: The State of the Art. Graham Russell, George Foster and Ngoc Tran Nguyen. Bridging the Gap between Technology and Users: Leveraging Machine. Thomas Hoeft, Nick Cramer, M. L. Gregory and Elizabeth Hetzler ... Vasin Punyakanok, Dan Roth, Mark Sammons and Wen-tau Yih ...</snippet>
+	</doc>
+	<doc rank="53" title="Relation extraction and the influence of automatic named ..." url="http://portal.acm.org/citation.cfm?doid=1322391.1322393">
+		<snippet>Dan Roth , Wen-tau Yih, Probabilistic reasoning for entity &amp;amp; relation recognition, Proceedings of the 19th international conference on Computational linguistics, p.1-7, August 24-September 01, 2002, Taipei, Taiwan [doi&amp;gt;10.3115/1072228.1072379&lt;wbr&gt;] 21. Roth, D. and Yih, W. 2004. ...</snippet>
+	</doc>
+	<doc rank="54" title="query log research papers | Tags | Mendeley" url="http://www.mendeley.com/research-papers/tag/query+log/">
+		<snippet>Find 2 research papers on query log like: &apos;Finding advertising keywords on web pages&apos; and &apos;Recommending Join Queries via Query Log Analysis&apos; ... Wen-tau Yih, Joshua Goodman, Vitor R. Carvalho. Proceedings of the 15th international conference on World Wide Web WWW 06, (2006) ...</snippet>
+	</doc>
+	<doc rank="55" title="KDD 2008: Papers" url="http://www.sigkdd.org/kdd2008/papers.html">
+		<snippet>35. Learning Classifiers from Only Positive and Unlabeled Data. ... Ming-wei Chang, Wen-tau Yih, Christopher Meek. 105. Finding Non-Redundant, Statistically Significant Regions in High Dimensional ...</snippet>
+	</doc>
+	<doc rank="56" title="River Edge Citizens" url="http://riveredgecitizens.com/members/Nyc%20Relationship%20Recognition%20Information.aspx">
+		<snippet>The timezone the user resides within. -6 GMT. Location. 33335. Occupation. Interests. Nyc ... Wen-tau Yih, Probabilistic reasoning for china taiwan relationship ...</snippet>
+	</doc>
+	<doc rank="57" title="Machine Learning Lunch Talk" url="http://www.cs.cmu.edu/Groups/reinforcement/OldFiles/mosaic/talks-2005-fall/2005-09-26.review.html">
+		<snippet>by Dan Roth and Wen-tau Yih. Pradeep Ravikumar. Inference in Conditional Random Fields and Hidden Markov Models is done using the Viterbi algorithm, an efficient dynamic programming algorithm. In many cases, general (non-local and non-sequential) ...</snippet>
+	</doc>
+	<doc rank="58" title="HLT-NAACL 2006 in NYC" url="http://nlp.cs.nyu.edu/hlt-naacl06/cfptutorial2.html">
+		<snippet>Scott Wen-tau Yih, Microsoft Research. Kristina Toutanova, Microsoft Research. HLT-NAACL 2006. CALL FOR TUTORIAL PROPOSALS. Proposals are invited for the Tutorial Program for HLT-NAACL 2006, to be held at the New York Marriott at the Brooklyn Bridge from June 4 to 9, 2006. ...</snippet>
+	</doc>
+	<doc rank="59" title="ArnetMiner: Christopher Meek" url="http://arnetminer.org/viewperson.do?id=-1&amp;name=Christopher+Meek&amp;keyword=Christopher+Meek">
+		<snippet>Ming-wei Chang, Wen-tau Yih, Christopher Meek. Partitioned logistic regression for spam ... Ming-wei Chang, Wen-tau Yih, Christopher Meek. Partitioned logistic regression for spam ...</snippet>
+	</doc>
+	<doc rank="60" title="Friends of Terrence Chen" url="http://www.ifp.illinois.edu/~tchen5/people.html">
+		<snippet>Gustavo Carneiro: Technical University of Lisbon, Portugal. ... I-chen Lin: National Chiao Tung University, Taiwan. Scott Wen-tau Yih: Microsoft Research, USA. Wotao Yin: Rice University, USA. ...</snippet>
+	</doc>
+	<doc rank="61" title="Programme CoNLL-2004" url="http://www.cnts.ua.ac.be/conll2004/programme.html">
+		<snippet>Dan Roth and Wen-tau Yih. 09:35-10:05. Semantic Lexicon Construction: Learning from Unlabeled Data via Spectral ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak and Yuancheng Tu ...</snippet>
+	</doc>
+	<doc rank="62" title="WWW2006 - Refereeed Track: Data Mining" url="http://www.ra.ethz.ch/CDstore/www2006/devel-www2006.ecs.soton.ac.uk/tracks/datamining.html">
+		<snippet>It calls for novel methods that draw from a wide range of fields spanning data mining, ... Wen-tau Yih. Joshua Goodman. Vitor R. Carvalho. A Probabilistic Approach ...</snippet>
+	</doc>
+	<doc rank="63" title="Midwest Computational Linguistics Colloquium" url="http://cllt.osu.edu/mclc/program.html">
+		<snippet>Stacey Bailey, The Ohio State University. 09:30-10:00am. Predicting Obligation Dialogue Act Types from Prosodic Information. Sergio ... Vasin Punyakanok, Dan Roth, and Wen-tau Yih, University of Illinois at Urbana Champaign ...</snippet>
+	</doc>
+	<doc rank="64" title="CiteSeerX &#8212; Citation Query Learning to perceive transparency ..." url="http://citeseerx.ist.psu.edu/showciting?cid=3457">
+		<snippet>CiteSeerX - Scientific documents that cite the following paper: Learning to perceive transparency from the statistics of natural scenes ... by Dan Roth, Wen-tau Yih &#8212; 2004 &#8212; In Proceedings of CoNLL-2004 ...</snippet>
+	</doc>
+	<doc rank="65" title="Aprendizaje autom&#225;tico en procesamiento del lenguaje natural ..." url="http://basesdatos.uc3m.es/index.php?id=seminarioml-nlp">
+		<snippet>APRENDIZAJE AUTOM&#193;TICO EN PROCESAMIENTO DEL LENGUAJE NATURAL Y SUS APLICACIONES ... Aprendizaje + inferencia (thanks to Dan Roth and Scott Wen-Tau Yih) ...</snippet>
+	</doc>
+	<doc rank="66" title="Proceedings of CoNLL-2004" url="http://www.cnts.ua.ac.be/conll2004/proceedings.html">
+		<snippet>Dan Roth and Wen-tau Yih [abstract] [ps] [ps.gz] [pdf] [bibtex] Semantic Lexicon Construction: Learning from Unlabeled Data via ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak and Yuancheng Tu ...</snippet>
+	</doc>
+	<doc rank="67" title="[bib]" url="http://osl.cs.uiuc.edu/bib.php?paper_id=160">
+		<snippet>@inproceedings\{WI04, author=&quot;Wen-Tau Yih and Po-Hao Chang and WooYoung Kim&quot;, title=&quot;Mining Online Deal Forums for Hot Deals&quot;, booktitle=&quot;2004 IEEE/WIC/ACM International Conference on Web Intelligence (WI\&apos;04)&quot;, year=&quot;2004&quot; ...</snippet>
+	</doc>
+	<doc rank="68" title="Template-Based Information Mining from HTML Documents" url="http://www.aaai.org/Library/AAAI/1997/aaai97-040.php">
+		<snippet>AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. ... Jane Yung-jen Hsu, Wen-tau Yih. Tools for mining information from data can create added value for the Iqternet. ...</snippet>
+	</doc>
+	<doc rank="69" title="Multi-Document Summarization by Maximizing Informative ..." url="http://www.ijcai.org/papers07/Abstracts/IJCAI07-287.html">
+		<snippet>Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki ... We first assign a score to each term in the document cluster, using only frequency and position information, and then we find the set of sentences in the document cluster that maximizes the sum of these scores, subject to length constraints. ...</snippet>
+	</doc>
+	<doc rank="70" title="blog.iloaf.com - Reflective Reality 3" url="http://blog.iloaf.com/page/6/">
+		<snippet>Online Discriminative Spam Filter Training; Joshua Goodman, Wen-tau Yih. ... Learning at Low False Positive Rates; Wen-Tau Yih, Joshua Goodman, Geoff Hulton.&#194; Applying a combination of training with utility with two stage filtering for both Naive bayes and Logistic regression and targeting it to the low ...</snippet>
+	</doc>
+	<doc rank="71" title="HLT/EMNLP 2005 Accepted Demos" url="http://userweb.cs.utexas.edu/~ml/HLT-EMNLP05/demos.html">
+		<snippet>Vasin Punyakanok, Dan Roth, Mark Sammons and Wen-tau Yih. Demonstrating an Interactive Semantic Role Labeling System. Manny Rayner, Nikos Chatzichrisafis, Pierrette Bouillon, Yukie Nakao, Hitoshi Isahara, Kyoko Kanzaki, Beth Ann Hockey, Marianne Santaholma and Marianne Starlander ...</snippet>
+	</doc>
+	<doc rank="72" title="Search results for &quot;Dan Roth&quot; &#8211; FacetedDBLP" url="http://dblp.l3s.de/?search_opt=all&amp;newQuery=yes&amp;resTableName=query_resultBITtfh&amp;synt_query_exp=full&amp;q=Dan+Roth">
+		<snippet>Dan Roth(124) Roni Khardon(14) Vasin Punyakanok(14) Wen-tau Yih(9) Kevin Small(6) Ming-Hsuan Yang(6) Narendra Ahuja(6) Rodrigo de Salvo Braz(6) Xin Li(6) Alexandre ... Vasin Punyakanok, Dan Roth, Wen-tau Yih. The Importance of Syntactic Parsing and Inference in Semantic Role Labeling. ...</snippet>
+	</doc>
+	<doc rank="73" title="LittlePo: An Outdoor Blog &quot; ClimbLog" url="http://www.littlepo.com/climblog/">
+		<snippet>News and Blog Roll. Photos. FundRaise. NOLS. LittlePo Adventures. Archives ... Me llamo Sylvia! noelclimbs. Scott Wen-tau Yih. Ted Ullman. transitivity. Whispering Wind ...</snippet>
+	</doc>
+	<doc rank="74" title="Title page for 88522049" url="http://thesis.lib.ncu.edu.tw/ETD-db/ETD-search/view_etd?URN=88522049">
+		<snippet>[17] Jane Hsu and Wen-Tau Yih. Template-based information mining from html documents. In ... [18] Jane Hsu, Wen-Tau Yih, Ching-Hung Leu, and Euna Jeong. Information Extraction from ...</snippet>
+	</doc>
+	<doc rank="75" title="Schedule" url="http://sifaka.cs.uiuc.edu/course/397cxz03f/schedule.html">
+		<snippet>When they are not, hard copies will be distributed at the class, and are available later at Heather Hall&apos;s office (2120 DCL) ... Information Extraction ( guest lecture by Scott Wen-tau Yih)) ppt) ...</snippet>
+	</doc>
+	<doc rank="76" title="(B) Refereed Papers: International Conferences" url="http://hugo.csie.ntu.edu.tw/~yjhsu/pubs/node2.html">
+		<snippet>(B) Refereed Papers: International Conferences ... Jane Yung-jen Hsu and Wen-tau Yih, ``Template-Based Information Mining from HTML Documents.&apos;&apos; In: Proceedings of AAAI-97, Providence, USA, July 1997. ...</snippet>
+	</doc>
+	<doc rank="77" title="Stanley Kok" url="http://www.cs.washington.edu/homes/koks/">
+		<snippet>My research interest lies in the field of artificial intelligence, specifically machine learning. ... Stanley Kok and Wen-tau Yih. Proceedings of the Sixth Conference on Email and Anti-Spam, ...</snippet>
+	</doc>
+	<doc rank="78" title="Research Trends in Artificial Intelligence - CS631" url="http://suraj.lums.edu.pk/~cs631s05/Papers.html">
+		<snippet>An overview of Emerging Trend Detection (ETD) 3. Automated Semantic Annotation and Retrieval Based on Sharable Ontology and Case ... Wen-tau Yih, Po-hao Chang, Wooyoung Kim. 12. Discovering Evolutionary Theme Patterns from Text An Exploration of Temporal Text ...</snippet>
+	</doc>
+	<doc rank="79" title="Bibliography" url="http://garraf.epsevg.upc.es/freeling/doc/userman/html/node79.html">
+		<snippet>Bibliography ... Dan Roth, Chad Cumby, Mark Sammons, and Wen-Tau Yih. A relational feature extraction language (fex). Technical report, University of Illinois at Urbana Champaign, http: ...</snippet>
+	</doc>
+	<doc rank="80" title="Text Chunking based on a Generalization of Winnow - Microsoft ..." url="http://academic.research.microsoft.com/Paper/794519.aspx">
+		<snippet>Tong Zhang, Fred Damerau, David Johnson. This paper describes a text chunking system based on a generalization of the Winnow algorithm. We propose a general statistical model for text chunking which we then ... Vasin Punyakanok, Dan Roth, Wen-tau Yih. Journal: Computational Linguistics - COLING 2008 ...</snippet>
+	</doc>
+	<doc rank="81" title="Bibliography (Mining on News Articles)" url="http://sites.google.com/site/beritaindonesiaproject/references">
+		<snippet>Vasin Punyakanok, Dan Roth, Wen-tau Yih: The Necessity of Syntactic Parsing for Semantic Role Labeling. ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, The Importance of Syntactic Parsing and Inference in Semantic Role Labeling. ...</snippet>
+	</doc>
+	<doc rank="82" title="Learning to resolve natural language ambiguities: A unified ..." url="http://citeseerx.ksu.edu.sa/showciting?cid=3469">
+		<snippet>Scientific documents that cite the following paper: Learning to resolve natural language ambiguities: A unified approach, by D Roth ... by Dan Roth, Wen-tau Yih &#8212; 2004 &#8212; In Proceedings of CoNLL-2004 ...</snippet>
+	</doc>
+	<doc rank="83" title="HLT/NAACL-04 - Committees" url="http://www1.cs.columbia.edu/~pablo/hlt-naacl04/committees.html">
+		<snippet>Salim Roukos, IBM T. J. Watson Research Center. Area Chairs for Full Papers and Short ... Scott Wen-tau Yih, University of Illinois at Urbana-Champaign ...</snippet>
+	</doc>
+	<doc rank="84" title="Preliminary Program of the Eighth International Symposium on ..." url="http://rutcor.rutgers.edu/~amai/aimath04/program.html">
+		<snippet>Vasin Punyakanok, Dan Roth, Wen-tau Yih. 11:00&#8211;11:30. A linear programming formulation for global inference in natural language tasks. Dan Roth, Wen-tau Yih. 11:30&#8211;12:00. Effective use of phrases in language modeling to improve information retrieval ...</snippet>
+	</doc>
+	<doc rank="85" title="11. PKDD 2007: Warsaw, Poland" url="http://www.vldb.org/dblp/db/conf/pkdd/pkdd2007.html">
+		<snippet>Knowledge Discovery in Databases: PKDD 2007, 11th European Conference on Principles and Practice of Knowledge Discovery in ... Aleksander Kolcz, Wen-tau Yih: Site-Independent Template-Block ...</snippet>
+	</doc>
+	<doc rank="86" title="Papers for Relevance Assessment" url="http://www.cl.cam.ac.uk/~ar283/H05-1091.bunescu.0.html">
+		<snippet>Research Question: Given a document containing noun phrases annotated with predefined types of entities (such as Person, Organization, Location, ... Dan Roth; Wen-tau Yih. T87-1032. Determiners, Entities, and Contexts ...</snippet>
+	</doc>
+	<doc rank="87" title="Misc Research Stuff: Readings from AAAI 2007" url="http://resnotebook.blogspot.com/2007/07/readings-from-aaai-2007.html">
+		<snippet>Improving Similarity Measures for Short Segments of Text, Wen-tau Yih, Christopher Meek. Topic Segmentation Algorithms for Text Summarization and Passage Retrieval: An Exhaustive Evaluation, Ga&#235;l Dias, Elsa Alves. Jos&#233; Gabriel Pereira Lopes. Robust ...</snippet>
+	</doc>
+	<doc rank="88" title="&#20013;&#22830;&#30740;&#31350;&#38498;&#36039;&#35338;&#31185;&#23416;&#30740;&#31350;&#25152;" url="http://www.iis.sinica.edu.tw/EVENT/HTML/CHINESE/S200411231030.html">
+		<snippet>Bio: Wen-tau Yih is a Ph.D. candidate in Computer Science at the University of Illinois at Urbana-Champaign. His research focuses on problems in Machine Learning and Natural Language Processing, which include but are not limited to Learning ...</snippet>
+	</doc>
+	<doc rank="89" title="Vitor R. Carvalho - Publications (Vitor Carvalho)" url="http://www.cs.cmu.edu/~vitor/publications.html">
+		<snippet>NIPS-07 Workshop on Efficient Machine Learning , Online Stacked Graphical Learning. SDM-2007 , Preventing Information Leaks in ... Wen Tau-Yih, Joshua Goodman and Vitor R. Carvalho. WWW-2006 (World Wide Web Conference), Edinburgh, Scotland, May 2006. Improving Email Speech Act Analysis via N-gram ...</snippet>
+	</doc>
+	<doc rank="90" title="CompleteSearch DBLP" url="http://dblp.mpi-inf.mpg.de/dblp-mirror/index.php?query=year:2008+venue:kdd">
+		<snippet>Thanks to Chuancong Gao for suggesting this feature. CompleteSearch ... Ming-wei Chang, Wen-tau Yih, Christopher Meek: Partitioned logistic regression for spam ...</snippet>
+	</doc>
+	<doc rank="91" title="I08-2109" url="http://clair.si.umich.edu/clair/anthology/to-annotate/I08-2109.html">
+		<snippet>Introduction to the CoNLL-2005 shared task: Semantic role labeling. ... Vasin Punyakanok, Dan Roth, and Wen tau Yih. 2005. The necessity of syntactic parsing for semantic role ...</snippet>
+	</doc>
+	<doc rank="92" title="Research of Shui-Lung Chuang" url="http://wkd.iis.sinica.edu.tw/~slchuang/research/research.html">
+		<snippet>We address the problem of generating topic hierarchies for text patterns. ... ( Jane Hsu and Wen-tau Yih, AAAI-97) Resources. RISE: Repository of Online Information Sources Used in Information Extraction Tasks ...</snippet>
+	</doc>
+	<doc rank="93" title="EMA 2008 - Statistical Machine Translation" url="http://www.ims.uni-stuttgart.de/~fraser/EMA2008/">
+		<snippet>Robert C. Moore, Wen-Tau Yih, and Andreas Bode. Improved discriminative bilingual word alignment. In Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics, pages 513-520, Sydney, Australia, 2006. ...</snippet>
+	</doc>
+	<doc rank="94" title="IJCAI" url="http://www.the4cs.com/~corin/research/ijcai01/TechScheduleWed.htm">
+		<snippet>Ambiguity-Directed Sampling for Qualitative Analysis of Sparse Data from Spatially-Distributed Physical Systems ... Dan Roth and Wen-tau Yih. Deriving a multi-domain information extraction system from a ...</snippet>
+	</doc>
+	<doc rank="95" title="Introduction to Statistical Relational Learning" url="http://www.cs.umd.edu/srl-book/">
+		<snippet>The early chapters provide tutorials for material used in later chapters, offering ... Dan Roth, Wen-tau Yih. Software and Data: Alchemy. Linqs. Proximity. Profile. BLOG. IBAL. Prism ...</snippet>
+	</doc>
+	<doc rank="96" title="Bibliography" url="http://homepages.inf.ed.ac.uk/bcrabbe/bib.html">
+		<snippet>The idea I have in mind is that it might be interesting to compare the existing lexicon ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, and Dav Zimak. Learning and Inference over ...</snippet>
+	</doc>
+	<doc rank="97" title="Learning@Snowbird Workshop" url="http://snowbird.djvuzone.org/2005/program.html">
+		<snippet>Dan Huttenlocher Cornell, Graphical Models for Object Recognition ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak (University of Illinois, Urbana) ...</snippet>
+	</doc>
+	<doc rank="98" title="Keyword Services Platform - Wikipedia, the free encyclopedia" url="http://en.wikipedia.org/wiki/Keyword_Services_Platform">
+		<snippet>The KSP was originally conceived by ZhaoHui Tang, Dylan Huang, and Wayne Guan at Microsoft adCenter Labs in May 2006. ... Wen-tau Yih, Joshua Goodman, Vitor R. Carvalho: Finding advertising keywords on web pages. ...</snippet>
+	</doc>
+	<doc rank="99" title="Research Trends in Artificial Intelligence - CS631" url="http://suraj.lums.edu.pk/~cs631s05/">
+		<snippet>March 20, 2006: Deadline for the submission of project group members. A group can have at the most two members. Every group ... Wen-tau Yih, Po-hao chnag, Wooyoung Kim. To be presented by: 1. ...</snippet>
+	</doc>
+	<doc rank="100" title="Research Trends in Artificial Intelligence - CS631" url="http://suraj.lums.edu.pk/~cs631s05/">
+		<snippet>March 20, 2006: Deadline for the submission of project group members. A group can have at the most two members. Every group ... Wen-tau Yih, Po-hao chnag, Wooyoung Kim. To be presented by: 1. ...</snippet>
+	</doc>
+	<doc rank="101" title="COLING 2004: Main Conference Proceedings" url="http://acl.ldc.upenn.edu/coling2004/MAIN/index.html">
+		<snippet>Incremental Construction of Minimal Acyclic Sequential Transducers from Unsorted Data ... Vasin Punyakanok, Dan Roth, Wen-tau Yih and Dav Zimak ...</snippet>
+	</doc>
+	<doc rank="102" title="KDD 2007: San Jose, California, USA" url="http://www.vldb.org/dblp/db/conf/kdd/kdd2007.html">
+		<snippet>From mining the web to inventing the new sciences underlying the internet. ... Aleksander Kolcz, Wen-tau Yih: Raising the baseline for high-precision text classifiers. ...</snippet>
+	</doc>
+	<doc rank="103" title="ACL Anthology" url="http://acl.ldc.upenn.edu/C/C02/">
+		<snippet>C02-1003 : Yajuan L&#252;; Sheng Li; Tiejun Zhao; Muyun Yang. Learning Chinese Bracketing Knowledge Based on a Bilingual Language Model ... C02-1151 : Dan Roth; Wen-tau Yih. Probabilistic Reasoning for Entity &amp;amp; Relation Recognition. C02-1152 : ...</snippet>
+	</doc>
+	<doc rank="104" title="KDD 2007 Conference - Accepted Papers Information" url="http://www.sigkdd.org/kdd2007/papers.html">
+		<snippet>A Framework For Community Identification in Dynamic Social Networks - Chayant Tantipathananandh, Tanya Y. Berger-Wolf, and David Kempe ... Upping the Baseline for High-Precision Text Classifiers - Aleksander Kolcz and Wen-Tau Yih ...</snippet>
+	</doc>
+	<doc rank="105" title="yang hao - ResearchIndex document query" url="http://citeseer.ist.psu.edu/cis?q=Yang+Hao">
+		<snippet>yang hao - scientific articles matching the query: yang hao ... Ruei-Sung Lin, Che-Bin Liu, Yu-Ping Tseng, Ting-Hao Yang, Wen-Tau Yih, and Dav Zimak for helping me get a ...</snippet>
+	</doc>
+	<doc rank="106" title="CIKM 2010 : International Conference on Information and ..." url="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=5822&amp;copyownerid=2">
+		<snippet>CIKM 2010 : International Conference on Information and Knowledge Management - Conference and Journal ... Scott Wen-tau Yih, Microsoft Research, USA. Lei Yu, Binghamton University, USA. Osmar Zaiane, University of Alberta, Canada ...</snippet>
+	</doc>
+	<doc rank="107" title="The 2005 Conference on Email and Anti-Spam (CEAS) | www ..." url="http://www.greatmindsworking.com/site/node/308">
+		<snippet>In Cooperation with The International Association for Cryptologic Research and. The IEEE Technical Committee on Security and ... Scott Wen-tau Yih (University of Illinois, Urbana-Champaign) ...</snippet>
+	</doc>
+	<doc rank="108" title="[Tccc] [mycolleagues] Deadline Coming Soon -- CEAS 2007 (Mar ..." url="https://lists.cs.columbia.edu/pipermail/tccc/2007-March/005905.html">
+		<snippet>Davis) * Scott Wen-tau Yih (Microsoft Research) * Hongyuan Zha (Georgia Tech) -next part -mycolleagues mailing list mycolleagues at grid.lrg.ufsc. ...</snippet>
+	</doc>
+	<doc rank="109" title="Course Solutions And Notes - StudyGuideExam2 61" url="http://www.coursehero.com/prefix/61/documents/1/">
+		<snippet>Course Solutions And Notes - StudyGuideExam2 61. Displaying 1-500 of 21038 documents: next ... Path: USF &amp;gt;&amp;gt; LIT &amp;gt;&amp;gt; 2900 Fall, 2009. Description: But meanwhile the intellectual Arts were ...</snippet>
+	</doc>
+	<doc rank="110" title="ACL Anthology &quot; SIGDAT" url="http://aclweb.org/anthology-new/sigdat.html">
+		<snippet>D09-1083: [bib] Wen-tau Yih. Learning Term-weighting Functions for Similarity Measures. D09-1084: [bib] Danushka Bollegala; Yutaka Matsuo; Mitsuru Ishizuka. A Relational Model of Semantic Similarity between Words using Automatically Extracted Lexical Pattern Clusters from the Web ...</snippet>
+	</doc>
+	<doc rank="111" title="DBWorld Message" url="http://www.cs.wisc.edu/dbworld/messages/2008-06/1214085245.html">
+		<snippet>Ming-Wei Chang, Wen-tau Yih, Chris Meek. 105. Finding Non-redundant, Statistically Significant Regions in High Dimensional Data: A Novel Approach to Projected and Subspace Clustering. Gabriela Moise, Joerg Sander. 106. Weighted Graphs and Disconnected Components: Patterns and a Generator. ...</snippet>
+	</doc>
+	<doc rank="112" title="20. IJCAI 2007: Hyderabad, India" url="http://sunsite.informatik.rwth-aachen.de/dblp/db/conf/ijcai/ijcai2007.html">
+		<snippet>Cooperating Reasoning Processes: More than Just the Sum of Their Parts. ... Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki: Multi-Document Summarization by Maximizing Informative Content ...</snippet>
+	</doc>
+	<doc rank="113" title="SIGIR" url="http://members.unine.ch/jacques.savoy/Events/SIGIR.html">
+		<snippet>Maryam Karimzadehgan, ChengXiang Zhai (University of Illinois at Urbana-Champaign) ... Wen-Tau Yih, Aleksander Kolcz (Microsoft Research) 704 A Content Based Approach for Discovering Missing Anchor Text for Web ...</snippet>
+	</doc>
+	<doc rank="114" title="Accepted Papers" url="http://icml.ais.fraunhofer.de/accepted_papers.php">
+		<snippet>Predictive low-rank decomposition for kernel methods. Francis R. Bach, Michael I. Jordan ... Dan Roth, Wen-tau Yih. Learning Hierarchical Multi-Category Text Classification Models ...</snippet>
+	</doc>
+	<doc rank="115" title="program:sessions [ACM SIGIR 2010]" url="http://www.sigir2010.org/doku.php?id=program:sessions">
+		<snippet>Wen-Tau Yih, Aleksander Kolcz (Microsoft Research) &#8226; A Content Based Approach for Discovering Missing Anchor Text for Web Search. Xing Yi, James Allan (University of Massachusetts Amherst) &#8226; Uncovering Social Spammers: Social Honeypots + Machine Learning ...</snippet>
+	</doc>
+	<doc rank="116" title="International Joint Conferences on Artificial Intelligence ..." url="http://www.ijcai.org/search.php">
+		<snippet>This publication, or parts thereof, may not be reproduced in any form without permission. ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, and Dav Zimak. IJCAI-05, page 1124. Beyond TFIDF ...</snippet>
+	</doc>
+	<doc rank="117" title="Top authors in Natural Language &amp;amp; Speech - Microsoft Academic ..." url="http://academic.research.microsoft.com/CSDirectory/author_category_9.htm">
+		<snippet>Advanced Search. Author|Conference|Journal&lt;wbr&gt;|Year. Look for results that meet for the ... Publications: 272 | Citations: 6867 | G-Index: 80 | H-Index: 39. Dept ...</snippet>
+	</doc>
+	<doc rank="118" title="CIKM 2008 - OpenResearch.org" url="http://openresearch.org/wiki/CIKM_2008">
+		<snippet>Longitude: 122&#176;15&#8242;55.399&#8242;&#8242;W. The Conference on Information and Knowledge Management (CIKM) provides an international forum for ... Scott Wen-tau Yih, Microsoft Research, USA. Lei Yu, Binghamton ...</snippet>
+	</doc>
+	<doc rank="119" title="Laboratoire de recherche DAMAS" url="http://www.damas.ift.ulaval.ca/_seminar/H10.fr.php">
+		<snippet>Laboratoire de recherche DAMAS de l&apos;universite Laval a Quebec: Dialogues, Agents et Multi-Agents DAMAS. Equipe, projets et publications... Article : Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak. Learning and inference over constrained output. In Proceedings of the International Joint Conference on ...</snippet>
+	</doc>
+	<doc rank="120" title="ICML 2009" url="http://www.cs.mcgill.ca/~icml2009/pc.html">
+		<snippet>Colin de la Higuera. Julia Hockenmaier. Thomas Hofmann. Derek Hoiem. Tamas Horvath. Andreas ... Scott Wen-tau Yih. Cheung Yiuming. Sungwook Yoon. Kai Yu. Ming Yuan ...</snippet>
+	</doc>
+	<doc rank="121" title="Bibliography generated from coling04.bib" url="http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/aclbib/coling04-bib.html">
+		<snippet>Linear-time dependency analysis for japanese. In Proceedings of Coling 2004, pages 8-14, Geneva, Switzerland, Aug 23-Aug 27 2004. ... [197] Vasin Punyakanok, Dan Roth, Wen-tau Yih, and Dav Zimak. ...</snippet>
+	</doc>
+	<doc rank="122" title="Bibliography generated from hlt05.bib" url="http://www.essex.ac.uk/linguistics/research/resgroups/clgroup/aclbib/hlt05-bib.html">
+		<snippet>[131] Vasin Punyakanok, Dan Roth, Mark Sammons, and Wen-tau Yih. Demonstrating an interactive semantic role labeling system. In Proceedings of HLT/EMNLP 2005 Interactive Demonstrations, pages 6-7, Vancouver, British Columbia, Canada, October 2005. Association for Computational Linguistics. ...</snippet>
+	</doc>
+	<doc rank="123" title="DAMAS research lab" url="http://www.damas.ift.ulaval.ca/_seminar/H10.php">
+		<snippet>Laboratoire de recherche DAMAS de l&apos;universite Laval a Quebec: Dialogues, Agents et Multi-Agents DAMAS. Equipe, projets et publications... Paper : Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak. Learning and inference over constrained output. In Proceedings of the International Joint Conference on ...</snippet>
+	</doc>
+	<doc rank="124" title="advertising research papers | Tags | Mendeley" url="http://www.mendeley.com/research-papers/tag/advertising/">
+		<snippet>Find 137 research papers on advertising like: &apos;Internet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords&apos; and &apos;Conditioning Prices on Purchase History&apos; ... Wen-tau Yih, Joshua Goodman, Vitor R. Carvalho ...</snippet>
+	</doc>
+	<doc rank="125" title="Twenty-First International Joint Conference on Artificial ..." url="http://ijcai-09.org/program_committee.html">
+		<snippet>IJCAI is the International Joint Conference on Artificial Intelligence, the main international gathering of researchers in AI. ... Scott Wen-tau Yih (Microsoft Research) Richard Zemel (University of Toronto) Nevin Zhang (The Hong Kong University of Science &amp;amp; Technology) Shlomo ...</snippet>
+	</doc>
+	<doc rank="126" title="Information Retrieval Blog" url="http://blog.so8848.com/">
+		<snippet>&#19979;&#36733; &#20449;&#24687;&#26816;&#32034; &#21338;&#23458; &#25490;&#24207; &#25910;&#24405; &#27867;&#22411; &#30334;&#24230; &#32034;&#24341; &#33521;&#35821; algorithm audio book BibTeX bm bm25 bm250 classpath Compendex EI English eps google history indexing information Retrieval internet Java ... Wen-Tau Yih, Aleksander Kolcz (Microsoft Research) 704 A Content Based Approach for Discovering Missing Anchor Text for Web ...</snippet>
+	</doc>
+	<doc rank="127" title="AAAI1997" url="http://www.ida.liu.se/ext/acres/cf/aaai/1997/indbib.html">
+		<snippet>A Mixed Initiative Planner for User Interface Management. Proceedings of the 14&apos;th AAAI National Conference on Artificial ... Jane Y. Hsu, Wen-tau Yih: Template-Based Information Mining from HTML Documents. Proceedings of the 14&apos;th AAAI National ...</snippet>
+	</doc>
+	<doc rank="128" title="Lista Filtrada (carlosarizaladino)" url="http://sites.google.com/site/carlosarizaladino/lista-filtrada">
+		<snippet>Abstract: The rapid growth of the biological text data repository makes it difficult for ... The problem arises due to the fact that most of the information is embedded within ...</snippet>
+	</doc>
+	<doc rank="129" title="AAAI-97 | Textbook | American Association for Artificial ..." url="http://www.ecampus.com/book/9780262510950">
+		<snippet>eCampus.com Textbook - Rent Buy Sell AAAI-97 by American Association for Artificial Intelligence (AAAI) - 9780262510950, Price $1.98. ... Wen-tau Yih, National Taiwan University ...</snippet>
+	</doc>
+	<doc rank="130" title="NLP Reading List For Building a Question Answering System" url="http://www.cs.berkeley.edu/~nimar/nlp.html">
+		<snippet>Rare words also use suffixes and prefixes of length less than 4, while non-rare words use the word itself as a feature. ... Vasin Punyakanok, Dan Roth, and Wen-tau Yih (2004): Natural Language Inference via Dependency Tree Mapping: An Application to Question Answering computes weighted edit ...</snippet>
+	</doc>
+	<doc rank="131" title="Web Intelligence" url="http://wotan.liu.edu/docis/dbl/webiwe/">
+		<snippet>by: Wen-tau Yih, Po-Hao Chang, WooYoung Kim. A Multi-Agent System&apos;s Approach to Communication Security in the Web. by: Jo&#227;o Paulo Piment&#227;o, Pedro A. C. Sousa, Pedro Amaral, Adolfo Steiger-Gar&#231;&#227;o. MumbleSearch Extraction of High Quality Web information for SME ...</snippet>
+	</doc>
+	<doc rank="132" title="machinelearning.org - ICML 2004/05/06" url="http://www.machinelearning.org/icml2005_proc.html">
+		<snippet>Proceedings of the 22nd International Machine Learning Conference, ACM Press, 2005. Exploration and Apprenticeship Learning in ... Dan Roth, Wen-Tau Yih. Learning Hierarchical Multi-Category Text Classification Models ...</snippet>
+	</doc>
+	<doc rank="133" title="Introduction to Statistical Relational Learning - - Libro in ..." url="http://www.ibs.it/book/9780262072885/introduction-statistical-relational.html">
+		<snippet>Introduction to Statistical Relational Learning &#232; un libro di pubblicato da MIT Press (MA) nella collana Adaptive Computation and Machine Learning ... Wen-tau Yih ...</snippet>
+	</doc>
+	<doc rank="134" title="19. IJCAI 2005: Edinburgh, Scotland, UK" url="http://sunsite.informatik.rwth-aachen.de/dblp/db/conf/ijcai/ijcai2005.html">
+		<snippet>IJCAI-05, Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence, Edinburgh, Scotland, UK, July ... Vasin Punyakanok, Dan Roth, Wen-tau Yih, Dav Zimak: Learning and Inference over ...</snippet>
+	</doc>
+	<doc rank="135" title="Machine Translation Archive: languages index G-Z" url="http://www.mt-archive.info/languages-3.htm">
+		<snippet>(2006) Robert C.Moore, Wen-tau Yih, &amp;amp; Andreas Bode: Improved discriminative bilingual word alignment. Coling-ACL 2006: Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for ...</snippet>
+	</doc>
+	<doc rank="136" title="Intelligent Agents Lab" url="http://www.agent.csie.ntu.edu.tw/iagent/list_publication">
+		<snippet>Kuo-Chung Hsu, Yi-Ting Chiang, Gu-Yuan Lin, Ching-Hu Lu, Jane Yung-Jen Hsu, and Li-Chen Fu. ... Jane Yung-jen Hsu and Wen-tau Yih. Template-Based Information Mining from HTML Documents. ...</snippet>
+	</doc>
+	<doc rank="137" title="ECML/PKDD&apos;07 Schedule" url="http://www.ecmlpkdd2007.org/schedule.html">
+		<snippet>Detailed schedules of workshops and tutorials are avaliable in &quot;Worskhops&quot; and &quot;Tutorials&quot; sections, respectively. ... by Aleksander Kolcz, Wen-tau Yih. 589 - Context Sensitive Paraphrasing with a Single Unsupervised Classifier, ...</snippet>
+	</doc>
+	<doc rank="138" title="Robert Palmer And Song In Farsi" url="http://tuzne-poruke.blumunto.myip.org/yomore.html">
+		<snippet>Robert palmer and song in farsi Alice s adventures in wonderland - robert stockton vol, ) pp - by nancy and melvin palmer in a variety of languages from french and german to farsi ... of that, how about this song with a. Robert c moore, wen-tau yih, andreas bode: improved discriminative ...</snippet>
+	</doc>
+	<doc rank="139" title="Search results for &quot;Computational Linguistics&quot; &#8211; FacetedDBLP" url="http://dblp.l3s.de/Venues/Computational+Linguistics">
+		<snippet>Graeme Hirst(7) Mark Johnson(7) Hermann Ney(6) Kathleen McKeown(6) Kemal Oflazer(6) Kenneth Ward Church(6) Mirella Lapata(6) Chris Mellish(5) Janyce ... Vasin Punyakanok, Dan Roth, Wen-tau Yih. The Importance of Syntactic Parsing and Inference in Semantic Role Labeling. ...</snippet>
+	</doc>
+	<doc rank="140" title="ACL Anthology &quot; H05" url="http://acl.eldoc.ub.rug.nl/mirror/H/H05/index.html">
+		<snippet>H05-1001 [bib]: Josef Steinberger; Mijail Kabadjov; Massimo Poesio; Olivia Sanchez-Graillet ... Vasin Punyakanok; Dan Roth; Mark Sammons; Wen-tau Yih. Demonstrating an Interactive Semantic Role Labeling ...</snippet>
+	</doc>
+	<doc rank="141" title="Papers:" url="http://cscourse.essex.ac.uk/zxcv/pageinfo/Papers-short.html">
+		<snippet>Wen-Tau Yih MSc Thesis: Template-based Information Extraction from Tree-structured HTML Documents. ... Jane Yung-Jen Hsu, Wen-tau Yih, Template-Based Information Mining from HTML Documents, ...</snippet>
+	</doc>
+	<doc rank="142" title="ACL Anthology &quot; P06" url="http://acl.eldoc.ub.rug.nl/mirror/P/P06/index.html">
+		<snippet>Proceedings of the COLING/ACL 2006 Student Research Workshop ... P06-1065 [bib]: Robert C. Moore; Wen-tau Yih; Andreas Bode. Improved Discriminative Bilingual Word Alignment ...</snippet>
+	</doc>
+	<doc rank="143" title="ACL Anthology" url="http://ucrel.lancs.ac.uk/acl/C/C02/">
+		<snippet>C02-1003: Yajuan L&#195;&#188;; Sheng Li; Tiejun Zhao; Muyun Yang. Learning Chinese Bracketing Knowledge Based on a Bilingual Language Model ... C02-1151: Dan Roth; Wen-tau Yih. Probabilistic Reasoning for Entity &amp;amp; Relation Recognition ...</snippet>
+	</doc>
+	<doc rank="144" title="Machine Translation Archive: languages index A-F" url="http://www.mt-archive.info/languages-2.htm">
+		<snippet>(2009) David Farwell &amp;amp; Llu&#237;s Padr&#243;: FreeLing: from a multilingual open-source analyzer ... (2009) Honglei Guo, Huijia Zhu, Zhili Guo, Xiaoxun Zhang, Xian Wu &amp;amp; Zhong Su: Domain ...</snippet>
+	</doc>
+	<doc rank="145" title="[TXT]" url="http://www.ida.liu.se/ext/acres/cf/aaai/1997/source.html">
+		<snippet>I-21:The Scheduling of Rail at Union Pacific Railroad. Kathleen Murphy, Elizabeth Ralston, David Friedlander, Rodney Swab and Paul ... Jane Y. Hsu and Wen-tau Yih. Session 34. Computational Systems for Education. A273: The Sounds of Silence: Towards Automated ...</snippet>
+	</doc>
+	<doc rank="146" title="EBook:Conditional Random ._Share My Documents" url="http://www.doc-share.com/ebook/Conditional+Random+.....">
+		<snippet>ICML&apos;05 Integer Linear Programming Inference for Conditional Random Fields Dan Roth danr@uiuc.edu Wen-tau Yih yih@uiuc.edu Department of Computer Science, University of Illinois at ... Integer, Linear, Programming, Inference, Conditional, Random, Fields, ...</snippet>
+	</doc>
+	<doc rank="147" title="International Joint Conferences on Artificial Intelligence ..." url="http://dli.iiit.ac.in/ijcai/IJCAI-2007/CONTENT/contents2007.html">
+		<snippet>Cooperating Reasoning Processes: More than Just the Sum of Their Parts / 2. Alan Bundy ... Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki ...</snippet>
+	</doc>
+	<doc rank="148" title="SCEAS" url="http://sceas.csd.auth.gr/php/search.php4?author_id=11077">
+		<snippet>Scientific Colection Evaluator with Advanced Scoring (SCEAS) is an automated system that uses DBLP data and produces rank table by various evaluation ... Dan Roth, Gio Kao Kao, Xin Li, Ramya Nagarajan, Vasin Punyakanok, Nick Rizzolo, Wen-tau Yih, Cecilia Ovesdotter Alm, Liam Gerard Moran ...</snippet>
+	</doc>
+	<doc rank="149" title="WWW2006 in Edinburgh, Schottland" url="http://www.at-web.de/blog/20060527/www2006-in-edinburgh-schottland.htm">
+		<snippet>Obwohl die Aufz&#228;hlung umfangreich ist, erhebt sie keinen Anspruch auf Vollst&#228;ndigkeit. ... Wen-tau Yih, Microsoft Research, USA * Joshua Goodman, Microsoft ...</snippet>
+	</doc>
+	<doc rank="150" title="WWW2006 in Edinburgh, Schottland" url="http://www.at-web.de/blog/20060527/www2006-in-edinburgh-schottland.htm">
+		<snippet>Obwohl die Aufz&#228;hlung umfangreich ist, erhebt sie keinen Anspruch auf Vollst&#228;ndigkeit. ... Wen-tau Yih, Microsoft Research, USA * Joshua Goodman, Microsoft ...</snippet>
+	</doc>
+	<doc rank="151" title="SIGIR 2010 Full Paper List &quot; Information Retrieval Blog" url="http://blog.zye.me/2010/04/55738.html">
+		<snippet>&#19979;&#36733; &#20449;&#24687;&#26816;&#32034; &#21338;&#23458; &#25490;&#24207; &#25910;&#24405; &#27867;&#22411; &#30334;&#24230; &#32034;&#24341; &#33521;&#35821; algorithm audio book BibTeX bm bm25 bm250 classpath Compendex EI English eps google history indexing information Retrieval internet Java ... Wen-Tau Yih, Aleksander Kolcz (Microsoft Research) 704 A Content Based Approach for Discovering Missing Anchor Text for Web ...</snippet>
+	</doc>
+	<doc rank="152" title="Paper Presentation Schedule | drupal" url="http://www.ijcai-07.org/drupal/PaperPresentationSchedule.html">
+		<snippet>Wen-Tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki. Automatically Selecting Answer Templates. To Respond To Customer Emails. Rahul Malik, L. Venkata Subramaniam, Saroj Kaushik. Document Summarization Using Conditional. Random Fields. Dou Shen, Jian-Tao Sun, Hua Li, Qiang Yang, Zheng Chen ...</snippet>
+	</doc>
+	<doc rank="153" title="Misc Research Stuff: July 2007" url="http://resnotebook.blogspot.com/2007_07_01_archive.html">
+		<snippet>Improving Similarity Measures for Short Segments of Text, Wen-tau Yih, Christopher Meek. Topic Segmentation Algorithms for Text Summarization and Passage Retrieval: An Exhaustive Evaluation, Ga&#235;l Dias, Elsa Alves. Jos&#233; Gabriel Pereira Lopes. Robust ...</snippet>
+	</doc>
+	<doc rank="154" title="ACL Reports 2003" url="http://www.stanford.edu/~azaenen/ACL/ACL2003WebReports2.html">
+		<snippet>Special mention for their sustained and dedicated help over many months are due to our students, Scott Wen-tau Yih (Computer Science, University of Illinois) and Julia S. Trushkina (Seminar fuer Sprachwissenschaft at the University of Tuebingen) ...</snippet>
+	</doc>
+	<doc rank="155" title="14. AAAI / 9. IAAI 1997: Providence, Rhode Island" url="http://www.sigmod.org/dblp/db/conf/aaai/aaai97.html">
+		<snippet>Proceedings of the Fourteenth National Conference on Artificial Intelligence and Ninth ... Jane Yung-jen Hsu, Wen-tau Yih: Template-Based Information Mining from HTML Documents. ...</snippet>
+	</doc>
+	<doc rank="156" title="parsing - researchr tag" url="http://researchr.org/tag/parsing">
+		<snippet>Researchr is a web site for finding, collecting, sharing, and reviewing scientific publications, for researchers by researchers. ... Vasin Punyakanok, Dan Roth, Wen-tau Yih. The Importance of Syntactic Parsing and Inference in Semantic Role ...</snippet>
+	</doc>
+	<doc rank="157" title="Mark Miller University Of Oregon" url="http://rtsclnir.freewebhostx.com/simmons-05/verythavi.html">
+		<snippet>Mark miller university of oregon Oregon department of land conservation and development mark barnes state university extension tillamook, oregon pete oregon department of environmental quality ler-morgan ... ilog sa erik ler, university scott wen-tau yih, microsoft research mark yim, university. ...</snippet>
+	</doc>
+	<doc rank="158" title="ACL Anthology &quot; SIGNLL" url="http://wing.comp.nus.edu.sg/~antho/signll.html">
+		<snippet>W04-2401: [bib] Dan Roth; Wen-tau Yih. A Linear Programming Formulation for Global Inference in Natural ... W04-2421: [bib] Vasin Punyakanok; Dan Roth; Wen-tau Yih; Dav Zimak; Yuancheng Tu ...</snippet>
+	</doc>
+	<doc rank="159" title="Colloquium Papers" url="http://labs.rightnow.com/colloquium/papers.php">
+		<snippet>RightNow Technologies delivers highly effective customer service and CRM solutions to improve the quality of your customer service, enhance productivity and save on support costs. RightNow Service seamlessly blends inquiries across every touch ... Wen-tau Yih and Christopher Meek ...</snippet>
+	</doc>
+	<doc rank="160" title="HCI Bibliography : Table of Contents : WWW06" url="http://www.hcibib.org/bibtoc.cgi?abstracts=true&amp;file=bibdata/WWW06*">
+		<snippet>Wen-tau Yih; Joshua Goodman; Vitor R. Carvalho. A large and growing number of web pages display contextual advertising based on keywords automatically extracted from the text of the page, and this is a substantial source of revenue supporting the web today. ...</snippet>
+	</doc>
+	<doc rank="161" title="ACL-IJCNLP 2009, 2-7 August 2009, Singapore" url="http://www.acl-ijcnlp-2009.org/main/accepted_emnlp.html">
+		<snippet>A Compact Forest for Scalable Inference over Entailment and Paraphrase Rules ... Wen-tau Yih. Learning Term-Weighting Functions for Similarity Measures ...</snippet>
+	</doc>
+	<doc rank="162" title="Accepted Papers - ECML/PKDD 2007" url="http://www.ecmlpkdd2007.org/accpapers.html">
+		<snippet>By special arrangement with Springer Verlag, conference proceedings were available on-line during the conference. ... Authors: Aleksander Kolcz, Wen-tau Yih. Statistical Model for Rough Set Approach to Multicriteria ...</snippet>
+	</doc>
+	<doc rank="163" title="List of Papers | drupal" url="http://www.ijcai-07.org/drupal/papers.html">
+		<snippet>On the Logic of Normative Systems. Thomas &#197;gotnes, Wiebe van der Hoek, Juan A. Rodr&#237;guez-Aguilar, Carles Sierra, Michael ... Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki ...</snippet>
+	</doc>
+	<doc rank="164" title="Web Intelligence 2004" url="http://net.pku.edu.cn/~webg/TianwangLiterature/[Meng,%20et%20al.,2004]/webi2004.html">
+		<snippet>Scaling up Multi-Agent Systems through Organizational Structuring. ... Wen-tau Yih, Po-Hao Chang, WooYoung Kim: Mining Online Deal Forums for Hot Deals. 384-390. Electronic Edition ...</snippet>
+	</doc>
+	<doc rank="165" title="EMNLP 2009 - Timetable" url="http://conferences.inf.ed.ac.uk/emnlp09/timetable.html">
+		<snippet>The 2009 Conference on Empirical Methods on Natural Language Processing - Timetable ... 14:40&#8211;15:05Learning Term-weighting Functions for Similarity Measures Wen-tau Yih ...</snippet>
+	</doc>
+	<doc rank="166" title="Program - 2009 Conference on Empirical Methods in Natural ..." url="http://nlp.csie.ncnu.edu.tw/~shin/acl-ijcnlp2009/proceedings/CDROM/EMNLP/program.html">
+		<snippet>9:00&#8211;10:00. Invited Talk. 10:00&#8211;10:30. Coffee Break. Session 1A (Theatre): Semantic Parsing. 10:30&#8211;10:55 ... Wen-tau Yih. 15:05&#8211;15:30. A Relational Model of Semantic Similarity between Words using Automatically Extracted Lexical Pattern ...</snippet>
+	</doc>
+	<doc rank="167" title="Proceedings of the 2009 Conference on Empirical Methods in ..." url="http://nlp.csie.ncnu.edu.tw/~shin/acl-ijcnlp2009/proceedings/CDROM/EMNLP/">
+		<snippet>Wen-tau Yih. pp. 793&#8211;802. pdf. bib. A Relational Model of Semantic Similarity between Words using Automatically Extracted Lexical Pattern Clusters from the Web. Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka. pp. 803&#8211;812. pdf. bib. Unbounded Dependency Recovery for Parser Evaluation ...</snippet>
+	</doc>
+	<doc rank="168" title="bib" url="http://nlp.stanford.edu/IR-book/pdf/ir.bib">
+		<snippet>... publisher = {Pergamon Press}, address = {Tarrytown, NY, USA}, } @inproceedings{aberer01pgrid&lt;wbr&gt;, author = {Karl Aberer}, title ... International Conference on Cooperative Information Systems}, year = {2001}, isbn = {3-540-42524-1}, pages = {179--194} ...</snippet>
+	</doc>
+	<doc rank="169" title="The AI Genealogy Project :: Search" url="http://aigp.eecs.umich.edu/researcher/search?crit=degree&amp;order=asc&amp;query=*">
+		<snippet>University of California, Los Angeles. Rudolph Snellius. B.A. 1564. Universit&#228;t zu K&#246;ln ... Wen-tau Yih. Ph.D. 2005. University of Illinois at Urbana-Champaign. Rui ...</snippet>
+	</doc>
+	<doc rank="170" title="Dan Roth - Email, Address, Phone numbers, everything ..." url="http://www.123people.es/s/dan+roth">
+		<snippet>Everything you need to know about Dan Roth Email addresses, Phone numbers, Biography, Andratx, Clases, Reading, Automation Methods, Viendo, Guests ... Processing Andratx Clases Suele Vasin Punyakanok Models Twitter Wen-tau Yih Viendo Machine Learning Reading Tonos Alg&#250;n University of Illinois ...</snippet>
+	</doc>
+	<doc rank="171" title="W3CHINA.ORG&#35752;&#35770;&#21306; - &#35821;&#20041;&#32593;&#183;&#25551;&#36848;&#36923;&#36753;&#183;&#26412;&#20307;&#183;RDF&#183;OWL--&#26174;&#31034;&#36148;&#23376;" url="http://bbs.w3china.org/printpage.asp?BoardID=2&amp;id=29838">
+		<snippet>WWW2006 Accepted Paper List &amp;amp; &#22269;&#20869;&#25104;&#23601;&#32479;&#35745;. RESEARCH PAPERS. This year we had a record number of submissions (667) to the refereed ... Wen-tau Yih, Microsoft Research, USA. Joshua Goodman, Microsoft Research, USA. Vitor R. Carvalho, Carnegie Mellon University, USA ...</snippet>
+	</doc>
+	<doc rank="172" title="Alberta Scotties 2010" url="http://www.sandiegovacation.com/sd.php?sd=alberta-scotties-2010">
+		<snippet>As grim as these statistics are, they are sure to be trumped by the Thanksgiving symphony orchestrated. ... Scott Wen-tau Yih, Microsoft Research, USA Lei Yu, Binghamton University, USA Osmar Zaiane, University of Alberta, Canada. ...</snippet>
+	</doc>
+	<doc rank="173" title="RV: [mycolleagues] Deadline Coming Soon -- CEAS 2007 (Mar 23 ..." url="http://dis.eafit.edu.co/cfp/0137.html">
+		<snippet>[mailto:mycolleagues-bounces&lt;wbr&gt;_at_grid.lrg.ufsc.br] En nombre de Prateek Jain ... Scott Wen-tau Yih (Microsoft Research) * Hongyuan Zha (Georgia Tech) ...</snippet>
+	</doc>
+	<doc rank="174" title="[anti-spam-wg] Please forward: FINAL CALL - Conference on ..." url="http://www.ripe.net/ripe/maillists/archives/anti-spam-wg/2006/msg00032.html">
+		<snippet>RIPE Community Pages ... William Yerazunis, Mitsubishi Electric Research Laboratories * Scott Wen-tau Yih, Microsoft Research * Andy Wick, AOL * Hongyuan Zha, The Pennsylvania State University ...</snippet>
+	</doc>
+	<doc rank="175" title="Eventseer.net - Wen-tau Yih" url="http://eventseer.net/p/wen-tau_yih/">
+		<snippet>Click the button to be notified on your personal tracker whenever Wen-tau Yih is mentioned in an event. ... Wen-tau Yih has been associated with 1 event and has a lot in common with Dan Roth, Vasin Punyakanok and Joshua Goodman. ...</snippet>
+	</doc>
+	<doc rank="176" title="Scott Wen-Tau Yih &#8212; LT World" url="http://www.lt-world.org/kb/players_and_teams/people/yih-scott-wen-tau">
+		<snippet>Language Technology World is an ontology-based virtual information center on the wide spectrum of technologies for dealing with human languages. It is a free service provided to the R &amp;amp; D community, potential ...</snippet>
+	</doc>
+	<doc rank="177" title="GM-RKB: Wen-tau Yih" url="http://www.gabormelli.com/RKB/?action=browse;oldid=Scott_Yih;id=Wen-tau_Yih">
+		<snippet>(Punyakanok &amp;amp; al, 2004) =&amp;gt; V Punyakanok, Dan Roth,Wen-tau Yih, and D. Zimak. ... (Roth &amp;amp; Yih, 2001) =&amp;gt; Dan Roth, and Wen-tau Yih. ( 2001). Relational learning via propositional algorithms: An information ...</snippet>
+	</doc>
+	<doc rank="178" title="Scott Wen-tau Yih - OpenResearch.org" url="http://openresearch.org/wiki/Scott_Wen-tau_Yih">
+		<snippet>Scott Wen-tau Yih. From OpenResearch.org. Jump to: navigation, search ... This page was last modified on 19 October 2008, at 20:32. This page has been accessed 70 ...</snippet>
+	</doc>
+	<doc rank="179" title="Wen-tau Yih - Patents &amp;amp; Inventors, bibliographic references" url="http://www.freshpatents.com/Wentau-Yih-Champaign-invdiry.php">
+		<snippet>The bibliographic references displayed about Wen-tau Yih&apos;s patent applications are for a recent sample of publicly published patent applications. ... If Wen-tau Yih filed recent patent applications under another name, spelling or location then those applications could be listed on an alternate page. ...</snippet>
+	</doc>
+	<doc rank="180" title="Wen-tau Yih | Disco - Hyperdata Browser" url="http://www4.wiwiss.fu-berlin.de/rdf_browser/?browse_uri=http%3A%2F%2Fwww4.wiwiss.fu-berlin.de%2Fdblp%2Fresource%2Fperson%2F400929">
+		<snippet>1273417416765. G2. sourceURL. Wen-tau Yih. G2. is creator of. http://www4.wiwiss.fu-berlin&lt;wbr&gt;.de ... RDF Description of Wen-tau Yih. G1. Sources. Displayed information originates from the ...</snippet>
+	</doc>
+	<doc rank="181" title="Active Bibliography: A linear programming formulation for ..." url="http://citeseerx.ksu.edu.sa/viewdoc/similar?doi=10.1.1.1.1690&amp;type=ab">
+		<snippet>Wen-tau Yih Machine Learning and Applied Statistics Group &#8211; Dan Roth ... The necessity of syntactic parsing for semantic role labeling &#8211; Vasin Punyakanok, Dan Roth, Wen-tau Yih - 2005 ...</snippet>
+	</doc>
+	<doc rank="182" title="jiing yih lai - ResearchIndex document query" url="http://citeseer.ist.psu.edu/cs?qb=dbnum%3D1%2Cstart%3D80%2Cao%3DCitations%2Cam%3D20%2Caf%3DAny%2Cqtype%3Ddocument:&amp;q=Jiing-Yih+Lai">
+		<snippet>jiing yih lai - scientific articles matching the query: jiing yih lai ... Ramya Nagarajan, Nick Rizzolo, Kevin Small, Wen-tau Yih Department of Computer Science University of ...</snippet>
+	</doc>
+	<doc rank="183" title="Wen-tau Yih | D2R Server publishing the DBLP Bibliography ..." url="http://www4.wiwiss.fu-berlin.de/dblp/page/person/400929">
+		<snippet>Wen-tau Yih. Resource URI: http://www4.wiwiss.fu-berlin&lt;wbr&gt;.de/dblp/resource/person&lt;wbr&gt;/400929 ... &amp;lt;http://www4.wiwiss.fu-berlin&lt;wbr&gt;.de/dblp/resource/record&lt;wbr&gt;/conf/coling/RothY02&amp;gt; ...</snippet>
+	</doc>
+	<doc rank="184" title="Mining Online Deal Forums for Hot Deals" url="http://www.computer.org/portal/web/csdl/abs/proceedings/wi/2004/2100/00/21000384abs.htm">
+		<snippet>Online deal forums are public places where participants share with each other news and information regarding ... Wen-tau Yih, Po-hao Chang, Wooyoung Kim, &quot;Mining Online Deal Forums for Hot Deals,&quot; Web Intelligence, IEEE / WIC / ACM International Conference ...</snippet>
+	</doc>
+	<doc rank="185" title="http://scottyih.org/html&lt;wbr&gt;/publications.html - Page2RSS" url="http://page2rss.com/page?url=scottyih.org/html/publications.html">
+		<snippet>Page2RSS page: http://scottyih.org/html&lt;wbr&gt;/publications.html (http://scottyih.org/html&lt;wbr&gt;/publications.html) ... Hannaneh Hajishirzi, Wen-tau Yih, and Aleksander Kolcz, Adaptive Near-Duplicate Detection via Similarity Learning, in SIGIR, July 2010 ...</snippet>
+	</doc>
+	<doc rank="186" title="Patents.com - Learn Plenty of Free patent information" url="http://www.patents.com/yi-yj/inventors/850/50/">
+		<snippet>Patents.com provides the most comprehensive worldwide source of patent information data - to include 450 million searchable indexed patent pages available in 15 native languages. ... Wen-tau Yih (Champaign, IL) ...</snippet>
+	</doc>
+	<doc rank="187" title="ILP for NLP: Bibliography by Year" url="http://ilpnlp.wikidot.com/bibliography">
+		<snippet>Vasin Punyakanok, Dan Roth, Wen-tau Yih, and Dav Zimak. Semantic Role Labeling Via ... Peter Koomen, Vasin Punyakanok, Dan Roth and Wen-tau Yih. Generalized Inference with Multiple Semantic Role Labeling Systems. In Proceedings of the ...</snippet>
+	</doc>
+	<doc rank="188" title="UMass (Amherst) &amp;gt; AIMATH 06 &amp;gt; S01c (2009-04-23 03:41:50)" url="http://www.coursehero.com/file/2481015/S01c/">
+		<snippet>.A Linear Programming Formulation for Global Inference in Natural Language Tasks Dan Roth Wen-tau Yih Department of Computer Science University of Illinois at Urbana-Champaign {danr, yih}@uiuc.edu Abstract The typical processing ... Vasin Punyakanok Dan Roth Wen-tau Yih Department of Computer Science ...</snippet>
+	</doc>
+	<doc rank="189" title="blog.iloaf.com - @ CEAS" url="http://blog.iloaf.com/2006/07/29/ceas-9/">
+		<snippet>Online Discriminative Spam Filter Training; Joshua Goodman, Wen-tau Yih. ... Learning at Low False Positive Rates; Wen-Tau Yih, Joshua Goodman, Geoff Hulton.&#194; Applying a combination of training with utility with two stage filtering for both Naive bayes and Logistic regression and targeting it to the low ...</snippet>
+	</doc>
+	<doc rank="190" title="Scientific Commons: Wooyoung Kim" url="http://de.scientificcommons.org/wooyoung_kim">
+		<snippet>Wen-tau Yih, Po-hao Chang, Wooyoung Kim. Online deal forums are public places where participants share with each other news and information regarding &quot;deals &quot; such as sales promotion events by online stores. ... Wen-tau Yih, Po-hao Chang, Wooyoung Kim. Online deal forums are public places where ...</snippet>
+	</doc>
+	<doc rank="191" title="ArnetMiner: Hisami Suzuki" url="http://www.arnetminer.org/viewperson.do?id=-1&amp;name=Hisami+Suzuki&amp;keyword=Hisami+Suzuki">
+		<snippet>Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki. ... Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki. Multi-Document Summarization by Maximizing Informative Content ...</snippet>
+	</doc>
+	<doc rank="192" title="Scientific Commons: Statistical Relational Learning for ..." url="http://en.scientificcommons.org/7595427">
+		<snippet>The use of statistics allows us to extend the search space to include richer set of features, including many which are not boolean. ... Wen-tau Yih. Feature construction with Inductive Logic Programming: a study of quantitative predictions of biological activity aided by structural ...</snippet>
+	</doc>
+	<doc rank="193" title="Eventseer.net - Dan Roth" url="http://eventseer.net/p/dan_roth/">
+		<snippet>Click the tracker button below to activate notifications. Click the button to be notified on your personal tracker whenever Dan Roth is mentioned in an event. Dan Roth. Dan Roth shares similar interests with Roni Khardon, Vasin Punyakanok and Wen-tau Yih. ...</snippet>
+	</doc>
+	<doc rank="194" title="Scientific Commons: Kevin Small" url="http://en.scientificcommons.org/kevin_small">
+		<snippet>Wen-tau Yih (2) Xin Li (2) Chad Cumby (2) Unsupervised Rank Aggregation with Distance ... Although a number of heuristic and supervised learning approaches to rank aggregation ...</snippet>
+	</doc>
+	<doc rank="195" title="Scientific Commons: Relation Extraction for Mining the ..." url="http://de.scientificcommons.org/8083078">
+		<snippet>We advocate the use of automated methods for semantic markup, i.e., for mapping parts of unstructured text into a structured ... Dan Roth, Wen-tau Yih. Hierarchical Directed Acyclic Graph Kernel: Methods for Structured Natural Language ...</snippet>
+	</doc>
+	<doc rank="196" title="Copy code" url="http://www.slidefinder.net/S/SRL_Generalized_Inference_Vasin_Punyakanok/6528370">
+		<snippet>I&apos;m Wen-tau Yih, and this is a work with several of my colleagues and ... Find potential argument candidates Classify arguments to types Inference for Argument Structure Cost Function Constraints Integer linear programming (ILP) Results &amp;amp; Discussion We follow a now seemingly standard approach to SRL. ...</snippet>
+	</doc>
+	<doc rank="197" title="Alek Kolcz - Pipl Profiles" url="http://pipl.com/directory/name/Kolcz/Alek">
+		<snippet>People named Alek Kolcz. Find the person you&apos;re looking for and related people. ... 1. Scott Wen-tau Yih , Robert McCann &amp;amp; Alek Kolcz. Microsoft Corporation ... Newsletters that do not respect unsubscribe requests ...</snippet>
+	</doc>
+	<doc rank="198" title="CompleteSearch DBLP" url="http://dblp.mpi-inf.mpg.de/dblp-mirror/index.php?query=venue:coling+probabilist">
+		<snippet>Thanks to Chuancong Gao for suggesting this feature. CompleteSearch ... Dan Roth, Wen-tau Yih: Probabilistic Reasoning for Entity &amp;amp; Relation Recognition. ...</snippet>
+	</doc>
+	<doc rank="199" title="Joshua Goodman - WikiName" url="http://wiki.name.com/en/Joshua_Goodman">
+		<snippet>Joshua Goodman in WikiName. Who is Joshua Goodman? Search results for Joshua Goodman. ... PubZone - Joshua Goodman Wen-tau Yih, Joshua Goodman, Lucy Vanderwende, Hisami Suzuki. ...</snippet>
+	</doc>
+</corpus>

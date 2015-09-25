@@ -1,0 +1,314 @@
+<clustering searchString="JASON HART">
+  <entity id="1">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="23">investigator</attr>
+      <attr type="affiliation" source="23">Davidson County Sheriff&apos;s Office</attr>
+      <attr type="school" source="23">Middle Tennessee State University</attr>
+      <attr type="degree" source="23">Bachelor of Science degree</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="school" source="93">University of Wisconsin-Whitewater</attr>
+      <attr type="email" source="93">Jason@milehighmultisport.com</attr>
+      <attr type="occupation" source="93">sophomore</attr>
+      <attr type="location" source="93">Saratoga, New York</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="10" />
+      <doc rank="21" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="10">driving instructor</attr>
+      <attr type="affiliation" source="10">Jason Hart Racing</attr>
+      <attr type="phone" source="10">(972) 898-3952</attr>
+      <attr type="email" source="10">jason@jasonhartracing.com</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="67" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="67">first baseman</attr>
+      <attr type="affiliation" source="67">RedHawks</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="8" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="school" source="109">American Institute of Musical Studies</attr>
+      <attr type="occupation" source="109">seasoned recitalist</attr>
+      <attr type="location" source="109">New York</attr>
+      <attr type="work" source="109">Les Miserables</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="56" />
+    </documents>
+    <attributes>
+      <attr type="school" source="56">University of California, Riverside</attr>
+      <attr type="occupation" source="56">Senior Manager HRIS</attr>
+      <attr type="affiliation" source="56">Gibson, Dunn &amp; Crutcher</attr>
+      <attr type="location" source="56">Greater Los Angeles Area</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="24" />
+      <doc rank="47" />
+    </documents>
+    <attributes>
+      <attr type="location" source="24">Breckenridge &amp; Summit County</attr>
+      <attr type="email" source="24">info@breckenridgefinehomes.com</attr>
+      <attr type="affiliation" source="24">Breckenridge Associates Real Estate</attr>
+      <attr type="phone" source="24">(800) 774-7970</attr>
+      <attr type="fax" source="24">(970) 453-5412</attr>
+      <attr type="occupation" source="47">brokers</attr>
+      <attr type="school" source="47">St. Lawrence University</attr>
+      <attr type="website" source="47">http://www.breckenridgefinehomes.com/</attr>
+      <attr type="relatives" source="47">Aldyn</attr>
+      <attr type="award" source="47">Chairman&#65533;fs Circle Award</attr>
+      <attr type="major" source="47">Economics</attr>
+      <attr type="degree" source="47">Bachelor of Arts</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="72">(214) 540-2727</attr>
+      <attr type="website" source="72">http://www.dfwrealtors.com</attr>
+      <attr type="affiliation" source="72">MetroTex Association of REALTORS</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="92" />
+      <doc rank="48" />
+      <doc rank="110" />
+      <doc rank="51" />
+      <doc rank="42" />
+      <doc rank="26" />
+      <doc rank="61" />
+      <doc rank="83" />
+      <doc rank="4" />
+      <doc rank="99" />
+      <doc rank="12" />
+      <doc rank="39" />
+      <doc rank="71" />
+      <doc rank="85" />
+      <doc rank="53" />
+      <doc rank="15" />
+      <doc rank="13" />
+      <doc rank="59" />
+      <doc rank="97" />
+      <doc rank="20" />
+      <doc rank="49" />
+      <doc rank="63" />
+      <doc rank="32" />
+      <doc rank="16" />
+      <doc rank="122" />
+      <doc rank="3" />
+      <doc rank="65" />
+      <doc rank="7" />
+      <doc rank="44" />
+      <doc rank="35" />
+      <doc rank="57" />
+      <doc rank="2" />
+      <doc rank="45" />
+      <doc rank="14" />
+      <doc rank="33" />
+      <doc rank="22" />
+      <doc rank="37" />
+      <doc rank="76" />
+      <doc rank="101" />
+      <doc rank="31" />
+      <doc rank="75" />
+      <doc rank="52" />
+      <doc rank="79" />
+      <doc rank="46" />
+      <doc rank="113" />
+      <doc rank="98" />
+      <doc rank="60" />
+      <doc rank="27" />
+      <doc rank="106" />
+      <doc rank="90" />
+      <doc rank="1" />
+      <doc rank="6" />
+      <doc rank="112" />
+      <doc rank="17" />
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="92">Utah</attr>
+      <attr type="occupation" source="92">guard</attr>
+      <attr type="school" source="48">SU</attr>
+      <attr type="dateofbirth" source="42">April 29, 1978</attr>
+      <attr type="location" source="26">Los Angeles</attr>
+      <attr type="major" source="26">Sociology</attr>
+      <attr type="othername" source="26">Glass Jaw</attr>
+      <attr type="birthplace" source="4">Los Angeles, California</attr>
+      <attr type="mentor" source="71">Jim Boeheim</attr>
+      <attr type="nationality" source="53">American</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="91" />
+    </documents>
+    <attributes>
+      <attr type="dateofbirth" source="91">1970</attr>
+      <attr type="birthplace" source="91">Chattanooga, TN</attr>
+      <attr type="affiliation" source="91">USS Saratoga (CV 60), Operations Department, Operations Information Division</attr>
+      <attr type="othername" source="91">Hart, Jason</attr>
+      <attr type="occupation" source="91">Veteran</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="36" />
+    </documents>
+    <attributes>
+      <attr type="work" source="36">Blood for Blood</attr>
+      <attr type="occupation" source="36">special effects assistant</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="62" />
+      <doc rank="80" />
+      <doc rank="54" />
+      <doc rank="74" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="62">ActivCard Corp.</attr>
+      <attr type="occupation" source="62">senior vice president</attr>
+      <attr type="nationality" source="80">Australian</attr>
+      <attr type="location" source="80">Silicon Valley</attr>
+      <attr type="award" source="80">Ernst &amp; Young Australian Young Entrepreneur Of The Year</attr>
+      <attr type="website" source="80">www.actividentity.com</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="55" />
+      <doc rank="66" />
+      <doc rank="107" />
+      <doc rank="100" />
+    </documents>
+    <attributes>
+      <attr type="work" source="55">The Jude&apos;s Law</attr>
+      <attr type="school" source="55">Brown/Trinity Consortium MFA acting program</attr>
+      <attr type="affiliation" source="55">Pace University</attr>
+      <attr type="location" source="55">Providence</attr>
+      <attr type="degree" source="55">MFA</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="38" />
+      <doc rank="19" />
+      <doc rank="43" />
+      <doc rank="114" />
+      <doc rank="64" />
+      <doc rank="58" />
+      <doc rank="41" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="38">Texas</attr>
+      <attr type="birthplace" source="38">Walnut Creek, CA</attr>
+      <attr type="school" source="38">Southwest Missouri State</attr>
+      <attr type="occupation" source="38">First Basemen</attr>
+      <attr type="dateofbirth" source="38">09/05/1977</attr>
+      <attr type="location" source="19">Springfield, Missouri</attr>
+      <attr type="award" source="19">Northwest League MVP</attr>
+      <attr type="othername" source="19">Jason Wyatt Hart</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="30">RECS</attr>
+      <attr type="email" source="30">Jason@HartCRE.com</attr>
+      <attr type="relatives" source="30">Gianni</attr>
+      <attr type="location" source="30">Nipomo</attr>
+      <attr type="occupation" source="30">principal</attr>
+      <attr type="phone" source="30">805-481-9010</attr>
+      <attr type="school" source="30">California Polytechnic State University</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="email" source="89">jasonhart6@hotmail.com</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="11">Jason Hart Klein</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="email" source="28">HartAgent@aol.com</attr>
+      <attr type="occupation" source="28">Owner</attr>
+      <attr type="phone" source="28">800. 607.HART (4278)</attr>
+      <attr type="affiliation" source="28">Commercial Division</attr>
+      <attr type="location" source="28">2955 Pineda Causeway Suite 101 | Melbourne, Florida 32940</attr>
+      <attr type="fax" source="28">321.452.5990</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="86" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="116" />
+      <doc rank="69" />
+      <doc rank="9" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+</clustering>

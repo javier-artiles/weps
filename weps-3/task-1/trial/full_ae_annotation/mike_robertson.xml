@@ -1,0 +1,911 @@
+<clustering searchString="MIKE ROBERTSON">
+  <entity id="1">
+    <documents>
+      <doc rank="4" />
+      <doc rank="11" />
+      <doc rank="8" />
+      <doc rank="115" />
+      <doc rank="76" />
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="4">Philadelphia Phillies</attr>
+      <attr type="affiliation" source="4">PHI</attr>
+      <attr type="affiliation" source="4">Chicago White Sox</attr>
+      <attr type="affiliation" source="4">CHW</attr>
+      <attr type="occupation" source="4">LF</attr>
+      <attr type="dateofbirth" source="4">October 9, 1970</attr>
+      <attr type="school" source="4">University of Southern California</attr>
+      <attr type="occupation" source="4">DH</attr>
+      <attr type="occupation" source="4">Player</attr>
+      <attr type="occupation" source="4">1B</attr>
+      <attr type="occupation" source="4">OF</attr>
+      <attr type="affiliation" source="4">ARI</attr>
+      <attr type="affiliation" source="4">Arizona Diamondbacks</attr>
+      <attr type="othername" source="4">Michael Francis Robertson</attr>
+      <attr type="occupation" source="4">RF</attr>
+      <attr type="birthplace" source="4">Norwich, CT</attr>
+      <attr type="affiliation" source="8">Chicago White Sox</attr>
+      <attr type="dateofbirth" source="8">October 9, 1970</attr>
+      <attr type="occupation" source="8">player</attr>
+      <attr type="occupation" source="8">baseball player</attr>
+      <attr type="birthplace" source="8">Norwich, Connecticut</attr>
+      <attr type="affiliation" source="8">Philadelphia Phillies</attr>
+      <attr type="othername" source="8">Michael Francis Robertson</attr>
+      <attr type="affiliation" source="8">Arizona Diamondbacks</attr>
+      <attr type="occupation" source="8">pastor</attr>
+      <attr type="school" source="8">University of Southern California</attr>
+      <attr type="occupation" source="115">Player</attr>
+      <attr type="relatives" source="76">Tanya</attr>
+      <attr type="dateofbirth" source="76">10/9/70</attr>
+      <attr type="birthplace" source="76">Norwich, CT</attr>
+      <attr type="affiliation" source="23">ARI</attr>
+      <attr type="affiliation" source="23">CWS</attr>
+      <attr type="dateofbirth" source="23">Oct 9, 1970</attr>
+      <attr type="birthplace" source="23">Norwich, Connecticut</attr>
+      <attr type="affiliation" source="23">PHI</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="37" />
+      <doc rank="83" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="37">Smooth Country</attr>
+      <attr type="affiliation" source="37">Mike Robertson Construction Company</attr>
+      <attr type="work" source="37">Neutered Cat Blues</attr>
+      <attr type="work" source="37">Brown County Blues</attr>
+      <attr type="affiliation" source="83">Smooth Country band</attr>
+      <attr type="affiliation" source="83">Smooth Country Band</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="88" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="81" />
+      <doc rank="49" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="60" />
+      <doc rank="22" />
+      <doc rank="62" />
+    </documents>
+    <attributes>
+      <attr type="work" source="60">Deep Water</attr>
+      <attr type="award" source="60">Mountain Exposition Prize</attr>
+      <attr type="occupation" source="60">author</attr>
+      <attr type="nationality" source="22">British</attr>
+      <attr type="award" source="22">Banff award</attr>
+      <attr type="occupation" source="22">photographer</attr>
+      <attr type="work" source="22">Deep Water</attr>
+      <attr type="occupation" source="22">deep water soloist</attr>
+      <attr type="work" source="62">Deep Water</attr>
+      <attr type="award" source="62">Mountain Exposition Award</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="117" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="117">PPS</attr>
+      <attr type="occupation" source="117">Director</attr>
+      <attr type="occupation" source="117">CFE</attr>
+      <attr type="location" source="117">Wilmington, North Carolina Area</attr>
+      <attr type="affiliation" source="117">Risk Management Services</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="email" source="12">mike@marvinjdesign.com</attr>
+      <attr type="phone" source="12">814.335.0010</attr>
+      <attr type="occupation" source="12">graphic designer</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="43" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="43">Oklahoma Film Critic&apos;s Circle</attr>
+      <attr type="website" source="43">www.ofccircle.org</attr>
+      <attr type="affiliation" source="43">oklahoma Gazette</attr>
+      <attr type="website" source="43">www.okgazette.com</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="100" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="100">Mt. Diablo Audubon</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="103" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="103">CEO</attr>
+      <attr type="affiliation" source="103">Specialty Graphic Imaging Assn.</attr>
+      <attr type="occupation" source="103">president</attr>
+      <attr type="affiliation" source="103">SGIA</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="31" />
+      <doc rank="86" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="31">second baseman</attr>
+      <attr type="occupation" source="31">kick return specialist</attr>
+      <attr type="occupation" source="31">wing</attr>
+      <attr type="occupation" source="31">offensive and defensive back</attr>
+      <attr type="school" source="31">Boston College</attr>
+      <attr type="occupation" source="31">punter</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="98" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="51">Site Manager</attr>
+      <attr type="email" source="51">mrob@u.washington.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="7" />
+      <doc rank="25" />
+      <doc rank="69" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="7">CHATELAIN REALTY</attr>
+      <attr type="location" source="7">AVOYELLES PARISH</attr>
+      <attr type="occupation" source="7">Agent</attr>
+      <attr type="phone" source="7">318-305-3613</attr>
+      <attr type="occupation" source="7">Associate Broker</attr>
+      <attr type="email" source="7">mikere@bellsouth.net</attr>
+      <attr type="affiliation" source="7">Chatelain Realty</attr>
+      <attr type="phone" source="25">(318) 305-3613</attr>
+      <attr type="affiliation" source="25">Chatelain Realty</attr>
+      <attr type="fax" source="69">346-1016</attr>
+      <attr type="phone" source="69">318- 305-3613</attr>
+      <attr type="affiliation" source="69">CHATELAIN REALTY</attr>
+      <attr type="occupation" source="69">AGENTS</attr>
+      <attr type="email" source="69">mikere@bellsouth.net</attr>
+      <attr type="occupation" source="69">Associate Broker</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+      <attr type="location" source="110">Odinic Rite, BCM Runic, London WC1N 3XX, England</attr>
+      <attr type="work" source="110">The Way of the Rite: A Handbook for Members and Friends</attr>
+      <attr type="work" source="110">The Way of the Rite A Handbook for Members and Friends of the Odinic Rite</attr>
+      <attr type="affiliation" source="110">Odinic Rite</attr>
+      <attr type="affiliation" source="110">OR</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="55" />
+      <doc rank="19" />
+      <doc rank="121" />
+      <doc rank="52" />
+      <doc rank="107" />
+      <doc rank="65" />
+      <doc rank="14" />
+      <doc rank="9" />
+      <doc rank="36" />
+      <doc rank="80" />
+      <doc rank="44" />
+      <doc rank="38" />
+      <doc rank="126" />
+      <doc rank="10" />
+      <doc rank="17" />
+      <doc rank="32" />
+      <doc rank="73" />
+      <doc rank="6" />
+      <doc rank="93" />
+      <doc rank="77" />
+      <doc rank="24" />
+      <doc rank="130" />
+      <doc rank="13" />
+      <doc rank="67" />
+      <doc rank="29" />
+      <doc rank="45" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="55">MR</attr>
+      <attr type="mentor" source="55">Alwyn Cosgrove</attr>
+      <attr type="mentor" source="55">Joe DeFranco</attr>
+      <attr type="mentor" source="55">Bill Hartman</attr>
+      <attr type="work" source="55">Magnificent Mobility</attr>
+      <attr type="mentor" source="55">Jim Wendler</attr>
+      <attr type="mentor" source="55">John Berardi</attr>
+      <attr type="mentor" source="55">Shirley Sahrmann</attr>
+      <attr type="mentor" source="55">Dave Tate</attr>
+      <attr type="mentor" source="55">Ian King</attr>
+      <attr type="email" source="55">mike@robertsontrainingsystems.com</attr>
+      <attr type="mentor" source="55">Eric Cressey</attr>
+      <attr type="mentor" source="55">Mike Boyle</attr>
+      <attr type="mentor" source="55">Stuart McGill</attr>
+      <attr type="website" source="55">www.robertsontrainingsystems.com</attr>
+      <attr type="mentor" source="55">EC</attr>
+      <attr type="work" source="19">Bulletproof Knees manual</attr>
+      <attr type="work" source="19">Bulletproof Knees</attr>
+      <attr type="website" source="19">www.RobertsonTrainingSystems.com</attr>
+      <attr type="work" source="19">Building The Efficient Athlete</attr>
+      <attr type="work" source="19">Magnificent Mobility</attr>
+      <attr type="work" source="19">Inside-Out: The Ultimate Upper Body Warm-up</attr>
+      <attr type="affiliation" source="52">Robertson Training Systems</attr>
+      <attr type="occupation" source="52">performance coaches</attr>
+      <attr type="occupation" source="52">assistant strength and conditioning coach</attr>
+      <attr type="occupation" source="52">coach</attr>
+      <attr type="affiliation" source="52">Custom Athletics</attr>
+      <attr type="occupation" source="52">corrective exercise specialists</attr>
+      <attr type="occupation" source="52">athlete</attr>
+      <attr type="major" source="52">Sports Biomechanics</attr>
+      <attr type="occupation" source="52">strength coach</attr>
+      <attr type="location" source="52">Indianapolis, Indiana</attr>
+      <attr type="degree" source="52">Masters degree</attr>
+      <attr type="occupation" source="52">Director</attr>
+      <attr type="occupation" source="52">fitness professionals</attr>
+      <attr type="occupation" source="52">strength coaches</attr>
+      <attr type="affiliation" source="52">Biomechanics Lab</attr>
+      <attr type="school" source="52">Ball State University</attr>
+      <attr type="affiliation" source="52">Human Performance Lab</attr>
+      <attr type="affiliation" source="52">Ball State</attr>
+      <attr type="affiliation" source="52">2004 USA World Bench Press Team</attr>
+      <attr type="occupation" source="52">assistant coach</attr>
+      <attr type="occupation" source="52">President</attr>
+      <attr type="work" source="107">Inside/out Manual</attr>
+      <attr type="work" source="107">Inside/out</attr>
+      <attr type="affiliation" source="107">I-FAST</attr>
+      <attr type="work" source="107">Magnificent Mobility</attr>
+      <attr type="location" source="107">Indianapolis</attr>
+      <attr type="school" source="14">Human Performance Lab at Ball State University</attr>
+      <attr type="occupation" source="14">strength coach</attr>
+      <attr type="occupation" source="14">strength and conditioning coach</attr>
+      <attr type="degree" source="14">Masters</attr>
+      <attr type="mentor" source="14">Dave Tate</attr>
+      <attr type="affiliation" source="14">Custom Athletics</attr>
+      <attr type="affiliation" source="14">Westside</attr>
+      <attr type="website" source="14">www.robertsontrainingsystems.com</attr>
+      <attr type="occupation" source="14">President</attr>
+      <attr type="affiliation" source="14">Robertson Training Systems</attr>
+      <attr type="location" source="14">Indianapolis, Indiana.</attr>
+      <attr type="occupation" source="14">director</attr>
+      <attr type="mentor" source="14">Eric Cressey</attr>
+      <attr type="email" source="14">mike@robertsontrainingsystems.com</attr>
+      <attr type="mentor" source="14">Dave</attr>
+      <attr type="work" source="14">Magnificent Mobility</attr>
+      <attr type="othername" source="14">M.R.</attr>
+      <attr type="occupation" source="14">trainer</attr>
+      <attr type="mentor" source="14">Louie Simmons</attr>
+      <attr type="major" source="14">Sports Biomechanics</attr>
+      <attr type="occupation" source="14">powerlifter</attr>
+      <attr type="affiliation" source="14">Athletic Performance</attr>
+      <attr type="occupation" source="9">Strength Coach</attr>
+      <attr type="work" source="36">Inside Out: The Ultimate Upper Body Warm-up</attr>
+      <attr type="occupation" source="36">performance coaches</attr>
+      <attr type="work" source="36">Inside Out - The Ultimate Upper Body Warm-Up</attr>
+      <attr type="occupation" source="36">Coach</attr>
+      <attr type="work" source="36">Magnificent Mobility</attr>
+      <attr type="work" source="36">Building the Efficient Athlete</attr>
+      <attr type="occupation" source="36">Powerlifter</attr>
+      <attr type="occupation" source="36">powerlifter</attr>
+      <attr type="work" source="80">Inside-Out</attr>
+      <attr type="occupation" source="80">hosts</attr>
+      <attr type="occupation" source="44">president</attr>
+      <attr type="occupation" source="44">CSCS</attr>
+      <attr type="degree" source="44">masters</attr>
+      <attr type="degree" source="44">MS</attr>
+      <attr type="affiliation" source="44">USAW</attr>
+      <attr type="affiliation" source="44">Custom Athletics</attr>
+      <attr type="occupation" source="44">competitive powerlifter</attr>
+      <attr type="location" source="44">Indianapolis, Indiana</attr>
+      <attr type="school" source="44">Human Performance Lab at Ball State University</attr>
+      <attr type="affiliation" source="44">Robertson Training Systems</attr>
+      <attr type="major" source="44">sports biomechanics</attr>
+      <attr type="work" source="44">Magnificent Mobility</attr>
+      <attr type="work" source="44">Inside-Out</attr>
+      <attr type="website" source="44">http://www.RobertsonTrainingSystems.com</attr>
+      <attr type="occupation" source="44">director</attr>
+      <attr type="mentor" source="38">Joe DeFranco</attr>
+      <attr type="mentor" source="38">Dave Tate</attr>
+      <attr type="mentor" source="38">EC</attr>
+      <attr type="mentor" source="38">Mike Boyle</attr>
+      <attr type="mentor" source="38">Ian King</attr>
+      <attr type="mentor" source="38">Jim Wendler</attr>
+      <attr type="work" source="38">Magnificent Mobility</attr>
+      <attr type="mentor" source="38">Bill Hartman</attr>
+      <attr type="mentor" source="38">Shirley Sahrmann</attr>
+      <attr type="mentor" source="38">John Berardi</attr>
+      <attr type="mentor" source="38">Alwyn Cosgrove</attr>
+      <attr type="othername" source="38">MR</attr>
+      <attr type="email" source="38">mike@robertsontrainingsystems.com</attr>
+      <attr type="mentor" source="38">Eric Cressey</attr>
+      <attr type="mentor" source="38">Stuart McGill</attr>
+      <attr type="website" source="38">www.robertsontrainingsystems.com</attr>
+      <attr type="affiliation" source="126">Robertson Training Systems</attr>
+      <attr type="occupation" source="126">Director</attr>
+      <attr type="location" source="126">Indianapolis, Indiana</attr>
+      <attr type="occupation" source="126">performance coaches</attr>
+      <attr type="othername" source="126">Mike R.</attr>
+      <attr type="affiliation" source="126">Biomechanics Lab</attr>
+      <attr type="major" source="126">Sports Biomechanics</attr>
+      <attr type="affiliation" source="126">Human Performance Lab</attr>
+      <attr type="degree" source="126">Masters degree</attr>
+      <attr type="occupation" source="126">President</attr>
+      <attr type="school" source="126">Ball State University</attr>
+      <attr type="affiliation" source="126">Custom Athletics</attr>
+      <attr type="affiliation" source="10">Robertson Training Systems</attr>
+      <attr type="location" source="10">Indianapolis, Indiana</attr>
+      <attr type="occupation" source="10">State Chair</attr>
+      <attr type="email" source="10">mike@robertsontrainingsystems.com</attr>
+      <attr type="occupation" source="10">President</attr>
+      <attr type="major" source="10">Sports Biomechanics</attr>
+      <attr type="degree" source="10">Masters</attr>
+      <attr type="affiliation" source="10">Custom Athletics</attr>
+      <attr type="occupation" source="10">competitive powerlifter</attr>
+      <attr type="degree" source="10">M.S.</attr>
+      <attr type="occupation" source="10">C.S.C.S.</attr>
+      <attr type="affiliation" source="10">U.S.A.W.</attr>
+      <attr type="occupation" source="10">Director</attr>
+      <attr type="school" source="10">Human Performance Lab at Ball State University</attr>
+      <attr type="affiliation" source="10">USA Powerlifting</attr>
+      <attr type="website" source="17">www.RobertsonTrainingSystems.com</attr>
+      <attr type="work" source="17">Magnificent Mobility</attr>
+      <attr type="work" source="17">Inside-Out: The Ultimate Upper Body Warm-up</attr>
+      <attr type="work" source="17">Bulletproof Knees</attr>
+      <attr type="work" source="17">Building The Efficient Athlete</attr>
+      <attr type="occupation" source="32">president</attr>
+      <attr type="website" source="32">www.RobertsonTrainingSystems.com</attr>
+      <attr type="school" source="32">Human Performance Lab at Ball State University</attr>
+      <attr type="location" source="32">Indianapolis, Indiana</attr>
+      <attr type="occupation" source="32">CSCS</attr>
+      <attr type="major" source="32">sports biomechanics</attr>
+      <attr type="degree" source="32">MS</attr>
+      <attr type="affiliation" source="32">USAW</attr>
+      <attr type="degree" source="32">Master&apos;s Degree</attr>
+      <attr type="affiliation" source="32">Robertson Training Systems</attr>
+      <attr type="award" source="73">Senior of the Year</attr>
+      <attr type="occupation" source="73">Senior</attr>
+      <attr type="occupation" source="73">wrestlers</attr>
+      <attr type="othername" source="73">Robertson, Mike</attr>
+      <attr type="affiliation" source="73">Cary HS</attr>
+      <attr type="affiliation" source="73">Cary</attr>
+      <attr type="occupation" source="6">Coaches</attr>
+      <attr type="affiliation" source="6">U.S.A.W</attr>
+      <attr type="occupation" source="6">C.S.C.S.</attr>
+      <attr type="degree" source="6">M.S.</attr>
+      <attr type="occupation" source="93">Director</attr>
+      <attr type="school" source="93">Human Performance Lab at Ball State University</attr>
+      <attr type="affiliation" source="93">Athletic Performance Center</attr>
+      <attr type="occupation" source="93">C.S.C.S.</attr>
+      <attr type="degree" source="93">Masters</attr>
+      <attr type="occupation" source="93">competitive powerlifter</attr>
+      <attr type="occupation" source="93">Chair</attr>
+      <attr type="location" source="93">Fort Wayne, Indiana</attr>
+      <attr type="affiliation" source="93">APC</attr>
+      <attr type="degree" source="93">M.S.</attr>
+      <attr type="email" source="93">mikerob022@yahoo.com</attr>
+      <attr type="affiliation" source="93">USAPL Indiana State</attr>
+      <attr type="major" source="93">Sports Biomechanics</attr>
+      <attr type="major" source="77">Sports Biomechanics</attr>
+      <attr type="website" source="77">www.robertsontrainingsystems.com</attr>
+      <attr type="school" source="77">Human Performance Lab at Ball State University</attr>
+      <attr type="occupation" source="77">President</attr>
+      <attr type="occupation" source="77">Director</attr>
+      <attr type="affiliation" source="77">U.S.A.W.</attr>
+      <attr type="location" source="77">Indianapolis, Indiana</attr>
+      <attr type="occupation" source="77">C.S.C.S.</attr>
+      <attr type="degree" source="77">Masters</attr>
+      <attr type="degree" source="77">M.S.</attr>
+      <attr type="affiliation" source="77">Robertson Training Systems</attr>
+      <attr type="affiliation" source="77">Custom Athletics</attr>
+      <attr type="occupation" source="24">C.S.C.S.</attr>
+      <attr type="degree" source="24">M.S.</attr>
+      <attr type="affiliation" source="24">Robertson Training Systems</attr>
+      <attr type="affiliation" source="24">U.S.A.W.</attr>
+      <attr type="website" source="24">http://www.RobertsonTrainingSystems.com</attr>
+      <attr type="occupation" source="24">President</attr>
+      <attr type="school" source="24">Human Performance Lab at Ball State University</attr>
+      <attr type="major" source="24">Sports Biomechanics</attr>
+      <attr type="website" source="24">www.robertsontrainingsystems.com</attr>
+      <attr type="occupation" source="24">competitive powerlifter</attr>
+      <attr type="location" source="24">Indianapolis, Indiana</attr>
+      <attr type="degree" source="24">Masters</attr>
+      <attr type="degree" source="130">M.S.</attr>
+      <attr type="degree" source="130">Masters</attr>
+      <attr type="affiliation" source="130">President of Robertson Training Systems</attr>
+      <attr type="occupation" source="130">C.S.C.S.</attr>
+      <attr type="occupation" source="130">Director</attr>
+      <attr type="location" source="130">Indianapolis, Indiana</attr>
+      <attr type="occupation" source="130">State Chair</attr>
+      <attr type="major" source="130">Sports Biomechanics</attr>
+      <attr type="affiliation" source="130">USA Powerlifting</attr>
+      <attr type="website" source="130">www.robertsontrainingsystems.com</attr>
+      <attr type="school" source="130">Human Performance Lab at Ball State University</attr>
+      <attr type="affiliation" source="130">Custom Athletics</attr>
+      <attr type="affiliation" source="130">U.S.A.W.</attr>
+      <attr type="occupation" source="130">competitive powerlifter</attr>
+      <attr type="email" source="130">mikerob022@yahoo.com</attr>
+      <attr type="affiliation" source="13">Robertson Training Systems</attr>
+      <attr type="occupation" source="13">senior</attr>
+      <attr type="work" source="13">Inside-Out</attr>
+      <attr type="occupation" source="13">President</attr>
+      <attr type="website" source="13">www.RobertsonTrainingSystems.com</attr>
+      <attr type="work" source="13">Magnificent Mobility</attr>
+      <attr type="location" source="13">Indianapolis</attr>
+      <attr type="othername" source="13">Mobility Guy</attr>
+      <attr type="work" source="13">Building The Efficient Athlete</attr>
+      <attr type="affiliation" source="13">T-Nation</attr>
+      <attr type="occupation" source="13">competitive powerlifter</attr>
+      <attr type="work" source="13">Inside Out</attr>
+      <attr type="occupation" source="13">strength coach</attr>
+      <attr type="affiliation" source="13">Ball State athletic weight room</attr>
+      <attr type="website" source="29">www.RobertsonTrainingSystems.com</attr>
+      <attr type="affiliation" source="29">Ball State athletic weight room</attr>
+      <attr type="occupation" source="29">President</attr>
+      <attr type="work" source="29">Inside Out</attr>
+      <attr type="location" source="29">Indianapolis</attr>
+      <attr type="othername" source="29">MR</attr>
+      <attr type="occupation" source="29">competitive powerlifter</attr>
+      <attr type="affiliation" source="29">Robertson Training Systems</attr>
+      <attr type="occupation" source="29">strength coach</attr>
+      <attr type="work" source="29">Building The Efficient Athlete</attr>
+      <attr type="work" source="29">Magnificent Mobility</attr>
+      <attr type="othername" source="29">Mobility Guy</attr>
+      <attr type="affiliation" source="29">T-Nation</attr>
+      <attr type="work" source="29">Inside-Out</attr>
+      <attr type="occupation" source="29">senior</attr>
+      <attr type="occupation" source="45">Director</attr>
+      <attr type="mentor" source="45">Mel Siff</attr>
+      <attr type="mentor" source="45">Robert Newton</attr>
+      <attr type="mentor" source="45">Jim Wendler</attr>
+      <attr type="website" source="45">www.robertsontrainingsystems.com</attr>
+      <attr type="mentor" source="45">Ian King</attr>
+      <attr type="mentor" source="45">Bill Hartman</attr>
+      <attr type="mentor" source="45">Eric Cressey</attr>
+      <attr type="mentor" source="45">John Berardi</attr>
+      <attr type="mentor" source="45">Dave Tate</attr>
+      <attr type="occupation" source="45">powerlifter</attr>
+      <attr type="mentor" source="45">Charlie Francis</attr>
+      <attr type="occupation" source="45">performance coach</attr>
+      <attr type="affiliation" source="45">Robertson Training Systems</attr>
+      <attr type="occupation" source="45">President</attr>
+      <attr type="mentor" source="45">Mike Boyle</attr>
+      <attr type="birthplace" source="45">Indianapolis, Indiana</attr>
+      <attr type="othername" source="45">Mike R</attr>
+      <attr type="occupation" source="45">author</attr>
+      <attr type="affiliation" source="45">Custom Athletics</attr>
+      <attr type="mentor" source="45">Kelly Baggett</attr>
+      <attr type="mentor" source="45">Alwyn Cosgrove</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="1" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="1">817.424.3459</attr>
+      <attr type="affiliation" source="1">Realty World - DFW</attr>
+      <attr type="email" source="1">mikewrobertson@aol.com</attr>
+      <attr type="website" source="1">www.mikewrobertson.com</attr>
+      <attr type="othername" source="1">Mike W Robertson</attr>
+      <attr type="fax" source="1">817.424.4008</attr>
+      <attr type="location" source="1">Realty World - DFW 2615 E. Southlake Blvd. #160 Southlake, TX 76092</attr>
+      <attr type="occupation" source="1">licensed Broker</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="78" />
+    </documents>
+    <attributes>
+      <attr type="award" source="78">2007 Olivier Award</attr>
+      <attr type="work" source="78">5 Guys Named Moe</attr>
+      <attr type="work" source="78">Sit and Shiver</attr>
+      <attr type="location" source="78">Lighting Plan BAC Lavender Hill Battersea London SW11 5TN</attr>
+      <attr type="work" source="78">Othello</attr>
+      <attr type="work" source="78">Sunday In The Park With George</attr>
+      <attr type="work" source="78">The Fireworkmakers Daughter</attr>
+      <attr type="phone" source="78">020 7978 6718</attr>
+      <attr type="phone" source="78">07930 398 407</attr>
+      <attr type="website" source="78">www.lightingplan.co.uk</attr>
+      <attr type="school" source="78">Guildhall School of Music and Drama</attr>
+      <attr type="work" source="78">Havana Rakatan</attr>
+      <attr type="occupation" source="78">Designers</attr>
+      <attr type="email" source="78">mike@lightingplan.co.uk</attr>
+      <attr type="affiliation" source="78">Lighting Plan</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="123" />
+      <doc rank="40" />
+      <doc rank="92" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="123">music industry executive</attr>
+      <attr type="othername" source="123">Michael Robertson</attr>
+      <attr type="affiliation" source="40">MP3tunes LLC</attr>
+      <attr type="work" source="40">Beam-It</attr>
+      <attr type="work" source="40">Instant Listening</attr>
+      <attr type="occupation" source="40">online music industry executive</attr>
+      <attr type="affiliation" source="40">MP3tunes</attr>
+      <attr type="affiliation" source="40">MP3.com</attr>
+      <attr type="othername" source="40">Michael Robertson</attr>
+      <attr type="work" source="92">Linspire</attr>
+      <attr type="affiliation" source="92">MP3.com</attr>
+      <attr type="othername" source="92">Michael Robertson</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+      <attr type="school" source="111">Aberdeen University</attr>
+      <attr type="degree" source="111">MBA</attr>
+      <attr type="affiliation" source="111">Reactor Services and Consulting businesses of AEA Technology</attr>
+      <attr type="affiliation" source="111">UKAEA</attr>
+      <attr type="affiliation" source="111">Safety &amp; Reliability</attr>
+      <attr type="occupation" source="111">Directorate</attr>
+      <attr type="school" source="111">Warwick University</attr>
+      <attr type="affiliation" source="111">Risk Solutions</attr>
+      <attr type="affiliation" source="111">Brookhaven National Laboratory</attr>
+      <attr type="occupation" source="111">Managing Partner</attr>
+      <attr type="major" source="111">Natural Philosophy</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="70" />
+      <doc rank="33" />
+      <doc rank="42" />
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="work" source="70">Casting Shadows: Short Stories</attr>
+      <attr type="occupation" source="70">Author</attr>
+      <attr type="othername" source="33">michael g robertson</attr>
+      <attr type="work" source="42">Casting Shadows</attr>
+      <attr type="occupation" source="42">Author</attr>
+      <attr type="affiliation" source="28">Hospital Corps</attr>
+      <attr type="relatives" source="28">Henry Doy</attr>
+      <attr type="relatives" source="28">Patricia Ann</attr>
+      <attr type="relatives" source="28">Joni Zellig</attr>
+      <attr type="major" source="28">radio</attr>
+      <attr type="location" source="28">Easley River Road, south of Columbia, MO</attr>
+      <attr type="relatives" source="28">Zane Gregory Robertson</attr>
+      <attr type="occupation" source="28">Retired computer professional</attr>
+      <attr type="major" source="28">pre-med</attr>
+      <attr type="relatives" source="28">Cedars</attr>
+      <attr type="major" source="28">Humanistic Environmental Design</attr>
+      <attr type="othername" source="28">Michael G. Robertson</attr>
+      <attr type="school" source="28">Sangamon State University</attr>
+      <attr type="school" source="28">University of Missouri</attr>
+      <attr type="school" source="28">Rockford College</attr>
+      <attr type="major" source="28">English Lit</attr>
+      <attr type="relatives" source="28">Alicia Isdes</attr>
+      <attr type="affiliation" source="28">U.S. Navy</attr>
+      <attr type="birthplace" source="28">Kansas City Missouri</attr>
+      <attr type="major" source="28">20th Century Homesteading</attr>
+      <attr type="relatives" source="28">Carla Robinson</attr>
+      <attr type="school" source="28">Lee&apos;s Summit Senior High</attr>
+      <attr type="major" source="28">Creative Writing</attr>
+      <attr type="relatives" source="28">Denise Bowmaker</attr>
+      <attr type="relatives" source="28">John Anthony Robertson</attr>
+      <attr type="dateofbirth" source="28">1945</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="89">Safety Officer</attr>
+      <attr type="occupation" source="89">Assistant Chief Flight Instructor</attr>
+      <attr type="affiliation" source="89">Aviation Flight</attr>
+      <attr type="location" source="89">OBYoung 3B</attr>
+      <attr type="phone" source="89">(618) 453-9264</attr>
+      <attr type="email" source="89">mike17@siu.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="27">Canadian Snowboard team</attr>
+      <attr type="location" source="27">CANMORE, AB CAN</attr>
+      <attr type="nationality" source="27">Canadian</attr>
+      <attr type="nationality" source="27">CAN</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="47" />
+      <doc rank="68" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="68">Himmerhaul Services</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="127" />
+      <doc rank="57" />
+    </documents>
+    <attributes>
+      <attr type="location" source="127">London</attr>
+      <attr type="affiliation" source="127">cash and trade</attr>
+      <attr type="occupation" source="127">regional head</attr>
+      <attr type="occupation" source="127">e-business head</attr>
+      <attr type="occupation" source="127">chief operating officer</attr>
+      <attr type="affiliation" source="127">cash management and trade</attr>
+      <attr type="affiliation" source="127">Standard Chartered</attr>
+      <attr type="affiliation" source="127">Citibank</attr>
+      <attr type="affiliation" source="57">cash and trade</attr>
+      <attr type="affiliation" source="57">cash management and trade</attr>
+      <attr type="occupation" source="57">head</attr>
+      <attr type="affiliation" source="57">product management for corporate and institutional banking</attr>
+      <attr type="occupation" source="57">regional head</attr>
+      <attr type="location" source="57">London</attr>
+      <attr type="nationality" source="57">American</attr>
+      <attr type="occupation" source="57">chief operating officer</attr>
+      <attr type="occupation" source="57">e-business head</attr>
+      <attr type="affiliation" source="57">Year 2000 programme</attr>
+      <attr type="affiliation" source="57">Citibank</attr>
+      <attr type="occupation" source="57">director</attr>
+      <attr type="affiliation" source="57">Standard Chartered</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="3" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="3">228-275-7500</attr>
+      <attr type="occupation" source="3">REALTOR?</attr>
+      <attr type="occupation" source="3">REALTOR&amp;#174;</attr>
+      <attr type="occupation" source="3">GRI</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="58" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="31">
+    <documents>
+      <doc rank="34" />
+    </documents>
+    <attributes>
+      <attr type="email" source="34">math-0221-01-004@calpoly.edu</attr>
+      <attr type="affiliation" source="34">CalPoly</attr>
+      <attr type="email" source="34">math-0221-02-004@calpoly.edu</attr>
+      <attr type="affiliation" source="34">Mathematics department</attr>
+      <attr type="affiliation" source="34">Mathematics Department</attr>
+      <attr type="email" source="34">math-0328-02-004@calpoly.edu</attr>
+      <attr type="affiliation" source="34">Cal Poly State University</attr>
+      <attr type="email" source="34">math-0328-01-004@calpoly.edu</attr>
+      <attr type="email" source="34">jroberts@calpoly.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="32">
+    <documents>
+      <doc rank="46" />
+    </documents>
+    <attributes>
+      <attr type="location" source="46">11505 S. Easley Road Columbia, Missouri 65203</attr>
+      <attr type="affiliation" source="46">WebGuy</attr>
+      <attr type="email" source="46">mike@webguycomo.com</attr>
+      <attr type="phone" source="46">(573) 443-8925</attr>
+    </attributes>
+  </entity>
+  <entity id="33">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="school" source="30">Radio College of Canada</attr>
+      <attr type="occupation" source="30">Manager</attr>
+      <attr type="affiliation" source="30">Commport Aerospace</attr>
+      <attr type="affiliation" source="30">NCR</attr>
+      <attr type="occupation" source="30">Product Manager</attr>
+      <attr type="school" source="30">Sir Sanford Fleming</attr>
+      <attr type="affiliation" source="30">Commport Communications</attr>
+      <attr type="affiliation" source="30">Product Development</attr>
+      <attr type="occupation" source="30">Customer Systems Engineer</attr>
+      <attr type="occupation" source="30">Field Engineer</attr>
+      <attr type="affiliation" source="30">Ice Hockey Referees Network Group</attr>
+      <attr type="affiliation" source="30">Bell Canada</attr>
+      <attr type="affiliation" source="30">IATA</attr>
+      <attr type="occupation" source="30">Director</attr>
+      <attr type="affiliation" source="30">Product Development at Commport Communications</attr>
+      <attr type="affiliation" source="30">Product Development at Commport Aerospace Systems Limited</attr>
+      <attr type="occupation" source="30">Telecommunications Consultant and Professional</attr>
+      <attr type="affiliation" source="30">ITT Courier</attr>
+      <attr type="affiliation" source="30">280 Group</attr>
+      <attr type="affiliation" source="30">Product Development at Commport Aerospace</attr>
+      <attr type="affiliation" source="30">Commport Aerospace Systems Limited</attr>
+      <attr type="location" source="30">Toronto, Canada Area</attr>
+    </attributes>
+  </entity>
+  <entity id="34">
+    <documents>
+      <doc rank="16" />
+      <doc rank="122" />
+      <doc rank="61" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="16">Bright House Networks</attr>
+      <attr type="affiliation" source="16">BHN</attr>
+      <attr type="affiliation" source="16">Paragon</attr>
+      <attr type="location" source="16">Florida</attr>
+      <attr type="affiliation" source="16">Bright House Networks (BHN) Tampa Bay Division</attr>
+      <attr type="affiliation" source="16">Bright Kids Network</attr>
+      <attr type="affiliation" source="16">Bright House Networks Tampa Bay Division</attr>
+      <attr type="occupation" source="16">Senior Vice President</attr>
+      <attr type="affiliation" source="16">Tampa Bay division</attr>
+      <attr type="affiliation" source="16">board of the Florida Cable and Telecommunications Association</attr>
+      <attr type="affiliation" source="16">Board of Directors for Big Brothers and Big Sisters and Junior Achievement</attr>
+      <attr type="affiliation" source="16">BKN</attr>
+      <attr type="affiliation" source="16">Operations</attr>
+      <attr type="occupation" source="16">Division President</attr>
+      <attr type="degree" source="16">MBA</attr>
+      <attr type="affiliation" source="16">Time Warner Cable</attr>
+      <attr type="affiliation" source="16">BHN&#65533;fs Tampa Bay Division</attr>
+      <attr type="school" source="16">University of Tampa</attr>
+      <attr type="school" source="16">University of Colorado</attr>
+      <attr type="affiliation" source="16">ATC</attr>
+      <attr type="affiliation" source="16">American Television &amp; Communications</attr>
+      <attr type="occupation" source="16">executive</attr>
+      <attr type="affiliation" source="16">FCTA</attr>
+      <attr type="affiliation" source="122">Bright House</attr>
+      <attr type="occupation" source="122">senior VP</attr>
+      <attr type="occupation" source="122">division president</attr>
+      <attr type="location" source="122">Tampa Bay, Fla.</attr>
+      <attr type="affiliation" source="122">operations</attr>
+      <attr type="affiliation" source="122">Bright House Networks</attr>
+      <attr type="affiliation" source="61">operations for the Tampa Bay division</attr>
+      <attr type="affiliation" source="61">Paragon</attr>
+      <attr type="affiliation" source="61">board of the Florida Cable and Telecommunications Association</attr>
+      <attr type="occupation" source="61">senior vice president</attr>
+      <attr type="affiliation" source="61">Tampa cluster</attr>
+      <attr type="occupation" source="61">president</attr>
+      <attr type="occupation" source="61">executive vice president</attr>
+      <attr type="affiliation" source="61">Bright Kids Network</attr>
+      <attr type="affiliation" source="61">American Television &amp; Communications</attr>
+      <attr type="affiliation" source="61">board of directors for Junior Achievement and Big Brothers and Big Sisters</attr>
+      <attr type="affiliation" source="61">Bright House Networks</attr>
+      <attr type="affiliation" source="61">Bright House</attr>
+      <attr type="affiliation" source="61">operations</attr>
+      <attr type="affiliation" source="61">Tampa Bay division</attr>
+      <attr type="affiliation" source="61">Tampa Unit</attr>
+      <attr type="affiliation" source="61">BHN</attr>
+      <attr type="affiliation" source="61">Time Warner Cable</attr>
+    </attributes>
+  </entity>
+  <entity id="35">
+    <documents>
+      <doc rank="129" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="36">
+    <documents>
+      <doc rank="97" />
+      <doc rank="72" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="72">debt management expert</attr>
+    </attributes>
+  </entity>
+  <entity id="37">
+    <documents>
+      <doc rank="120" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="120">coach</attr>
+      <attr type="affiliation" source="120">Hokes Bluff</attr>
+      <attr type="affiliation" source="120">Eagles</attr>
+    </attributes>
+  </entity>
+  <entity id="38">
+    <documents>
+      <doc rank="102" />
+      <doc rank="108" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="102">Air Staff</attr>
+      <attr type="email" source="102">news@kkountry.com</attr>
+      <attr type="email" source="102">mikerobertson@kkountry.com</attr>
+      <attr type="work" source="108">Ole Country Newscaster</attr>
+      <attr type="work" source="108">BIG MORNING SHOW</attr>
+    </attributes>
+  </entity>
+  <entity id="39">
+    <documents>
+      <doc rank="85" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="work" source="54">Universal Star Time</attr>
+      <attr type="othername" source="54">Scott Robertson</attr>
+      <attr type="work" source="54">The Children Show</attr>
+      <attr type="work" source="54">The Headmaster</attr>
+      <attr type="work" source="54">The Dinah Shore Chevy Show</attr>
+      <attr type="dateofbirth" source="54">22 February 1955</attr>
+      <attr type="work" source="54">Guess Who&apos;s Not Coming to Dinner</attr>
+      <attr type="work" source="54">Steve Canyon</attr>
+      <attr type="work" source="54">A Brief Encounter</attr>
+      <attr type="work" source="54">The Eighth Day</attr>
+      <attr type="work" source="54">The Chrysler Theater</attr>
+      <attr type="work" source="54">Period of Adjustment</attr>
+      <attr type="birthplace" source="54">Los Angeles, California, USA</attr>
+      <attr type="occupation" source="54">Actor</attr>
+      <attr type="work" source="54">Brace Yourself</attr>
+      <attr type="work" source="54">Ghosts, Goblins &amp; Kids</attr>
+      <attr type="work" source="54">Blackmail</attr>
+      <attr type="work" source="54">The Dinah Shore Show</attr>
+      <attr type="work" source="54">The Brady Bunch</attr>
+      <attr type="work" source="54">Bob Hope Presents the Chrysler Theatre</attr>
+      <attr type="work" source="54">Children Are People</attr>
+    </attributes>
+  </entity>
+</clustering>

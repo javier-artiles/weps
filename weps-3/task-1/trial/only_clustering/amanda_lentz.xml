@@ -1,0 +1,157 @@
+<clustering searchString="AMANDA LENTZ">
+  <entity id="1">
+    <documents>
+      <doc rank="5" />
+      <doc rank="89" />
+      <doc rank="36" />
+      <doc rank="37" />
+      <doc rank="38" />
+    </documents>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="87" />
+    </documents>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="111" />
+    </documents>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="113" />
+      <doc rank="56" />
+      <doc rank="80" />
+      <doc rank="91" />
+      <doc rank="58" />
+      <doc rank="82" />
+      <doc rank="11" />
+      <doc rank="53" />
+      <doc rank="84" />
+      <doc rank="114" />
+      <doc rank="116" />
+      <doc rank="123" />
+      <doc rank="109" />
+      <doc rank="106" />
+      <doc rank="33" />
+      <doc rank="41" />
+      <doc rank="39" />
+      <doc rank="8" />
+    </documents>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="51" />
+      <doc rank="17" />
+      <doc rank="66" />
+      <doc rank="73" />
+    </documents>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="67" />
+      <doc rank="44" />
+      <doc rank="92" />
+      <doc rank="52" />
+    </documents>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="18" />
+    </documents>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="6" />
+      <doc rank="3" />
+      <doc rank="60" />
+      <doc rank="2" />
+      <doc rank="86" />
+    </documents>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="47" />
+      <doc rank="76" />
+      <doc rank="61" />
+      <doc rank="10" />
+      <doc rank="75" />
+      <doc rank="24" />
+      <doc rank="78" />
+      <doc rank="81" />
+      <doc rank="14" />
+      <doc rank="23" />
+      <doc rank="68" />
+      <doc rank="35" />
+      <doc rank="83" />
+      <doc rank="9" />
+      <doc rank="70" />
+      <doc rank="71" />
+      <doc rank="96" />
+      <doc rank="28" />
+      <doc rank="62" />
+      <doc rank="79" />
+      <doc rank="13" />
+      <doc rank="12" />
+    </documents>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="69" />
+    </documents>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="26" />
+    </documents>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="104" />
+      <doc rank="99" />
+    </documents>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="90" />
+    </documents>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="1" />
+      <doc rank="16" />
+    </documents>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="85" />
+    </documents>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="63" />
+    </documents>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="45" />
+    </documents>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="25" />
+    </documents>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="42" />
+    </documents>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="29" />
+      <doc rank="22" />
+    </documents>
+  </entity>
+</clustering>

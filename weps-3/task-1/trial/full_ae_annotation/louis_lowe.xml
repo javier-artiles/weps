@@ -1,0 +1,507 @@
+<clustering searchString="LOUIS LOWE">
+  <entity id="1">
+    <documents>
+      <doc rank="111" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="55" />
+    </documents>
+    <attributes>
+      <attr type="school" source="55">FRANKLIN HIGH SCHOOL</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="38" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="38">Pizza delivery driver</attr>
+      <attr type="othername" source="38">Louis Lowe III</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="44" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="130" />
+    </documents>
+    <attributes>
+      <attr type="school" source="130">Stephen F. Austin High School</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="60" />
+      <doc rank="104" />
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="60">Lowe, L.</attr>
+      <attr type="location" source="63">Atlanta, Georgia</attr>
+      <attr type="othername" source="63">Lowe, L.</attr>
+      <attr type="othername" source="63">L. E. Lowe</attr>
+      <attr type="othername" source="63">L. Lowe</attr>
+      <attr type="affiliation" source="63">Measles, Mumps, Rubella, and Herpesviruses Laboratory Branch, Centers for Disease Control and Prevention</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="30">Richard</attr>
+      <attr type="relatives" source="30">Kathleen (Tim) Heir</attr>
+      <attr type="relatives" source="30">Beatrice and Earl Lowe</attr>
+      <attr type="affiliation" source="30">DM&amp;IR</attr>
+      <attr type="relatives" source="30">Karppinen</attr>
+      <attr type="school" source="30">University of Minnesota Law School</attr>
+      <attr type="birthplace" source="30">Phillips, Wis.</attr>
+      <attr type="othername" source="30">Robert Louis Lowe</attr>
+      <attr type="relatives" source="30">James (Audrey) Lowe</attr>
+      <attr type="relatives" source="30">Carolyn (Nathan) Dungan</attr>
+      <attr type="location" source="30">Roselawn Cemetery, Roseville</attr>
+      <attr type="relatives" source="30">Jean</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="26" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="26">Leland Smith Builders</attr>
+      <attr type="relatives" source="26">Debby Baumgardt</attr>
+      <attr type="relatives" source="26">Judy Sherman</attr>
+      <attr type="dateofbirth" source="26">April 29, 1927</attr>
+      <attr type="relatives" source="26">Charles Clifton</attr>
+      <attr type="relatives" source="26">Richard Lowe</attr>
+      <attr type="relatives" source="26">Kenneth &#65533;gMooch&#65533;h Lowe</attr>
+      <attr type="affiliation" source="26">American Legion</attr>
+      <attr type="affiliation" source="26">Lowe Construction Company</attr>
+      <attr type="relatives" source="26">Mabel (Elrod) Lowe</attr>
+      <attr type="relatives" source="26">Ray Kenneth</attr>
+      <attr type="othername" source="26">Georgie L. Lowe</attr>
+      <attr type="birthplace" source="26">Oakland Ky.</attr>
+      <attr type="relatives" source="26">Sue Carol (Studle) Lowe</attr>
+      <attr type="othername" source="26">Georgie Louis Lowe</attr>
+      <attr type="dateofbirth" source="26">1927</attr>
+      <attr type="affiliation" source="26">U.S. Army</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="27" />
+      <doc rank="24" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="27">professional dancer</attr>
+      <attr type="othername" source="27">Burns</attr>
+      <attr type="othername" source="27">Mary Louis Lowe Burns</attr>
+      <attr type="othername" source="24">Burns</attr>
+      <attr type="othername" source="24">Mary Louis Lowe Burns</attr>
+      <attr type="occupation" source="24">professional dancer</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="17">Eddie L. Lowe</attr>
+      <attr type="birthplace" source="17">Washington, DC</attr>
+      <attr type="othername" source="17">Eddie Louis Lowe, Sr.</attr>
+      <attr type="affiliation" source="17">Super Fresh</attr>
+      <attr type="relatives" source="17">Beatrice (Samuel) Porter</attr>
+      <attr type="relatives" source="17">Wendy, and Karen Lowe</attr>
+      <attr type="dateofbirth" source="17">August 14, 1940</attr>
+      <attr type="relatives" source="17">Viola (John) Washington</attr>
+      <attr type="relatives" source="17">Gladys Sarratt</attr>
+      <attr type="occupation" source="17">owner</attr>
+      <attr type="relatives" source="17">Lesia Eldridge</attr>
+      <attr type="school" source="17">Phelps Vocational High School</attr>
+      <attr type="relatives" source="17">Lonnie (Dareather), Earl (Hazel), Kenneth, Michael, and Richard Lowe</attr>
+      <attr type="relatives" source="17">Gladys</attr>
+      <attr type="affiliation" source="17">Lowe&apos;s Limousine Service, Inc.</attr>
+      <attr type="relatives" source="17">Doris London</attr>
+      <attr type="relatives" source="17">Edna Lowe-Martin</attr>
+      <attr type="othername" source="17">Eddie</attr>
+      <attr type="occupation" source="17">operator</attr>
+      <attr type="relatives" source="17">Lonnie and Vietta Whitehurst Lowe</attr>
+      <attr type="affiliation" source="17">A&amp;P Food Store</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="81" />
+      <doc rank="100" />
+      <doc rank="70" />
+      <doc rank="132" />
+      <doc rank="53" />
+      <doc rank="66" />
+      <doc rank="62" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="81">Rev.</attr>
+      <attr type="phone" source="100">573-624-3344</attr>
+      <attr type="occupation" source="100">Pastor</attr>
+      <attr type="fax" source="100">573-624-1964</attr>
+      <attr type="affiliation" source="100">First United Methodist Church</attr>
+      <attr type="occupation" source="70">Rev.</attr>
+      <attr type="occupation" source="132">Rev.</attr>
+      <attr type="phone" source="132">573-624-3344</attr>
+      <attr type="occupation" source="132">Pastor</attr>
+      <attr type="affiliation" source="132">First United Methodist Church</attr>
+      <attr type="phone" source="132">573-624-4455</attr>
+      <attr type="occupation" source="53">Rev.</attr>
+      <attr type="occupation" source="66">Rev.</attr>
+      <attr type="occupation" source="62">Rev.</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="133" />
+      <doc rank="22" />
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="133">Ed</attr>
+      <attr type="relatives" source="133">Anne Souders Lowe</attr>
+      <attr type="relatives" source="133">Edward Mark Lowe, Sr.</attr>
+      <attr type="othername" source="133">Edward Louis Lowe</attr>
+      <attr type="othername" source="22">Edward Louis Lowe</attr>
+      <attr type="relatives" source="22">Ed</attr>
+      <attr type="relatives" source="22">Lowe, Sr., Edward Mark</attr>
+      <attr type="relatives" source="22">Anne Souders Lowe</attr>
+      <attr type="relatives" source="22">Edward Mark Lowe, Sr.</attr>
+      <attr type="relatives" source="31">Edward Mark Lowe, Sr.</attr>
+      <attr type="relatives" source="31">Anne Souders Lowe</attr>
+      <attr type="relatives" source="31">Ed</attr>
+      <attr type="relatives" source="31">EDWARD LOWE</attr>
+      <attr type="othername" source="31">Edward Louis Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="99" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="99">Custodian</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="105" />
+    </documents>
+    <attributes>
+      <attr type="school" source="105">Vallejo</attr>
+      <attr type="school" source="105">Jacksonville</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="115" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="115">Second Presbyterian Church</attr>
+      <attr type="occupation" source="115">elder</attr>
+      <attr type="affiliation" source="115">Second Church</attr>
+      <attr type="occupation" source="115">Attorney</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="25" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="25">RE</attr>
+      <attr type="occupation" source="25">E</attr>
+      <attr type="occupation" source="25">re</attr>
+      <attr type="dateofbirth" source="25">June 21, 1895</attr>
+      <attr type="occupation" source="25">RT</attr>
+      <attr type="affiliation" source="25">FRN</attr>
+      <attr type="birthplace" source="25">Arlington, MA</attr>
+      <attr type="affiliation" source="25">CLE</attr>
+      <attr type="affiliation" source="25">PRV</attr>
+      <attr type="school" source="25">Lafayette</attr>
+      <attr type="affiliation" source="25">CAN</attr>
+      <attr type="occupation" source="25">le</attr>
+      <attr type="school" source="25">Fordham</attr>
+      <attr type="othername" source="25">Henry Louis Lowe Jr.</attr>
+      <attr type="occupation" source="25">T</attr>
+      <attr type="othername" source="25">Bull Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="119" />
+      <doc rank="72" />
+      <doc rank="121" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="119">Carol Louis Lowe</attr>
+      <attr type="othername" source="72">Carol Louis Lowe</attr>
+      <attr type="othername" source="121">Carol Louis Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="9" />
+      <doc rank="126" />
+      <doc rank="4" />
+      <doc rank="40" />
+      <doc rank="15" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="9">Composer</attr>
+      <attr type="work" source="9">Midwest Funk, Vol. 3</attr>
+      <attr type="work" source="9">For My Protection</attr>
+      <attr type="occupation" source="9">Executive Producer</attr>
+      <attr type="occupation" source="126">Composer</attr>
+      <attr type="work" source="126">Midwest Funk, Vol. 3</attr>
+      <attr type="occupation" source="126">Executive Producer</attr>
+      <attr type="work" source="4">For My Protection</attr>
+      <attr type="occupation" source="4">Composer</attr>
+      <attr type="work" source="4">Midwest Funk, Vol. 3</attr>
+      <attr type="occupation" source="4">Executive Producer</attr>
+      <attr type="occupation" source="4">A&amp;R</attr>
+      <attr type="occupation" source="40">Composer</attr>
+      <attr type="work" source="40">Midwest Funk, Vol. 3</attr>
+      <attr type="work" source="40">More Than Words</attr>
+      <attr type="occupation" source="40">Executive Producer</attr>
+      <attr type="occupation" source="40">Composers</attr>
+      <attr type="work" source="15">Live and Learn</attr>
+      <attr type="occupation" source="15">A&amp;R</attr>
+      <attr type="work" source="15">No Ph E-Mails</attr>
+      <attr type="occupation" source="15">Composers</attr>
+      <attr type="work" source="15">Time Runs Short [Remix]</attr>
+      <attr type="work" source="15">Let&apos;s Get It Twisted</attr>
+      <attr type="work" source="15">Marz Attacks</attr>
+      <attr type="work" source="15">Power of the Real</attr>
+      <attr type="occupation" source="15">Executive Producer</attr>
+      <attr type="work" source="15">Nahm Ghettos</attr>
+      <attr type="work" source="15">Dead Man&apos;s Song</attr>
+      <attr type="work" source="15">Making Money Moves</attr>
+      <attr type="work" source="15">Gingerbread Man (Outro)</attr>
+      <attr type="work" source="15">For My Protection</attr>
+      <attr type="work" source="15">Gingerbread Man (Intro)</attr>
+      <attr type="work" source="15">No Lies</attr>
+      <attr type="work" source="15">One Day</attr>
+      <attr type="work" source="15">2X&apos;s Tuff</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="47" />
+      <doc rank="33" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="47">Assistant Principal</attr>
+      <attr type="mentor" source="47">Michael Cavanaugh</attr>
+      <attr type="affiliation" source="47">CHS</attr>
+      <attr type="occupation" source="33">Assistant Principal</attr>
+      <attr type="mentor" source="33">Michael Cavanaugh</attr>
+      <attr type="location" source="33">920 E. Broadway Cuero, Texas 77954</attr>
+      <attr type="phone" source="33">(361)275-6157</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="14" />
+    </documents>
+    <attributes>
+      <attr type="location" source="14">SAYVILLE,   NY   11782</attr>
+      <attr type="affiliation" source="14">SAYVILLE MS</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="school" source="28">Wilberforce University</attr>
+      <attr type="occupation" source="28">MP</attr>
+      <attr type="affiliation" source="28">Southampton Rangers Club Board of Trustees</attr>
+      <attr type="affiliation" source="28">Rangers Sports Club</attr>
+      <attr type="occupation" source="28">Deputy Speaker</attr>
+      <attr type="affiliation" source="28">House</attr>
+      <attr type="affiliation" source="28">PLP</attr>
+      <attr type="occupation" source="28">Hon.</attr>
+      <attr type="occupation" source="28">Speakers Chair</attr>
+      <attr type="othername" source="28">Stanley Lowe</attr>
+      <attr type="school" source="28">Heron Bay School</attr>
+      <attr type="occupation" source="28">Speaker</attr>
+      <attr type="othername" source="28">Stanley William Louis Lowe</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="150" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="123" />
+      <doc rank="19" />
+      <doc rank="112" />
+      <doc rank="85" />
+      <doc rank="139" />
+      <doc rank="75" />
+      <doc rank="135" />
+      <doc rank="86" />
+      <doc rank="69" />
+      <doc rank="83" />
+      <doc rank="1" />
+      <doc rank="16" />
+      <doc rank="90" />
+      <doc rank="67" />
+      <doc rank="2" />
+      <doc rank="56" />
+      <doc rank="124" />
+      <doc rank="125" />
+      <doc rank="144" />
+      <doc rank="122" />
+      <doc rank="88" />
+      <doc rank="148" />
+      <doc rank="134" />
+      <doc rank="12" />
+      <doc rank="145" />
+      <doc rank="18" />
+      <doc rank="61" />
+      <doc rank="128" />
+      <doc rank="78" />
+      <doc rank="116" />
+      <doc rank="91" />
+      <doc rank="98" />
+      <doc rank="79" />
+      <doc rank="108" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="123">State Governors</attr>
+      <attr type="othername" source="123">Enoch Louis Lowe</attr>
+      <attr type="affiliation" source="112">Democrat</attr>
+      <attr type="occupation" source="112">Gov.</attr>
+      <attr type="othername" source="112">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="85">politicians</attr>
+      <attr type="othername" source="85">Enoch Louis Lowe</attr>
+      <attr type="dateofbirth" source="85">August 10</attr>
+      <attr type="occupation" source="139">Gov.</attr>
+      <attr type="othername" source="139">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="75">Governors</attr>
+      <attr type="dateofbirth" source="75">1820</attr>
+      <attr type="othername" source="75">Enoch Louis Lowe</attr>
+      <attr type="affiliation" source="75">Democratic Party</attr>
+      <attr type="affiliation" source="75">Dem</attr>
+      <attr type="othername" source="135">E. Louis Lowe</attr>
+      <attr type="occupation" source="135">Governor</attr>
+      <attr type="occupation" source="86">governor</attr>
+      <attr type="othername" source="86">Enoch Louis Lowe</attr>
+      <attr type="location" source="86">St. John the Evangelist&apos;s cemetery</attr>
+      <attr type="othername" source="69">Enouch Louis Lowe</attr>
+      <attr type="othername" source="83">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="83">Governor</attr>
+      <attr type="affiliation" source="1">Maryland House of Delegates</attr>
+      <attr type="occupation" source="1">U.S. Presidential elector</attr>
+      <attr type="othername" source="1">Enoch Louis Lowe</attr>
+      <attr type="dateofbirth" source="1">August 10, 1820</attr>
+      <attr type="occupation" source="1">Governor</attr>
+      <attr type="occupation" source="16">Governor</attr>
+      <attr type="othername" source="16">Enoch, Louis Lowe</attr>
+      <attr type="othername" source="90">Enoch Louis Lowe</attr>
+      <attr type="dateofbirth" source="90">1824</attr>
+      <attr type="occupation" source="67">Governor</attr>
+      <attr type="othername" source="67">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="2">U.S. Presidential elector</attr>
+      <attr type="dateofbirth" source="2">August 10, 1820</attr>
+      <attr type="othername" source="2">Enoch Louis Lowe</attr>
+      <attr type="othername" source="2">Enoch Lowe</attr>
+      <attr type="occupation" source="2">Governor</attr>
+      <attr type="othername" source="56">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="56">Governors</attr>
+      <attr type="dateofbirth" source="56">1820</attr>
+      <attr type="othername" source="124">Enoch Louis Lowe</attr>
+      <attr type="affiliation" source="124">Democrat</attr>
+      <attr type="dateofbirth" source="124">1820</attr>
+      <attr type="occupation" source="124">Governor</attr>
+      <attr type="othername" source="125">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="125">Governor</attr>
+      <attr type="location" source="125">116 East Second Street, Frederick, MD 21701</attr>
+      <attr type="location" source="125">St. John&apos;s</attr>
+      <attr type="location" source="125">St. John&apos;s Cemetery</attr>
+      <attr type="occupation" source="144">Governor</attr>
+      <attr type="othername" source="144">E. Louis Lowe</attr>
+      <attr type="occupation" source="122">Gov.</attr>
+      <attr type="othername" source="122">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="88">Governor</attr>
+      <attr type="othername" source="88">Enoch, Louis Lowe</attr>
+      <attr type="othername" source="148">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="148">Governor</attr>
+      <attr type="othername" source="134">R. Louis Lowe</attr>
+      <attr type="occupation" source="134">Governor</attr>
+      <attr type="birthplace" source="12">Frederick, Maryland</attr>
+      <attr type="othername" source="12">Enoch Louis Lowe</attr>
+      <attr type="school" source="12">Jesuit College</attr>
+      <attr type="school" source="12">Clongowes Wood Colleg</attr>
+      <attr type="occupation" source="12">governor</attr>
+      <attr type="school" source="12">St. John&apos;s School</attr>
+      <attr type="birthplace" source="12">Maryland</attr>
+      <attr type="location" source="12">St. John&apos;s Catholic Cemetery in Frederick, Maryland</attr>
+      <attr type="othername" source="12">ENOCH LOUIS LOWE</attr>
+      <attr type="occupation" source="12">Democratic presidential elector</attr>
+      <attr type="affiliation" source="12">Democrat</attr>
+      <attr type="relatives" source="12">Esther Winder Polk</attr>
+      <attr type="affiliation" source="12">Maryland House of Delegates</attr>
+      <attr type="dateofbirth" source="12">August 10, 1820</attr>
+      <attr type="school" source="12">Clongowa Wood College</attr>
+      <attr type="occupation" source="12">Governor</attr>
+      <attr type="occupation" source="145">Hon.</attr>
+      <attr type="othername" source="145">E. Louis Lowe</attr>
+      <attr type="affiliation" source="128">Maryland House of Delegates</attr>
+      <attr type="location" source="128">Saint Johns Cemetery Frederick Frederick County Maryland, USA</attr>
+      <attr type="affiliation" source="128">presidential elector</attr>
+      <attr type="othername" source="128">Enoch Louis Lowe</attr>
+      <attr type="dateofbirth" source="128">Sep. 10, 1820</attr>
+      <attr type="birthplace" source="128">Frederick County Maryland, USA</attr>
+      <attr type="occupation" source="128">Governor</attr>
+      <attr type="othername" source="78">Enoch Louis Lowe</attr>
+      <attr type="dateofbirth" source="78">August 10</attr>
+      <attr type="occupation" source="78">politicians</attr>
+      <attr type="dateofbirth" source="116">1820</attr>
+      <attr type="nationality" source="116">U.S.</attr>
+      <attr type="othername" source="116">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="116">Politicians</attr>
+      <attr type="location" source="91">St John the Evangelist Cthlc</attr>
+      <attr type="othername" source="91">Enoch Louis Lowe</attr>
+      <attr type="location" source="91">116 E 2nd St, Frederick, MD 21701</attr>
+      <attr type="occupation" source="91">Governor</attr>
+      <attr type="location" source="91">St. John&apos;s</attr>
+      <attr type="othername" source="98">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="98">Governors</attr>
+      <attr type="affiliation" source="98">Democratic</attr>
+      <attr type="othername" source="79">E. Louis Lowe</attr>
+      <attr type="occupation" source="79">Governor</attr>
+      <attr type="othername" source="108">Enoch Louis Lowe</attr>
+      <attr type="occupation" source="108">politician</attr>
+      <attr type="occupation" source="108">governor</attr>
+      <attr type="nationality" source="108">American</attr>
+      <attr type="othername" source="108">ENOCH LOUIS LOWE</attr>
+      <attr type="affiliation" source="108">Democratic</attr>
+    </attributes>
+  </entity>
+</clustering>

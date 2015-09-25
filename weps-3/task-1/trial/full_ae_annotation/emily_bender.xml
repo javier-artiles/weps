@@ -1,0 +1,511 @@
+<clustering searchString="EMILY BENDER">
+  <entity id="1">
+    <documents>
+      <doc rank="96" />
+      <doc rank="22" />
+      <doc rank="99" />
+      <doc rank="90" />
+      <doc rank="136" />
+      <doc rank="39" />
+      <doc rank="95" />
+      <doc rank="15" />
+      <doc rank="48" />
+      <doc rank="132" />
+      <doc rank="70" />
+      <doc rank="5" />
+      <doc rank="51" />
+      <doc rank="140" />
+      <doc rank="36" />
+      <doc rank="58" />
+      <doc rank="33" />
+      <doc rank="49" />
+      <doc rank="21" />
+      <doc rank="76" />
+      <doc rank="66" />
+      <doc rank="14" />
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="location" source="96">Fairfax</attr>
+      <attr type="affiliation" source="96">Solstice</attr>
+      <attr type="affiliation" source="22">Nutrition for  Whole Family</attr>
+      <attr type="affiliation" source="99">Solstice</attr>
+      <attr type="location" source="99">Fairfax</attr>
+      <attr type="email" source="90">Emily@gourmelping.com</attr>
+      <attr type="occupation" source="136">certified nutrition consultant</attr>
+      <attr type="relatives" source="136">Abraham</attr>
+      <attr type="location" source="136">Fairfax</attr>
+      <attr type="occupation" source="39">N.C</attr>
+      <attr type="occupation" source="39">certified nutritionist</attr>
+      <attr type="occupation" source="39">nutritionist</attr>
+      <attr type="location" source="39">Bay Area</attr>
+      <attr type="occupation" source="39">nutrition consultant</attr>
+      <attr type="website" source="39">http://www.gourmelping.com</attr>
+      <attr type="occupation" source="95">certified nutrition consultant</attr>
+      <attr type="affiliation" source="95">Hawthorn Health and Nutrition Institute</attr>
+      <attr type="occupation" source="95">faculty</attr>
+      <attr type="occupation" source="95">author</attr>
+      <attr type="email" source="15">Emily@nutritionforwholefamily.com</attr>
+      <attr type="phone" source="15">415-259-4471</attr>
+      <attr type="occupation" source="15">CHN</attr>
+      <attr type="occupation" source="15">NC</attr>
+      <attr type="occupation" source="48">N.C</attr>
+      <attr type="occupation" source="48">C.H.N</attr>
+      <attr type="email" source="48">Emily@nutritionforwholefamily.com</attr>
+      <attr type="website" source="48">www.nutritionforwholefamily.com</attr>
+      <attr type="phone" source="48">415-259-4471</attr>
+      <attr type="affiliation" source="48">Nutrition for  Whole Family</attr>
+      <attr type="affiliation" source="48">Nutrition Masters program at Hawthorn University</attr>
+      <attr type="work" source="48">Our Bodies, Ourselves</attr>
+      <attr type="location" source="48">Fairfax</attr>
+      <attr type="occupation" source="48">Nutrition Consultant</attr>
+      <attr type="occupation" source="48">scholar</attr>
+      <attr type="occupation" source="132">Soprano</attr>
+      <attr type="affiliation" source="132">Solstice</attr>
+      <attr type="school" source="132">Oberlin College</attr>
+      <attr type="occupation" source="70">author</attr>
+      <attr type="affiliation" source="70">Hawthorn Health and Nutrition Institute</attr>
+      <attr type="occupation" source="70">faculty</attr>
+      <attr type="occupation" source="70">certified nutrition consultant</attr>
+      <attr type="relatives" source="5">Abraham</attr>
+      <attr type="degree" source="5">B.A</attr>
+      <attr type="occupation" source="5">author</attr>
+      <attr type="occupation" source="5">expert reader</attr>
+      <attr type="major" source="5">Interdisciplinary Art</attr>
+      <attr type="work" source="5">Our Bodies, Ourselves</attr>
+      <attr type="occupation" source="5">certified nutrition consultant</attr>
+      <attr type="occupation" source="5">scholar</attr>
+      <attr type="affiliation" source="5">Hawthorn University</attr>
+      <attr type="major" source="5">French</attr>
+      <attr type="school" source="5">San Francisco State University</attr>
+      <attr type="occupation" source="5">monthly columnist</attr>
+      <attr type="school" source="5">Oberlin College</attr>
+      <attr type="degree" source="5">M.A</attr>
+      <attr type="occupation" source="5">faculty</attr>
+      <attr type="affiliation" source="5">Solstice</attr>
+      <attr type="affiliation" source="140">Nutrition for  Whole Family</attr>
+      <attr type="occupation" source="140">NC</attr>
+      <attr type="occupation" source="140">CHN</attr>
+      <attr type="email" source="36">emily@nutritionforwholefamily.com</attr>
+      <attr type="work" source="36">Our Bodies, Ourselves</attr>
+      <attr type="affiliation" source="36">Nutrition for  Whole Family</attr>
+      <attr type="website" source="36">www.nutritionforwholefamily.com</attr>
+      <attr type="occupation" source="36">nutrition consultant</attr>
+      <attr type="occupation" source="36">CHN</attr>
+      <attr type="email" source="36">Emily@nutritionforwholefamily.com</attr>
+      <attr type="occupation" source="36">Faculty member</attr>
+      <attr type="affiliation" source="36">Hawthorn University</attr>
+      <attr type="birthplace" source="36">Norrn Californa</attr>
+      <attr type="occupation" source="36">NC</attr>
+      <attr type="phone" source="36">415-259-4471</attr>
+      <attr type="occupation" source="58">NC</attr>
+      <attr type="occupation" source="58">nutrition guide</attr>
+      <attr type="occupation" source="58">health advocate</attr>
+      <attr type="degree" source="58">M.A</attr>
+      <attr type="work" source="58">Our Bodies, Ourselves</attr>
+      <attr type="occupation" source="33">certified nutrition consultant</attr>
+      <attr type="occupation" source="33">author</attr>
+      <attr type="affiliation" source="33">Hawthorn Health and Nutrition Institute</attr>
+      <attr type="occupation" source="33">faculty</attr>
+      <attr type="affiliation" source="49">Solstice</attr>
+      <attr type="school" source="21">Institute for Educational rapy</attr>
+      <attr type="school" source="21">San Francisco State University</attr>
+      <attr type="occupation" source="21">childcare provider</attr>
+      <attr type="occupation" source="21">nutritionist</attr>
+      <attr type="major" source="21">Interdisciplinary Art</attr>
+      <attr type="occupation" source="21">cook</attr>
+      <attr type="occupation" source="21">fellow</attr>
+      <attr type="school" source="21">Oberlin College</attr>
+      <attr type="work" source="21">Our Bodies Ourselves for the New Century</attr>
+      <attr type="occupation" source="21">Nutrition Consultant</attr>
+      <attr type="major" source="21">French</attr>
+      <attr type="degree" source="21">M.A</attr>
+      <attr type="occupation" source="21">artist</attr>
+      <attr type="occupation" source="21">preschool teacher</attr>
+      <attr type="degree" source="21">BA</attr>
+      <attr type="occupation" source="21">NC</attr>
+      <attr type="occupation" source="21">musician</attr>
+      <attr type="affiliation" source="76">Hawthorn Health and Nutrition Institute</attr>
+      <attr type="occupation" source="76">faculty</attr>
+      <attr type="occupation" source="76">author</attr>
+      <attr type="occupation" source="76">certified nutrition consultant</attr>
+      <attr type="occupation" source="66">faculty</attr>
+      <attr type="occupation" source="66">certified nutrition consultant</attr>
+      <attr type="occupation" source="66">author</attr>
+      <attr type="affiliation" source="66">Hawthorn Health and Nutrition Institute</attr>
+      <attr type="school" source="14">Oberlin College</attr>
+      <attr type="affiliation" source="14">Solstice</attr>
+      <attr type="occupation" source="14">soprano</attr>
+      <attr type="major" source="14">French</attr>
+      <attr type="occupation" source="14">nutrition counselor</attr>
+      <attr type="affiliation" source="14">Nutrition for  Whole Family</attr>
+      <attr type="location" source="14">Fairfax</attr>
+      <attr type="occupation" source="27">Certified Nutrition Consultant</attr>
+      <attr type="location" source="27">Fairfax</attr>
+      <attr type="email" source="27">emily@gourmelping.com</attr>
+      <attr type="occupation" source="27">nutrition professional</attr>
+      <attr type="occupation" source="27">Nutritionist</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="110" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="110">Mary Anne</attr>
+      <attr type="relatives" source="110">Danny</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="64" />
+      <doc rank="43" />
+      <doc rank="125" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="64">Coordinator</attr>
+      <attr type="affiliation" source="64">South Sacramento Coalition for Future Leaders</attr>
+      <attr type="affiliation" source="64">SSCFL</attr>
+      <attr type="email" source="43">emily@mutualhousing.com</attr>
+      <attr type="phone" source="43">(916) 388-9522</attr>
+      <attr type="affiliation" source="43">SSCFL</attr>
+      <attr type="occupation" source="43">Coordinator</attr>
+      <attr type="affiliation" source="43">South Sacramento Coalition for Future Leaders</attr>
+      <attr type="occupation" source="125">Community Organizer</attr>
+      <attr type="affiliation" source="125">Sacramento Mutual Housing Association</attr>
+      <attr type="email" source="125">emily@mutualhousing.com</attr>
+      <attr type="phone" source="125">916.453.8400 (ext. 42)</attr>
+      <attr type="phone" source="125">916.453.8400</attr>
+      <attr type="occupation" source="125">Coalition Coordinator</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="59" />
+      <doc rank="101" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="59">printmaker</attr>
+      <attr type="work" source="59">Sepia Turtle</attr>
+      <attr type="occupation" source="101">printmaker</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="61" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="61">Bel-Airs</attr>
+      <attr type="location" source="61">Ohio</attr>
+      <attr type="affiliation" source="61">Rick and  Cutting Edge</attr>
+      <attr type="affiliation" source="61">Accent</attr>
+      <attr type="affiliation" source="61">Victory Boulevard</attr>
+      <attr type="affiliation" source="61">Maxx</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="108" />
+      <doc rank="89" />
+      <doc rank="84" />
+    </documents>
+    <attributes>
+      <attr type="work" source="108">James and the Giant Peach</attr>
+      <attr type="work" source="108">Giant Peach</attr>
+      <attr type="occupation" source="108">Elementary school students</attr>
+      <attr type="occupation" source="89">Elementary school students</attr>
+      <attr type="work" source="89">James and the Giant Peach</attr>
+      <attr type="work" source="89">Giant Peach</attr>
+      <attr type="work" source="84">Giant Peach</attr>
+      <attr type="work" source="84">James and the Giant Peach</attr>
+      <attr type="occupation" source="84">Elementary school students</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="20" />
+      <doc rank="52" />
+      <doc rank="57" />
+      <doc rank="104" />
+      <doc rank="88" />
+      <doc rank="116" />
+      <doc rank="82" />
+      <doc rank="68" />
+      <doc rank="46" />
+      <doc rank="139" />
+      <doc rank="114" />
+      <doc rank="4" />
+      <doc rank="85" />
+      <doc rank="69" />
+      <doc rank="106" />
+      <doc rank="107" />
+      <doc rank="3" />
+      <doc rank="25" />
+      <doc rank="91" />
+      <doc rank="120" />
+      <doc rank="19" />
+      <doc rank="79" />
+      <doc rank="28" />
+      <doc rank="121" />
+      <doc rank="47" />
+      <doc rank="6" />
+      <doc rank="1" />
+      <doc rank="128" />
+      <doc rank="73" />
+      <doc rank="145" />
+      <doc rank="7" />
+      <doc rank="53" />
+      <doc rank="111" />
+      <doc rank="24" />
+      <doc rank="141" />
+      <doc rank="54" />
+    </documents>
+    <attributes>
+      <attr type="mentor" source="57">Tom Wasow</attr>
+      <attr type="degree" source="57">Phd</attr>
+      <attr type="mentor" source="57">John Rickford</attr>
+      <attr type="school" source="57">Stanford University</attr>
+      <attr type="othername" source="57">Bender Emily M.</attr>
+      <attr type="othername" source="57">Bender Emily</attr>
+      <attr type="mentor" source="57">Ivan Sag</attr>
+      <attr type="mentor" source="57">Arnold Zwicky</attr>
+      <attr type="mentor" source="57">Penny Eckert</attr>
+      <attr type="othername" source="104">Emily M. Bender</attr>
+      <attr type="work" source="104">Syntactic Theory: A Formal Introduction</attr>
+      <attr type="othername" source="88">Emily M. Bender</attr>
+      <attr type="work" source="88">Syntactic theory :a formal introduction</attr>
+      <attr type="affiliation" source="116">Linguistics</attr>
+      <attr type="occupation" source="116">Assistant Professor</attr>
+      <attr type="affiliation" source="116">University of Washington</attr>
+      <attr type="affiliation" source="139">University of Washington advisory boards</attr>
+      <attr type="affiliation" source="139">UW Computational Linguistics</attr>
+      <attr type="occupation" source="139">Professor</attr>
+      <attr type="othername" source="114">Emily M. Bender</attr>
+      <attr type="occupation" source="114">Prof</attr>
+      <attr type="othername" source="69">Emily M. Bender</attr>
+      <attr type="othername" source="106">Emily M. Bender</attr>
+      <attr type="affiliation" source="106">University of Washington</attr>
+      <attr type="school" source="107">Stanford</attr>
+      <attr type="affiliation" source="107">University of Washington</attr>
+      <attr type="degree" source="107">Dr</attr>
+      <attr type="othername" source="107">Emily M. Bender</attr>
+      <attr type="degree" source="107">PhD</attr>
+      <attr type="othername" source="3">Bender, Emily M.</attr>
+      <attr type="othername" source="3">Emily M. Bender</attr>
+      <attr type="othername" source="3">Bender, Emily</attr>
+      <attr type="location" source="91">United States</attr>
+      <attr type="location" source="91">Greater Seattle Area</attr>
+      <attr type="affiliation" source="91">Computer Science &amp; Engineering University of Washington</attr>
+      <attr type="affiliation" source="91">Professional Master&apos;s Program in Computational Linguistics</attr>
+      <attr type="occupation" source="91">Adjunct Assistant Professor</attr>
+      <attr type="affiliation" source="91">University of Washington</attr>
+      <attr type="occupation" source="91">Director</attr>
+      <attr type="occupation" source="91">Assistant Professor</attr>
+      <attr type="occupation" source="28">Prof</attr>
+      <attr type="email" source="28">turing@cs.washington.edu</attr>
+      <attr type="mentor" source="121">Penny Eckert</attr>
+      <attr type="othername" source="121">Bender Emily</attr>
+      <attr type="mentor" source="121">Tom Wasow</attr>
+      <attr type="mentor" source="121">John Rickford</attr>
+      <attr type="school" source="121">Stanford University</attr>
+      <attr type="othername" source="121">Bender Emily M</attr>
+      <attr type="mentor" source="121">Ivan Sag</attr>
+      <attr type="mentor" source="121">Arnold Zwicky</attr>
+      <attr type="degree" source="121">Phd</attr>
+      <attr type="affiliation" source="47">Turing Center at  University of Washington</attr>
+      <attr type="occupation" source="47">Directors</attr>
+      <attr type="occupation" source="47">Officers</attr>
+      <attr type="occupation" source="47">Assistant Professor</attr>
+      <attr type="affiliation" source="47">Utilika Foundation</attr>
+      <attr type="occupation" source="47">Vice President</attr>
+      <attr type="affiliation" source="47">University of Washington Department of Linguistics</attr>
+      <attr type="affiliation" source="47">Linguistics</attr>
+      <attr type="occupation" source="47">Director B</attr>
+      <attr type="location" source="6">Greater Seattle Area</attr>
+      <attr type="affiliation" source="6">DELPH-IN</attr>
+      <attr type="affiliation" source="6">Stanford University Alumni</attr>
+      <attr type="affiliation" source="6">University of Washington</attr>
+      <attr type="affiliation" source="6">Computer Science &amp; Engineering at University of Washington</attr>
+      <attr type="affiliation" source="6">Professional Master&apos;s Program in Computational Linguistics</attr>
+      <attr type="affiliation" source="6">Professional Master&apos;s Program in Computational Linguistics at University of Washington</attr>
+      <attr type="affiliation" source="6">Association for Computational Linguistics</attr>
+      <attr type="occupation" source="6">Assistant Professor</attr>
+      <attr type="affiliation" source="6">Linguistics</attr>
+      <attr type="affiliation" source="6">Linguistics at University of Washington</attr>
+      <attr type="degree" source="6">PhD</attr>
+      <attr type="occupation" source="6">Director</attr>
+      <attr type="degree" source="6">AB</attr>
+      <attr type="affiliation" source="6">California Alumni Association (UC Berkeley)</attr>
+      <attr type="affiliation" source="6">Linguistic Society of America</attr>
+      <attr type="major" source="6">Linguistics</attr>
+      <attr type="affiliation" source="6">Computer Science &amp; Engineering</attr>
+      <attr type="school" source="6">University of California Berkeley</attr>
+      <attr type="affiliation" source="6">University of California Alumni (Berkeley)</attr>
+      <attr type="occupation" source="6">Adjunct Assistant Professor</attr>
+      <attr type="affiliation" source="6">Natural Language Processing People</attr>
+      <attr type="school" source="6">Stanford University</attr>
+      <attr type="school" source="6">Tohoku Daigaku</attr>
+      <attr type="othername" source="128">Emily M. Bender</attr>
+      <attr type="occupation" source="73">Assistant Professor</attr>
+      <attr type="email" source="73">ebender@u.washington.edu</attr>
+      <attr type="affiliation" source="73">Department of Linguistics UW</attr>
+      <attr type="affiliation" source="73">University of Washington</attr>
+      <attr type="occupation" source="73">Professor</attr>
+      <attr type="affiliation" source="73">UW Linguistics</attr>
+      <attr type="work" source="145">Syntactic Theory: A Formal Introduction. 2nd ed</attr>
+      <attr type="affiliation" source="7">University of Washington</attr>
+      <attr type="occupation" source="7">Authors</attr>
+      <attr type="work" source="7">Syntactic Theory: a formal introduction, Second Edition Instructor&apos;s Manual</attr>
+      <attr type="work" source="7">Syntactic Theory</attr>
+      <attr type="othername" source="7">Emily M. Bender</attr>
+      <attr type="othername" source="53">Emily M. Bender</attr>
+      <attr type="affiliation" source="111">UW</attr>
+      <attr type="occupation" source="111">faculty</attr>
+      <attr type="occupation" source="111">assistant professor</attr>
+      <attr type="affiliation" source="111">linguistics</attr>
+      <attr type="affiliation" source="111">Computational Linguistics program</attr>
+      <attr type="affiliation" source="111">Computational linguistics</attr>
+      <attr type="affiliation" source="111">University of Washington</attr>
+      <attr type="othername" source="24">Emily M. Bender</attr>
+      <attr type="othername" source="24">Bender Emily</attr>
+      <attr type="othername" source="24">Bender Emily M</attr>
+      <attr type="work" source="141">Syntactic theory: a formal introduction</attr>
+      <attr type="othername" source="54">Emily M. Bender</attr>
+      <attr type="work" source="54">Syntactic Theory Instructor&apos;s Manual</attr>
+      <attr type="work" source="54">Syntactic Theory, 2nd Edition: A Formal Introduction</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="2" />
+      <doc rank="63" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="86" />
+      <doc rank="71" />
+      <doc rank="60" />
+      <doc rank="97" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="86">JR</attr>
+      <attr type="birthplace" source="86">Duluth Ga</attr>
+      <attr type="affiliation" source="86">Berry</attr>
+      <attr type="occupation" source="71">SR</attr>
+      <attr type="occupation" source="71">MF</attr>
+      <attr type="birthplace" source="71">Duluth Ga</attr>
+      <attr type="affiliation" source="71">Berry</attr>
+      <attr type="occupation" source="60">players</attr>
+      <attr type="affiliation" source="60">Vikings</attr>
+      <attr type="affiliation" source="60">Berry College</attr>
+      <attr type="affiliation" source="60">Berry</attr>
+      <attr type="location" source="60">2277 Martha Berry Hwy NW ? Mount Berry, GA 30149</attr>
+      <attr type="affiliation" source="97">Lady Vikings</attr>
+      <attr type="affiliation" source="97">Berry</attr>
+      <attr type="affiliation" source="97">Lady Vikes</attr>
+      <attr type="affiliation" source="97">Berry&#65533;fs soccer team</attr>
+      <attr type="occupation" source="97">team captain</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="18" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="18">612.483.4300</attr>
+      <attr type="email" source="18">Benderemily@mac.com</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="62" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="62">Pianist</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="11" />
+      <doc rank="98" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="98">Sarah</attr>
+      <attr type="affiliation" source="98">BYU</attr>
+      <attr type="relatives" source="98">Robin</attr>
+      <attr type="relatives" source="98">Lee-Ann</attr>
+      <attr type="birthplace" source="98">Cleveland Ohio</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="109">juniors</attr>
+      <attr type="affiliation" source="109">MOUNT</attr>
+      <attr type="occupation" source="109">STUDENTS</attr>
+      <attr type="location" source="109">Flourtown</attr>
+      <attr type="affiliation" source="109">Mount Saint Joseph Academy</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="35" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="35">Assumption High School</attr>
+      <attr type="occupation" source="35">Juniors</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="92" />
+      <doc rank="87" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="92">SOPRANO</attr>
+      <attr type="occupation" source="87">Concert Crew</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="78" />
+      <doc rank="67" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="34" />
+      <doc rank="40" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="34">James and Amy Bender</attr>
+      <attr type="relatives" source="40">James and Amy Bender</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="77" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="77">Assistant Director</attr>
+      <attr type="work" source="77">MOTHERlands</attr>
+      <attr type="othername" source="77">Emily J. Bender</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="93">DVFA</attr>
+      <attr type="affiliation" source="93">Delaware Volunteer Fireman&apos;s Association</attr>
+    </attributes>
+  </entity>
+</clustering>

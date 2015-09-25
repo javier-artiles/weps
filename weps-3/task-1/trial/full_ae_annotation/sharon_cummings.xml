@@ -1,0 +1,618 @@
+<clustering searchString="SHARON CUMMINGS">
+  <entity id="1">
+    <documents>
+      <doc rank="21" />
+      <doc rank="29" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="21">W.Va. Dept. of Administration</attr>
+      <attr type="affiliation" source="21">West Virginia Department of Administration</attr>
+      <attr type="occupation" source="21">Pre-Press Service Technician</attr>
+      <attr type="othername" source="21">SHARON K. CUMMINGS</attr>
+      <attr type="affiliation" source="21">Consolidated Publishing Facility</attr>
+      <attr type="affiliation" source="29">W.Va. Dept. of Administration</attr>
+      <attr type="othername" source="29">SHARON K. CUMMINGS</attr>
+      <attr type="affiliation" source="29">West Virginia Department of Administration</attr>
+      <attr type="affiliation" source="29">WEST VIRGINIA DEPARTMENT OF ADMINISTRATION</attr>
+      <attr type="affiliation" source="29">Consolidated Publishing Facility</attr>
+      <attr type="occupation" source="29">Pre-Press Service Technician</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="27" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="27">SassyInIowa</attr>
+      <attr type="occupation" source="27">Message Board Administrators</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="87" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="33" />
+      <doc rank="17" />
+      <doc rank="48" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="33">Deja Vu Theatre Productions</attr>
+      <attr type="affiliation" source="33">Deja Vu</attr>
+      <attr type="work" source="33">Insecure</attr>
+      <attr type="occupation" source="33">chief executive officer</attr>
+      <attr type="work" source="33">One Love</attr>
+      <attr type="birthplace" source="33">Jamaica</attr>
+      <attr type="affiliation" source="17">D?j? Vu Theatre</attr>
+      <attr type="occupation" source="17">owner</attr>
+      <attr type="birthplace" source="17">Jamaica</attr>
+      <attr type="location" source="17">Jacksonville</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="85">SCSO Board</attr>
+      <attr type="occupation" source="85">Public Relations Manager</attr>
+      <attr type="affiliation" source="85">SCSO</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="22" />
+      <doc rank="112" />
+      <doc rank="60" />
+      <doc rank="18" />
+      <doc rank="121" />
+      <doc rank="2" />
+      <doc rank="20" />
+      <doc rank="24" />
+      <doc rank="139" />
+      <doc rank="36" />
+      <doc rank="15" />
+      <doc rank="4" />
+      <doc rank="13" />
+      <doc rank="26" />
+      <doc rank="63" />
+      <doc rank="62" />
+      <doc rank="56" />
+      <doc rank="14" />
+      <doc rank="7" />
+      <doc rank="54" />
+      <doc rank="16" />
+      <doc rank="37" />
+      <doc rank="80" />
+      <doc rank="31" />
+      <doc rank="34" />
+      <doc rank="11" />
+    </documents>
+    <attributes>
+      <attr type="website" source="22">http://www.absolutearts.com/portfolios/t/terracegallery</attr>
+      <attr type="work" source="22">House of Blue</attr>
+      <attr type="work" source="22">Awakening</attr>
+      <attr type="location" source="22">Tampa, FL United States</attr>
+      <attr type="occupation" source="22">Artist</attr>
+      <attr type="email" source="112">ttgallery_47@yahoo.com</attr>
+      <attr type="website" source="112">www.yessy.com/terracegallery</attr>
+      <attr type="website" source="112">www.terracegallery.com</attr>
+      <attr type="affiliation" source="112">Terrace Gallery</attr>
+      <attr type="affiliation" source="112">terracegallery gallery</attr>
+      <attr type="occupation" source="112">Professional Full-Time Artist</attr>
+      <attr type="degree" source="18">M.A.</attr>
+      <attr type="affiliation" source="121">Terrace Gallery</attr>
+      <attr type="degree" source="2">M.A.</attr>
+      <attr type="affiliation" source="2">Terrace Gallery</attr>
+      <attr type="work" source="20">Dream Catcher</attr>
+      <attr type="work" source="20">Currents</attr>
+      <attr type="work" source="20">Spring Divas</attr>
+      <attr type="work" source="20">Onda Rossa</attr>
+      <attr type="work" source="20">Black Magic 158</attr>
+      <attr type="affiliation" source="20">Terrace Gallery</attr>
+      <attr type="work" source="20">Together</attr>
+      <attr type="work" source="20">Pure Water 161</attr>
+      <attr type="work" source="20">Black Magic 167</attr>
+      <attr type="work" source="20">Spring Splendor</attr>
+      <attr type="work" source="20">GICLEE ART Zen Land...</attr>
+      <attr type="work" source="20">Pure Water 166</attr>
+      <attr type="work" source="20">Pure Water 144</attr>
+      <attr type="work" source="20">Black Magic 168</attr>
+      <attr type="work" source="20">Mardi Gras</attr>
+      <attr type="work" source="20">Wisdom</attr>
+      <attr type="work" source="20">Illuminaries</attr>
+      <attr type="work" source="20">Pure Water 163</attr>
+      <attr type="work" source="20">Black Magic 164</attr>
+      <attr type="work" source="20">Black Magic 166</attr>
+      <attr type="work" source="20">Pure Water 126 - Bl...</attr>
+      <attr type="affiliation" source="20">terracegallery</attr>
+      <attr type="work" source="20">Laughing Sea</attr>
+      <attr type="work" source="24">Bloom - Abstract Red Poppy Art Painting Poppies</attr>
+      <attr type="othername" source="24">Sharon A Aal-Cummings</attr>
+      <attr type="work" source="24">Awakening - Colorful Vibrant Abstract Art Painting Oversized</attr>
+      <attr type="work" source="24">A River Runs Through It - Abstract Colorful Art Painting</attr>
+      <attr type="work" source="24">3 Ways To Zen - Abstract Asian Earthtone Brown Art Painting</attr>
+      <attr type="work" source="24">A Day To Remember - Abstract Landscape Blue Art Painting</attr>
+      <attr type="work" source="24">Arctic Auras - Abstract Blue Art Painting</attr>
+      <attr type="affiliation" source="24">Terrace Gallery</attr>
+      <attr type="work" source="139">Labor Of Love series</attr>
+      <attr type="affiliation" source="36">Terrace Gallery</attr>
+      <attr type="phone" source="15">(813) 983-9241</attr>
+      <attr type="occupation" source="15">Artist</attr>
+      <attr type="work" source="15">Crimson Shore</attr>
+      <attr type="work" source="15">Sea Song (Song of The Sea)</attr>
+      <attr type="work" source="15">Counting Rings</attr>
+      <attr type="work" source="15">Black Magic</attr>
+      <attr type="location" source="15">Tampa, FL 33617  United States</attr>
+      <attr type="work" source="4">Ascension</attr>
+      <attr type="work" source="4">A Higher Plane</attr>
+      <attr type="work" source="4">Black &amp; White Art M...</attr>
+      <attr type="work" source="4">Illuminaries</attr>
+      <attr type="work" source="4">Blue Pure Water 163</attr>
+      <attr type="occupation" source="4">Artist</attr>
+      <attr type="work" source="4">Dream Catcher</attr>
+      <attr type="location" source="4">United States</attr>
+      <attr type="work" source="4">Breaking Through</attr>
+      <attr type="work" source="4">Onda Rossa</attr>
+      <attr type="work" source="4">Currents</attr>
+      <attr type="work" source="4">Blue Pure Water 170</attr>
+      <attr type="work" source="13">Blue Sky - Abstract Modern Landscape Art Oversized</attr>
+      <attr type="work" source="13">Three Poppies - Colorful Red Poppy Art Painting</attr>
+      <attr type="work" source="13">Blue City - Abstract Modern Art Landscape Painting</attr>
+      <attr type="work" source="13">Bloom - Abstract Art Painting Poppy Red Poppies</attr>
+      <attr type="work" source="13">The Power Of One - Earthtone Oversized Painting</attr>
+      <attr type="occupation" source="13">full time professional artist</attr>
+      <attr type="work" source="13">Summer Sun - Warm Abstract Landscape Earthtones</attr>
+      <attr type="major" source="13">Fine Art</attr>
+      <attr type="work" source="13">Summer Wind Abstract Brown Earthtone Art Painting</attr>
+      <attr type="work" source="13">A Day To Remember - Abstract Landscape Art</attr>
+      <attr type="work" source="13">The Goddesses Of The Garden - Abstract Flowers Art</attr>
+      <attr type="degree" source="13">M.A.</attr>
+      <attr type="affiliation" source="13">Terrace Gallery</attr>
+      <attr type="work" source="13">Pure Koi Joy - Abstract Pond Fish Painting Art</attr>
+      <attr type="degree" source="13">Masters Degree</attr>
+      <attr type="work" source="13">Arctic Auras Abstract Blue Art Oversized Painting</attr>
+      <attr type="work" source="13">Flowers Are For Sharing</attr>
+      <attr type="work" source="13">A River Runs Through It - Abstract Colorful Art</attr>
+      <attr type="work" source="13">Inner Heat - Abstract Textured Oversized Painting</attr>
+      <attr type="work" source="13">The Roots Of Love Run Deep - Poppy Art</attr>
+      <attr type="work" source="13">The Girl In The Garden - Abstract Female Nude Art</attr>
+      <attr type="work" source="26">Healing He ...</attr>
+      <attr type="affiliation" source="26">Terrace Gallery</attr>
+      <attr type="work" source="26">Golden Pea ...</attr>
+      <attr type="work" source="26">Spring Pop ...</attr>
+      <attr type="occupation" source="26">professional full-time artist</attr>
+      <attr type="work" source="26">Dreaming T ...</attr>
+      <attr type="work" source="26">Summer Sun</attr>
+      <attr type="website" source="26">http://TerraceGallery.boundlessgallery.com</attr>
+      <attr type="work" source="63">Exuberance</attr>
+      <attr type="work" source="63">Muse In The Fire</attr>
+      <attr type="location" source="62">Florida</attr>
+      <attr type="occupation" source="62">personal trainer</attr>
+      <attr type="major" source="62">art</attr>
+      <attr type="location" source="62">United States</attr>
+      <attr type="email" source="62">ttgallery_47@yahoo.com</attr>
+      <attr type="othername" source="62">Aal-Cummings</attr>
+      <attr type="school" source="62">Universtiy of Tampa</attr>
+      <attr type="phone" source="62">813-983-9241</attr>
+      <attr type="occupation" source="62">Artist</attr>
+      <attr type="work" source="14">Journey To Zen</attr>
+      <attr type="phone" source="14">813-983-9241</attr>
+      <attr type="work" source="14">Sun Shadow</attr>
+      <attr type="work" source="14">Exuberance</attr>
+      <attr type="work" source="14">Muse In The Fire</attr>
+      <attr type="location" source="14">Florida</attr>
+      <attr type="website" source="14">http://www.terracegallery.com/</attr>
+      <attr type="work" source="14">Dreaming In Color</attr>
+      <attr type="website" source="14">http://www.yessy.com/terracegallery</attr>
+      <attr type="work" source="14">Ruby</attr>
+      <attr type="website" source="14">http://sharoncummings.artspan.com/</attr>
+      <attr type="work" source="14">Fire Nymph</attr>
+      <attr type="work" source="14">Blue Sky</attr>
+      <attr type="occupation" source="14">Artist</attr>
+      <attr type="work" source="7">Onda Rossa</attr>
+      <attr type="work" source="7">Currents</attr>
+      <attr type="work" source="7">Blue Pure Water 163</attr>
+      <attr type="location" source="7">United States</attr>
+      <attr type="work" source="7">Breaking Through</attr>
+      <attr type="work" source="7">Dream Catcher</attr>
+      <attr type="occupation" source="7">Artist</attr>
+      <attr type="work" source="7">Illuminaries</attr>
+      <attr type="work" source="7">Black &amp; White Art M...</attr>
+      <attr type="work" source="7">Blue Pure Water 170</attr>
+      <attr type="work" source="7">Ascension</attr>
+      <attr type="work" source="7">A Higher Plane</attr>
+      <attr type="email" source="54">ttgallery_47@yahoo.com</attr>
+      <attr type="affiliation" source="54">TerraceGallery</attr>
+      <attr type="phone" source="54">813-983-9241</attr>
+      <attr type="work" source="16">Burnished Poppies</attr>
+      <attr type="work" source="16">Genisis 16</attr>
+      <attr type="location" source="16">Tampa United States</attr>
+      <attr type="website" source="16">http://www.yessy.com/terracegallery</attr>
+      <attr type="work" source="16">A Visit With Ama</attr>
+      <attr type="work" source="16">Expansive Muse</attr>
+      <attr type="work" source="16">The Joy Of Flight</attr>
+      <attr type="occupation" source="16">Artist</attr>
+      <attr type="work" source="16">Dancing Moons</attr>
+      <attr type="work" source="16">Emerald Moons</attr>
+      <attr type="work" source="16">Summer Sun</attr>
+      <attr type="work" source="16">Arctic Auras</attr>
+      <attr type="work" source="16">Big Poppies</attr>
+      <attr type="work" source="16">Sun Catchers</attr>
+      <attr type="occupation" source="37">painter</attr>
+      <attr type="location" source="37">Florida</attr>
+      <attr type="work" source="37">Movement</attr>
+      <attr type="work" source="37">Texture</attr>
+      <attr type="occupation" source="37">artist</attr>
+      <attr type="occupation" source="37">Artists</attr>
+      <attr type="work" source="37">Contrast</attr>
+      <attr type="occupation" source="80">Seller</attr>
+      <attr type="location" source="80">Tampa, FL, United States</attr>
+      <attr type="work" source="31">Ruby</attr>
+      <attr type="degree" source="34">MA</attr>
+      <attr type="affiliation" source="34">Terrace Gallery</attr>
+      <attr type="degree" source="11">M.A.</attr>
+      <attr type="occupation" source="11">Professional Full-Time Artist</attr>
+      <attr type="affiliation" source="11">Terrace Gallery</attr>
+      <attr type="email" source="11">ttgallery_47@yahoo.com</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="52" />
+    </documents>
+    <attributes>
+      <attr type="location" source="52">Ashland</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="30" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="19" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="19">Deputy Director</attr>
+      <attr type="location" source="19">London, United Kingdom</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="66" />
+      <doc rank="58" />
+      <doc rank="73" />
+      <doc rank="6" />
+      <doc rank="8" />
+      <doc rank="65" />
+      <doc rank="59" />
+      <doc rank="129" />
+      <doc rank="67" />
+      <doc rank="106" />
+      <doc rank="111" />
+      <doc rank="104" />
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="website" source="58">www.sharoncummings.net</attr>
+      <attr type="location" source="58">Toledo, Ohio</attr>
+      <attr type="occupation" source="58">board member</attr>
+      <attr type="affiliation" source="58">Sharon Cummings Nature Photography</attr>
+      <attr type="affiliation" source="58">Toledo Camera Club</attr>
+      <attr type="affiliation" source="58">Ottawa National Wildlife Refuge Association Board of Directors</attr>
+      <attr type="occupation" source="58">freelance photographer</attr>
+      <attr type="affiliation" source="58">ONWRA</attr>
+      <attr type="location" source="8">Ottawa County, Ohio</attr>
+      <attr type="affiliation" source="8">The Downtown Print Shop</attr>
+      <attr type="affiliation" source="8">Ottawa National Wildlife Refuge</attr>
+      <attr type="occupation" source="8">professional freelance wildlife/nature photographer</attr>
+      <attr type="affiliation" source="8">Toledo Camera Club</attr>
+      <attr type="work" source="67">Dinners Here</attr>
+      <attr type="work" source="67">Cottontail</attr>
+      <attr type="affiliation" source="67">TOLEDO CAMERA CLUB</attr>
+      <attr type="location" source="12">502 Madison Avenue Suite 11 Toledo, OH 43604</attr>
+      <attr type="work" source="12">Sooty Shearwater</attr>
+      <attr type="work" source="12">Eastern Bluebird, male</attr>
+      <attr type="work" source="12">Red-winged Blackbird, male</attr>
+      <attr type="work" source="12">Sanderlings, immature</attr>
+      <attr type="work" source="12">Palm Warbler, breeding</attr>
+      <attr type="work" source="12">Red Squirrel</attr>
+      <attr type="work" source="12">Burrowing Owl</attr>
+      <attr type="work" source="12">Eastern Bluebird, female breeding plumage</attr>
+      <attr type="work" source="12">Burrowing Owls</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="88" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="88">Consumer Protection Division Law Department U.S. Postal Service</attr>
+      <attr type="location" source="88"> Consumer Protection Division Law Department U.S. Postal Service Washington, DC 20260-1100</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="42" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="42">Opalhaus Rockshop</attr>
+      <attr type="affiliation" source="42">M.A.G.M.A.</attr>
+      <attr type="affiliation" source="42">Mountain Area Gem and Mineral Association</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="40" />
+      <doc rank="72" />
+      <doc rank="79" />
+    </documents>
+    <attributes>
+      <attr type="location" source="40">Southern Indiana</attr>
+      <attr type="affiliation" source="72">Blaircroft Labradors</attr>
+      <attr type="location" source="72">9415 Highway 66 Wadesville, Indiana 47638</attr>
+      <attr type="phone" source="72">(812) 985-5175</attr>
+      <attr type="affiliation" source="79">Labs of Blaircroft</attr>
+      <attr type="location" source="79">Wadesville, Indiana USA</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="64" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="64">Michael Vinson</attr>
+      <attr type="relatives" source="64">Chasity Caulder</attr>
+      <attr type="relatives" source="64">Glenn Dale Vinson</attr>
+      <attr type="relatives" source="64">GLENN DALE VINSON</attr>
+      <attr type="relatives" source="64">Dustin Vinson</attr>
+      <attr type="relatives" source="64">Dianna Harris</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="23">FLEET BANK</attr>
+      <attr type="affiliation" source="23">Aqua America</attr>
+      <attr type="location" source="23">Philadelphia</attr>
+      <attr type="email" source="23">srina49@verizon.net</attr>
+      <attr type="school" source="23">ETI International</attr>
+      <attr type="location" source="23">6227 Jefferson Street</attr>
+      <attr type="affiliation" source="23">keystone mercy</attr>
+      <attr type="occupation" source="23">Customer Service Representative</attr>
+      <attr type="occupation" source="23">Collector</attr>
+      <attr type="occupation" source="23">professional customer service representative</attr>
+      <attr type="affiliation" source="23">Yellow book USA</attr>
+      <attr type="affiliation" source="23">quest diagnostics</attr>
+      <attr type="phone" source="23">(215) 473-4549</attr>
+      <attr type="location" source="23">Philadelphia, Pennsylvania, United States</attr>
+      <attr type="occupation" source="23">Billing Representative</attr>
+      <attr type="occupation" source="23">Galley Review Specialist</attr>
+      <attr type="location" source="23">Philadelphia, PA 19151</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="105" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="105">Eastern Caribbean Supreme Court</attr>
+      <attr type="occupation" source="105">High Court Judge</attr>
+      <attr type="occupation" source="105">Magistrate</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="101" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="101">(301) 249-5000</attr>
+      <attr type="fax" source="101">(301) 249-3838</attr>
+      <attr type="occupation" source="101">Officers</attr>
+      <attr type="affiliation" source="101">St. Barnabas&#65533;f Church</attr>
+      <attr type="affiliation" source="101">St. Barnabas&apos; Episcopal Church, Leeland</attr>
+      <attr type="location" source="101">St. Barnabas&#65533;f Church 14111 Oak Grove Rd. Post Office Box 4528 Upper Marlboro, MD 20775</attr>
+      <attr type="occupation" source="101">Junior Warden</attr>
+      <attr type="occupation" source="101">Convention Deligates</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="76" />
+      <doc rank="44" />
+      <doc rank="35" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="76">Minority Partners</attr>
+      <attr type="othername" source="76">Sharon Cummings Giles</attr>
+      <attr type="affiliation" source="44">Public Employee Relations Board</attr>
+      <attr type="occupation" source="44">Board Members</attr>
+      <attr type="othername" source="44">Sharon Cummings Giles</attr>
+      <attr type="school" source="35">Georgetown University Law Center</attr>
+      <attr type="affiliation" source="35">Editorial Board, American Criminal Law Review, Unleashing the Prosecutor&apos;s Discretion, 20 Am. Crim. L. Rev. 507</attr>
+      <attr type="degree" source="35">J.D.</attr>
+      <attr type="affiliation" source="35">U.S. District Court for the District of Columbia, Advisory Committee on Pro Se Litigation</attr>
+      <attr type="affiliation" source="35">Youth Education Services</attr>
+      <attr type="affiliation" source="35">Lawyers&apos; Committee for Civil Rights Under Law</attr>
+      <attr type="affiliation" source="35">YES</attr>
+      <attr type="occupation" source="35">Chairperson</attr>
+      <attr type="school" source="35">University of South Carolina</attr>
+      <attr type="occupation" source="35">Charter Member</attr>
+      <attr type="othername" source="35">Sharon Cummings Giles</attr>
+      <attr type="affiliation" source="35">Lowell School</attr>
+      <attr type="email" source="35">scgiles@rkmc.com</attr>
+      <attr type="affiliation" source="35">U.S. District Court for the District of Maryland</attr>
+      <attr type="affiliation" source="35">D.C. Bar Community Economic Development Pro Bono Project Advisory Committee</attr>
+      <attr type="location" source="35">1801 K Street, N.W. Suite 1200 Washington, D.C. 20006</attr>
+      <attr type="affiliation" source="35">Phi Beta Kappa</attr>
+      <attr type="affiliation" source="35">Robins, Kaplan, Miller, &amp; Ciresi L.L.P.</attr>
+      <attr type="occupation" source="35">Board Member</attr>
+      <attr type="occupation" source="35">lead trial counsel</attr>
+      <attr type="affiliation" source="35">Public Employee Relations Board</attr>
+      <attr type="degree" source="35">B.A.</attr>
+      <attr type="affiliation" source="35">Committee on Fairness and Access to the Courts of the District of Columbia, D.C. Bar Representative to the Advisory Committee</attr>
+      <attr type="occupation" source="35">Chair</attr>
+      <attr type="affiliation" source="35">Charlotte E. Ray Inn of Court</attr>
+      <attr type="affiliation" source="35">GWAC Foundation, Inc.</attr>
+      <attr type="affiliation" source="35">Fellows of the American Bar Foundation</attr>
+      <attr type="phone" source="35">(202) 775-0725</attr>
+      <attr type="othername" source="35">Giles</attr>
+      <attr type="affiliation" source="35">Committee on Trustees</attr>
+      <attr type="mentor" source="35">Herbert F. Murray</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="115" />
+    </documents>
+    <attributes>
+      <attr type="location" source="115">Louisville, Kentucky</attr>
+      <attr type="affiliation" source="115">Administration L&amp;N Federal Credit Union</attr>
+      <attr type="location" source="115">L&amp;N Federal Credit Union 9265 Smyrna Parkway Louisville, Kentucky 40229</attr>
+      <attr type="fax" source="115">(502) 515-8390</attr>
+      <attr type="email" source="115">Sharon.Cummings@lnfcu.com</attr>
+      <attr type="occupation" source="115">Vice President</attr>
+      <attr type="affiliation" source="115">L&amp;N Federal Credit Union</attr>
+      <attr type="phone" source="115">(502) 515-8329</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="45" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="45">PTA Officers</attr>
+      <attr type="occupation" source="45">Co-President</attr>
+      <attr type="affiliation" source="45">Executive Committee</attr>
+      <attr type="affiliation" source="45">Executive Board</attr>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="109" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="109">515-265-1972</attr>
+      <attr type="affiliation" source="109">Four Mile Elementary</attr>
+      <attr type="fax" source="109">515-262-1933</attr>
+      <attr type="occupation" source="109">Principal</attr>
+      <attr type="location" source="109">670 SE 68th St. Pleasant Hill, IA 50327</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="135" />
+      <doc rank="102" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="135">attorney</attr>
+      <attr type="occupation" source="102">attorney</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="90" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="90">713-500-9041</attr>
+      <attr type="email" source="90">Sharon.S.Cummings@uth.tmc.edu</attr>
+      <attr type="affiliation" source="90">The University of Texas School of Public Health</attr>
+      <attr type="occupation" source="90">Senior Executive Assistant to the Dean</attr>
+      <attr type="occupation" source="90">Dean&#65533;fs Executive Staff</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="82" />
+    </documents>
+    <attributes>
+      <attr type="location" source="82">Canyon Country</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="123" />
+      <doc rank="3" />
+      <doc rank="49" />
+      <doc rank="10" />
+      <doc rank="43" />
+      <doc rank="69" />
+      <doc rank="38" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="3">first class of Red Cross SRAO girls</attr>
+      <attr type="affiliation" source="3">Red Cross</attr>
+      <attr type="othername" source="3">Sharon (Vander Ven) Cummings</attr>
+      <attr type="affiliation" source="3">American Red Cross, SRAO</attr>
+      <attr type="affiliation" source="43">Supplemental Recreational Activities Overseas</attr>
+      <attr type="othername" source="43">Sharon (Vander Ven) Cummings</attr>
+      <attr type="affiliation" source="43">SRAO</attr>
+      <attr type="affiliation" source="43">Red Cross</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="55" />
+    </documents>
+    <attributes>
+      <attr type="location" source="55">Raleigh</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="119" />
+      <doc rank="118" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="89" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="89">Kim</attr>
+      <attr type="relatives" source="89">Krissie Borchard</attr>
+      <attr type="relatives" source="89">William Bishop</attr>
+      <attr type="relatives" source="89">Brook Cummings</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="74" />
+      <doc rank="86" />
+      <doc rank="61" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="74">research coordinator</attr>
+      <attr type="affiliation" source="74">California Smokers&#65533;f Helpline</attr>
+      <attr type="affiliation" source="74">UCSD&apos;S California Smokers&apos; Helpline</attr>
+      <attr type="affiliation" source="74">Helpline</attr>
+      <attr type="affiliation" source="86">UCSD&apos;s California Smokers Helpline</attr>
+      <attr type="occupation" source="86">research coordinator</attr>
+      <attr type="affiliation" source="86">California Smokers&#65533;f Helpline</attr>
+      <attr type="affiliation" source="86">Helpline</attr>
+      <attr type="affiliation" source="61">Helpline</attr>
+      <attr type="affiliation" source="61">California Smokers&#65533;f Helpline</attr>
+      <attr type="affiliation" source="61">UCSD&#65533;fS CALIFORNIA SMOKERS&#65533;f HELPLINE</attr>
+      <attr type="occupation" source="61">research coordinator</attr>
+    </attributes>
+  </entity>
+</clustering>

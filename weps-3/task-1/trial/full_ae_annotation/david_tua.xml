@@ -1,0 +1,469 @@
+<clustering searchString="DAVID TUA">
+  <entity id="1">
+    <documents>
+      <doc rank="3" />
+      <doc rank="6" />
+      <doc rank="54" />
+      <doc rank="53" />
+      <doc rank="91" />
+      <doc rank="29" />
+      <doc rank="34" />
+      <doc rank="107" />
+      <doc rank="65" />
+      <doc rank="73" />
+      <doc rank="39" />
+      <doc rank="90" />
+      <doc rank="59" />
+      <doc rank="31" />
+      <doc rank="57" />
+      <doc rank="2" />
+      <doc rank="64" />
+      <doc rank="105" />
+      <doc rank="10" />
+      <doc rank="17" />
+      <doc rank="45" />
+      <doc rank="110" />
+      <doc rank="33" />
+      <doc rank="27" />
+      <doc rank="13" />
+      <doc rank="82" />
+      <doc rank="9" />
+      <doc rank="4" />
+      <doc rank="81" />
+      <doc rank="104" />
+      <doc rank="37" />
+      <doc rank="98" />
+      <doc rank="60" />
+      <doc rank="1" />
+      <doc rank="75" />
+      <doc rank="38" />
+      <doc rank="63" />
+      <doc rank="108" />
+      <doc rank="46" />
+      <doc rank="103" />
+      <doc rank="51" />
+      <doc rank="78" />
+      <doc rank="67" />
+      <doc rank="25" />
+      <doc rank="102" />
+      <doc rank="77" />
+      <doc rank="87" />
+      <doc rank="18" />
+      <doc rank="22" />
+      <doc rank="68" />
+      <doc rank="16" />
+      <doc rank="112" />
+      <doc rank="52" />
+      <doc rank="32" />
+      <doc rank="7" />
+      <doc rank="5" />
+      <doc rank="26" />
+      <doc rank="21" />
+      <doc rank="23" />
+      <doc rank="72" />
+      <doc rank="76" />
+      <doc rank="70" />
+      <doc rank="12" />
+      <doc rank="42" />
+      <doc rank="49" />
+      <doc rank="96" />
+      <doc rank="61" />
+      <doc rank="101" />
+      <doc rank="85" />
+      <doc rank="41" />
+      <doc rank="56" />
+      <doc rank="47" />
+      <doc rank="15" />
+      <doc rank="24" />
+      <doc rank="28" />
+      <doc rank="66" />
+      <doc rank="69" />
+      <doc rank="20" />
+      <doc rank="30" />
+      <doc rank="36" />
+      <doc rank="80" />
+      <doc rank="84" />
+      <doc rank="43" />
+      <doc rank="86" />
+      <doc rank="83" />
+      <doc rank="74" />
+      <doc rank="89" />
+      <doc rank="40" />
+      <doc rank="93" />
+      <doc rank="111" />
+      <doc rank="97" />
+      <doc rank="11" />
+      <doc rank="71" />
+      <doc rank="94" />
+      <doc rank="19" />
+      <doc rank="95" />
+      <doc rank="14" />
+      <doc rank="88" />
+    </documents>
+    <attributes>
+      <attr type="dateofbirth" source="3">Nov. 21, 1972</attr>
+      <attr type="location" source="3">New Zealand</attr>
+      <attr type="dateofbirth" source="6">November 21, 1972</attr>
+      <attr type="occupation" source="6">fighter</attr>
+      <attr type="location" source="6">South Auckland, New Zealand</attr>
+      <attr type="location" source="6">New Zealand</attr>
+      <attr type="othername" source="6">Tuaman</attr>
+      <attr type="occupation" source="54">heavyweight</attr>
+      <attr type="occupation" source="54">fighters</attr>
+      <attr type="othername" source="54">DT</attr>
+      <attr type="dateofbirth" source="53">21 November 1972</attr>
+      <attr type="location" source="53">United States</attr>
+      <attr type="othername" source="53">Davita Manfaufau Sanerifi</attr>
+      <attr type="relatives" source="53">Tuavale Mafaufau</attr>
+      <attr type="location" source="53">Mangere</attr>
+      <attr type="mentor" source="53">Ronnie Shields</attr>
+      <attr type="mentor" source="53">Kenape Faletoese</attr>
+      <attr type="relatives" source="53">Tuavale</attr>
+      <attr type="occupation" source="53">fighters</attr>
+      <attr type="occupation" source="53">middleweight</attr>
+      <attr type="mentor" source="53">Martin Pugh</attr>
+      <attr type="occupation" source="53">boxers</attr>
+      <attr type="mentor" source="53">Kevin Barry</attr>
+      <attr type="location" source="53">Mangere, Auckland, New Zealand</attr>
+      <attr type="location" source="53">New Zealand</attr>
+      <attr type="location" source="53">Auckland</attr>
+      <attr type="occupation" source="53">professional fighter</attr>
+      <attr type="occupation" source="53">heavyweight</attr>
+      <attr type="birthplace" source="53">Western Samoa, Faleatiu</attr>
+      <attr type="occupation" source="91">fighters</attr>
+      <attr type="othername" source="91">TuaMan</attr>
+      <attr type="othername" source="91">David &#65533;eTuaMan&#65533;f Tua</attr>
+      <attr type="nationality" source="91">Samoan</attr>
+      <attr type="location" source="29">New Zealand</attr>
+      <attr type="mentor" source="29">Cedric Kushner</attr>
+      <attr type="location" source="34">Auckland</attr>
+      <attr type="location" source="34">New Zealand</attr>
+      <attr type="othername" source="107">Tuaman</attr>
+      <attr type="occupation" source="107">fighters</attr>
+      <attr type="othername" source="107">The Tuaman</attr>
+      <attr type="occupation" source="107">boxers</attr>
+      <attr type="occupation" source="107">fighter</attr>
+      <attr type="mentor" source="107">Ronnie Shields</attr>
+      <attr type="othername" source="107">Samoan Sandman</attr>
+      <attr type="occupation" source="107">boxer</attr>
+      <attr type="othername" source="65">Tuaman</attr>
+      <attr type="occupation" source="65">Heavyweights</attr>
+      <attr type="othername" source="39">Tua, David</attr>
+      <attr type="birthplace" source="90">Western Samoa</attr>
+      <attr type="mentor" source="90">Dan Goossen</attr>
+      <attr type="nationality" source="90">Samoan</attr>
+      <attr type="location" source="90">New Zealand</attr>
+      <attr type="occupation" source="59">boxers</attr>
+      <attr type="location" source="59">United States</attr>
+      <attr type="birthplace" source="59">Samoa</attr>
+      <attr type="othername" source="59">the tuaman</attr>
+      <attr type="othername" source="59">Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi</attr>
+      <attr type="occupation" source="59">heavyweight</attr>
+      <attr type="occupation" source="59">boxer</attr>
+      <attr type="occupation" source="59">heavyweights</attr>
+      <attr type="occupation" source="2">heavyweight boxer</attr>
+      <attr type="othername" source="2">Tuaman</attr>
+      <attr type="othername" source="2">Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi</attr>
+      <attr type="mentor" source="2">Kevin Barry</attr>
+      <attr type="birthplace" source="2">Faleatiu, Western Samoa</attr>
+      <attr type="mentor" source="2">Barry</attr>
+      <attr type="affiliation" source="2">Joint Association of Boxers</attr>
+      <attr type="location" source="2">New Zealand</attr>
+      <attr type="occupation" source="2">heavyweight</attr>
+      <attr type="nationality" source="2">Samoan</attr>
+      <attr type="birthplace" source="2">Aopo, Western Samoa</attr>
+      <attr type="mentor" source="2">Martin Pugh</attr>
+      <attr type="mentor" source="2">Kushner</attr>
+      <attr type="dateofbirth" source="2">November 21, 1972</attr>
+      <attr type="othername" source="2">The Terminator</attr>
+      <attr type="affiliation" source="2">Tuaman Inc. Ltd.</attr>
+      <attr type="mentor" source="2">Shields</attr>
+      <attr type="occupation" source="2">unionized boxer</attr>
+      <attr type="mentor" source="2">Cedric Kushner</attr>
+      <attr type="mentor" source="2">Pugh</attr>
+      <attr type="location" source="105">New Zealand</attr>
+      <attr type="location" source="105">Auckland</attr>
+      <attr type="location" source="10">United States</attr>
+      <attr type="relatives" source="10">Uncle Afa</attr>
+      <attr type="location" source="10">Aukland, New Zealand</attr>
+      <attr type="othername" source="10">David &quot;Terminator&quot; Tua</attr>
+      <attr type="dateofbirth" source="10">November 21st</attr>
+      <attr type="relatives" source="10">the Wild Samoan #1</attr>
+      <attr type="nationality" source="10">Samoan</attr>
+      <attr type="relatives" source="10">Afa</attr>
+      <attr type="birthplace" source="10">Samoa</attr>
+      <attr type="othername" source="10">David</attr>
+      <attr type="location" source="10">New Zealand</attr>
+      <attr type="mentor" source="10">Afa</attr>
+      <attr type="othername" source="17">David &#65533;gTuaman&#65533;h Tua</attr>
+      <attr type="mentor" source="17">Cedric Kushner</attr>
+      <attr type="location" source="17">New Zealand</attr>
+      <attr type="occupation" source="17">knockout artist</attr>
+      <attr type="mentor" source="17">Kushner</attr>
+      <attr type="occupation" source="17">heavyweights</attr>
+      <attr type="birthplace" source="17">Samoa</attr>
+      <attr type="mentor" source="45">Martin Pugh</attr>
+      <attr type="location" source="45">New Zealand</attr>
+      <attr type="mentor" source="45">Kevin Barry</attr>
+      <attr type="location" source="45">Auckland</attr>
+      <attr type="occupation" source="45">Heavyweight</attr>
+      <attr type="nationality" source="110">Samoan</attr>
+      <attr type="location" source="110">New Zealand</attr>
+      <attr type="othername" source="110">tuaman</attr>
+      <attr type="occupation" source="33">boxer</attr>
+      <attr type="mentor" source="33">Kevin Barry</attr>
+      <attr type="occupation" source="27">fighter</attr>
+      <attr type="nationality" source="27">Samoan</attr>
+      <attr type="location" source="27">New Zealand</attr>
+      <attr type="occupation" source="27">slugger</attr>
+      <attr type="occupation" source="27">boxer</attr>
+      <attr type="location" source="13">New Zealand</attr>
+      <attr type="occupation" source="13">fighter</attr>
+      <attr type="nationality" source="13">Samoan</attr>
+      <attr type="occupation" source="13">artist</attr>
+      <attr type="nationality" source="82">Samoan</attr>
+      <attr type="mentor" source="82">Ronnie Shields</attr>
+      <attr type="occupation" source="82">fighter</attr>
+      <attr type="location" source="82">New Zealand</attr>
+      <attr type="mentor" source="82">Kevin Barry</attr>
+      <attr type="occupation" source="82">heavyweight</attr>
+      <attr type="occupation" source="82">fighters</attr>
+      <attr type="othername" source="9">TUAMAN</attr>
+      <attr type="othername" source="9">Samoan Sandman</attr>
+      <attr type="occupation" source="9">Heavyweights</attr>
+      <attr type="othername" source="9">David &quot; The TuaMan &quot; Tua</attr>
+      <attr type="location" source="104">New Zealand</attr>
+      <attr type="othername" source="37">Tuaman</attr>
+      <attr type="occupation" source="37">heavyweight</attr>
+      <attr type="occupation" source="37">boxer</attr>
+      <attr type="nationality" source="37">Samoan</attr>
+      <attr type="occupation" source="37">fighter</attr>
+      <attr type="nationality" source="98">New Zealander</attr>
+      <attr type="location" source="98">New Zealand</attr>
+      <attr type="nationality" source="98">Samoan</attr>
+      <attr type="othername" source="75">Tuaman</attr>
+      <attr type="location" source="75">New Zealand</attr>
+      <attr type="mentor" source="75">Roger Bloodworth</attr>
+      <attr type="mentor" source="75">Kushner</attr>
+      <attr type="mentor" source="75">Cedric Kushner</attr>
+      <attr type="occupation" source="75">boxers</attr>
+      <attr type="location" source="75">Auckland</attr>
+      <attr type="othername" source="75">the Tuaman</attr>
+      <attr type="mentor" source="75">Lee Parore</attr>
+      <attr type="nationality" source="38">New Zealander</attr>
+      <attr type="relatives" source="38">Tuavale Mafaufau</attr>
+      <attr type="birthplace" source="38">Western Samoa</attr>
+      <attr type="birthplace" source="38">Western Samoa, Faleatiu</attr>
+      <attr type="location" source="38">New Zealand</attr>
+      <attr type="location" source="38">Aukland, New Zealand</attr>
+      <attr type="location" source="38">Auckland</attr>
+      <attr type="location" source="38">Mangere</attr>
+      <attr type="othername" source="38">David Tua Davita Manfaufau Sanerifi</attr>
+      <attr type="relatives" source="38">Tuavale</attr>
+      <attr type="occupation" source="38">Boxer</attr>
+      <attr type="dateofbirth" source="38">21 November 1972</attr>
+      <attr type="location" source="38">Mangere, Auckland, New Zealand</attr>
+      <attr type="nationality" source="38">Samoan</attr>
+      <attr type="location" source="63">south auckland new zealand</attr>
+      <attr type="location" source="63">New Zealand</attr>
+      <attr type="occupation" source="63">boxer</attr>
+      <attr type="othername" source="63">TUA MAN</attr>
+      <attr type="othername" source="108">The Tuaman</attr>
+      <attr type="occupation" source="108">Heavyweight</attr>
+      <attr type="othername" source="108">Tuaman</attr>
+      <attr type="occupation" source="108">fighter</attr>
+      <attr type="occupation" source="108">boxer</attr>
+      <attr type="website" source="108">http://www.davidtua.net/</attr>
+      <attr type="occupation" source="103">heavyweights</attr>
+      <attr type="occupation" source="103">fighter</attr>
+      <attr type="location" source="103">New Zealand</attr>
+      <attr type="occupation" source="51">heavyweight</attr>
+      <attr type="othername" source="51">Tuaman</attr>
+      <attr type="occupation" source="51">boxers</attr>
+      <attr type="othername" source="51">The Tuaman</attr>
+      <attr type="occupation" source="51">boxer</attr>
+      <attr type="location" source="51">New Zealand</attr>
+      <attr type="occupation" source="51">fighter</attr>
+      <attr type="occupation" source="67">boxer</attr>
+      <attr type="occupation" source="25">fighter</attr>
+      <attr type="occupation" source="25">heavyweight</attr>
+      <attr type="occupation" source="25">heavyweights</attr>
+      <attr type="nationality" source="102">Samoan</attr>
+      <attr type="othername" source="77">Tuaman</attr>
+      <attr type="occupation" source="77">heavyweight</attr>
+      <attr type="mentor" source="77">Martin Pugh</attr>
+      <attr type="occupation" source="77">fighter</attr>
+      <attr type="occupation" source="77">boxer</attr>
+      <attr type="occupation" source="77">knockout artist</attr>
+      <attr type="othername" source="77">Kevin (Barry)</attr>
+      <attr type="occupation" source="77">professional athlete</attr>
+      <attr type="mentor" source="77">Kevin Barry</attr>
+      <attr type="mentor" source="77">Roger Bloodworth</attr>
+      <attr type="othername" source="87">David ???The Tuaman??&#65533;ETua</attr>
+      <attr type="birthplace" source="87">Samoa</attr>
+      <attr type="nationality" source="87">New Zealander</attr>
+      <attr type="location" source="87">United States</attr>
+      <attr type="location" source="87">New Zealand</attr>
+      <attr type="othername" source="87">THE TUAMAN</attr>
+      <attr type="occupation" source="87">fighter</attr>
+      <attr type="location" source="87">Auckland</attr>
+      <attr type="othername" source="87">David &#65533;gThe Tuaman&#65533;h Tua</attr>
+      <attr type="othername" source="87">Tuaman</attr>
+      <attr type="occupation" source="87">heavyweight</attr>
+      <attr type="occupation" source="87">fighters</attr>
+      <attr type="location" source="87">South Auckland, New Zealand</attr>
+      <attr type="dateofbirth" source="18">November 21, 1972</attr>
+      <attr type="location" source="18">Mangere, Auckland, New Zealand</attr>
+      <attr type="mentor" source="18">Kevin Barry</attr>
+      <attr type="occupation" source="18">boxers</attr>
+      <attr type="relatives" source="18">Tuavale</attr>
+      <attr type="nationality" source="18">Samoan</attr>
+      <attr type="othername" source="18">The Terminator</attr>
+      <attr type="occupation" source="18">fighters</attr>
+      <attr type="birthplace" source="18">Western Samoa</attr>
+      <attr type="othername" source="18">Davita Manfaufau Sanerifi</attr>
+      <attr type="birthplace" source="18">Faleatiu</attr>
+      <attr type="othername" source="18">Tuaman</attr>
+      <attr type="location" source="18">Aukland, New Zealand</attr>
+      <attr type="occupation" source="22">fighters</attr>
+      <attr type="location" source="16">New Zealand</attr>
+      <attr type="othername" source="16">Tua-man</attr>
+      <attr type="occupation" source="16">fighter</attr>
+      <attr type="occupation" source="112">fighter</attr>
+      <attr type="nationality" source="32">Samoan</attr>
+      <attr type="occupation" source="32">heavyweight</attr>
+      <attr type="mentor" source="32">Roger Bloodworth</attr>
+      <attr type="othername" source="32">Heavyweight Savior</attr>
+      <attr type="occupation" source="7">heavyweights</attr>
+      <attr type="mentor" source="7">Roger Bloodworth</attr>
+      <attr type="mentor" source="7">Shields</attr>
+      <attr type="location" source="7">Vero Beach, Florida</attr>
+      <attr type="mentor" source="7">Ronnie Shields</attr>
+      <attr type="mentor" source="7">Bloodworth</attr>
+      <attr type="occupation" source="7">fighter</attr>
+      <attr type="othername" source="5">Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi</attr>
+      <attr type="location" source="5">New Zealand</attr>
+      <attr type="occupation" source="21">boxers</attr>
+      <attr type="othername" source="23">David &quot;Terminator&quot; Tua</attr>
+      <attr type="occupation" source="23">Heavyweight boxer</attr>
+      <attr type="dateofbirth" source="23">November 21, 1972</attr>
+      <attr type="occupation" source="72">heavyweight</attr>
+      <attr type="othername" source="72">David &#65533;gThe Tuaman&#65533;h Tua</attr>
+      <attr type="occupation" source="72">fighter</attr>
+      <attr type="location" source="72">United States</attr>
+      <attr type="location" source="72">South Auckland, New Zealand</attr>
+      <attr type="location" source="72">Auckland</attr>
+      <attr type="othername" source="72">Tuaman</attr>
+      <attr type="othername" source="72">The TUAMAN</attr>
+      <attr type="occupation" source="72">fighters</attr>
+      <attr type="birthplace" source="72">Samoa</attr>
+      <attr type="location" source="70">New Zealand</attr>
+      <attr type="occupation" source="70">fighters</attr>
+      <attr type="award" source="70">bronze medal</attr>
+      <attr type="occupation" source="70">pugilist</attr>
+      <attr type="othername" source="70">The Tuaman</attr>
+      <attr type="othername" source="70">Tuaman</attr>
+      <attr type="othername" source="12">David &#65533;gTuaman&#65533;h Tua</attr>
+      <attr type="birthplace" source="12">Samoa</attr>
+      <attr type="occupation" source="12">heavyweights</attr>
+      <attr type="othername" source="49">Mafaufau Tavita Lio Mafaufau Sanerivi Talimatasi</attr>
+      <attr type="birthplace" source="49">Aopo, American Samoa</attr>
+      <attr type="location" source="49">Auckland</attr>
+      <attr type="dateofbirth" source="49">November 21, 1972</attr>
+      <attr type="location" source="49">New Zealand</attr>
+      <attr type="othername" source="101">David &quot;Tuaman&quot; Tua</attr>
+      <attr type="othername" source="41">TUAMAN</attr>
+      <attr type="mentor" source="15">Cedric Kushner</attr>
+      <attr type="mentor" source="15">Roger Bloodworth</attr>
+      <attr type="mentor" source="15">Kevin Barry</attr>
+      <attr type="occupation" source="24">boxer</attr>
+      <attr type="othername" source="24">TUAMAN</attr>
+      <attr type="othername" source="28">Tuaman</attr>
+      <attr type="occupation" source="69">boxer</attr>
+      <attr type="mentor" source="69">Roger Bloodworth</attr>
+      <attr type="location" source="69">New Zealand</attr>
+      <attr type="mentor" source="69">Kevin Barry</attr>
+      <attr type="website" source="20">http://www.tuaman.com</attr>
+      <attr type="location" source="20">New Zealand</attr>
+      <attr type="location" source="20">Auckland</attr>
+      <attr type="othername" source="20">The Bomber</attr>
+      <attr type="nationality" source="20">Samoa</attr>
+      <attr type="occupation" source="20">Boxer</attr>
+      <attr type="dateofbirth" source="20">21 November 1972</attr>
+      <attr type="occupation" source="30">fighters</attr>
+      <attr type="othername" source="30">Tuaman</attr>
+      <attr type="occupation" source="30">boxer</attr>
+      <attr type="occupation" source="30">boxers</attr>
+      <attr type="occupation" source="36">heavyweight</attr>
+      <attr type="mentor" source="36">Cedric Kushner</attr>
+      <attr type="birthplace" source="36">Samoa</attr>
+      <attr type="nationality" source="36">Samoan</attr>
+      <attr type="mentor" source="36">Kushner</attr>
+      <attr type="mentor" source="36">Bloodworth</attr>
+      <attr type="location" source="36">New Zealand</attr>
+      <attr type="mentor" source="36">Roger Bloodworth</attr>
+      <attr type="occupation" source="36">fighter</attr>
+      <attr type="occupation" source="80">fighter</attr>
+      <attr type="othername" source="80">Tuaman</attr>
+      <attr type="occupation" source="84">fighter</attr>
+      <attr type="occupation" source="84">Heavyweight</attr>
+      <attr type="mentor" source="84">Cedric Kushner</attr>
+      <attr type="location" source="43">New Zealand</attr>
+      <attr type="occupation" source="43">heavyweight</attr>
+      <attr type="award" source="43">Knockout of the Year</attr>
+      <attr type="nationality" source="86">Samoan</attr>
+      <attr type="location" source="86">Salt Lake City</attr>
+      <attr type="othername" source="86">David &#65533;gTuaman&#65533;h Tua</attr>
+      <attr type="occupation" source="83">fighters</attr>
+      <attr type="location" source="40">New Zealand</attr>
+      <attr type="nationality" source="40">Samoan</attr>
+      <attr type="occupation" source="97">fighters</attr>
+      <attr type="othername" source="97">Tua-Man</attr>
+      <attr type="occupation" source="97">heavyweight slugger</attr>
+      <attr type="nationality" source="97">Samoans</attr>
+      <attr type="othername" source="97">TUA-MAN</attr>
+      <attr type="nationality" source="97">Samoan</attr>
+      <attr type="occupation" source="97">heavyweights</attr>
+      <attr type="mentor" source="11">Roger Bloodworth</attr>
+      <attr type="mentor" source="11">Ronnie Shields</attr>
+      <attr type="location" source="11">Vero Beach, Florida</attr>
+      <attr type="mentor" source="11">Shields</attr>
+      <attr type="occupation" source="11">fighter</attr>
+      <attr type="mentor" source="11">Bloodworth</attr>
+      <attr type="location" source="71">New Zealand</attr>
+      <attr type="nationality" source="71">Samoan</attr>
+      <attr type="occupation" source="71">fighter</attr>
+      <attr type="othername" source="19">The Tuaman</attr>
+      <attr type="occupation" source="19">heavyweight</attr>
+      <attr type="occupation" source="19">fighters</attr>
+      <attr type="occupation" source="19">fighter</attr>
+      <attr type="othername" source="19">Tuaman</attr>
+      <attr type="occupation" source="95">boxer</attr>
+      <attr type="nationality" source="95">Samoan</attr>
+      <attr type="occupation" source="95">boxers</attr>
+      <attr type="location" source="95">New Zealand</attr>
+      <attr type="location" source="14">New Zealand</attr>
+      <attr type="othername" source="14">The Throwin??? Samoan</attr>
+      <attr type="nationality" source="14">Samoan</attr>
+      <attr type="othername" source="14">The Terminator</attr>
+      <attr type="occupation" source="14">fighter</attr>
+      <attr type="occupation" source="14">boxer</attr>
+      <attr type="occupation" source="14">heavyweight</attr>
+      <attr type="othername" source="14">The Throwin&#65533;f Samoan</attr>
+      <attr type="othername" source="14">The Tuaman</attr>
+      <attr type="birthplace" source="14">Western Samoa</attr>
+      <attr type="othername" source="88">Tuaman</attr>
+      <attr type="othername" source="88">David &#65533;gThe Tuaman&#65533;h Tua</attr>
+      <attr type="location" source="88">Auckland</attr>
+      <attr type="nationality" source="88">New Zealander</attr>
+      <attr type="location" source="88">New Zealand</attr>
+      <attr type="occupation" source="88">fighters</attr>
+      <attr type="location" source="88">South Auckland, New Zealand</attr>
+      <attr type="location" source="88">United States</attr>
+      <attr type="othername" source="88">The Tuaman</attr>
+      <attr type="occupation" source="88">heavyweight</attr>
+      <attr type="occupation" source="88">fighter</attr>
+      <attr type="birthplace" source="88">Samoa</attr>
+    </attributes>
+  </entity>
+</clustering>

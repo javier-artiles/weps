@@ -1,0 +1,695 @@
+<clustering searchString="TOM LINTON">
+  <entity id="1">
+    <documents>
+      <doc rank="80" />
+      <doc rank="5" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="80">Skipper</attr>
+      <attr type="occupation" source="80">Crew</attr>
+      <attr type="occupation" source="5">Fleet Captain</attr>
+      <attr type="occupation" source="5">skipper</attr>
+      <attr type="occupation" source="5">Commodore</attr>
+      <attr type="affiliation" source="5">American Shark Association</attr>
+      <attr type="occupation" source="5">Newsletter Editor</attr>
+      <attr type="affiliation" source="5">Board of Directors of CBYRA</attr>
+      <attr type="affiliation" source="5">CCMA</attr>
+      <attr type="affiliation" source="5">Viking Multihull Club</attr>
+      <attr type="occupation" source="5">sailor</attr>
+      <attr type="affiliation" source="5">Chesapeake Cruising Multihull Association</attr>
+      <attr type="occupation" source="5">President</attr>
+      <attr type="affiliation" source="5">Midwest Multihull Association</attr>
+      <attr type="occupation" source="5">crew</attr>
+      <attr type="occupation" source="5">Treasurer</attr>
+      <attr type="affiliation" source="5">Michigan Shark Fleet</attr>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="41" />
+      <doc rank="96" />
+      <doc rank="75" />
+      <doc rank="66" />
+      <doc rank="31" />
+    </documents>
+    <attributes>
+      <attr type="birthplace" source="41">East Texas</attr>
+      <attr type="affiliation" source="41">Friends of Galveston Island State Park</attr>
+      <attr type="occupation" source="41">president</attr>
+      <attr type="othername" source="75">LINTON, Tom</attr>
+      <attr type="email" source="75">FoGISP@aol.com</attr>
+      <attr type="location" source="75">1722 Capstan Rd.</attr>
+      <attr type="email" source="75">sapeloga@msn.com</attr>
+      <attr type="occupation" source="75">President</attr>
+      <attr type="occupation" source="75">PRESIDENT</attr>
+      <attr type="affiliation" source="75">Friends Of Galveston Island State Park Board of Directors</attr>
+      <attr type="occupation" source="75">Director</attr>
+      <attr type="phone" source="75">281-286-5649</attr>
+      <attr type="location" source="75">Houston, TX 77062-2245</attr>
+      <attr type="affiliation" source="75">Friends of Galveston Island State Park, Inc.</attr>
+      <attr type="phone" source="75">409-939-3800</attr>
+      <attr type="occupation" source="66">president</attr>
+      <attr type="affiliation" source="66">Friends of Galveston Island State Park</attr>
+      <attr type="occupation" source="31">president</attr>
+      <attr type="affiliation" source="31">Friends of Galveston Island State Park</attr>
+      <attr type="affiliation" source="31">Texas A&amp;M</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="35" />
+      <doc rank="85" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="35">John Linton</attr>
+      <attr type="relatives" source="85">John Linton</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="2" />
+      <doc rank="28" />
+    </documents>
+    <attributes>
+      <attr type="fax" source="2">(641) 628-5316</attr>
+      <attr type="email" source="2">lintont@central.edu</attr>
+      <attr type="phone" source="2">(641) 628-5264</attr>
+      <attr type="affiliation" source="2">Central College</attr>
+      <attr type="affiliation" source="2">Moravian College</attr>
+      <attr type="phone" source="28">(641) 628-5264</attr>
+      <attr type="occupation" source="28">Professor</attr>
+      <attr type="location" source="28">312 B Central Hall</attr>
+      <attr type="email" source="28">lintont@central.edu</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="70" />
+      <doc rank="108" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="101" />
+      <doc rank="64" />
+      <doc rank="84" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="school" source="23">Mass Art</attr>
+      <attr type="work" source="23">Music At Sea</attr>
+      <attr type="work" source="23">Two Keys Nested</attr>
+      <attr type="degree" source="23">BS</attr>
+      <attr type="work" source="23">Calligraphy Squared</attr>
+      <attr type="othername" source="23">T. Linton</attr>
+      <attr type="school" source="23">Boston University</attr>
+      <attr type="work" source="23">Dancer At Rest</attr>
+      <attr type="major" source="23">Education</attr>
+      <attr type="dateofbirth" source="23">1929</attr>
+      <attr type="birthplace" source="23">Boston, MA</attr>
+      <attr type="degree" source="23">MFA</attr>
+      <attr type="work" source="23">Nude Figure</attr>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="132" />
+      <doc rank="9" />
+      <doc rank="14" />
+      <doc rank="53" />
+      <doc rank="55" />
+      <doc rank="21" />
+      <doc rank="56" />
+      <doc rank="107" />
+      <doc rank="98" />
+      <doc rank="77" />
+      <doc rank="74" />
+      <doc rank="26" />
+      <doc rank="3" />
+      <doc rank="71" />
+      <doc rank="46" />
+      <doc rank="36" />
+      <doc rank="27" />
+      <doc rank="32" />
+      <doc rank="51" />
+      <doc rank="87" />
+      <doc rank="4" />
+      <doc rank="52" />
+      <doc rank="25" />
+      <doc rank="93" />
+      <doc rank="47" />
+      <doc rank="6" />
+      <doc rank="7" />
+      <doc rank="92" />
+      <doc rank="81" />
+      <doc rank="34" />
+      <doc rank="82" />
+      <doc rank="48" />
+      <doc rank="99" />
+      <doc rank="8" />
+      <doc rank="91" />
+      <doc rank="33" />
+      <doc rank="17" />
+      <doc rank="69" />
+      <doc rank="10" />
+      <doc rank="88" />
+      <doc rank="102" />
+      <doc rank="60" />
+      <doc rank="40" />
+      <doc rank="30" />
+      <doc rank="20" />
+      <doc rank="106" />
+      <doc rank="39" />
+      <doc rank="68" />
+      <doc rank="109" />
+      <doc rank="105" />
+      <doc rank="78" />
+      <doc rank="65" />
+      <doc rank="67" />
+      <doc rank="57" />
+      <doc rank="63" />
+      <doc rank="89" />
+      <doc rank="42" />
+      <doc rank="72" />
+      <doc rank="83" />
+      <doc rank="15" />
+      <doc rank="58" />
+      <doc rank="100" />
+      <doc rank="62" />
+      <doc rank="1" />
+      <doc rank="24" />
+      <doc rank="59" />
+      <doc rank="61" />
+      <doc rank="12" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="132">Jimmy Eat World</attr>
+      <attr type="occupation" source="132">guitarist</attr>
+      <attr type="work" source="132">Clarity</attr>
+      <attr type="occupation" source="9">artist</attr>
+      <attr type="work" source="14">The Emo Diaries Chapter 1: What&apos;s Mine Is Yours</attr>
+      <attr type="work" source="14">Bleed American</attr>
+      <attr type="work" source="14">Jimmy Eat World</attr>
+      <attr type="affiliation" source="14">Jimmy Eat World</attr>
+      <attr type="occupation" source="14">artists</attr>
+      <attr type="work" source="14">Opener</attr>
+      <attr type="work" source="14">Chase This Light</attr>
+      <attr type="othername" source="14">Thomas Linton</attr>
+      <attr type="work" source="14">Static Prevails</attr>
+      <attr type="work" source="14">Hear Y...</attr>
+      <attr type="work" source="55">Your New Aesthetic</attr>
+      <attr type="work" source="55">Table for Glasses</attr>
+      <attr type="work" source="55">Static Prevails</attr>
+      <attr type="work" source="55">Jimmy Eat World</attr>
+      <attr type="work" source="55">Clarity</attr>
+      <attr type="work" source="55">Ten</attr>
+      <attr type="occupation" source="55">guitarists</attr>
+      <attr type="occupation" source="55">vocalists</attr>
+      <attr type="affiliation" source="55">Jimmy Eat World</attr>
+      <attr type="relatives" source="21">Jimmy</attr>
+      <attr type="occupation" source="21">musician</attr>
+      <attr type="affiliation" source="21">Jimmy Eat World</attr>
+      <attr type="relatives" source="21">Ed</attr>
+      <attr type="occupation" source="21">guitarist</attr>
+      <attr type="occupation" source="21">Guitarist</attr>
+      <attr type="affiliation" source="56">Jimmy Eat World</attr>
+      <attr type="work" source="56">Static Prevails</attr>
+      <attr type="work" source="107">Jimmy Eat World</attr>
+      <attr type="work" source="107">Lucky Denver Mint</attr>
+      <attr type="work" source="107">Static Prevails</attr>
+      <attr type="work" source="107">Back From the Dead Mother Fucker</attr>
+      <attr type="work" source="107">One, Two, Three, Four</attr>
+      <attr type="work" source="107">Bleed American</attr>
+      <attr type="work" source="107">Never Been Kissed</attr>
+      <attr type="work" source="107">Singles</attr>
+      <attr type="work" source="107">The Middle</attr>
+      <attr type="affiliation" source="107">Jimmy Eat World</attr>
+      <attr type="relatives" source="107">Ed</attr>
+      <attr type="work" source="107">Clarity</attr>
+      <attr type="work" source="107">TRL</attr>
+      <attr type="relatives" source="107">Jimmy</attr>
+      <attr type="work" source="107">Sweetness</attr>
+      <attr type="work" source="98">Clarity</attr>
+      <attr type="occupation" source="98">guitarist</attr>
+      <attr type="work" source="98">Good to Go EP</attr>
+      <attr type="relatives" source="98">Ed</attr>
+      <attr type="work" source="98">Split EP</attr>
+      <attr type="work" source="98">Lucky Denver Mint</attr>
+      <attr type="work" source="98">Bleed American</attr>
+      <attr type="work" source="98">Work</attr>
+      <attr type="work" source="98">Stay On My Side Tonight</attr>
+      <attr type="work" source="98">A Praise Chorus</attr>
+      <attr type="work" source="98">The Middle</attr>
+      <attr type="work" source="98">Futures</attr>
+      <attr type="work" source="98">Blister</attr>
+      <attr type="work" source="98">Firestarter EP</attr>
+      <attr type="affiliation" source="98">Jimmy Eat World</attr>
+      <attr type="work" source="98">Static Prevails</attr>
+      <attr type="work" source="98">Singles</attr>
+      <attr type="work" source="98">Jimmy Eat World EP</attr>
+      <attr type="work" source="98">One, Two, Three, Four&apos;</attr>
+      <attr type="work" source="98">Never Been Kissed</attr>
+      <attr type="relatives" source="98">Jimmy</attr>
+      <attr type="work" source="98">Jimmy Eat World</attr>
+      <attr type="work" source="98">The Authority Song</attr>
+      <attr type="occupation" source="77">guitarist</attr>
+      <attr type="affiliation" source="77">Jimmy Eat World</attr>
+      <attr type="work" source="74">12.23.95</attr>
+      <attr type="birthplace" source="74">Mesa, Arizona</attr>
+      <attr type="work" source="74">Bleed American</attr>
+      <attr type="work" source="74">Singles</attr>
+      <attr type="work" source="74">Back From the Dead Mother Fucker</attr>
+      <attr type="work" source="74">Stay on My Side Tonight EP</attr>
+      <attr type="work" source="74">Static Prevails</attr>
+      <attr type="work" source="74">Singles/Jebediah &amp; Jimmy Eat World [Split EP]</attr>
+      <attr type="work" source="74">Blister</attr>
+      <attr type="work" source="74">Carry You</attr>
+      <attr type="work" source="74">Sweetness</attr>
+      <attr type="work" source="74">Hear You Me</attr>
+      <attr type="work" source="74">The Authority Song</attr>
+      <attr type="relatives" source="74">Jimmy</attr>
+      <attr type="work" source="74">One, Two, Three, Four</attr>
+      <attr type="work" source="74">Never Been Kissed</attr>
+      <attr type="work" source="74">Pain</attr>
+      <attr type="work" source="74">My Sundown</attr>
+      <attr type="work" source="74">Lucky Denver Mint</attr>
+      <attr type="work" source="74">Work</attr>
+      <attr type="work" source="74">Seventeen</attr>
+      <attr type="work" source="74">Futures</attr>
+      <attr type="work" source="74">Jimmy Eat World</attr>
+      <attr type="relatives" source="74">Ed</attr>
+      <attr type="work" source="74">A Praise Chorus</attr>
+      <attr type="work" source="74">The Middle</attr>
+      <attr type="work" source="74">Chase This Light</attr>
+      <attr type="work" source="74">Clarity, 1999 Crapitol</attr>
+      <attr type="work" source="74">Maximum Jimmy Eat World</attr>
+      <attr type="work" source="74">Big Casino</attr>
+      <attr type="affiliation" source="74">Jimmy Eat World</attr>
+      <attr type="work" source="74">Futures [Bonus CD]</attr>
+      <attr type="work" source="74">Futures [UK Bonus CD]</attr>
+      <attr type="work" source="74">Bleed American [Japan Bonus CD]</attr>
+      <attr type="work" source="74">Stay on My Side Tonight</attr>
+      <attr type="occupation" source="74">guitarist</attr>
+      <attr type="work" source="74">Futures [Germany Deluxe Version]</attr>
+      <attr type="work" source="74">Futures [Import Bonus Tracks]</attr>
+      <attr type="work" source="74">Clarity</attr>
+      <attr type="birthplace" source="74">Mesa, AZ</attr>
+      <attr type="work" source="74">Futures [LP Bonus Track]</attr>
+      <attr type="work" source="3">Clarity</attr>
+      <attr type="dateofbirth" source="3">August 8, 1975</attr>
+      <attr type="birthplace" source="3">Mesa, Arizona</attr>
+      <attr type="affiliation" source="3">Jimmy Eat World</attr>
+      <attr type="work" source="71">Jimmy Eat World [E.P.] / Good To Go</attr>
+      <attr type="affiliation" source="71">Jimmy Eat World</attr>
+      <attr type="work" source="71">Lucky Denver Mint</attr>
+      <attr type="work" source="71">Jimmy Eat World</attr>
+      <attr type="work" source="71">Get It Faster</attr>
+      <attr type="work" source="71">Chase This Light</attr>
+      <attr type="work" source="71">Futures [Bonus Track]</attr>
+      <attr type="work" source="71">Cheating Gets It Faster</attr>
+      <attr type="work" source="71">Sweetness</attr>
+      <attr type="work" source="71">Sweetness pt. 1</attr>
+      <attr type="work" source="71">Pain</attr>
+      <attr type="work" source="71">Futures</attr>
+      <attr type="work" source="71">Big Casino</attr>
+      <attr type="work" source="71">A Praise Chorus</attr>
+      <attr type="work" source="71">The Most Beautiful Things</attr>
+      <attr type="work" source="71">The Middle</attr>
+      <attr type="work" source="71">Good To Go EP</attr>
+      <attr type="work" source="71">Static Prevails</attr>
+      <attr type="work" source="71">Clarity [Bonus Track]</attr>
+      <attr type="work" source="71">Clarity</attr>
+      <attr type="work" source="71">New Aesthetic</attr>
+      <attr type="work" source="71">Bleed American</attr>
+      <attr type="work" source="71">Work</attr>
+      <attr type="dateofbirth" source="71">8 August 1975</attr>
+      <attr type="work" source="71">My Sundown</attr>
+      <attr type="occupation" source="36">guitarist</attr>
+      <attr type="occupation" source="36">Guitarist</attr>
+      <attr type="affiliation" source="36">Jimmy Eat World</attr>
+      <attr type="work" source="36">Saturday Night Live</attr>
+      <attr type="affiliation" source="27">Jimmy Eat World</attr>
+      <attr type="work" source="32">Futures</attr>
+      <attr type="work" source="32">Jimmy Eat World</attr>
+      <attr type="work" source="32">Sweetness</attr>
+      <attr type="occupation" source="32">guitarist</attr>
+      <attr type="occupation" source="32">vocalist</attr>
+      <attr type="affiliation" source="32">Jimmy Eat World</attr>
+      <attr type="work" source="32">The Middle</attr>
+      <attr type="occupation" source="87">guitarist</attr>
+      <attr type="affiliation" source="87">Jimmy Eat World</attr>
+      <attr type="work" source="4">Saturday Night Live &apos;80</attr>
+      <attr type="work" source="4">Saturday Night</attr>
+      <attr type="work" source="4">Saturday Night Live</attr>
+      <attr type="work" source="4">Sarah Kuttner - Die Show</attr>
+      <attr type="work" source="4">Cameron Diaz/Jimmy Eat World</attr>
+      <attr type="work" source="4">The Best of Saturday Night Live</attr>
+      <attr type="work" source="4">The Butterfly Effect</attr>
+      <attr type="work" source="4">Get It Faster</attr>
+      <attr type="work" source="4">The First $20 Million Is Always the Hardest</attr>
+      <attr type="work" source="4">SNL 25</attr>
+      <attr type="dateofbirth" source="4">8 August 1975</attr>
+      <attr type="occupation" source="4">writer</attr>
+      <attr type="work" source="4">Une aventure de Cendrillon</attr>
+      <attr type="work" source="4">Orange County</attr>
+      <attr type="work" source="4">The Middle</attr>
+      <attr type="work" source="4">NBC&apos;s Saturday Night</attr>
+      <attr type="work" source="4">American Pie Presents Band Camp</attr>
+      <attr type="work" source="4">Zoom</attr>
+      <attr type="work" source="4">Goodbye Sky Harbor</attr>
+      <attr type="affiliation" source="4">Jimmy Eat World</attr>
+      <attr type="work" source="4">Hear You Me</attr>
+      <attr type="work" source="4">My Sundown</attr>
+      <attr type="work" source="4">Pain</attr>
+      <attr type="work" source="4">Riding in Vans with Boys</attr>
+      <attr type="work" source="4">The Hot Chick</attr>
+      <attr type="work" source="4">Life or Something Like It</attr>
+      <attr type="work" source="4">A Cinderella Story</attr>
+      <attr type="work" source="4">SNL</attr>
+      <attr type="work" source="4">Zoom: Academy for Superheroes</attr>
+      <attr type="work" source="4">Global Frequency</attr>
+      <attr type="work" source="4">Karaoke Revolution Party</attr>
+      <attr type="work" source="4">The Authority Song</attr>
+      <attr type="birthplace" source="4">Mesa, Arizona, USA</attr>
+      <attr type="relatives" source="93">Jimmy</attr>
+      <attr type="work" source="93">Lucky Denver Mint</attr>
+      <attr type="work" source="93">Bleed American Deluxe Edition</attr>
+      <attr type="work" source="93">Pain</attr>
+      <attr type="work" source="93">Singles</attr>
+      <attr type="work" source="93">Never Been Kissed.</attr>
+      <attr type="relatives" source="93">Ed</attr>
+      <attr type="work" source="93">Chase This Light</attr>
+      <attr type="work" source="93">Futures</attr>
+      <attr type="occupation" source="93">singer</attr>
+      <attr type="work" source="93">Bleed American</attr>
+      <attr type="work" source="93">Jimmy Eat World</attr>
+      <attr type="work" source="93">Work</attr>
+      <attr type="work" source="93">Total Request Live</attr>
+      <attr type="work" source="93">Polaris</attr>
+      <attr type="work" source="93">23</attr>
+      <attr type="work" source="93">Blister</attr>
+      <attr type="work" source="93">Static Prevails</attr>
+      <attr type="work" source="93">Big Casino</attr>
+      <attr type="work" source="93">The Middle</attr>
+      <attr type="work" source="93">Clarity</attr>
+      <attr type="work" source="93">Salt Sweat Sugar</attr>
+      <attr type="work" source="93">Always Be</attr>
+      <attr type="relatives" source="93">Jim</attr>
+      <attr type="affiliation" source="93">Jimmy Eat World</attr>
+      <attr type="occupation" source="93">guitarist</attr>
+      <attr type="affiliation" source="47">Jimmy Eat World</attr>
+      <attr type="work" source="47">Always Be</attr>
+      <attr type="affiliation" source="7">Jimmy Eat World</attr>
+      <attr type="occupation" source="7">Guitarist</attr>
+      <attr type="work" source="92">Clarity</attr>
+      <attr type="work" source="92">Big Casino</attr>
+      <attr type="occupation" source="92">guitarist</attr>
+      <attr type="work" source="92">The Middle</attr>
+      <attr type="work" source="92">Bleed American</attr>
+      <attr type="work" source="92">Sweetness</attr>
+      <attr type="work" source="92">A Praise Chorus</attr>
+      <attr type="work" source="92">Jimmy Eat World</attr>
+      <attr type="work" source="92">Futures</attr>
+      <attr type="work" source="92">Chase This Light</attr>
+      <attr type="affiliation" source="92">Jimmy Eat World</attr>
+      <attr type="affiliation" source="81">Jimmy Eat World</attr>
+      <attr type="affiliation" source="48">Jimmy Eat World</attr>
+      <attr type="affiliation" source="99">Jimmy Eat World</attr>
+      <attr type="dateofbirth" source="8">1975</attr>
+      <attr type="affiliation" source="8">Jimmy Eat World</attr>
+      <attr type="birthplace" source="8">Mesa, AZ</attr>
+      <attr type="relatives" source="91">Jimmy</attr>
+      <attr type="affiliation" source="91">Jimmy Eat World</attr>
+      <attr type="dateofbirth" source="33">August 8, 1975</attr>
+      <attr type="affiliation" source="33">Jimmy Eat World</attr>
+      <attr type="othername" source="17">tomlinton</attr>
+      <attr type="affiliation" source="17">Jimmy Eat World</attr>
+      <attr type="work" source="17">Chase This Light</attr>
+      <attr type="mentor" source="69">Scott Staley</attr>
+      <attr type="affiliation" source="69">Jimmy Eat World</attr>
+      <attr type="work" source="10">Karaoke Revolution Party</attr>
+      <attr type="work" source="10">American Pie Presents Band Camp</attr>
+      <attr type="work" source="10">The Hot Chick</attr>
+      <attr type="work" source="10">The First $20 Million Is Always the Hardest</attr>
+      <attr type="work" source="10">A Cinderella Story</attr>
+      <attr type="work" source="10">Zoom</attr>
+      <attr type="work" source="10">Life or Something Like It</attr>
+      <attr type="work" source="10">Global Frequency</attr>
+      <attr type="work" source="10">The Butterfly Effect</attr>
+      <attr type="work" source="10">Saturday Night Live: Cameron Diaz/Jimmy Eat World (#27.16)</attr>
+      <attr type="work" source="10">Riding in Vans with Boys</attr>
+      <attr type="work" source="10">Orange County</attr>
+      <attr type="work" source="88">Jimmy Eat World</attr>
+      <attr type="work" source="88">Saturday Night Live</attr>
+      <attr type="work" source="88">Chase This Light</attr>
+      <attr type="work" source="88">The Middle</attr>
+      <attr type="work" source="88">Bleed American</attr>
+      <attr type="occupation" source="88">vocalist</attr>
+      <attr type="affiliation" source="88">Jimmy Eat World</attr>
+      <attr type="work" source="88">Clarity</attr>
+      <attr type="occupation" source="88">guitarist</attr>
+      <attr type="location" source="88">Arizona</attr>
+      <attr type="work" source="102">Last Christmas</attr>
+      <attr type="occupation" source="102">Second guitarist</attr>
+      <attr type="affiliation" source="102">Jimmy Eat World</attr>
+      <attr type="work" source="60">Always Be</attr>
+      <attr type="affiliation" source="60">Jimmy Eat World</attr>
+      <attr type="affiliation" source="40">Jimmy Eat World</attr>
+      <attr type="work" source="20">Futures</attr>
+      <attr type="occupation" source="20">guitarist</attr>
+      <attr type="affiliation" source="20">Jimmy Eat World</attr>
+      <attr type="affiliation" source="39">Jimmy Eat World</attr>
+      <attr type="occupation" source="39">guitarist</attr>
+      <attr type="occupation" source="39">singer</attr>
+      <attr type="occupation" source="39">vocalist</attr>
+      <attr type="affiliation" source="68">Jimmy Eat World</attr>
+      <attr type="work" source="68">Nothing Wrong</attr>
+      <attr type="work" source="68">Get It Faster</attr>
+      <attr type="work" source="68">Futures</attr>
+      <attr type="work" source="68">The Middle</attr>
+      <attr type="occupation" source="68">guitarist</attr>
+      <attr type="work" source="109">Hear You Me</attr>
+      <attr type="work" source="109">If You Don&apos;t, Don&apos;t</attr>
+      <attr type="work" source="109">A Praise Chorus</attr>
+      <attr type="work" source="109">My Sundown</attr>
+      <attr type="work" source="109">Get It Faster</attr>
+      <attr type="work" source="109">Your House</attr>
+      <attr type="work" source="109">Sweetness</attr>
+      <attr type="work" source="109">Cautioners</attr>
+      <attr type="work" source="109">The Middle</attr>
+      <attr type="work" source="109">The Authority Song</attr>
+      <attr type="work" source="109">Jimmy Eat World</attr>
+      <attr type="affiliation" source="109">Jimmy Eat World</attr>
+      <attr type="work" source="105">Authority Song, The</attr>
+      <attr type="work" source="105">Futures</attr>
+      <attr type="work" source="105">No Sensitivity</attr>
+      <attr type="work" source="105">Hear You Me</attr>
+      <attr type="work" source="105">Static Prevails</attr>
+      <attr type="work" source="105">Big Casino</attr>
+      <attr type="work" source="105">Chase This Light</attr>
+      <attr type="work" source="105">If You Don&apos;t, Don&apos;t</attr>
+      <attr type="work" source="105">My Sundown</attr>
+      <attr type="work" source="105">Sweetness</attr>
+      <attr type="work" source="105">Singles/Split</attr>
+      <attr type="work" source="105">Middle, The</attr>
+      <attr type="work" source="105">Pain</attr>
+      <attr type="affiliation" source="105">Jimmy Eat World</attr>
+      <attr type="work" source="105">Jimmy Eat World - Believe In What You Want</attr>
+      <attr type="work" source="105"> Stay On My Side Tonight</attr>
+      <attr type="work" source="105">Night Drive</attr>
+      <attr type="work" source="105">23</attr>
+      <attr type="work" source="105">Cautioners</attr>
+      <attr type="work" source="105">Polaris</attr>
+      <attr type="work" source="105">Work</attr>
+      <attr type="work" source="105">Praise Chorus, A</attr>
+      <attr type="work" source="105">Kill</attr>
+      <attr type="work" source="105">Clarity</attr>
+      <attr type="work" source="105">Carry You</attr>
+      <attr type="work" source="105">Your House</attr>
+      <attr type="work" source="105">Most Beautiful Things, The</attr>
+      <attr type="work" source="105">Drugs or Me</attr>
+      <attr type="work" source="105">Get It Faster</attr>
+      <attr type="work" source="105">Always Be</attr>
+      <attr type="work" source="105">Bleed American</attr>
+      <attr type="work" source="78">Clarity</attr>
+      <attr type="affiliation" source="78">Jimmy Eat World</attr>
+      <attr type="occupation" source="78">guitarist</attr>
+      <attr type="work" source="78">Bleed American</attr>
+      <attr type="website" source="78">www.jimmyeatworld.net</attr>
+      <attr type="work" source="78">The Middle</attr>
+      <attr type="work" source="78">Work</attr>
+      <attr type="relatives" source="78">Jimmy</attr>
+      <attr type="work" source="78">Saturday Night Live</attr>
+      <attr type="relatives" source="78">Ed</attr>
+      <attr type="work" source="78">Jimmy Eat World</attr>
+      <attr type="work" source="78">Futures</attr>
+      <attr type="work" source="78">Static Prevails</attr>
+      <attr type="relatives" source="65">Jimmy</attr>
+      <attr type="work" source="65">Pain</attr>
+      <attr type="work" source="65">Singles</attr>
+      <attr type="website" source="65">http://www.jimmyeatworld.com/</attr>
+      <attr type="work" source="65">Bleed American</attr>
+      <attr type="work" source="65">Sweetness</attr>
+      <attr type="occupation" source="65">musicians</attr>
+      <attr type="work" source="65">Chase This Light</attr>
+      <attr type="work" source="65">Futures</attr>
+      <attr type="work" source="65">Jimmy Eat World</attr>
+      <attr type="work" source="65">One, Two, Three, Four</attr>
+      <attr type="relatives" source="65">Ed</attr>
+      <attr type="work" source="65">Back from the Dead Mother Fucker</attr>
+      <attr type="work" source="65">Never Been Kissed</attr>
+      <attr type="work" source="65">Clarity</attr>
+      <attr type="work" source="65">Stay on My Side Tonight EP</attr>
+      <attr type="work" source="65">The Middle</attr>
+      <attr type="affiliation" source="65">Jimmy Eat World</attr>
+      <attr type="work" source="65">Lucky Denver Mint</attr>
+      <attr type="work" source="65">Big Casino</attr>
+      <attr type="work" source="65">A Praise Chorus</attr>
+      <attr type="affiliation" source="67">Jimmy Eat World</attr>
+      <attr type="affiliation" source="57">Jimmy Eat World</attr>
+      <attr type="work" source="57">Futures</attr>
+      <attr type="occupation" source="63">musician</attr>
+      <attr type="affiliation" source="63">Jimmy Eat World</attr>
+      <attr type="work" source="63">Jimmy Eat World</attr>
+      <attr type="nationality" source="63">American</attr>
+      <attr type="dateofbirth" source="63">1976</attr>
+      <attr type="othername" source="63">Linton, Tom</attr>
+      <attr type="affiliation" source="89">Jimmy Eat World</attr>
+      <attr type="occupation" source="42">guitarist</attr>
+      <attr type="affiliation" source="42">Jimmy Eat World</attr>
+      <attr type="work" source="83">Drugs or Me</attr>
+      <attr type="work" source="83">The Middle</attr>
+      <attr type="affiliation" source="83">Jimmy Eat World</attr>
+      <attr type="work" source="83">Night Drive</attr>
+      <attr type="work" source="83">TRL</attr>
+      <attr type="work" source="83">Pain</attr>
+      <attr type="occupation" source="83">guitarist</attr>
+      <attr type="work" source="83">Jimmy Eat World</attr>
+      <attr type="work" source="83">Futures</attr>
+      <attr type="work" source="83">Kill</attr>
+      <attr type="work" source="15">The Middle</attr>
+      <attr type="work" source="15">Work</attr>
+      <attr type="work" source="15">Futures</attr>
+      <attr type="work" source="15">Bleed American</attr>
+      <attr type="work" source="15">Pain</attr>
+      <attr type="work" source="15">Get It Faster</attr>
+      <attr type="affiliation" source="15">Jimmy Eat World</attr>
+      <attr type="work" source="58">Distraction</attr>
+      <attr type="work" source="58">Open Bar Reception</attr>
+      <attr type="work" source="58">Beautiful Is</attr>
+      <attr type="work" source="58">Take Em As They Come</attr>
+      <attr type="work" source="58">Dizzy</attr>
+      <attr type="work" source="58">Carry You</attr>
+      <attr type="affiliation" source="58">Jimmy Eat World</attr>
+      <attr type="work" source="58">Chase This Light</attr>
+      <attr type="work" source="58">Be Sensible</attr>
+      <attr type="occupation" source="58">producers</attr>
+      <attr type="work" source="100">Chase This Light</attr>
+      <attr type="work" source="100">Bleed America</attr>
+      <attr type="affiliation" source="100">Jimmy Eat World</attr>
+      <attr type="work" source="100">Big Casino</attr>
+      <attr type="work" source="100">Electable (Give It Up)</attr>
+      <attr type="work" source="100">Dizzy</attr>
+      <attr type="occupation" source="100">guitarist</attr>
+      <attr type="work" source="100">Gotta Be Somebody&#65533;fs Blues</attr>
+      <attr type="work" source="100">Feeling Lucky</attr>
+      <attr type="work" source="1">Bleed American</attr>
+      <attr type="occupation" source="1">guitarist</attr>
+      <attr type="relatives" source="1">Jim</attr>
+      <attr type="work" source="1">Chase This Light</attr>
+      <attr type="work" source="1">Jimmy Eat World</attr>
+      <attr type="affiliation" source="1">Jimmy Eat World</attr>
+      <attr type="work" source="1">Clarity</attr>
+      <attr type="birthplace" source="1">Mesa, Arizona, U.S.</attr>
+      <attr type="relatives" source="1">Ed</attr>
+      <attr type="work" source="1">Static Prevails</attr>
+      <attr type="dateofbirth" source="1">August 8, 1975</attr>
+      <attr type="birthplace" source="1">Mesa, Arizona</attr>
+      <attr type="relatives" source="1">Joy Morgan</attr>
+      <attr type="work" source="1">Futures</attr>
+      <attr type="affiliation" source="24">Jimmy Eat World</attr>
+      <attr type="relatives" source="59">ElmaLee Kerk</attr>
+      <attr type="relatives" source="59">John</attr>
+      <attr type="relatives" source="59">Ed</attr>
+      <attr type="relatives" source="59">Charles</attr>
+      <attr type="relatives" source="59">Mila</attr>
+      <attr type="relatives" source="59">Jim</attr>
+      <attr type="relatives" source="59">Sarah Sherwood</attr>
+      <attr type="occupation" source="61">guitarist</attr>
+      <attr type="work" source="61">Saturday Night Live</attr>
+      <attr type="work" source="61">Late Night with David Letterman</attr>
+      <attr type="location" source="61">Arizona</attr>
+      <attr type="affiliation" source="61">Jimmy Eat World</attr>
+      <attr type="occupation" source="61">vocalist</attr>
+      <attr type="affiliation" source="61">Jimmy</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="16" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="130" />
+      <doc rank="45" />
+      <doc rank="73" />
+      <doc rank="44" />
+      <doc rank="11" />
+      <doc rank="18" />
+      <doc rank="90" />
+      <doc rank="37" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="45">Freescale</attr>
+      <attr type="affiliation" source="45">Freescale Semiconductor</attr>
+      <attr type="occupation" source="45">CPO</attr>
+      <attr type="affiliation" source="73">Freescale</attr>
+      <attr type="occupation" source="73">general manager</attr>
+      <attr type="occupation" source="73">chief procurement officer</attr>
+      <attr type="location" source="73">Singapore</attr>
+      <attr type="affiliation" source="73">IBM</attr>
+      <attr type="affiliation" source="73">Agere</attr>
+      <attr type="occupation" source="73">vice president</attr>
+      <attr type="affiliation" source="73">Freescale Semiconductor</attr>
+      <attr type="affiliation" source="73">E2open</attr>
+      <attr type="occupation" source="44">vice president</attr>
+      <attr type="occupation" source="44">chief procurement officer</attr>
+      <attr type="affiliation" source="44">Freescale</attr>
+      <attr type="affiliation" source="44">Agere</attr>
+      <attr type="affiliation" source="44">IBM</attr>
+      <attr type="affiliation" source="44">Freescale Semiconductor</attr>
+      <attr type="occupation" source="44">general manager</attr>
+      <attr type="affiliation" source="44">E2open</attr>
+      <attr type="location" source="44">Singapore</attr>
+      <attr type="school" source="11">Stanford University</attr>
+      <attr type="school" source="11">University of Michigan</attr>
+      <attr type="affiliation" source="11">IEEE</attr>
+      <attr type="occupation" source="11">developer</attr>
+      <attr type="school" source="11">The University of Texas at Austin</attr>
+      <attr type="occupation" source="11">architect</attr>
+      <attr type="occupation" source="11">Manager</attr>
+      <attr type="affiliation" source="11">Numerical Device Modeling at Intel Corporation</attr>
+      <attr type="location" source="11">San Francisco Bay Area</attr>
+      <attr type="occupation" source="18">Chief Procurement Officer</attr>
+      <attr type="occupation" source="18">Vice President</attr>
+      <attr type="affiliation" source="18">Freescale Semiconductor Inc</attr>
+      <attr type="affiliation" source="37">IBM</attr>
+      <attr type="affiliation" source="37">Freescale Semiconductor</attr>
+      <attr type="occupation" source="37">vice president</attr>
+      <attr type="affiliation" source="37">Agere</attr>
+      <attr type="location" source="37">Singapore</attr>
+      <attr type="occupation" source="37">chief procurement officer</attr>
+    </attributes>
+  </entity>
+</clustering>

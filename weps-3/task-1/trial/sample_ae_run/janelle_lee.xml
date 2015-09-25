@@ -1,0 +1,347 @@
+<clustering searchString="JANELLE LEE">
+  <entity id="1">
+    <documents>
+      <doc rank="4" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="2">
+    <documents>
+      <doc rank="136" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="136">photographers</attr>
+    </attributes>
+  </entity>
+  <entity id="3">
+    <documents>
+      <doc rank="28" />
+      <doc rank="23" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="28">Aisha Janelle Lee</attr>
+    </attributes>
+  </entity>
+  <entity id="4">
+    <documents>
+      <doc rank="93" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="93">Daniel</attr>
+      <attr type="occupation" source="93">Physical rapist</attr>
+    </attributes>
+  </entity>
+  <entity id="5">
+    <documents>
+      <doc rank="39" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="39">Dr.PH.</attr>
+      <attr type="affiliation" source="39">Berkeley Economic Research Associates</attr>
+      <attr type="email" source="39">janelle@bera.com</attr>
+      <attr type="occupation" source="39">Senior Research Scientist</attr>
+      <attr type="phone" source="39">510-653-1256</attr>
+      <attr type="fax" source="39">510-653-1257</attr>
+      <attr type="othername" source="39">Lee YJ</attr>
+    </attributes>
+  </entity>
+  <entity id="6">
+    <documents>
+      <doc rank="84" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="84">West Essex</attr>
+    </attributes>
+  </entity>
+  <entity id="7">
+    <documents>
+      <doc rank="62" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="8">
+    <documents>
+      <doc rank="139" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="139">Shirley Ann</attr>
+    </attributes>
+  </entity>
+  <entity id="9">
+    <documents>
+      <doc rank="102" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="102">Janelle Lee Shelatz</attr>
+      <attr type="location" source="102">Conneaut Lake</attr>
+    </attributes>
+  </entity>
+  <entity id="10">
+    <documents>
+      <doc rank="73" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="73">Guidance Counselor</attr>
+    </attributes>
+  </entity>
+  <entity id="11">
+    <documents>
+      <doc rank="82" />
+    </documents>
+    <attributes>
+      <attr type="school" source="82">Lincoln-Sudbury</attr>
+      <attr type="othername" source="82">Janelle Lee Anderson</attr>
+    </attributes>
+  </entity>
+  <entity id="12">
+    <documents>
+      <doc rank="6" />
+    </documents>
+    <attributes>
+      <attr type="location" source="6">San Francisco Bay Area</attr>
+    </attributes>
+  </entity>
+  <entity id="13">
+    <documents>
+      <doc rank="36" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="36">K. Janelle Lee</attr>
+    </attributes>
+  </entity>
+  <entity id="14">
+    <documents>
+      <doc rank="35" />
+      <doc rank="95" />
+    </documents>
+    <attributes>
+      <attr type="location" source="35">Sulphur, Louisiana</attr>
+      <attr type="work" source="35">Cheese Crisps</attr>
+    </attributes>
+  </entity>
+  <entity id="15">
+    <documents>
+      <doc rank="24" />
+      <doc rank="137" />
+    </documents>
+    <attributes>
+      <attr type="location" source="24">Singapore</attr>
+      <attr type="affiliation" source="24">Emerging Entertainment Pte Ltd</attr>
+      <attr type="phone" source="137">+6563272269</attr>
+      <attr type="fax" source="137">+653272270</attr>
+      <attr type="website" source="137">http://www.emerging-entertainment.com</attr>
+      <attr type="email" source="137">janelle@emerging-entertainment.com</attr>
+    </attributes>
+  </entity>
+  <entity id="16">
+    <documents>
+      <doc rank="106" />
+      <doc rank="133" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="106">Undergraduate</attr>
+      <attr type="major" source="106">Urban Planning</attr>
+      <attr type="othername" source="106">Janelle Lee Ericson</attr>
+    </attributes>
+  </entity>
+  <entity id="17">
+    <documents>
+      <doc rank="107" />
+    </documents>
+    <attributes>
+      <attr type="school" source="107">Singapore Polytechnic</attr>
+      <attr type="occupation" source="107">President</attr>
+    </attributes>
+  </entity>
+  <entity id="18">
+    <documents>
+      <doc rank="33" />
+    </documents>
+    <attributes>
+      <attr type="relatives" source="33">Brandon Lee</attr>
+      <attr type="location" source="33">Bellingham</attr>
+    </attributes>
+  </entity>
+  <entity id="19">
+    <documents>
+      <doc rank="31" />
+      <doc rank="51" />
+    </documents>
+    <attributes>
+      <attr type="work" source="31">Fickle Fifi</attr>
+      <attr type="award" source="31">SCSA Veteran&apos;s Choice Award</attr>
+      <attr type="othername" source="31">Janelle Lee Hui Qin</attr>
+      <attr type="occupation" source="31">P4</attr>
+      <attr type="affiliation" source="31">Raffles Girls&apos; Primary School</attr>
+    </attributes>
+  </entity>
+  <entity id="20">
+    <documents>
+      <doc rank="123" />
+    </documents>
+    <attributes>
+    </attributes>
+  </entity>
+  <entity id="21">
+    <documents>
+      <doc rank="149" />
+      <doc rank="53" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="149">Janelle Lee Chee</attr>
+      <attr type="location" source="53">Vienna, Austria</attr>
+      <attr type="occupation" source="53">scholarship student</attr>
+    </attributes>
+  </entity>
+  <entity id="22">
+    <documents>
+      <doc rank="87" />
+      <doc rank="99" />
+    </documents>
+    <attributes>
+      <attr type="location" source="87">ST. TAMMANY PARISH</attr>
+      <attr type="affiliation" source="87">Southeastern Louisiana University</attr>
+      <attr type="occupation" source="87">full-time undergraduate students</attr>
+      <attr type="othername" source="87">Janelle Lee Krause</attr>
+    </attributes>
+  </entity>
+  <entity id="23">
+    <documents>
+      <doc rank="150" />
+      <doc rank="145" />
+      <doc rank="7" />
+      <doc rank="72" />
+      <doc rank="113" />
+    </documents>
+    <attributes>
+      <attr type="school" source="150">Long Reach HS</attr>
+      <attr type="birthplace" source="150">Columbia, MD</attr>
+      <attr type="affiliation" source="150">Delaware State Hornets</attr>
+      <attr type="occupation" source="150">FR</attr>
+      <attr type="major" source="145">Sport Management</attr>
+      <attr type="dateofbirth" source="7">5/27/87</attr>
+      <attr type="relatives" source="7">Bruce and Anita Lee</attr>
+    </attributes>
+  </entity>
+  <entity id="24">
+    <documents>
+      <doc rank="91" />
+      <doc rank="68" />
+      <doc rank="64" />
+      <doc rank="43" />
+      <doc rank="85" />
+      <doc rank="119" />
+      <doc rank="80" />
+      <doc rank="148" />
+      <doc rank="37" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="68">Division of Research, Kaiser Permanente Medical Care Program</attr>
+      <attr type="degree" source="68">MHA</attr>
+      <attr type="location" source="68">Oakland, Calif</attr>
+      <attr type="othername" source="80">J.L.</attr>
+    </attributes>
+  </entity>
+  <entity id="25">
+    <documents>
+      <doc rank="16" />
+      <doc rank="146" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="16">Ph. D</attr>
+      <attr type="school" source="16">Vanderbilt University</attr>
+      <attr type="othername" source="16">Janelle Lee Woo</attr>
+      <attr type="major" source="16">Sociology</attr>
+      <attr type="mentor" source="146">Thoits, Peggy</attr>
+    </attributes>
+  </entity>
+  <entity id="26">
+    <documents>
+      <doc rank="63" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="63">Janelle Lee Mulholland</attr>
+      <attr type="location" source="63">Perth, Australia</attr>
+      <attr type="relatives" source="63">Michael</attr>
+    </attributes>
+  </entity>
+  <entity id="27">
+    <documents>
+      <doc rank="29" />
+      <doc rank="142" />
+    </documents>
+    <attributes>
+      <attr type="occupation" source="29">hair model</attr>
+      <attr type="dateofbirth" source="29">1988</attr>
+    </attributes>
+  </entity>
+  <entity id="28">
+    <documents>
+      <doc rank="132" />
+      <doc rank="9" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="132">Uptown Consortium</attr>
+      <attr type="website" source="9">www.uptownconsortium.org</attr>
+      <attr type="degree" source="9">Associate Business Degree</attr>
+      <attr type="occupation" source="9">Director</attr>
+      <attr type="school" source="9">University of Cincinnati</attr>
+      <attr type="location" source="9">West Chester</attr>
+      <attr type="relatives" source="9">Ralph</attr>
+    </attributes>
+  </entity>
+  <entity id="29">
+    <documents>
+      <doc rank="143" />
+    </documents>
+    <attributes>
+      <attr type="degree" source="143">MPP</attr>
+      <attr type="othername" source="143">JANELLE LEE KUBINEC</attr>
+    </attributes>
+  </entity>
+  <entity id="30">
+    <documents>
+      <doc rank="96" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="96">Good Shepherd School</attr>
+      <attr type="occupation" source="96">eighth grader</attr>
+    </attributes>
+  </entity>
+  <entity id="31">
+    <documents>
+      <doc rank="41" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="41">Janelle Lee Gebo</attr>
+      <attr type="location" source="41">827 Academy Street</attr>
+    </attributes>
+  </entity>
+  <entity id="32">
+    <documents>
+      <doc rank="94" />
+    </documents>
+    <attributes>
+      <attr type="affiliation" source="94">Board of Directors</attr>
+    </attributes>
+  </entity>
+  <entity id="33">
+    <documents>
+      <doc rank="17" />
+    </documents>
+    <attributes>
+      <attr type="phone" source="17">601-634-4527</attr>
+      <attr type="occupation" source="17">Board Members</attr>
+    </attributes>
+  </entity>
+  <entity id="34">
+    <documents>
+      <doc rank="81" />
+    </documents>
+    <attributes>
+      <attr type="othername" source="81">Janelle Lee Miller</attr>
+    </attributes>
+  </entity>
+</clustering>
